@@ -11,6 +11,27 @@ import Charts
 
 struct InvestTabView: View {
     let settings: FamilySettings
+    /// 지정하면 투자자 선택 없이 이 구성원으로 고정 (자녀 폰 모드)
+    var fixedInvestor: FamilyMember? = nil
+
+    var body: some View {
+        NavigationStack {
+            ScrollView {
+                InvestSectionView(settings: settings, fixedInvestor: fixedInvestor)
+                    .padding()
+            }
+            .background(Color(.systemGroupedBackground))
+            .navigationTitle("📈 투자")
+            .navigationBarTitleDisplayMode(.inline)
+        }
+    }
+}
+
+// MARK: - 투자 섹션 (투자 탭과 시장 탭에서 재사용)
+
+struct InvestSectionView: View {
+    let settings: FamilySettings
+    var fixedInvestor: FamilyMember? = nil
 
     @Query(sort: \FamilyMember.createdAt) private var members: [FamilyMember]
     @Query(sort: \InvestProduct.createdAt) private var products: [InvestProduct]
@@ -21,15 +42,23 @@ struct InvestTabView: View {
     private var children: [FamilyMember] { members.filter { $0.isChild } }
     private var activeProducts: [InvestProduct] { products.filter { $0.isActive } }
     private var investor: FamilyMember? {
-        children.indices.contains(selectedMemberIndex) ? children[selectedMemberIndex] : children.first
+        if let fixedInvestor { return fixedInvestor }
+        return children.indices.contains(selectedMemberIndex) ? children[selectedMemberIndex] : children.first
     }
 
     var body: some View {
-        NavigationStack {
-            ScrollView {
                 VStack(spacing: 16) {
-                    // 투자자 선택
-                    if !children.isEmpty {
+                    // 투자자 선택 (자녀 폰 모드에서는 내 지갑 요약만)
+                    if let fixedInvestor {
+                        HStack {
+                            Text("지갑: \(fixedInvestor.balance.comma) \(settings.currencyName)")
+                            Spacer()
+                            Text("투자 평가액: \(fixedInvestor.investValue.comma) \(settings.currencyName)")
+                        }
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                        .card()
+                    } else if !children.isEmpty {
                         VStack(alignment: .leading, spacing: 8) {
                             Text("투자자 선택")
                                 .font(.subheadline.weight(.semibold))
@@ -85,14 +114,9 @@ struct InvestTabView: View {
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .padding(.horizontal, 4)
                 }
-                .padding()
-            }
-            .background(Color(.systemGroupedBackground))
-            .navigationTitle("📈 투자")
-            .sheet(item: $selectedProduct) { product in
-                ProductDetailView(product: product, investor: investor, settings: settings)
-            }
-        }
+                .sheet(item: $selectedProduct) { product in
+                    ProductDetailView(product: product, investor: investor, settings: settings)
+                }
     }
 }
 

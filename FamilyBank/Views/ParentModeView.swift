@@ -8,28 +8,7 @@
 import SwiftUI
 import SwiftData
 
-// MARK: - PIN 게이트
-
-struct ParentGateView: View {
-    @Bindable var settings: FamilySettings
-    @State private var unlocked = false
-
-    var body: some View {
-        NavigationStack {
-            if unlocked {
-                ParentDashboardView(settings: settings, onLock: { unlocked = false })
-            } else {
-                PINEntryView(title: "부모 모드 PIN을 입력하세요", correctPIN: settings.parentPIN) {
-                    unlocked = true
-                }
-                .navigationTitle("🔐 부모 모드")
-                .navigationBarTitleDisplayMode(.inline)
-            }
-        }
-    }
-}
-
-// MARK: - 부모 대시보드
+// MARK: - 부모 대시보드 (액션 탭 > 은행 설정에서 진입)
 
 struct ParentDashboardView: View {
     @Bindable var settings: FamilySettings
@@ -46,6 +25,8 @@ struct ParentDashboardView: View {
     @State private var showResetConfirm = false
     @State private var newPIN = ""
     @State private var inviteTarget: FamilyMember?
+    @State private var kidModeCandidate: FamilyMember?
+    @AppStorage(KidModeStorage.key) private var kidModeUID = ""
 
     private var children: [FamilyMember] { members.filter { $0.isChild } }
 
@@ -126,6 +107,26 @@ struct ParentDashboardView: View {
                 } label: {
                     Label("상품 추가", systemImage: "plus.square.on.square")
                 }
+            }
+
+            // 자녀 폰 모드
+            Section {
+                if children.isEmpty {
+                    Text("등록된 자녀가 없어요")
+                        .foregroundStyle(.secondary)
+                } else {
+                    ForEach(children) { child in
+                        Button {
+                            kidModeCandidate = child
+                        } label: {
+                            Label("\(child.emoji) \(child.name)의 폰으로 만들기", systemImage: "iphone")
+                        }
+                    }
+                }
+            } header: {
+                Text("📱 자녀 폰 모드")
+            } footer: {
+                Text("이 기기가 선택한 자녀의 전용 화면으로 바뀌어요. 자녀는 자기 지갑·가게·투자·기록·배우기만 볼 수 있어요. 폰이 없는 자녀에게 부모 폰을 건네줄 때 좋아요. 되돌아오려면 자물쇠 버튼을 누르고 부모 PIN을 입력하면 돼요.")
             }
 
             // 우리집 가게 관리
@@ -247,6 +248,7 @@ struct ParentDashboardView: View {
             }
         }
         .navigationTitle("🏦 부모 모드")
+        .navigationBarTitleDisplayMode(.inline)
         .toolbar {
             ToolbarItem(placement: .topBarTrailing) {
                 Button {
@@ -272,6 +274,29 @@ struct ParentDashboardView: View {
             Button("전부 삭제", role: .destructive) { resetAll() }
             Button("취소", role: .cancel) {}
         }
+        .confirmationDialog(kidModeConfirmTitle, isPresented: Binding(
+            get: { kidModeCandidate != nil },
+            set: { if !$0 { kidModeCandidate = nil } }
+        ), titleVisibility: .visible) {
+            Button("자녀 폰으로 전환") { activateKidMode() }
+            Button("취소", role: .cancel) { kidModeCandidate = nil }
+        }
+    }
+
+    private var kidModeConfirmTitle: String {
+        guard let child = kidModeCandidate else { return "" }
+        return "이 기기를 \(child.emoji) \(child.name)의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요."
+    }
+
+    private func activateKidMode() {
+        guard let child = kidModeCandidate else { return }
+        // 예전 데이터에는 uid가 없을 수 있으니 이때 발급
+        if child.uid.isEmpty {
+            child.uid = UUID().uuidString
+            try? context.save()
+        }
+        kidModeUID = child.uid
+        kidModeCandidate = nil
     }
 
     private func resetAll() {

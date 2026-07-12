@@ -10,6 +10,8 @@ import SwiftData
 
 struct HistoryView: View {
     let settings: FamilySettings
+    /// 지정하면 이 구성원의 거래만 표시 (자녀 폰 모드)
+    var fixedMember: FamilyMember? = nil
 
     @Query(sort: \MoneyTransaction.date, order: .reverse) private var transactions: [MoneyTransaction]
     @Query(sort: \FamilyMember.createdAt) private var members: [FamilyMember]
@@ -19,6 +21,7 @@ struct HistoryView: View {
 
     private var filtered: [MoneyTransaction] {
         transactions.filter { tx in
+            if let fixedMember, tx.member !== fixedMember { return false }
             if let name = filterMemberName, tx.member?.name != name { return false }
             if let kind = filterKind, tx.kind != kind { return false }
             return true
@@ -68,7 +71,7 @@ struct HistoryView: View {
                         ForEach(grouped) { group in
                             Section(group.day) {
                                 ForEach(group.items) { tx in
-                                    TransactionRow(tx: tx, currencyName: settings.currencyName, showMemberName: true)
+                                    TransactionRow(tx: tx, currencyName: settings.currencyName, showMemberName: fixedMember == nil)
                                 }
                             }
                         }
@@ -77,14 +80,17 @@ struct HistoryView: View {
                 }
             }
             .navigationTitle("🧾 거래 기록")
+            .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     Menu {
-                        // 구성원 필터
-                        Menu("구성원") {
-                            Button("전체") { filterMemberName = nil }
-                            ForEach(members) { m in
-                                Button("\(m.emoji) \(m.name)") { filterMemberName = m.name }
+                        // 구성원 필터 (자녀 폰 모드에서는 숨김)
+                        if fixedMember == nil {
+                            Menu("구성원") {
+                                Button("전체") { filterMemberName = nil }
+                                ForEach(members) { m in
+                                    Button("\(m.emoji) \(m.name)") { filterMemberName = m.name }
+                                }
                             }
                         }
                         // 종류 필터

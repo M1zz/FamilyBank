@@ -15,6 +15,7 @@ struct MemberDetailView: View {
     @State private var showPay = false
     @State private var showSavings = false
     @State private var showStore = false
+    @State private var showScanPay = false
 
     private var recentTransactions: [MoneyTransaction] {
         (member.transactions ?? [])
@@ -42,6 +43,21 @@ struct MemberDetailView: View {
                     }
                 }
                 .card()
+
+                // 찍어서 결제 (자녀용)
+                if member.isChild {
+                    Button {
+                        showScanPay = true
+                    } label: {
+                        Label("찍어서 결제", systemImage: "barcode.viewfinder")
+                            .font(.headline)
+                            .frame(maxWidth: .infinity)
+                            .padding(.vertical, 4)
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .controlSize(.large)
+                    .tint(.orange)
+                }
 
                 // 액션 버튼
                 HStack(spacing: 12) {
@@ -135,6 +151,9 @@ struct MemberDetailView: View {
         }
         .sheet(isPresented: $showStore) {
             StoreSheet(settings: settings, payer: member)
+        }
+        .sheet(isPresented: $showScanPay) {
+            ScanPayView(payer: member, settings: settings)
         }
     }
 

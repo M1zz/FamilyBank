@@ -14,10 +14,22 @@ struct RootView: View {
     @Query private var members: [FamilyMember]
     @Query private var products: [InvestProduct]
 
+    /// 이 기기가 자녀 폰 모드인지 (기기별 설정, 동기화 안 됨)
+    @AppStorage(KidModeStorage.key) private var kidModeUID = ""
+
+    private var kidModeMember: FamilyMember? {
+        guard !kidModeUID.isEmpty else { return nil }
+        return members.first { $0.isChild && $0.uid == kidModeUID }
+    }
+
     var body: some View {
         Group {
             if let settings = settingsList.first, settings.isSetupComplete {
-                MainTabView(settings: settings)
+                if let kid = kidModeMember {
+                    KidTabView(member: kid, settings: settings)
+                } else {
+                    MainTabView(settings: settings)
+                }
             } else {
                 OnboardingView()
             }
@@ -39,24 +51,24 @@ struct RootView: View {
 // MARK: - 메인 탭
 
 struct MainTabView: View {
-    let settings: FamilySettings
+    @Bindable var settings: FamilySettings
 
     var body: some View {
         TabView {
             HomeView(settings: settings)
-                .tabItem { Label("홈", systemImage: "house.fill") }
+                .tabItem { Label("대시보드", systemImage: "chart.bar.fill") }
 
-            InvestTabView(settings: settings)
-                .tabItem { Label("투자", systemImage: "chart.line.uptrend.xyaxis") }
+            ParentActionsView(settings: settings)
+                .tabItem { Label("액션", systemImage: "bolt.fill") }
+
+            MarketView(settings: settings)
+                .tabItem { Label("시장", systemImage: "chart.line.uptrend.xyaxis") }
 
             HistoryView(settings: settings)
                 .tabItem { Label("기록", systemImage: "list.bullet.rectangle.fill") }
 
             EducationView(settings: settings)
                 .tabItem { Label("배우기", systemImage: "graduationcap.fill") }
-
-            ParentGateView(settings: settings)
-                .tabItem { Label("부모", systemImage: "person.2.badge.key.fill") }
         }
     }
 }

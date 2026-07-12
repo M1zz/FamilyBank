@@ -58,6 +58,8 @@ enum TxKind: String, Codable, CaseIterable {
 
 @Model
 final class FamilyMember {
+    /// 기기 간 식별용 고유 ID (자녀 폰 모드 지정에 사용)
+    var uid: String = ""
     var name: String = ""
     var emoji: String = "🙂"
     var roleRaw: String = MemberRole.child.rawValue
@@ -76,6 +78,7 @@ final class FamilyMember {
     var holdings: [Holding]? = nil
 
     init(name: String, emoji: String, role: MemberRole) {
+        self.uid = UUID().uuidString
         self.name = name
         self.emoji = emoji
         self.roleRaw = role.rawValue
@@ -196,6 +199,8 @@ final class Holding {
 
 @Model
 final class HouseholdItem {
+    /// 바코드 결제용 고유 ID
+    var uid: String = ""
     var name: String = ""
     var emoji: String = "🛒"
     /// 실제 세상 가격 (원) — 코인 가격은 환율로 자동 계산
@@ -204,6 +209,7 @@ final class HouseholdItem {
     var createdAt: Date = Date()
 
     init(name: String, emoji: String, priceWon: Int) {
+        self.uid = UUID().uuidString
         self.name = name
         self.emoji = emoji
         self.priceWon = priceWon

@@ -32,36 +32,6 @@ struct HomeView: View {
                     }
                     .card()
 
-                    // 물가 (인플레이션)
-                    if settings.weeklyInflationRate > 0 {
-                        InflationCard(settings: settings)
-                    }
-
-                    // 우리집 가게
-                    NavigationLink {
-                        StoreListView(settings: settings)
-                            .navigationTitle("🏪 우리집 가게")
-                            .navigationBarTitleDisplayMode(.inline)
-                    } label: {
-                        HStack {
-                            Text("🏪")
-                                .font(.system(size: 36))
-                            VStack(alignment: .leading, spacing: 2) {
-                                Text("우리집 가게")
-                                    .font(.headline)
-                                Text("부모님이 정한 우리집 가격표 · 1 \(settings.currencyName) = \(Int(settings.wonPerCoin).comma)원")
-                                    .font(.caption)
-                                    .foregroundStyle(.secondary)
-                            }
-                            Spacer()
-                            Image(systemName: "chevron.right")
-                                .font(.caption.weight(.semibold))
-                                .foregroundStyle(.tertiary)
-                        }
-                        .card()
-                    }
-                    .buttonStyle(.plain)
-
                     if !children.isEmpty {
                         sectionHeader("자녀 👧")
                         ForEach(children) { member in
@@ -89,7 +59,7 @@ struct HomeView: View {
                 .padding()
             }
             .background(Color(.systemGroupedBackground))
-            .navigationTitle("우리집 은행 🏦")
+            .navigationBarTitleDisplayMode(.inline)
         }
     }
 
