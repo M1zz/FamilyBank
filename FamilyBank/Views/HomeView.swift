@@ -1,6 +1,6 @@
 //
 //  HomeView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  가족 구성원별 자산 현황
 //

@@ -1,6 +1,6 @@
 //
 //  OnboardingView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  최초 설정: 화폐 이름 → 부모 PIN → 가족 구성원 등록
 //
@@ -35,7 +35,7 @@ struct OnboardingView: View {
                 }
             }
             .padding()
-            .navigationTitle("우리집 은행 만들기")
+            .navigationTitle("쑥쑥용돈 시작하기")
             .navigationBarTitleDisplayMode(.inline)
         }
     }
@@ -45,9 +45,9 @@ struct OnboardingView: View {
     private var welcomeStep: some View {
         VStack(spacing: 24) {
             Spacer()
-            Text("🏦")
+            Text("🌱")
                 .font(.system(size: 72))
-            Text("우리집 은행에 오신 걸 환영해요!")
+            Text("쑥쑥용돈에 오신 걸 환영해요!")
                 .font(.title2.weight(.bold))
                 .multilineTextAlignment(.center)
             Text("용돈을 주고, 결제하고, 저축 이자를 받고,\n투자도 해 보는 우리 가족만의 경제 시스템이에요.")

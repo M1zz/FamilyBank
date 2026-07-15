@@ -1,8 +1,14 @@
-# 🏦 우리집 은행 (FamilyBank)
+# 🌱 쑥쑥용돈 (FamilyBank)
 
 가족 안에서 쓰는 화폐 시스템으로 아이에게 금융·경제를 가르치는 iOS 앱입니다.
 
 부모는 중앙은행이 되어 용돈을 발행하고, 자녀는 결제하고, 저축해서 이자를 받고, 모의 펀드에 투자하며 경제 원리를 몸으로 배웁니다.
+
+## 링크
+
+- 🌐 [소개 페이지](https://m1zz.github.io/FamilyBank/)
+- 🔒 [개인정보 처리방침](https://m1zz.github.io/FamilyBank/privacy.html)
+- 💬 [지원 · 문의](https://m1zz.github.io/FamilyBank/support.html)
 
 ## 주요 기능
 

@@ -1,6 +1,6 @@
 //
 //  ParentActionsView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  액션 탭: PIN 잠금 뒤에서 부모가 자주 하는 일을 큰 버튼으로 빠르게
 //

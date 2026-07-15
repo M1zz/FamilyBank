@@ -1,6 +1,6 @@
 //
 //  HistoryView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  전체 거래 기록
 //

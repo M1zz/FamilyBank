@@ -1,6 +1,6 @@
 //
 //  InvestView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  투자: 모의 펀드 시세 확인, 매수/매도
 //

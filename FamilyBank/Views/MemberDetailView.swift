@@ -1,6 +1,6 @@
 //
 //  MemberDetailView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  구성원 상세: 잔액, 결제, 저축, 최근 거래
 //

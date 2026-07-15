@@ -1,6 +1,6 @@
 //
 //  Models.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  SwiftData 모델 (CloudKit 동기화 호환: 모든 속성 기본값, 관계는 옵셔널)
 //

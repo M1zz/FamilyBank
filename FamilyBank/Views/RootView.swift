@@ -1,6 +1,6 @@
 //
 //  RootView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 
 import SwiftUI

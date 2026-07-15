@@ -1,6 +1,6 @@
 //
 //  InviteView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  자녀 초대: 초대장 카드 + QR 코드 + 공유 시트
 //
@@ -33,14 +33,14 @@ struct InviteCardView: View {
 
     private var inviteMessage: String {
         """
-        🏦 \(member.name)님, 우리집 은행에 초대해요!
+        🌱 \(member.name)님, 쑥쑥용돈에 초대해요!
 
         우리집 화폐 '\(settings.currencyName)'(으)로 함께해요:
         • 용돈을 모으고 결제해요 💸
         • 저축하면 매주 이자 \(settings.weeklyInterestRate.cleanPercent)%를 받아요 🏦
         • 투자 상품으로 경제를 배워요 📈
 
-        부모님 기기와 같은 iCloud 계정으로 로그인한 기기에서 FamilyBank 앱을 열면 바로 함께할 수 있어요!
+        부모님 기기와 같은 iCloud 계정으로 로그인한 기기에서 쑥쑥용돈 앱을 열면 바로 함께할 수 있어요!
         """
     }
 
@@ -51,7 +51,7 @@ struct InviteCardView: View {
                 VStack(spacing: 12) {
                     Text(member.emoji)
                         .font(.system(size: 64))
-                    Text("\(member.name)님을\n우리집 은행에 초대해요!")
+                    Text("\(member.name)님을\n쑥쑥용돈에 초대해요!")
                         .font(.title3.weight(.bold))
                         .multilineTextAlignment(.center)
                     Text("화폐 '\(settings.currencyName)' · 주간 이자 \(settings.weeklyInterestRate.cleanPercent)%")

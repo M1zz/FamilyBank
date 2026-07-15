@@ -1,6 +1,6 @@
 //
 //  Components.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  공용 UI 컴포넌트와 표시 도우미
 //

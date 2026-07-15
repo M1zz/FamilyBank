@@ -1,6 +1,6 @@
 //
 //  ParentModeView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  부모 모드: PIN 잠금 뒤에서 용돈 지급, 구성원/상품/설정 관리
 //

@@ -1,6 +1,6 @@
 //
 //  SavingsView.swift
-//  FamilyBank — 우리집 은행
+//  쑥쑥용돈
 //
 //  저축통장: 입출금 + 복리 이자 미리보기
 //
