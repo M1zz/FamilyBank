@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		5320484F7DDF3D9FD89CC55C /* LeeoKit in Frameworks */ = {isa = PBXBuildFile; productRef = F2194D1A1D5463B34AC25C09 /* LeeoKit */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		A1000000000000000000000B /* FamilyBank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FamilyBank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -13,6 +17,8 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A10000000000000000000001 /* FamilyBank */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = FamilyBank;
 			sourceTree = "<group>";
 		};
@@ -23,6 +29,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5320484F7DDF3D9FD89CC55C /* LeeoKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +72,7 @@
 			);
 			name = FamilyBank;
 			packageProductDependencies = (
+				F2194D1A1D5463B34AC25C09 /* LeeoKit */,
 			);
 			productName = FamilyBank;
 			productReference = A1000000000000000000000B /* FamilyBank.app */;
@@ -95,6 +103,9 @@
 			);
 			mainGroup = A10000000000000000000003;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				64150E9AED83E2A1C1B998B0 /* XCLocalSwiftPackageReference "LeeoKit" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = A10000000000000000000004 /* Products */;
 			projectDirPath = "";
@@ -335,6 +346,21 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		64150E9AED83E2A1C1B998B0 /* XCLocalSwiftPackageReference "LeeoKit" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../LeeoKit;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F2194D1A1D5463B34AC25C09 /* LeeoKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 64150E9AED83E2A1C1B998B0 /* XCLocalSwiftPackageReference "LeeoKit" */;
+			productName = LeeoKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A10000000000000000000009 /* Project object */;
 }

@@ -7,12 +7,14 @@
 
 import SwiftUI
 import SwiftData
+import LeeoKit
 
 @main
 struct FamilyBankApp: App {
     let container: ModelContainer
 
     init() {
+        LeeoEngagement.shared.registerLaunch()
         let schema = Schema([
             FamilyMember.self,
             MoneyTransaction.self,
@@ -40,6 +42,7 @@ struct FamilyBankApp: App {
     var body: some Scene {
         WindowGroup {
             RootView()
+                .leeoSatisfactionCheck(FamilyBankSpec.self)
         }
         .modelContainer(container)
     }

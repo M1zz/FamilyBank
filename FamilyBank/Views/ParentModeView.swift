@@ -7,6 +7,7 @@
 
 import SwiftUI
 import SwiftData
+import LeeoKit
 
 // MARK: - 부모 대시보드 (액션 탭 > 은행 설정에서 진입)
 
@@ -234,6 +235,13 @@ struct ParentDashboardView: View {
                     }
                     .disabled(newPIN.count != 4)
                 }
+            }
+
+            // 지원
+            Section {
+                LeeoSupportSection<FamilyBankSpec>()
+            } header: {
+                Text("지원")
             }
 
             // 초기화
