@@ -14,7 +14,8 @@ struct FamilyBankApp: App {
     let container: ModelContainer
 
     init() {
-        LeeoEngagement.shared.registerLaunch()
+        // 사용량 기록 · 익명 사용 통계 · 크래시 진단 (FeedbackHub).
+        LeeoKit.bootstrap(FamilyBankSpec.self)
         let schema = Schema([
             FamilyMember.self,
             MoneyTransaction.self,
