@@ -240,6 +240,7 @@ struct ParentDashboardView: View {
             // 지원
             Section {
                 LeeoSupportSection<FamilyBankSpec>()
+                NavigationLink(LeeoRoadmapText.entry) { RoadmapScreen() }
             } header: {
                 Text("지원")
             }
