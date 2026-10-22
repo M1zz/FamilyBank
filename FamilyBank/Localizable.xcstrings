@@ -33,6 +33,12 @@
             "state" : "translated",
             "value" : "%@ %@ — 用%@ %@购买吗？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — 用%@ %@購買嗎？"
+          }
         }
       }
     },
@@ -64,6 +70,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付%@ %@"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "支付%@ %@"
@@ -103,6 +115,12 @@
             "state" : "translated",
             "value" : "发放%@ %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發放%@ %@"
+          }
         }
       }
     },
@@ -134,6 +152,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "扣除%@ %@"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "扣除%@ %@"
@@ -173,6 +197,12 @@
             "state" : "translated",
             "value" : "用%3$@ %4$@购买%1$@ %2$@吗？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用%3$@ %4$@購買%1$@ %2$@嗎？"
+          }
         }
       }
     },
@@ -207,6 +237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "存入了%@ %@！每周都会加上利息。💰"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入了%@ %@！每週都會加上利息。💰"
           }
         }
       }
@@ -243,6 +279,12 @@
             "state" : "translated",
             "value" : "已把%@ %@转入钱包。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已把%@ %@轉入錢包。"
+          }
         }
       }
     },
@@ -277,6 +319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@的持仓"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@的持倉"
           }
         }
       }
@@ -313,6 +361,12 @@
             "state" : "translated",
             "value" : "%@ %@的银行"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@的銀行"
+          }
         }
       }
     },
@@ -347,6 +401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "设为%@ %@的手机"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設為%@ %@的手機"
           }
         }
       }
@@ -383,6 +443,12 @@
             "state" : "translated",
             "value" : "买入了%2$lld股%1$@！📈"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "買入了%2$lld股%1$@！📈"
+          }
         }
       }
     },
@@ -417,6 +483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "卖出了%2$lld股%1$@！%3$@ %4$@已进入钱包。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "賣出了%2$lld股%1$@！%3$@ %4$@已進入錢包。"
           }
         }
       }
@@ -453,6 +525,12 @@
             "state" : "translated",
             "value" : "%@%%（复利）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%（複利）"
+          }
         }
       }
     },
@@ -488,6 +566,12 @@
             "state" : "translated",
             "value" : "邀请%@\n加入茁壮零花钱！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀請%@\n加入茁壯零用錢！"
+          }
         }
       }
     },
@@ -519,6 +603,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "向%1$@支付了%2$@ %3$@。"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "向%1$@支付了%2$@ %3$@。"
@@ -558,6 +648,12 @@
             "state" : "translated",
             "value" : "给%1$@发了%2$@ %3$@！🎁"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "給%1$@發了%2$@ %3$@！🎁"
+          }
         }
       }
     },
@@ -592,6 +688,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@韩元 → %@ %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@韓元 → %@ %@"
           }
         }
       }
@@ -628,6 +730,12 @@
             "state" : "translated",
             "value" : "买到%@了！钱包还剩：%@ %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "買到%@了！錢包還剩：%@ %@"
+          }
         }
       }
     },
@@ -662,6 +770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "买到%@了！🎉 钱包还剩：%@ %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "買到%@了！🎉 錢包還剩：%@ %@"
           }
         }
       }
@@ -698,6 +812,12 @@
             "state" : "translated",
             "value" : "%@的钱包余额不足。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@的錢包餘額不足。"
+          }
         }
       }
     },
@@ -733,6 +853,12 @@
             "state" : "translated",
             "value" : "从%1$@的钱包里扣除了%2$@ %3$@。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "從%1$@的錢包裡扣除了%2$@ %3$@。"
+          }
         }
       }
     },
@@ -764,6 +890,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第%lld步"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "第%lld步"
@@ -803,6 +935,12 @@
             "state" : "translated",
             "value" : "第%lld步 · %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第%lld步 · %@"
+          }
         }
       }
     },
@@ -837,6 +975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld股 · 均价 %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld股 · 均價 %@"
           }
         }
       }
@@ -873,6 +1017,12 @@
             "state" : "translated",
             "value" : "%lld周后能买到的东西的价值"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld周後能買到的東西的價值"
+          }
         }
       }
     },
@@ -907,6 +1057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld周后：%@ %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld周後：%@ %@"
           }
         }
       }
@@ -943,6 +1099,12 @@
             "state" : "translated",
             "value" : "“需要”是没有就会很麻烦的东西，比如饭、衣服、文具。“想要”是有了很开心，但没有也能过日子的东西，比如玩具、游戏道具。\n\n两种都很重要！不过顺序很关键。先把需要的准备好，再用剩下的钱做计划，满足想要的。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「需要」是沒有就會很麻煩的東西，比如飯、衣服、文具。「想要」是有了很開心，但沒有也能過日子的東西，比如玩具、遊戲道具。\n\n兩種都很重要！不過順序很關鍵。先把需要的準備好，再用剩下的錢做計劃，滿足想要的。"
+          }
         }
       }
     },
@@ -977,6 +1139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@韩元"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@韓元"
           }
         }
       }
@@ -1013,6 +1181,12 @@
             "state" : "translated",
             "value" : "1 %@的实际价值"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@的實際價值"
+          }
         }
       }
     },
@@ -1047,6 +1221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@韩元"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@韓元"
           }
         }
       }
@@ -1083,6 +1263,12 @@
             "state" : "translated",
             "value" : "1,000 %@的“真正购买力”会怎么变化？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,000 %@的「真正購買力」會怎麼變化？"
+          }
         }
       }
     },
@@ -1117,6 +1303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "把1,000枚硬币按5%%的利息存起来，一周后会有多少？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把1,000枚硬幣按5%%的利息存起來，一週後會有多少？"
           }
         }
       }
@@ -1153,6 +1345,12 @@
             "state" : "translated",
             "value" : "你有1,000枚硬币，既想买零食，又想买贴纸。可是钱只够买一样。怎么办呢？选了一样，另一样就得放弃。\n\n被放弃的那样东西就叫“机会成本”。不光是钱，时间也一样。玩一小时游戏，就等于放弃了这一小时里本来可以做的别的事。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你有1,000枚硬幣，既想買零食，又想買貼紙。可是錢只夠買一樣。怎麼辦呢？選了一樣，另一樣就得放棄。\n\n被放棄的那樣東西就叫「機會成本」。不光是錢，時間也一樣。玩一小時遊戲，就等於放棄了這一小時裡本來可以做的別的事。"
+          }
         }
       }
     },
@@ -1187,6 +1385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "12周后预计：%@ %@（+%@）"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12周後預計：%@ %@（+%@）"
           }
         }
       }
@@ -1223,6 +1427,12 @@
             "state" : "translated",
             "value" : "每股价格"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每股價格"
+          }
         }
       }
     },
@@ -1258,6 +1468,12 @@
             "state" : "translated",
             "value" : "用面容ID打开"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用Face ID開啟"
+          }
         }
       }
     },
@@ -1289,6 +1505,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改PIN"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "修改PIN"
@@ -1328,6 +1550,12 @@
             "state" : "translated",
             "value" : "输入PIN"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入PIN"
+          }
         }
       }
     },
@@ -1362,6 +1590,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PIN必须是4位数字。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN必須是4位數字。"
           }
         }
       }
@@ -1398,6 +1632,12 @@
             "state" : "translated",
             "value" : "问问Siri，立刻查看孩子的余额。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "問問Siri，立刻查看孩子的餘額。"
+          }
         }
       }
     },
@@ -1432,6 +1672,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siri 与快捷指令"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri 與捷徑"
           }
         }
       }
@@ -1468,6 +1714,12 @@
             "state" : "translated",
             "value" : "用触控ID打开"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用Touch ID開啟"
+          }
         }
       }
     },
@@ -1503,6 +1755,12 @@
             "state" : "translated",
             "value" : "旁白会按正确的顺序，完整朗读余额和按钮。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "旁白會按正確的順序，完整朗讀餘額和按鈕。"
+          }
         }
       }
     },
@@ -1534,6 +1792,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更好用的旁白"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "更好用的旁白"
@@ -1573,6 +1837,12 @@
             "state" : "translated",
             "value" : "≈ %@韩元"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@韓元"
+          }
         }
       }
     },
@@ -1608,6 +1878,12 @@
             "state" : "translated",
             "value" : "⚙️ 银行设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ 銀行設定"
+          }
         }
       }
     },
@@ -1639,6 +1915,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ 操作"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚡️ 操作"
@@ -1678,6 +1960,12 @@
             "state" : "translated",
             "value" : "小店"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小店"
+          }
         }
       }
     },
@@ -1712,6 +2000,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "登记到小店"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登記到小店"
           }
         }
       }
@@ -1748,6 +2042,12 @@
             "state" : "translated",
             "value" : "价格"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "價格"
+          }
         }
       }
     },
@@ -1782,6 +2082,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "价格由买家的意愿和卖家的数量碰在一起决定。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "價格由買家的意願和賣家的數量碰在一起決定。"
           }
         }
       }
@@ -1818,6 +2124,12 @@
             "state" : "translated",
             "value" : "了解价格是怎么定出来的"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瞭解價格是怎麼定出來的"
+          }
         }
       }
     },
@@ -1852,6 +2164,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "价目表 🏷️"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "價目表 🏷️"
           }
         }
       }
@@ -1888,6 +2206,12 @@
             "state" : "translated",
             "value" : "请登记家庭成员"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請登記家庭成員"
+          }
         }
       }
     },
@@ -1922,6 +2246,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "登记家人"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登記家人"
           }
         }
       }
@@ -1958,6 +2288,12 @@
             "state" : "translated",
             "value" : "没有交易记录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有交易記錄"
+          }
         }
       }
     },
@@ -1992,6 +2328,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "交易类型"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交易類型"
           }
         }
       }
@@ -2028,6 +2370,12 @@
             "state" : "translated",
             "value" : "乌龟基金和火箭基金，哪个更危险？为什么？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "烏龜基金和火箭基金，哪個更危險？為什麼？"
+          }
         }
       }
     },
@@ -2063,6 +2411,12 @@
             "state" : "translated",
             "value" : "玩一小时游戏的机会成本是什么？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "玩一小時遊戲的機會成本是什麼？"
+          }
         }
       }
     },
@@ -2094,6 +2448,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "支付"
@@ -2133,6 +2493,12 @@
             "state" : "translated",
             "value" : "支付失败"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付失敗"
+          }
         }
       }
     },
@@ -2164,6 +2530,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付成功！🎉"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "支付成功！🎉"
@@ -2203,6 +2575,12 @@
             "state" : "translated",
             "value" : "支付"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付"
+          }
         }
       }
     },
@@ -2237,6 +2615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "有计划的钱更经得起花。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有計劃的錢更經得起花。"
           }
         }
       }
@@ -2273,6 +2657,12 @@
             "state" : "translated",
             "value" : "了解收益越高，风险也越大"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瞭解收益越高，風險也越大"
+          }
         }
       }
     },
@@ -2307,6 +2697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "类别"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "類別"
           }
         }
       }
@@ -2343,6 +2739,12 @@
             "state" : "translated",
             "value" : "成员"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成員"
+          }
         }
       }
     },
@@ -2377,6 +2779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加成员"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增成員"
           }
         }
       }
@@ -2413,6 +2821,12 @@
             "state" : "translated",
             "value" : "放大字体后，界面会重新排布，不会被截断。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放大字型後，畫面會重新排布，不會被截斷。"
+          }
         }
       }
     },
@@ -2448,6 +2862,12 @@
             "state" : "translated",
             "value" : "金额"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "金額"
+          }
         }
       }
     },
@@ -2479,6 +2899,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "期限：%lld周"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "期限：%lld周"
@@ -2518,6 +2944,12 @@
             "state" : "translated",
             "value" : "记录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記錄"
+          }
         }
       }
     },
@@ -2552,6 +2984,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "机会成本"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "機會成本"
           }
         }
       }
@@ -2588,6 +3026,12 @@
             "state" : "translated",
             "value" : "学会分清必须要有的和只是想要的"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "學會分清必須要有的和只是想要的"
+          }
         }
       }
     },
@@ -2622,6 +3066,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我的记录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的記錄"
           }
         }
       }
@@ -2658,6 +3108,12 @@
             "state" : "translated",
             "value" : "我的储蓄账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的儲蓄帳戶"
+          }
         }
       }
     },
@@ -2692,6 +3148,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我的钱包"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的錢包"
           }
         }
       }
@@ -2728,6 +3190,12 @@
             "state" : "translated",
             "value" : "我的钱包：%@ %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的錢包：%@ %@"
+          }
         }
       }
     },
@@ -2762,6 +3230,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "假如你有一条鱼，可是想要一双鞋。要是卖鞋的叔叔不喜欢鱼，就换不成了，对吧？很久以前的人也觉得这样太不方便了。于是就发明了人人都喜欢的“钱”。\n\n钱有三个作用。第一，什么都能换（交换）。第二，能衡量每样东西值多少（衡量价值）。第三，可以存起来以后再用（储存）。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "假如你有一條魚，可是想要一雙鞋。要是賣鞋的叔叔不喜歡魚，就換不成了，對吧？很久以前的人也覺得這樣太不方便了。於是就發明了人人都喜歡的「錢」。\n\n錢有三個作用。第一，什麼都能換（交換）。第二，能衡量每樣東西值多少（衡量價值）。第三，可以存起來以後再用（儲存）。"
           }
         }
       }
@@ -2798,6 +3272,12 @@
             "state" : "translated",
             "value" : "要邀请谁？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要邀請誰？"
+          }
         }
       }
     },
@@ -2832,6 +3312,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "付给谁？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "付給誰？"
           }
         }
       }
@@ -2868,6 +3354,12 @@
             "state" : "translated",
             "value" : "给谁？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "給誰？"
+          }
         }
       }
     },
@@ -2903,6 +3395,12 @@
             "state" : "translated",
             "value" : "滚雪球的时候会怎么样？越滚越大，而且越来越快，对吧？复利就是这样。\n\n1,000枚硬币加上50的利息，就变成1,050。下一周，利息是按整个1,050来算的。利息赚来的钱，也会再生利息！刚开始不明显，可时间越久，就像雪球一样越滚越大。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滾雪球的時候會怎麼樣？越滾越大，而且越來越快，對吧？複利就是這樣。\n\n1,000枚硬幣加上50的利息，就變成1,050。下一週，利息是按整個1,050來算的。利息賺來的錢，也會再生利息！剛開始不明顯，可時間越久，就像雪球一樣越滾越大。"
+          }
         }
       }
     },
@@ -2934,6 +3432,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一步"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "下一步"
@@ -2973,6 +3477,12 @@
             "state" : "translated",
             "value" : "关闭"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關閉"
+          }
         }
       }
     },
@@ -3007,6 +3517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "暂时不用的钱，就存进储蓄账户！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暫時不用的錢，就存進儲蓄帳戶！"
           }
         }
       }
@@ -3043,6 +3559,12 @@
             "state" : "translated",
             "value" : "即使开启增强对比度或不易分辨颜色，也能看清余额和记录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即使開啟增強對比度或不易分辨顏色，也能看清餘額和記錄。"
+          }
         }
       }
     },
@@ -3077,6 +3599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "总览"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "總覽"
           }
         }
       }
@@ -3113,6 +3641,12 @@
             "state" : "translated",
             "value" : "让应用支持更多国家的语言。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "讓App支援更多國家的語言。"
+          }
         }
       }
     },
@@ -3147,6 +3681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更多语言"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多語言"
           }
         }
       }
@@ -3183,6 +3723,12 @@
             "state" : "translated",
             "value" : "钱是用来交换、衡量和储存的工具。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錢是用來交換、衡量和儲存的工具。"
+          }
         }
       }
     },
@@ -3217,6 +3763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "为什么需要钱？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "為什麼需要錢？"
           }
         }
       }
@@ -3253,6 +3805,12 @@
             "state" : "translated",
             "value" : "养成先计划再分配用钱的习惯"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "養成先計劃再分配用錢的習慣"
+          }
         }
       }
     },
@@ -3287,6 +3845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "了解钱是怎么来的，又有什么用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瞭解錢是怎麼來的，又有什麼用"
           }
         }
       }
@@ -3323,6 +3887,12 @@
             "state" : "translated",
             "value" : "两次输入的PIN不一致。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兩次輸入的PIN不一致。"
+          }
         }
       }
     },
@@ -3357,6 +3927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "还没有登记的商品。请先用“添加商品”把商品登记到小店里。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒有登記的商品。請先用「新增商品」把商品登記到小店裡。"
           }
         }
       }
@@ -3393,6 +3969,12 @@
             "state" : "translated",
             "value" : "还没有登记孩子"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒有登記孩子"
+          }
         }
       }
     },
@@ -3427,6 +4009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "乐高积木能当钱吗？它能通过五项测试吗？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "樂高積木能當錢嗎？它能透過五項測試嗎？"
           }
         }
       }
@@ -3463,6 +4051,12 @@
             "state" : "translated",
             "value" : "如果世界上没有钱，会发生什么事呢？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果世界上沒有錢，會發生什麼事呢？"
+          }
         }
       }
     },
@@ -3497,6 +4091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "卖出"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "賣出"
           }
         }
       }
@@ -3533,6 +4133,12 @@
             "state" : "translated",
             "value" : "买入"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "買入"
+          }
         }
       }
     },
@@ -3567,6 +4173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "物价每周上涨%@%%。意思是同样的钱能买到的东西会一点点变少。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價每週上漲%@%%。意思是同樣的錢能買到的東西會一點點變少。"
           }
         }
       }
@@ -3603,6 +4215,12 @@
             "state" : "translated",
             "value" : "物价每周上涨"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價每週上漲"
+          }
         }
       }
     },
@@ -3637,6 +4255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我们家的物价指数每周会涨这么多（当前指数 %lld）。设为0%%就没有通货膨胀。如果顺着物价把真实的零食、玩具价格也稍微调高一点，孩子就能亲身体会钱的价值变化。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們家的物價指數每週會漲這麼多（當前指數 %lld）。設為0%%就沒有通貨膨脹。如果順著物價把真實的零食、玩具價格也稍微調高一點，孩子就能親身體會錢的價值變化。"
           }
         }
       }
@@ -3673,6 +4297,12 @@
             "state" : "translated",
             "value" : "备注（例如：买零食）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "備註（例如：買零食）"
+          }
         }
       }
     },
@@ -3707,6 +4337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "备注（例如：每周零花钱）"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "備註（例如：每週零用錢）"
           }
         }
       }
@@ -3743,6 +4379,12 @@
             "state" : "translated",
             "value" : "大家都想卖掉的东西，价格会怎么样？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大家都想賣掉的東西，價格會怎麼樣？"
+          }
         }
       }
     },
@@ -3777,6 +4419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "所有成员、交易记录和投资商品都会被删除，并回到初始设置界面。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有成員、交易記錄和投資商品都會被刪除，並回到初始設定畫面。"
           }
         }
       }
@@ -3813,6 +4461,12 @@
             "state" : "translated",
             "value" : "重置所有数据"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置所有資料"
+          }
         }
       }
     },
@@ -3847,6 +4501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每个选择背后，都藏着被放弃的东西。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每個選擇背後，都藏著被放棄的東西。"
           }
         }
       }
@@ -3883,6 +4543,12 @@
             "state" : "translated",
             "value" : "用来做什么？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用來做什麼？"
+          }
         }
       }
     },
@@ -3917,6 +4583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "物价涨幅"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價漲幅"
           }
         }
       }
@@ -3953,6 +4625,12 @@
             "state" : "translated",
             "value" : "物价走势 📊"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價走勢 📊"
+          }
         }
       }
     },
@@ -3987,6 +4665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "物价上涨，同样的钱能买的东西就变少"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價上漲，同樣的錢能買的東西就變少"
           }
         }
       }
@@ -4023,6 +4707,12 @@
             "state" : "translated",
             "value" : "物价上涨，钱的购买力就会下降。所以才需要储蓄和投资。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價上漲，錢的購買力就會下降。所以才需要儲蓄和投資。"
+          }
         }
       }
     },
@@ -4057,6 +4747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "了解物价上涨，钱的购买力就会变弱"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瞭解物價上漲，錢的購買力就會變弱"
           }
         }
       }
@@ -4093,6 +4789,12 @@
             "state" : "translated",
             "value" : "物价上涨的时候，把钱一直放在钱包里好吗？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價上漲的時候，把錢一直放在錢包裡好嗎？"
+          }
         }
       }
     },
@@ -4127,6 +4829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "物价指数"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價指數"
           }
         }
       }
@@ -4163,6 +4871,12 @@
             "state" : "translated",
             "value" : "在售商品%lld件 · 自动按汇率换算"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在售商品%lld件 · 自動按匯率換算"
+          }
         }
       }
     },
@@ -4197,6 +4911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "商品条形码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品條碼"
           }
         }
       }
@@ -4233,6 +4953,12 @@
             "state" : "translated",
             "value" : "请把商品条形码对准框内"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請把商品條碼對準框內"
+          }
         }
       }
     },
@@ -4267,6 +4993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "商品名称（例如：可乐、游戏30分钟）"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品名稱（例如：可樂、遊戲30分鐘）"
           }
         }
       }
@@ -4303,6 +5035,12 @@
             "state" : "translated",
             "value" : "商品信息"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品資訊"
+          }
         }
       }
     },
@@ -4337,6 +5075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加商品"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增商品"
           }
         }
       }
@@ -4373,6 +5117,12 @@
             "state" : "translated",
             "value" : "条形码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "條碼"
+          }
         }
       }
     },
@@ -4404,6 +5154,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收款人"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "收款人"
@@ -4443,6 +5199,12 @@
             "state" : "translated",
             "value" : "收到的钱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收到的錢"
+          }
         }
       }
     },
@@ -4477,6 +5239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有收款人"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有收款人"
           }
         }
       }
@@ -4513,6 +5281,12 @@
             "state" : "translated",
             "value" : "学习"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "學習"
+          }
         }
       }
     },
@@ -4547,6 +5321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "备份与导出"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "備份與匯出"
           }
         }
       }
@@ -4583,6 +5363,12 @@
             "state" : "translated",
             "value" : "更易读的颜色和对比度"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更易讀的顏色和對比度"
+          }
         }
       }
     },
@@ -4617,6 +5403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "持有的股数不够。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "持有的股數不夠。"
           }
         }
       }
@@ -4653,6 +5445,12 @@
             "state" : "translated",
             "value" : "持有的投资商品"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "持有的投資商品"
+          }
         }
       }
     },
@@ -4684,6 +5482,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "均衡型 🐰"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "均衡型 🐰"
@@ -4723,6 +5527,12 @@
             "state" : "translated",
             "value" : "复利的魔法"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複利的魔法"
+          }
         }
       }
     },
@@ -4757,6 +5567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "家长"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家長"
           }
         }
       }
@@ -4793,6 +5609,12 @@
             "state" : "translated",
             "value" : "家长指南 📖"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家長指南 📖"
+          }
         }
       }
     },
@@ -4827,6 +5649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "家长模式"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家長模式"
           }
         }
       }
@@ -4863,6 +5691,12 @@
             "state" : "translated",
             "value" : "设置家长模式密码（PIN）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定家長模式密碼（PIN）"
+          }
         }
       }
     },
@@ -4897,6 +5731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "可以在家长模式中添加商品"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以在家長模式中新增商品"
           }
         }
       }
@@ -4933,6 +5773,12 @@
             "state" : "translated",
             "value" : "用于确认家长身份"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用於確認家長身份"
+          }
         }
       }
     },
@@ -4967,6 +5813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "需要家长确认"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要家長確認"
           }
         }
       }
@@ -5003,6 +5855,12 @@
             "state" : "translated",
             "value" : "家长 🏦"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家長 🏦"
+          }
         }
       }
     },
@@ -5037,6 +5895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "家长扮演银行（中央银行），孩子是客户。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家長扮演銀行（中央銀行），孩子是客戶。"
           }
         }
       }
@@ -5073,6 +5937,12 @@
             "state" : "translated",
             "value" : "需要家长确认"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要家長確認"
+          }
         }
       }
     },
@@ -5107,6 +5977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请至少登记一位家长。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請至少登記一位家長。"
           }
         }
       }
@@ -5143,6 +6019,12 @@
             "state" : "translated",
             "value" : "想想下雨天的卖伞人。想买伞的人很多，可是伞只有几把，会怎么样？就算涨价也卖得出去。反过来，夏天过后的泳衣呢？没人想买，只能卖得很便宜。\n\n价格就是这样，由“想买的心情（需求）”和“想卖的数量（供给）”互相拉扯而定的。投资商品的价格涨涨跌跌，也是同样的道理。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "想想下雨天的賣傘人。想買傘的人很多，可是傘只有幾把，會怎麼樣？就算漲價也賣得出去。反過來，夏天過後的泳衣呢？沒人想買，只能賣得很便宜。\n\n價格就是這樣，由「想買的心情（需求）」和「想賣的數量（供給）」互相拉扯而定的。投資商品的價格漲漲跌跌，也是同樣的道理。"
+          }
         }
       }
     },
@@ -5178,6 +6060,12 @@
             "state" : "translated",
             "value" : "购买"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購買"
+          }
         }
       }
     },
@@ -5209,6 +6097,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "商品"
@@ -5248,6 +6142,12 @@
             "state" : "translated",
             "value" : "商品名称（例如：星光基金）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品名稱（例如：星光基金）"
+          }
         }
       }
     },
@@ -5282,6 +6182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "商品信息"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品資訊"
           }
         }
       }
@@ -5318,6 +6224,12 @@
             "state" : "translated",
             "value" : "添加商品"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增商品"
+          }
         }
       }
     },
@@ -5352,6 +6264,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "新的4位数PIN"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新的4位數PIN"
           }
         }
       }
@@ -5388,6 +6306,12 @@
             "state" : "translated",
             "value" : "了解选择了一样，就要放弃另一样"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瞭解選擇了一樣，就要放棄另一樣"
+          }
         }
       }
     },
@@ -5422,6 +6346,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "说明（可选）"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "說明（可選）"
           }
         }
       }
@@ -5458,6 +6388,12 @@
             "state" : "translated",
             "value" : "指尖的触感反馈"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指尖的觸感反饋"
+          }
         }
       }
     },
@@ -5492,6 +6428,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "数量：%lld股"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "數量：%lld股"
           }
         }
       }
@@ -5528,6 +6470,12 @@
             "state" : "translated",
             "value" : "供给和需求"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "供給和需求"
+          }
         }
       }
     },
@@ -5562,6 +6510,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "收益大，风险也大。分开放，只投亏得起的部分！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收益大，風險也大。分開放，只投虧得起的部分！"
           }
         }
       }
@@ -5598,6 +6552,12 @@
             "state" : "translated",
             "value" : "4位数字"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4位數字"
+          }
         }
       }
     },
@@ -5632,6 +6592,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "以开始时为100"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以開始時為100"
           }
         }
       }
@@ -5668,6 +6634,12 @@
             "state" : "translated",
             "value" : "起始价格"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起始價格"
+          }
         }
       }
     },
@@ -5702,6 +6674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "比开始时 +%@%%"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "比開始時 +%@%%"
           }
         }
       }
@@ -5738,6 +6716,12 @@
             "state" : "translated",
             "value" : "开始吧 🎉"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開始吧 🎉"
+          }
         }
       }
     },
@@ -5772,6 +6756,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "市场"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "市場"
           }
         }
       }
@@ -5808,6 +6798,12 @@
             "state" : "translated",
             "value" : "打开“市场”标签，一起看看小店的价目表，聊聊为什么每样东西的价格不一样。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟「市場」標籤，一起看看小店的價目表，聊聊為什麼每樣東西的價格不一樣。"
+          }
         }
       }
     },
@@ -5842,6 +6838,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在“市场”标签里一起看物价指数和物价走势图，再用下面的“通胀体验”做个实验。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在「市場」標籤裡一起看物價指數和物價走勢圖，再用下面的「通脹體驗」做個實驗。"
           }
         }
       }
@@ -5878,6 +6880,12 @@
             "state" : "translated",
             "value" : "在“市场”标签里看投资商品的价格每天变化，聊聊“想买的人多，价格就会上涨”。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在「市場」標籤裡看投資商品的價格每天變化，聊聊「想買的人多，價格就會上漲」。"
+          }
         }
       }
     },
@@ -5912,6 +6920,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "实际价格 %@韩元"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "實際價格 %@韓元"
           }
         }
       }
@@ -5948,6 +6962,12 @@
             "state" : "translated",
             "value" : "实际价格（韩元）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "實際價格（韓元）"
+          }
         }
       }
     },
@@ -5982,6 +7002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "现实世界的价格"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現實世界的價格"
           }
         }
       }
@@ -6018,6 +7044,12 @@
             "state" : "translated",
             "value" : "实际价值"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "實際價值"
+          }
         }
       }
     },
@@ -6052,6 +7084,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "开始使用茁壮零花钱"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開始使用茁壯零用錢"
           }
         }
       }
@@ -6088,6 +7126,12 @@
             "state" : "translated",
             "value" : "欢迎使用茁壮零花钱！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歡迎使用茁壯零用錢！"
+          }
         }
       }
     },
@@ -6119,6 +7163,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用小技巧"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用小技巧"
@@ -6158,6 +7208,12 @@
             "state" : "translated",
             "value" : "接着上次的内容继续写"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接著上次的內容繼續寫"
+          }
         }
       }
     },
@@ -6192,6 +7248,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在下面的“复利计算器”里，把期限从4周拉到52周。一起看看曲线越来越陡！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在下面的「複利計算器」裡，把期限從4周拉到52周。一起看看曲線越來越陡！"
           }
         }
       }
@@ -6228,6 +7290,12 @@
             "state" : "translated",
             "value" : "了解为什么不是什么东西都能当钱（货币的特性）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瞭解為什麼不是什麼東西都能當錢（貨幣的特性）"
+          }
         }
       }
     },
@@ -6262,6 +7330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "把孩子钱包里的一半存进储蓄账户。一周后一起看看多出来的利息，效果特别好！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把孩子錢包裡的一半存進儲蓄帳戶。一週後一起看看多出來的利息，效果特別好！"
           }
         }
       }
@@ -6298,6 +7372,12 @@
             "state" : "translated",
             "value" : "孩子在小店付款前，请一定让他说出“用这笔钱还能买的另一样东西”。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子在小店付款前，請一定讓他說出「用這筆錢還能買的另一樣東西」。"
+          }
         }
       }
     },
@@ -6332,6 +7412,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "可以这样对孩子说"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以這樣對孩子說"
           }
         }
       }
@@ -6368,6 +7454,12 @@
             "state" : "translated",
             "value" : "和孩子从第1步开始一步一步来。每一步按“讲解 → 提问 → 一起做”的顺序，10分钟就够了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "和孩子從第1步開始一步一步來。每一步按「講解 → 提問 → 一起做」的順序，10分鐘就夠了。"
+          }
         }
       }
     },
@@ -6402,6 +7494,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "和孩子一起，用少量的钱分投两个商品。每天一起看价格，让孩子习惯涨涨跌跌。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "和孩子一起，用少量的錢分投兩個商品。每天一起看價格，讓孩子習慣漲漲跌跌。"
           }
         }
       }
@@ -6438,6 +7536,12 @@
             "state" : "translated",
             "value" : "价格记录还不够。明天再来看看吧！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "價格記錄還不夠。明天再來看看吧！"
+          }
         }
       }
     },
@@ -6472,6 +7576,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "还没有交易"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒有交易"
           }
         }
       }
@@ -6508,6 +7618,12 @@
             "state" : "translated",
             "value" : "还没有登记商品。\n到家长模式里登记我们家的商品吧！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒有登記商品。\n到家長模式裡登記我們家的商品吧！"
+          }
         }
       }
     },
@@ -6542,6 +7658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "还没有商品 · 在“操作”标签里添加"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒有商品 · 在「操作」標籤裡新增"
           }
         }
       }
@@ -6578,6 +7700,12 @@
             "state" : "translated",
             "value" : "还没有持仓"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒有持倉"
+          }
         }
       }
     },
@@ -6613,6 +7741,12 @@
             "state" : "translated",
             "value" : "稳健型 🐢"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "穩健型 🐢"
+          }
         }
       }
     },
@@ -6644,6 +7778,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "提示"
@@ -6683,6 +7823,12 @@
             "state" : "translated",
             "value" : "在合适的时候，轻轻提示你实用的功能。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在合適的時候，輕輕提示你實用的功能。"
+          }
         }
       }
     },
@@ -6714,6 +7860,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "操作"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "操作"
@@ -6753,6 +7905,12 @@
             "state" : "translated",
             "value" : "在应用里一起做"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在App裡一起做"
+          }
         }
       }
     },
@@ -6787,6 +7945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不用打开应用，在主屏幕上就能查看孩子的余额。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不用開啟App，在主畫面上就能查看孩子的餘額。"
           }
         }
       }
@@ -6823,6 +7987,12 @@
             "state" : "translated",
             "value" : "应用也可以用英语使用。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App也可以用英語使用。"
+          }
         }
       }
     },
@@ -6854,6 +8024,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "多少？"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "多少？"
@@ -6893,6 +8069,12 @@
             "state" : "translated",
             "value" : "付多少？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "付多少？"
+          }
         }
       }
     },
@@ -6927,6 +8109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更新后首次打开时，告诉你有哪些新变化。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新後首次開啟時，告訴你有哪些新變化。"
           }
         }
       }
@@ -6963,6 +8151,12 @@
             "state" : "translated",
             "value" : "更新内容提示"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新內容提示"
+          }
         }
       }
     },
@@ -6994,6 +8188,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "角色"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "角色"
@@ -7033,6 +8233,12 @@
             "state" : "translated",
             "value" : "支持英语"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援英語"
+          }
         }
       }
     },
@@ -7067,6 +8273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "例如：实际1,000韩元的东西 = %@ %@。小店商品的%@价格会按这个汇率自动计算。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例如：實際1,000韓元的東西 = %@ %@。小店商品的%@價格會按這個匯率自動計算。"
           }
         }
       }
@@ -7103,6 +8315,12 @@
             "state" : "translated",
             "value" : "例如：豆子、星星、硬币"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例如：豆子、星星、硬幣"
+          }
         }
       }
     },
@@ -7137,6 +8355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "制定预算"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "制定預算"
           }
         }
       }
@@ -7173,6 +8397,12 @@
             "state" : "translated",
             "value" : "今天要学的"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天要學的"
+          }
         }
       }
     },
@@ -7204,6 +8434,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "完成"
@@ -7243,6 +8479,12 @@
             "state" : "translated",
             "value" : "路边的沙子为什么不能当钱呢？因为到处都是！想成为好钱，必须通过五项测试。\n\n① 要耐用（不能烂掉） ② 要方便携带（牛太重，淘汰！） ③ 要能分成小份 ④ 不能太常见 ⑤ 大家都相信“这是真正的钱”。\n\n我们家的硬币有价值，是因为爸爸妈妈不会随便乱印，而是遵守约定。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "路邊的沙子為什麼不能當錢呢？因為到處都是！想成為好錢，必須透過五項測試。\n\n① 要耐用（不能爛掉） ② 要方便攜帶（牛太重，淘汰！） ③ 要能分成小份 ④ 不能太常見 ⑤ 大家都相信「這是真正的錢」。\n\n我們家的硬幣有價值，是因為爸爸媽媽不會隨便亂印，而是遵守約定。"
+          }
         }
       }
     },
@@ -7277,6 +8519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你最近想买的东西里，哪些是“需要”，哪些是“想要”？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你最近想買的東西裡，哪些是「需要」，哪些是「想要」？"
           }
         }
       }
@@ -7313,6 +8561,12 @@
             "state" : "translated",
             "value" : "零花钱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "零用錢"
+          }
         }
       }
     },
@@ -7347,6 +8601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "零花钱提醒"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "零用錢提醒"
           }
         }
       }
@@ -7383,6 +8643,12 @@
             "state" : "translated",
             "value" : "发零花钱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發零用錢"
+          }
         }
       }
     },
@@ -7417,6 +8683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "发放 / 扣除零花钱"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發放 / 扣除零用錢"
           }
         }
       }
@@ -7453,6 +8725,12 @@
             "state" : "translated",
             "value" : "发零花钱的那天，让孩子自己定好储蓄、投资、消费的比例，并照着做。一周后一起看“记录”标签回顾。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發零用錢的那天，讓孩子自己定好儲蓄、投資、消費的比例，並照著做。一週後一起看「記錄」標籤回顧。"
+          }
         }
       }
     },
@@ -7487,6 +8765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "发零花钱的日子或加上利息时，用通知提醒你。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發零用錢的日子或加上利息時，用通知提醒你。"
           }
         }
       }
@@ -7523,6 +8807,12 @@
             "state" : "translated",
             "value" : "发零花钱、设置利率等操作，\n只有知道这个PIN的人才能进行。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發零用錢、設定利率等操作，\n只有知道這個PIN的人才能進行。"
+          }
         }
       }
     },
@@ -7557,6 +8847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "收到零花钱或买东西时，会轻轻震动提醒。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收到零用錢或買東西時，會輕輕震動提醒。"
           }
         }
       }
@@ -7593,6 +8889,12 @@
             "state" : "translated",
             "value" : "拿到零花钱就随手乱花，很快就没了。所以要事先做计划，这就叫“预算”。\n\n比如这样分：储蓄30，必需品40，想要的东西20，投资挑战10。不一定要完全照这样分。最重要的是你自己来决定！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拿到零用錢就隨手亂花，很快就沒了。所以要事先做計劃，這就叫「預算」。\n\n比如這樣分：儲蓄30，必需品40，想要的東西20，投資挑戰10。不一定要完全照這樣分。最重要的是你自己來決定！"
+          }
         }
       }
     },
@@ -7627,6 +8929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "发零花钱或支付之后，会记录在这里"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發零用錢或支付之後，會記錄在這裡"
           }
         }
       }
@@ -7663,6 +8971,12 @@
             "state" : "translated",
             "value" : "发零花钱、支付、拿储蓄利息，\n还能投资——这是只属于你们一家人的经济系统。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發零用錢、支付、拿儲蓄利息，\n還能投資——這是隻屬於你們一家人的經濟系統。"
+          }
         }
       }
     },
@@ -7697,6 +9011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我们家的小店"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們家的小店"
           }
         }
       }
@@ -7733,6 +9053,12 @@
             "state" : "translated",
             "value" : "一起看看小店里的商品，把它们一个个分成“需要”和“想要”。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起看看小店裡的商品，把它們一個個分成「需要」和「想要」。"
+          }
         }
       }
     },
@@ -7767,6 +9093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我们家的价格"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們家的價格"
           }
         }
       }
@@ -7803,6 +9135,12 @@
             "state" : "translated",
             "value" : "我们家的物价"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們家的物價"
+          }
         }
       }
     },
@@ -7837,6 +9175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我们家现在的物价指数是多少呢？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們家現在的物價指數是多少呢？"
           }
         }
       }
@@ -7873,6 +9217,12 @@
             "state" : "translated",
             "value" : "可以把我们家银行的记录保存成文件，之后再导入。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以把我們家銀行的記錄儲存成檔案，之後再匯入。"
+          }
         }
       }
     },
@@ -7907,6 +9257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "用我们家的硬币能换到什么呢？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用我們家的硬幣能換到什麼呢？"
           }
         }
       }
@@ -7943,6 +9299,12 @@
             "state" : "translated",
             "value" : "我们家的硬币为什么有价值呢？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們家的硬幣為什麼有價值呢？"
+          }
         }
       }
     },
@@ -7977,6 +9339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我们家的货币量 💰"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們家的貨幣量 💰"
           }
         }
       }
@@ -8013,6 +9381,12 @@
             "state" : "translated",
             "value" : "这是我们家的投资商品。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這是我們家的投資商品。"
+          }
         }
       }
     },
@@ -8047,6 +9421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "给我们家的货币起个名字"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "給我們家的貨幣起個名字"
           }
         }
       }
@@ -8083,6 +9463,12 @@
             "state" : "translated",
             "value" : "我们家流通的钱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們家流通的錢"
+          }
         }
       }
     },
@@ -8117,6 +9503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "减弱动态效果"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "減弱動態效果"
           }
         }
       }
@@ -8153,6 +9545,12 @@
             "state" : "translated",
             "value" : "开启“减弱动态效果”后，界面效果会更平静。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟「減弱動態效果」後，畫面效果會更平靜。"
+          }
         }
       }
     },
@@ -8187,6 +9585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "韩元"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韓元"
           }
         }
       }
@@ -8223,6 +9627,12 @@
             "state" : "translated",
             "value" : "风险等级"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "風險等級"
+          }
         }
       }
     },
@@ -8257,6 +9667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "冒险型 🚀"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "冒險型 🚀"
           }
         }
       }
@@ -8293,6 +9709,12 @@
             "state" : "translated",
             "value" : "银行设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "銀行設定"
+          }
         }
       }
     },
@@ -8327,6 +9749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "把钱存进银行，银行会说“谢谢你把钱放在这儿！”，还送你一点额外的钱。这份额外的钱就是“利息”。\n\n放在钱包里的钱，等多久都不会变多。可是存进储蓄账户，每周都会加上利息，钱就会长大。暂时不用的钱，放在哪里好呢？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把錢存進銀行，銀行會說「謝謝你把錢放在這兒！」，還送你一點額外的錢。這份額外的錢就是「利息」。\n\n放在錢包裡的錢，等多久都不會變多。可是存進儲蓄帳戶，每週都會加上利息，錢就會長大。暫時不用的錢，放在哪裡好呢？"
           }
         }
       }
@@ -8363,6 +9791,12 @@
             "state" : "translated",
             "value" : "把这台设备交给孩子"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把這臺裝置交給孩子"
+          }
         }
       }
     },
@@ -8397,6 +9831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "这台设备会切换成所选孩子的专用界面。孩子只能看到自己的钱包、小店、投资、记录和学习内容。把家长的手机交给还没有手机的孩子时很方便。想切换回来，点锁形按钮并输入家长PIN即可。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這臺裝置會切換成所選孩子的專用畫面。孩子只能看到自己的錢包、小店、投資、記錄和學習內容。把家長的手機交給還沒有手機的孩子時很方便。想切換回來，點鎖形按鈕並輸入家長PIN即可。"
           }
         }
       }
@@ -8433,6 +9873,12 @@
             "state" : "translated",
             "value" : "要把这台设备设为%@ %@的手机吗？切换回来需要家长PIN。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要把這臺裝置設為%@ %@的手機嗎？切換回來需要家長PIN。"
+          }
         }
       }
     },
@@ -8467,6 +9913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "要把这台设备变成谁的手机？切换回来需要家长PIN。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要把這臺裝置變成誰的手機？切換回來需要家長PIN。"
           }
         }
       }
@@ -8503,6 +9955,12 @@
             "state" : "translated",
             "value" : "就这样放着会变成多少？（12周复利预估）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "就這樣放著會變成多少？（12周複利預估）"
+          }
         }
       }
     },
@@ -8538,6 +9996,12 @@
             "state" : "translated",
             "value" : "可以这样问孩子"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以這樣問孩子"
+          }
         }
       }
     },
@@ -8569,6 +10033,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "姓名"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "姓名"
@@ -8608,6 +10078,12 @@
             "state" : "translated",
             "value" : "表情符号"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表情符號"
+          }
         }
       }
     },
@@ -8643,6 +10119,12 @@
             "state" : "translated",
             "value" : "这周的零花钱，你想怎么分？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這周的零用錢，你想怎麼分？"
+          }
         }
       }
     },
@@ -8674,6 +10156,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "原因"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "原因"
@@ -8713,6 +10201,12 @@
             "state" : "translated",
             "value" : "利息"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利息"
+          }
         }
       }
     },
@@ -8747,6 +10241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "利息 · 汇率 · 物价"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利息 · 匯率 · 物價"
           }
         }
       }
@@ -8783,6 +10283,12 @@
             "state" : "translated",
             "value" : "利息再生利息，叫做“复利”。存得越久，钱就像雪球一样越滚越大！⛄️"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利息再生利息，叫做「複利」。存得越久，錢就像雪球一樣越滾越大！⛄️"
+          }
         }
       }
     },
@@ -8817,6 +10323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "光靠利息就赚了%@ %@！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "光靠利息就賺了%@ %@！"
           }
         }
       }
@@ -8853,6 +10365,12 @@
             "state" : "translated",
             "value" : "了解利息再生利息，会像雪球一样越滚越大"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瞭解利息再生利息，會像雪球一樣越滾越大"
+          }
         }
       }
     },
@@ -8888,6 +10406,12 @@
             "state" : "translated",
             "value" : "利率低于物价涨幅时，就算储蓄，钱的购买力也会下降。试着把利率调高吧！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利率低於物價漲幅時，就算儲蓄，錢的購買力也會下降。試著把利率調高吧！"
+          }
         }
       }
     },
@@ -8919,6 +10443,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上一步"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "上一步"
@@ -8958,6 +10488,12 @@
             "state" : "translated",
             "value" : "通货膨胀"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通貨膨脹"
+          }
         }
       }
     },
@@ -8993,6 +10529,12 @@
             "state" : "translated",
             "value" : "没有通货膨胀"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有通貨膨脹"
+          }
         }
       }
     },
@@ -9024,6 +10566,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "日"
@@ -9063,6 +10611,12 @@
             "state" : "translated",
             "value" : "早开始、坚持下去——这就是复利的秘密。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早開始、堅持下去——這就是複利的秘密。"
+          }
         }
       }
     },
@@ -9098,6 +10652,12 @@
             "state" : "translated",
             "value" : "亏掉也没关系的钱，大概是多少？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "虧掉也沒關係的錢，大概是多少？"
+          }
         }
       }
     },
@@ -9129,6 +10689,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "存入"
@@ -9168,6 +10734,12 @@
             "state" : "translated",
             "value" : "存入 / 取出"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入 / 取出"
+          }
         }
       }
     },
@@ -9199,6 +10771,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "孩子"
@@ -9238,6 +10816,12 @@
             "state" : "translated",
             "value" : "用孩子设备的相机扫描，就能看到邀请函"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用孩子裝置的相機掃描，就能看到邀請函"
+          }
         }
       }
     },
@@ -9272,6 +10856,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "邀请孩子"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀請孩子"
           }
         }
       }
@@ -9308,6 +10898,12 @@
             "state" : "translated",
             "value" : "孩子手机模式"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子手機模式"
+          }
         }
       }
     },
@@ -9343,6 +10939,12 @@
             "state" : "translated",
             "value" : "切换为孩子手机"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切換為孩子手機"
+          }
         }
       }
     },
@@ -9374,6 +10976,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子 👧"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "孩子 👧"
@@ -9413,6 +11021,12 @@
             "state" : "translated",
             "value" : "孩子用“扫码支付”扫描这个条形码后，\n钱包里的%@就会减少"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子用「掃碼支付」掃描這個條碼後，\n錢包裡的%@就會減少"
+          }
         }
       }
     },
@@ -9447,6 +11061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请至少登记一个孩子。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請至少登記一個孩子。"
           }
         }
       }
@@ -9483,6 +11103,12 @@
             "state" : "translated",
             "value" : "去年1,000元的零食，今年变成了1,100元。零食又没有变大！像这样东西价格上涨，就叫“通货膨胀”。\n\n你的钱上的数字没变，能买到的东西却变少了。就像气球慢慢漏气，钱的力量也变弱了。所以把钱一直放在钱包里，会一点点吃亏。想守住钱的力量，就要靠利息或投资，让钱增长得比物价更快。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "去年1,000元的零食，今年變成了1,100元。零食又沒有變大！像這樣東西價格上漲，就叫「通貨膨脹」。\n\n你的錢上的數字沒變，能買到的東西卻變少了。就像氣球慢慢漏氣，錢的力量也變弱了。所以把錢一直放在錢包裡，會一點點吃虧。想守住錢的力量，就要靠利息或投資，讓錢增長得比物價更快。"
+          }
         }
       }
     },
@@ -9517,6 +11143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "余额"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "餘額"
           }
         }
       }
@@ -9553,6 +11185,12 @@
             "state" : "translated",
             "value" : "锁定"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鎖定"
+          }
         }
       }
     },
@@ -9587,6 +11225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保存"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存"
           }
         }
       }
@@ -9623,6 +11267,12 @@
             "state" : "translated",
             "value" : "储蓄"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲蓄"
+          }
         }
       }
     },
@@ -9657,6 +11307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "储蓄利率"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲蓄利率"
           }
         }
       }
@@ -9693,6 +11349,12 @@
             "state" : "translated",
             "value" : "存入储蓄"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入儲蓄"
+          }
         }
       }
     },
@@ -9727,6 +11389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "储蓄余额"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲蓄餘額"
           }
         }
       }
@@ -9763,6 +11431,12 @@
             "state" : "translated",
             "value" : "取出储蓄"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取出儲蓄"
+          }
         }
       }
     },
@@ -9797,6 +11471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "储蓄：%@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲蓄：%@"
           }
         }
       }
@@ -9833,6 +11513,12 @@
             "state" : "translated",
             "value" : "储蓄和利息"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲蓄和利息"
+          }
         }
       }
     },
@@ -9867,6 +11553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "早开始储蓄的人和晚开始的人，以后谁会更有钱？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早開始儲蓄的人和晚開始的人，以後誰會更有錢？"
           }
         }
       }
@@ -9903,6 +11595,12 @@
             "state" : "translated",
             "value" : "存入储蓄账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入儲蓄帳戶"
+          }
         }
       }
     },
@@ -9937,6 +11635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "储蓄账户里的钱不够。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲蓄帳戶裡的錢不夠。"
           }
         }
       }
@@ -9973,6 +11677,12 @@
             "state" : "translated",
             "value" : "储蓄账户每周复利"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲蓄帳戶每週複利"
+          }
         }
       }
     },
@@ -10007,6 +11717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "了解储蓄为什么能让钱变多"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瞭解儲蓄為什麼能讓錢變多"
           }
         }
       }
@@ -10043,6 +11759,12 @@
             "state" : "translated",
             "value" : "存起来的钱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存起來的錢"
+          }
         }
       }
     },
@@ -10077,6 +11799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入时应用被关闭，写到一半的内容也会保留。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入時App被關閉，寫到一半的內容也會保留。"
           }
         }
       }
@@ -10113,6 +11841,12 @@
             "state" : "translated",
             "value" : "全部删除"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部刪除"
+          }
         }
       }
     },
@@ -10144,6 +11878,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部"
@@ -10183,6 +11923,12 @@
             "state" : "translated",
             "value" : "真的要删除所有数据吗？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "真的要刪除所有資料嗎？"
+          }
         }
       }
     },
@@ -10217,6 +11963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "类型"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "類型"
           }
         }
       }
@@ -10253,6 +12005,12 @@
             "state" : "translated",
             "value" : "好钱的条件"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好錢的條件"
+          }
         }
       }
     },
@@ -10284,6 +12042,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "周"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "周"
@@ -10323,6 +12087,12 @@
             "state" : "translated",
             "value" : "每周 %@%%"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每週 %@%%"
+          }
         }
       }
     },
@@ -10357,6 +12127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每周物价涨幅：%@%%"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每週物價漲幅：%@%%"
           }
         }
       }
@@ -10393,6 +12169,12 @@
             "state" : "translated",
             "value" : "每周利率"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每週利率"
+          }
         }
       }
     },
@@ -10427,6 +12209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每周利率：%@%%"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每週利率：%@%%"
           }
         }
       }
@@ -10463,6 +12251,12 @@
             "state" : "translated",
             "value" : "每周储蓄利率 %@%% · 每周物价涨幅 %@%%"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每週儲蓄利率 %@%% · 每週物價漲幅 %@%%"
+          }
         }
       }
     },
@@ -10497,6 +12291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每周储蓄利率：%@%%"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每週儲蓄利率：%@%%"
           }
         }
       }
@@ -10533,6 +12333,12 @@
             "state" : "translated",
             "value" : "钱包"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錢包"
+          }
         }
       }
     },
@@ -10567,6 +12373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "钱包余额"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錢包餘額"
           }
         }
       }
@@ -10603,6 +12415,12 @@
             "state" : "translated",
             "value" : "钱包：%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錢包：%@"
+          }
         }
       }
     },
@@ -10637,6 +12455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "钱包：%@ %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錢包：%@ %@"
           }
         }
       }
@@ -10673,6 +12497,12 @@
             "state" : "translated",
             "value" : "一直放在钱包里的钱购买力下降了，而存起来的钱守住了！💪"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一直放在錢包裡的錢購買力下降了，而存起來的錢守住了！💪"
+          }
         }
       }
     },
@@ -10707,6 +12537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "钱包里的钱不够啦！余额：%@ %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錢包裡的錢不夠啦！餘額：%@ %@"
           }
         }
       }
@@ -10743,6 +12579,12 @@
             "state" : "translated",
             "value" : "钱包里的钱不够。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錢包裡的錢不夠。"
+          }
         }
       }
     },
@@ -10777,6 +12619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "钱包里的钱不够。需要金额：%@ %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錢包裡的錢不夠。需要金額：%@ %@"
           }
         }
       }
@@ -10813,6 +12661,12 @@
             "state" : "translated",
             "value" : "放在钱包里的钱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放在錢包裡的錢"
+          }
         }
       }
     },
@@ -10847,6 +12701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "放在钱包里的钱和存起来的钱，有什么不一样？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放在錢包裡的錢和存起來的錢，有什麼不一樣？"
           }
         }
       }
@@ -10883,6 +12743,12 @@
             "state" : "translated",
             "value" : "取回钱包"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取回錢包"
+          }
         }
       }
     },
@@ -10917,6 +12783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "发放 · 扣除"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發放 · 扣除"
           }
         }
       }
@@ -10953,6 +12825,12 @@
             "state" : "translated",
             "value" : "上次买东西的时候，你放弃了什么？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上次買東西的時候，你放棄了什麼？"
+          }
         }
       }
     },
@@ -10987,6 +12865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "上周你在哪里花的钱最多？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上週你在哪裡花的錢最多？"
           }
         }
       }
@@ -11023,6 +12907,12 @@
             "state" : "translated",
             "value" : "指数 %lld"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指數 %lld"
+          }
         }
       }
     },
@@ -11057,6 +12947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "支持"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援"
           }
         }
       }
@@ -11093,6 +12989,12 @@
             "state" : "translated",
             "value" : "在家里挑3样东西，玩“它能当钱吗？”的游戏。给五个条件打√或×。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在家裡挑3樣東西，玩「它能當錢嗎？」的遊戲。給五個條件打√或×。"
+          }
         }
       }
     },
@@ -11127,6 +13029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "扫码支付"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "掃碼支付"
           }
         }
       }
@@ -11163,6 +13071,12 @@
             "state" : "translated",
             "value" : "扫一扫立即支付"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "掃一掃立即支付"
+          }
         }
       }
     },
@@ -11194,6 +13108,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "扣除"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "扣除"
@@ -11233,6 +13153,12 @@
             "state" : "translated",
             "value" : "扣除"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "扣除"
+          }
         }
       }
     },
@@ -11267,6 +13193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "起始金额：%@ %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起始金額：%@ %@"
           }
         }
       }
@@ -11303,6 +13235,12 @@
             "state" : "translated",
             "value" : "物价比开始时涨了%@%%。钱包里1,000 %@现在只有%@ %@的购买力了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物價比開始時漲了%@%%。錢包裡1,000 %@現在只有%@ %@的購買力了。"
+          }
         }
       }
     },
@@ -11337,6 +13275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "邀请函 · 二维码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀請函 · 二維碼"
           }
         }
       }
@@ -11373,6 +13317,12 @@
             "state" : "translated",
             "value" : "发送邀请函"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "傳送邀請函"
+          }
         }
       }
     },
@@ -11407,6 +13357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "总金额"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "總金額"
           }
         }
       }
@@ -11443,6 +13399,12 @@
             "state" : "translated",
             "value" : "总资产"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "總資產"
+          }
         }
       }
     },
@@ -11478,6 +13440,12 @@
             "state" : "translated",
             "value" : "总资产 · 约合真实货币%@韩元"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "總資產 · 約合真實貨幣%@韓元"
+          }
         }
       }
     },
@@ -11509,6 +13477,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近交易"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "最近交易"
@@ -11548,6 +13522,12 @@
             "state" : "translated",
             "value" : "添加"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增"
+          }
         }
       }
     },
@@ -11579,6 +13559,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取出"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取出"
@@ -11618,6 +13604,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
         }
       }
     },
@@ -11652,6 +13644,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "为什么圣诞节时热门玩具会变贵？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "為什麼聖誕節時熱門玩具會變貴？"
           }
         }
       }
@@ -11688,6 +13686,12 @@
             "state" : "translated",
             "value" : "适配大字体的界面"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "適配大字型的畫面"
+          }
         }
       }
     },
@@ -11722,6 +13726,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "投资"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資"
           }
         }
       }
@@ -11758,6 +13768,12 @@
             "state" : "translated",
             "value" : "卖出投资"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "賣出投資"
+          }
         }
       }
     },
@@ -11792,6 +13808,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "买入投资"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "買入投資"
           }
         }
       }
@@ -11828,6 +13850,12 @@
             "state" : "translated",
             "value" : "投资商品"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資商品"
+          }
         }
       }
     },
@@ -11862,6 +13890,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加投资商品"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增投資商品"
           }
         }
       }
@@ -11898,6 +13932,12 @@
             "state" : "translated",
             "value" : "投资市场 📈"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資市場 📈"
+          }
         }
       }
     },
@@ -11932,6 +13972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "投资估值：%@ %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資估值：%@ %@"
           }
         }
       }
@@ -11968,6 +14014,12 @@
             "state" : "translated",
             "value" : "投资就像把钱种下去。种子长得好，会长成大树，但也可能枯萎。和储蓄不同，投资的钱可能变多，也可能变少。\n\n一定要记住的规则：能赚得越多的，也可能亏得越多。还有，把鸡蛋全放在一个篮子里，摔一跤就全碎了。要分开放（分散投资）。只种下就算亏掉也没关系的那部分。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資就像把錢種下去。種子長得好，會長成大樹，但也可能枯萎。和儲蓄不同，投資的錢可能變多，也可能變少。\n\n一定要記住的規則：能賺得越多的，也可能虧得越多。還有，把雞蛋全放在一個籃子裡，摔一跤就全碎了。要分開放（分散投資）。只種下就算虧掉也沒關係的那部分。"
+          }
         }
       }
     },
@@ -12002,6 +14054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "投资和风险"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資和風險"
           }
         }
       }
@@ -12038,6 +14096,12 @@
             "state" : "translated",
             "value" : "投资人"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資人"
+          }
         }
       }
     },
@@ -12072,6 +14136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择投资人"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇投資人"
           }
         }
       }
@@ -12108,6 +14178,12 @@
             "state" : "translated",
             "value" : "要投资的话，请先在首页登记孩子。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要投資的話，請先在首頁登記孩子。"
+          }
         }
       }
     },
@@ -12142,6 +14218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有在售的投资商品"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有在售的投資商品"
           }
         }
       }
@@ -12178,6 +14260,12 @@
             "state" : "translated",
             "value" : "折叠屏iPhone界面"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "摺疊屏iPhone畫面"
+          }
         }
       }
     },
@@ -12212,6 +14300,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在折叠屏iPhone的宽屏上，分成两栏使用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在摺疊屏iPhone的寬屏上，分成兩欄使用。"
           }
         }
       }
@@ -12248,6 +14342,12 @@
             "state" : "translated",
             "value" : "先满足需要，再满足想要！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先滿足需要，再滿足想要！"
+          }
         }
       }
     },
@@ -12279,6 +14379,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要和想要"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "需要和想要"
@@ -12318,6 +14424,12 @@
             "state" : "translated",
             "value" : "如果不买需要的，先买想要的，会怎么样呢？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果不買需要的，先買想要的，會怎麼樣呢？"
+          }
         }
       }
     },
@@ -12352,6 +14464,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "筛选"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "篩選"
           }
         }
       }
@@ -12388,6 +14506,12 @@
             "state" : "translated",
             "value" : "重置筛选"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置篩選"
+          }
         }
       }
     },
@@ -12422,6 +14546,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每天最多大幅波动±15%%！可能大赚，也可能大亏。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天最多大幅波動±15%%！可能大賺，也可能大虧。"
           }
         }
       }
@@ -12458,6 +14588,12 @@
             "state" : "translated",
             "value" : "每天小幅波动约±2%%。亏损的担心比较小。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天小幅波動約±2%%。虧損的擔心比較小。"
+          }
         }
       }
     },
@@ -12492,6 +14628,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每天涨跌约±6%%。是适度的挑战。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天漲跌約±6%%。是適度的挑戰。"
           }
         }
       }
@@ -12528,6 +14670,12 @@
             "state" : "translated",
             "value" : "再输入一次"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再輸入一次"
+          }
         }
       }
     },
@@ -12562,6 +14710,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一起做实验 · 复利计算器 🧮"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起做實驗 · 複利計算器 🧮"
           }
         }
       }
@@ -12598,6 +14752,12 @@
             "state" : "translated",
             "value" : "一起做实验 · 通胀体验 🎈"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起做實驗 · 通脹體驗 🎈"
+          }
         }
       }
     },
@@ -12632,6 +14792,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "当前价格"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "當前價格"
           }
         }
       }
@@ -12668,6 +14834,12 @@
             "state" : "translated",
             "value" : "当前钱包"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "當前錢包"
+          }
         }
       }
     },
@@ -12702,6 +14874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "主屏幕小组件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主畫面小元件"
           }
         }
       }
@@ -12738,6 +14916,12 @@
             "state" : "translated",
             "value" : "货币“%@” · 每周利息 %@%%"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貨幣「%@」 · 每週利息 %@%%"
+          }
         }
       }
     },
@@ -12773,6 +14957,12 @@
             "state" : "translated",
             "value" : "货币名称"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貨幣名稱"
+          }
         }
       }
     },
@@ -12804,6 +14994,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好的"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "好的"
@@ -12843,6 +15039,12 @@
             "state" : "translated",
             "value" : "汇率"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匯率"
+          }
         }
       }
     },
@@ -12877,6 +15079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "按汇率 1 %@ = %@韩元 自动计算。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按匯率 1 %@ = %@韓元 自動計算。"
           }
         }
       }
@@ -12913,6 +15121,12 @@
             "state" : "translated",
             "value" : "汇率：1 %@ ="
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匯率：1 %@ ="
+          }
         }
       }
     },
@@ -12947,6 +15161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "稀少而且大家都信任，才能成为钱。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "稀少而且大家都信任，才能成為錢。"
           }
         }
       }
@@ -12983,6 +15203,12 @@
             "state" : "translated",
             "value" : "🌱 %@，邀请你加入茁壮零花钱！\n\n让我们用家里的货币“%@”一起玩：\n• 攒零花钱，也用来支付 💸\n• 储蓄后每周能拿%@%%的利息 🏦\n• 通过投资商品学习经济 📈\n\n只要在和家长设备登录同一个iCloud账户的设备上打开茁壮零花钱应用，就能马上加入！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@，邀請你加入茁壯零用錢！\n\n讓我們用家裡的貨幣「%@」一起玩：\n• 攢零用錢，也用來支付 💸\n• 儲蓄後每週能拿%@%%的利息 🏦\n• 透過投資商品學習經濟 📈\n\n只要在和家長裝置登入同一個iCloud帳戶的裝置上開啟茁壯零用錢App，就能馬上加入！"
+          }
         }
       }
     },
@@ -13017,6 +15243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 学习"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 學習"
           }
         }
       }
@@ -13053,6 +15285,12 @@
             "state" : "translated",
             "value" : "🏛️ 市场"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ 市場"
+          }
         }
       }
     },
@@ -13087,6 +15325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 家长模式"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 家長模式"
           }
         }
       }
@@ -13123,6 +15367,12 @@
             "state" : "translated",
             "value" : "🏦 储蓄"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 儲蓄"
+          }
         }
       }
     },
@@ -13157,6 +15407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 储蓄账户"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 儲蓄帳戶"
           }
         }
       }
@@ -13193,6 +15449,12 @@
             "state" : "translated",
             "value" : "🏪 我们家的小店"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 我們家的小店"
+          }
         }
       }
     },
@@ -13227,6 +15489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ 商品条形码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ 商品條碼"
           }
         }
       }
@@ -13263,6 +15531,12 @@
             "state" : "translated",
             "value" : "👨‍👩‍👧‍👦 家庭成员"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 家庭成員"
+          }
         }
       }
     },
@@ -13297,6 +15571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 邀请函"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 邀請函"
           }
         }
       }
@@ -13333,6 +15613,12 @@
             "state" : "translated",
             "value" : "💡 钱放着不动，购买力就会下降。用储蓄（利息）或投资来守住它吧！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 錢放著不動，購買力就會下降。用儲蓄（利息）或投資來守住它吧！"
+          }
         }
       }
     },
@@ -13367,6 +15653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 可以通过信息等方式发送邀请函。\n用同一个iCloud账户登录的设备，数据会自动同步显示。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 可以透過訊息等方式傳送邀請函。\n用同一個iCloud帳戶登入的裝置，資料會自動同步顯示。"
           }
         }
       }
@@ -13403,6 +15695,12 @@
             "state" : "translated",
             "value" : "💡 价格每天变动一次。低价买入、高价卖出就赚，反过来就亏！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 價格每天變動一次。低價買入、高價賣出就賺，反過來就虧！"
+          }
         }
       }
     },
@@ -13434,6 +15732,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 支付"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 支付"
@@ -13473,6 +15777,12 @@
             "state" : "translated",
             "value" : "💵 钱包"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 錢包"
+          }
         }
       }
     },
@@ -13507,6 +15817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 资金管理"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 資金管理"
           }
         }
       }
@@ -13543,6 +15859,12 @@
             "state" : "translated",
             "value" : "💸 零花钱管理"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 零用錢管理"
+          }
         }
       }
     },
@@ -13577,6 +15899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 投资"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 投資"
           }
         }
       }
@@ -13613,6 +15941,12 @@
             "state" : "translated",
             "value" : "📈 投资商品"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 投資商品"
+          }
         }
       }
     },
@@ -13647,6 +15981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 孩子手机模式"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 孩子手機模式"
           }
         }
       }
@@ -13683,6 +16023,12 @@
             "state" : "translated",
             "value" : "📷 扫码支付"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 掃碼支付"
+          }
         }
       }
     },
@@ -13718,6 +16064,12 @@
             "state" : "translated",
             "value" : "🔐 返回家长模式"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 返回家長模式"
+          }
         }
       }
     },
@@ -13752,6 +16104,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 交易记录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 交易記錄"
           }
         }
       }
