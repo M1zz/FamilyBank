@@ -1363,3 +1363,65 @@ Zamień telefon dziecka w ekran tylko dla niego. Widzi ono tylko swój portfel, 
 
 Synchronizacja iCloud
 Urządzenia zalogowane na to samo konto iCloud mają taką samą rodzinną księgę.
+
+## sv
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Fickpengar: Barn
+
+### 부제
+
+Lär dig spara och investera
+
+### 키워드
+
+ekonomi,sparbössa,bank,ränta,ränta på ränta,budget,familj,mynt,aktier,barnbank,finansiell kunskap
+
+### 프로모션 텍스트
+
+Föräldrarna är centralbanken, barnen är kunderna. Ge fickpengar i er egen hemmavaluta och låt barnen uppleva sparränta och öva på att investera.
+
+### 설명
+
+Lär dina barn hur pengar fungerar med en valuta som bara är er. Föräldrarna är centralbank och ger ut fickpengarna; barnen betalar, sparar och investerar och lär sig ekonomi genom att göra.
+Det man själv har upplevt minns man mycket längre än det man bara fått förklarat.
+
+Hemmavalutan
+Du väljer själv valutans namn, till exempel Bönor, Stjärnor eller Mynt. Fickpengar kan bara ges eller dras av i föräldraläget, som är låst med PIN-kod.
+
+Betalning och hemmabutik
+Föräldrarna lägger in sakerna som används hemma, som snacks, speltid eller tv-tid, och sätter pris på dem.
+Barnen väljer i butiken och betalar direkt, eller skannar med kameran en streckkod som en förälder visar.
+
+Sparande och ränta
+Pengarna på sparkontot får ränta på ränta varje vecka. Föräldrarna bestämmer räntan och man kan se i förväg hur mycket pengarna växer.
+
+Öva på att investera
+Köp och sälj tre övningsfonder vars pris ändras en gång om dagen och följ avkastningsdiagrammen. Jämför trygga, måttliga och riskabla fonder och förstå sambandet mellan risk och vinst.
+
+Marknad och historik
+Fliken Marknad visar med en blick priserna hemma, växelkurs, ränta, penningmängd och investeringskurser. Den visar också att man kan köpa mindre för samma pengar när priserna stiger.
+Varje pengarörelse förs in i boken och kan gås igenom efter datum, medlem och typ.
+
+Lär dig
+En föräldraguide i 10 steg, från ”Varför behöver vi pengar?” via behov och önskningar, alternativkostnad, sparande och ränta, ränta på ränta, inflation och investering och risk till budget, hjälper er att prata med varandra.
+I ränta på ränta-kalkylatorn och inflationsexperimentet kan ni själva ändra siffrorna och experimentera.
+
+Barntelefonläge
+Gör barnets telefon till en skärm bara för barnet. Barnet ser bara sin egen plånbok, sina investeringar, sin historik och sina lektioner, och för att lämna läget behövs förälderns PIN-kod. Du kan bjuda in barnet med en inbjudan med QR-kod.
+
+iCloud-synkronisering
+Enheter som är inloggade med samma iCloud-konto håller familjens bok likadan.

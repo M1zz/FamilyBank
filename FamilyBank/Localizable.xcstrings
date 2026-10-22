@@ -112,6 +112,12 @@
             "value" : "%@ %@ — оплатить %@ %@?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — betala %@ %@?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -247,6 +253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оплатить %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betala %@ %@"
           }
         },
         "th" : {
@@ -386,6 +398,12 @@
             "value" : "Выдать %@ %@"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge %@ %@"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -521,6 +539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Списать %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dra av %@ %@"
           }
         },
         "th" : {
@@ -660,6 +684,12 @@
             "value" : "Купить %1$@ %2$@ за %3$@ %4$@?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Köpa %1$@ %2$@ för %3$@ %4$@?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -795,6 +825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы накопили %@ %@! Каждую неделю добавляются проценты. 💰"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du sparade %@ %@! Varje vecka läggs det till ränta. 💰"
           }
         },
         "th" : {
@@ -934,6 +970,12 @@
             "value" : "%@ %@ переведено в кошелёк."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ flyttades till plånboken."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1069,6 +1111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Портфель: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innehav för %@ %@"
           }
         },
         "th" : {
@@ -1208,6 +1256,12 @@
             "value" : "Банк: %@ %@"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@s bank"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1343,6 +1397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сделать телефоном: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gör till %@ %@s telefon"
           }
         },
         "th" : {
@@ -1482,6 +1542,12 @@
             "value" : "Вы купили %2$lld паёв: %1$@! 📈"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du köpte %2$lld andelar av %1$@! 📈"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1617,6 +1683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы продали %2$lld паёв: %1$@! %3$@ %4$@ поступили в кошелёк."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du sålde %2$lld andelar av %1$@! %3$@ %4$@ kom in i plånboken."
           }
         },
         "th" : {
@@ -1756,6 +1828,12 @@
             "value" : "%@%% (сложные)"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %% (ränta på ränta)"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1891,6 +1969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Приглашаем %@\nв СукСук Карманные!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bjud in %@\ntill SukSuk Fickpengar!"
           }
         },
         "th" : {
@@ -2030,6 +2114,12 @@
             "value" : "Вы заплатили %2$@ %3$@ — %1$@."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du betalade %2$@ %3$@ till %1$@."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2165,6 +2255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы выдали %2$@ %3$@ — %1$@! 🎁"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du gav %2$@ %3$@ till %1$@! 🎁"
           }
         },
         "th" : {
@@ -2304,6 +2400,12 @@
             "value" : "%@ вон → %@ %@"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ won → %@ %@"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2439,6 +2541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы купили: %@! Осталось в кошельке: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du köpte %@! Kvar i plånboken: %@ %@"
           }
         },
         "th" : {
@@ -2578,6 +2686,12 @@
             "value" : "Вы купили: %@! 🎉 Осталось в кошельке: %@ %@"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du köpte %@! 🎉 Kvar i plånboken: %@ %@"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2713,6 +2827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В кошельке (%@) недостаточно денег."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@s plånbok har inte pengar nog."
           }
         },
         "th" : {
@@ -2852,6 +2972,12 @@
             "value" : "Из кошелька (%1$@) списано %2$@ %3$@."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %3$@ drogs från %1$@s plånbok."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2987,6 +3113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Шаг %lld"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steg %lld"
           }
         },
         "th" : {
@@ -3126,6 +3258,12 @@
             "value" : "Шаг %lld · %@"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steg %lld · %@"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3261,6 +3399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld паёв · в среднем %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld andelar · snitt %@"
           }
         },
         "th" : {
@@ -3400,6 +3544,12 @@
             "value" : "Стоимость того, что можно купить через %lld нед."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Värdet av det man kan köpa efter %lld veckor"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3535,6 +3685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Через %lld нед.: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Efter %lld veckor: %@ %@"
           }
         },
         "th" : {
@@ -3674,6 +3830,12 @@
             "value" : "«Нужда» — это то, без чего трудно: еда, одежда, школьные принадлежности. «Желание» — это то, что радует, но без чего можно жить: игрушки, игровые предметы.\n\nВажно и то и другое! Но важен порядок. Сначала позаботься о нужном, а потом на оставшиеся деньги составь план и исполни желания."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ett ”behov” är något man får problem utan: mat, kläder, skolsaker. En ”önskan” är något som är kul att ha men som man klarar sig utan: leksaker, saker i spel.\n\nBåda är viktiga! Men ordningen spelar roll. Ta hand om behoven först och gör sedan en plan för pengarna som blir över så att du kan uppfylla önskningar."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3809,6 +3971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ вон"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ won"
           }
         },
         "th" : {
@@ -3948,6 +4116,12 @@
             "value" : "Реальная стоимость 1 %@"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verkligt värde av 1 %@"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4083,6 +4257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ вон"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ won"
           }
         },
         "th" : {
@@ -4222,6 +4402,12 @@
             "value" : "Как изменится «настоящая сила» 1000 %@?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur ändras den ”verkliga kraften” hos 1 000 %@?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4357,6 +4543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если положить 1000 монет под 5 %% в неделю, сколько будет через неделю?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om du sätter in 1 000 mynt med 5 %% ränta, hur mycket har du efter en vecka?"
           }
         },
         "th" : {
@@ -4496,6 +4688,12 @@
             "value" : "У тебя 1000 монет, а хочется и сладостей, и наклеек. Но денег хватает только на что-то одно. Что делать? Выберешь одно — придётся отказаться от другого.\n\nТо, от чего ты отказался, называется «альтернативной стоимостью». Это касается не только денег, но и времени. Если час играешь, ты отказался от всего, что мог бы сделать за этот час."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har 1 000 mynt och vill köpa både godis och klistermärken. Men pengarna räcker bara till en sak. Vad gör du? Väljer du det ena måste du avstå från det andra.\n\nDet du avstår från kallas ”alternativkostnad”. Det gäller även tid. Om du spelar en timme har du avstått från allt annat du kunnat göra under den timmen."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4631,6 +4829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Прогноз через 12 недель: %@ %@ (+%@)"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uppskattat om 12 veckor: %@ %@ (+%@)"
           }
         },
         "th" : {
@@ -4770,6 +4974,12 @@
             "value" : "Цена за пай"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pris per andel"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4905,6 +5115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть с помощью Face ID"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öppna med Face ID"
           }
         },
         "th" : {
@@ -5044,6 +5260,12 @@
             "value" : "Сменить PIN-код"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Byt PIN"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5179,6 +5401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Введите PIN-код"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ange PIN"
           }
         },
         "th" : {
@@ -5318,6 +5546,12 @@
             "value" : "PIN-код должен состоять из 4 цифр."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN-koden måste ha 4 siffror."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5453,6 +5687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спросите Siri и сразу узнайте баланс ребёнка."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fråga Siri och se barnets saldo direkt."
           }
         },
         "th" : {
@@ -5592,6 +5832,12 @@
             "value" : "Siri и «Команды»"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri och Genvägar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5727,6 +5973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть с помощью Touch ID"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öppna med Touch ID"
           }
         },
         "th" : {
@@ -5866,6 +6118,12 @@
             "value" : "VoiceOver читает все балансы и кнопки полностью и в правильном порядке."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver läser upp alla saldon och knappar fullständigt och i rätt ordning."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6001,6 +6259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VoiceOver удобнее"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekvämare VoiceOver"
           }
         },
         "th" : {
@@ -6140,6 +6404,12 @@
             "value" : "≈ %@ вон"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ won"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6275,6 +6545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ Настройки банка"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Bankinställningar"
           }
         },
         "th" : {
@@ -6414,6 +6690,12 @@
             "value" : "⚡️ Действия"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Åtgärder"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6549,6 +6831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Магазин"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Butik"
           }
         },
         "th" : {
@@ -6688,6 +6976,12 @@
             "value" : "Добавить в магазин"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrera i butiken"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6823,6 +7117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Цена"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pris"
           }
         },
         "th" : {
@@ -6962,6 +7262,12 @@
             "value" : "Цена складывается там, где встречаются желание купить и количество на продажу."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priset bildas där köplusten och mängden till salu möts."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7097,6 +7403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, как складываются цены"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstå hur priser bildas"
           }
         },
         "th" : {
@@ -7236,6 +7548,12 @@
             "value" : "Ценники 🏷️"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prislappar 🏷️"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7371,6 +7689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавьте членов семьи"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till familjemedlemmarna"
           }
         },
         "th" : {
@@ -7510,6 +7834,12 @@
             "value" : "Добавить семью"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrera familj"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7645,6 +7975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Операций нет"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga transaktioner"
           }
         },
         "th" : {
@@ -7784,6 +8120,12 @@
             "value" : "Вид операции"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transaktionstyp"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7919,6 +8261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Какой фонд рискованнее — «Черепаха» или «Ракета»? Почему?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vilket är mest riskabelt, Sköldpaddsfonden eller Raketfonden? Varför?"
           }
         },
         "th" : {
@@ -8058,6 +8406,12 @@
             "value" : "Какова альтернативная стоимость часа игры?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad är alternativkostnaden för en timmes spelande?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8193,6 +8547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оплата"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betalning"
           }
         },
         "th" : {
@@ -8332,6 +8692,12 @@
             "value" : "Не удалось оплатить"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betalningen misslyckades"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8467,6 +8833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оплата прошла! 🎉"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betalningen är klar! 🎉"
           }
         },
         "th" : {
@@ -8606,6 +8978,12 @@
             "value" : "Оплатить"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betala"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8741,6 +9119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Деньги с планом служат дольше."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengar med plan räcker längre."
           }
         },
         "th" : {
@@ -8880,6 +9264,12 @@
             "value" : "Понять, что за высокой прибылью стоит высокий риск"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstå att hög vinst följs av hög risk"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9015,6 +9405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Категория"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategori"
           }
         },
         "th" : {
@@ -9154,6 +9550,12 @@
             "value" : "Участник"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medlem"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9289,6 +9691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить участника"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till medlem"
           }
         },
         "th" : {
@@ -9428,6 +9836,12 @@
             "value" : "При увеличении текста экраны аккуратно перестраиваются и ничего не обрезается."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När du förstorar texten ordnas skärmarna snyggt om i stället för att klippas av."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9563,6 +9977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сумма"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belopp"
           }
         },
         "th" : {
@@ -9702,6 +10122,12 @@
             "value" : "Срок: %lld нед."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Period: %lld veckor"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9837,6 +10263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "История"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historik"
           }
         },
         "th" : {
@@ -9976,6 +10408,12 @@
             "value" : "Альтернативная стоимость"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alternativkostnad"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10111,6 +10549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Научиться отличать то, что действительно нужно, от того, что просто хочется"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skilja på det man verkligen behöver och det man bara önskar"
           }
         },
         "th" : {
@@ -10250,6 +10694,12 @@
             "value" : "Моя история"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min historik"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10385,6 +10835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мой накопительный счёт"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt sparkonto"
           }
         },
         "th" : {
@@ -10524,6 +10980,12 @@
             "value" : "Мой кошелёк"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min plånbok"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10659,6 +11121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мой кошелёк: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min plånbok: %@ %@"
           }
         },
         "th" : {
@@ -10798,6 +11266,12 @@
             "value" : "Представь: у тебя есть рыба, а нужны ботинки. Но если продавец ботинок не любит рыбу, обменяться не получится, верно? Людям давным-давно это тоже сильно мешало. Поэтому они придумали то, что нравится всем, — «деньги».\n\nУ денег три работы. Первая: на них можно обменять что угодно (обмен). Вторая: они показывают, сколько что стоит (мера стоимости). Третья: их можно отложить и потратить потом (накопление)."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänk dig att du har en fisk och behöver skor. Men om skoförsäljaren inte gillar fisk kan ni inte byta, eller hur? Människor förr i tiden tyckte också att det var jobbigt. Så de kom på något som alla gillar: ”pengar”.\n\nPengar har tre uppgifter. För det första kan man byta dem mot nästan vad som helst (bytesmedel). För det andra visar de hur mycket varje sak är värd (värdemätare). För det tredje kan man spara dem och använda dem senare (värdeförvaring)."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10933,6 +11407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кого вы хотите пригласить?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vem vill du bjuda in?"
           }
         },
         "th" : {
@@ -11072,6 +11552,12 @@
             "value" : "Кому заплатить?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vem betalar du till?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11207,6 +11693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кому?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Till vem?"
           }
         },
         "th" : {
@@ -11346,6 +11838,12 @@
             "value" : "Что бывает, когда катишь снежок? Чем дальше катится, тем быстрее растёт, правда? Сложные проценты — это то же самое.\n\nЕсли к 1000 монетам добавляется 50 процентов, получается 1050. На следующей неделе проценты начисляются на все 1050. Деньги, заработанные процентами, тоже приносят проценты! Сначала это почти незаметно, но со временем растёт как снежный ком."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad händer när man rullar en snöboll? Ju längre den rullar, desto snabbare växer den, eller hur? Ränta på ränta är precis så.\n\nOm 1 000 mynt får 50 i ränta blir det 1 050. Nästa vecka räknas räntan på hela 1 050. Pengarna som räntan tjänat får också ränta! Till en början märks det inte, men med tiden växer det som en snöboll."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11481,6 +11979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Далее"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nästa"
           }
         },
         "th" : {
@@ -11620,6 +12124,12 @@
             "value" : "Закрыть"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stäng"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11755,6 +12265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Деньги, которые не нужны сейчас, — на накопительный счёт!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengar du inte använder nu hör hemma på sparkontot!"
           }
         },
         "th" : {
@@ -11894,6 +12410,12 @@
             "value" : "Балансы и историю легко прочитать, даже при повышенной контрастности или если трудно различать цвета."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läs saldon och historik enkelt, även med högre kontrast eller om det är svårt att skilja på färger."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12029,6 +12551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Обзор"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Översikt"
           }
         },
         "th" : {
@@ -12168,6 +12696,12 @@
             "value" : "Приложение станет доступно на большем числе языков."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appen kan användas på fler språk."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12303,6 +12837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Больше языков"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fler språk"
           }
         },
         "th" : {
@@ -12442,6 +12982,12 @@
             "value" : "Деньги — это инструмент, чтобы обменивать, измерять и копить."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengar är ett redskap för att byta, mäta och spara."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12577,6 +13123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Зачем нужны деньги?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varför behöver vi pengar?"
           }
         },
         "th" : {
@@ -12716,6 +13268,12 @@
             "value" : "Выработать привычку планировать и распределять деньги"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Få för vana att planera och fördela sina pengar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12851,6 +13409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, откуда взялись деньги и что они делают"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstå varför pengar finns och vad de gör"
           }
         },
         "th" : {
@@ -12990,6 +13554,12 @@
             "value" : "Введённые PIN-коды не совпадают."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De två PIN-koderna är inte likadana."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13125,6 +13695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пока нет товаров. Сначала добавьте товары в магазин через «Добавить товар»."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det finns inga varor ännu. Lägg först till varor i butiken med ”Lägg till vara”."
           }
         },
         "th" : {
@@ -13264,6 +13840,12 @@
             "value" : "Нет добавленных детей"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga barn har lagts till"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13399,6 +13981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Могла бы деталька LEGO быть деньгами? Прошла бы она пять испытаний?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunde en LEGO-bit vara pengar? Skulle den klara de fem proven?"
           }
         },
         "th" : {
@@ -13538,6 +14126,12 @@
             "value" : "Что было бы, если бы в мире не было денег?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad skulle hända om det inte fanns några pengar i världen?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13673,6 +14267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продать"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sälj"
           }
         },
         "th" : {
@@ -13812,6 +14412,12 @@
             "value" : "Купить"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Köp"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13947,6 +14553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каждую неделю цены растут на %@%%. Это значит, что на те же деньги можно купить чуточку меньше."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje vecka stiger priserna med %@ %%. Det betyder att man för samma pengar kan köpa lite mindre för varje gång."
           }
         },
         "th" : {
@@ -14086,6 +14698,12 @@
             "value" : "Цены растут каждую неделю"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priserna stiger varje vecka"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14221,6 +14839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каждую неделю индекс цен у нас дома растёт на столько (текущий индекс %lld). При 0 %% инфляции нет. Если вы немного повысите и реальные цены на перекусы и игрушки, ребёнок на опыте поймёт, как меняется ценность денег."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje vecka stiger prisindex hemma hos oss med så här mycket (nuvarande index %lld). Vid 0 %% finns ingen inflation. Om du också höjer de riktiga priserna på snacks och leksaker lite lär sig barnet hur pengars värde förändras."
           }
         },
         "th" : {
@@ -14360,6 +14984,12 @@
             "value" : "Заметка (например: купить перекус)"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anteckning (t.ex.: köpa ett mellanmål)"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14495,6 +15125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Заметка (например: еженедельные карманные)"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anteckning (t.ex.: veckans fickpengar)"
           }
         },
         "th" : {
@@ -14634,6 +15270,12 @@
             "value" : "Что происходит с ценой вещи, которую хотят продать все?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad händer med priset på något som alla vill sälja?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14769,6 +15411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Все участники, операции и продукты для вложений будут удалены, и вы вернётесь на экран первоначальной настройки."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alla medlemmar, transaktioner och investeringsprodukter raderas och du kommer tillbaka till startinställningarna."
           }
         },
         "th" : {
@@ -14908,6 +15556,12 @@
             "value" : "Сбросить все данные"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Återställ alla data"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15043,6 +15697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "За любым выбором прячется то, от чего отказались."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bakom varje val finns något man avstått från."
           }
         },
         "th" : {
@@ -15182,6 +15842,12 @@
             "value" : "На что это?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad är det till?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15317,6 +15983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рост цен"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisökning"
           }
         },
         "th" : {
@@ -15456,6 +16128,12 @@
             "value" : "Динамика цен 📊"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisutveckling 📊"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15591,6 +16269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Когда цены растут, на те же деньги можно купить меньше"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När priserna stiger kan man köpa mindre för samma pengar"
           }
         },
         "th" : {
@@ -15730,6 +16414,12 @@
             "value" : "Когда цены растут, деньги теряют силу. Поэтому нужны накопления и вложения."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När priserna stiger förlorar pengar kraft. Därför behövs sparande och investeringar."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15865,6 +16555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, что при росте цен деньги теряют силу"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstå att pengar förlorar kraft när priserna stiger"
           }
         },
         "th" : {
@@ -16004,6 +16700,12 @@
             "value" : "Когда цены растут, хорошо ли просто держать деньги в кошельке?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När priserna stiger, är det bra att låta pengarna bara ligga i plånboken?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16139,6 +16841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Индекс цен"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisindex"
           }
         },
         "th" : {
@@ -16278,6 +16986,12 @@
             "value" : "В продаже товаров: %lld · курс применяется автоматически"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld varor till salu · växelkursen tillämpas automatiskt"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16413,6 +17127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Штрихкод товара"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streckkod för vara"
           }
         },
         "th" : {
@@ -16552,6 +17272,12 @@
             "value" : "Наведите штрихкод товара на рамку"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placera varans streckkod inom ramen"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16687,6 +17413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Название товара (например: газировка, 30 минут игры)"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varunamn (t.ex.: läsk, 30 min spelande)"
           }
         },
         "th" : {
@@ -16826,6 +17558,12 @@
             "value" : "Данные о товаре"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varuinformation"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16961,6 +17699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить товар"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till vara"
           }
         },
         "th" : {
@@ -17100,6 +17844,12 @@
             "value" : "Штрихкод"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streckkod"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17235,6 +17985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Получатель"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mottagare"
           }
         },
         "th" : {
@@ -17374,6 +18130,12 @@
             "value" : "Получено"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mottaget"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17509,6 +18271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Некому получать оплату"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det finns ingen mottagare"
           }
         },
         "th" : {
@@ -17648,6 +18416,12 @@
             "value" : "Учёба"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lär dig"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17783,6 +18557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Резервная копия и экспорт"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säkerhetskopia och export"
           }
         },
         "th" : {
@@ -17922,6 +18702,12 @@
             "value" : "Удобные цвета и контраст"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behagligare färger och kontrast"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18057,6 +18843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не хватает паёв."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har inte tillräckligt många andelar."
           }
         },
         "th" : {
@@ -18196,6 +18988,12 @@
             "value" : "Имеющиеся вложения"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringar du äger"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18331,6 +19129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Умеренный 🐰"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Måttlig 🐰"
           }
         },
         "th" : {
@@ -18470,6 +19274,12 @@
             "value" : "Волшебство сложных процентов"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ränta på ränta-magin"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18605,6 +19415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Родитель"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förälder"
           }
         },
         "th" : {
@@ -18744,6 +19560,12 @@
             "value" : "Руководство для родителей 📖"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Föräldraguide 📖"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18879,6 +19701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Родительский режим"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Föräldraläge"
           }
         },
         "th" : {
@@ -19018,6 +19846,12 @@
             "value" : "Задайте PIN-код родительского режима"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj PIN-kod för föräldraläget"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19153,6 +19987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продукты можно добавить в родительском режиме"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du kan lägga till produkter i föräldraläget"
           }
         },
         "th" : {
@@ -19292,6 +20132,12 @@
             "value" : "Используется для подтверждения родителя"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Används för att bekräfta att du är förälder"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19427,6 +20273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нужно подтверждение родителя"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En förälder måste bekräfta"
           }
         },
         "th" : {
@@ -19566,6 +20418,12 @@
             "value" : "Родители 🏦"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Föräldrar 🏦"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19701,6 +20559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Родители выступают в роли банка (центрального банка), а дети — клиенты."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Föräldrar är banken (centralbanken) och barnen är kunderna."
           }
         },
         "th" : {
@@ -19840,6 +20704,12 @@
             "value" : "Нужно подтверждение родителя"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En förälder måste bekräfta"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19975,6 +20845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавьте хотя бы одного родителя."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till minst en förälder."
           }
         },
         "th" : {
@@ -20114,6 +20990,12 @@
             "value" : "Представь продавца зонтов в дождливый день. Зонты хотят многие, а их мало? Даже за большую цену купят. А купальники в конце лета? Покупать их никто не хочет, поэтому цена должна быть низкой.\n\nТак цена складывается из перетягивания каната между «желанием купить» (спрос) и «количеством на продажу» (предложение). Цены вложений растут и падают по тому же принципу."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänk på en paraplyförsäljare en regnig dag. Många vill ha ett paraply men det finns bara några få? Även med högre pris säljs de. Och badkläder när sommaren är slut? Ingen vill köpa dem, så de måste säljas billigt.\n\nPriset bildas alltså i en dragkamp mellan ”köplust” (efterfrågan) och ”mängden till salu” (utbud). Priserna på investeringar går upp och ner efter samma princip."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20249,6 +21131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Купить"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Köp"
           }
         },
         "th" : {
@@ -20388,6 +21276,12 @@
             "value" : "Продукт"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produkt"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20523,6 +21417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Название продукта (например: фонд «Звёздный свет»)"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produktnamn (t.ex.: Stjärnljus-fonden)"
           }
         },
         "th" : {
@@ -20662,6 +21562,12 @@
             "value" : "Данные о продукте"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produktinformation"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20797,6 +21703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить продукт"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till produkt"
           }
         },
         "th" : {
@@ -20936,6 +21848,12 @@
             "value" : "Новый PIN-код из 4 цифр"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ny PIN med 4 siffror"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21071,6 +21989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, что выбор означает отказ от чего-то другого"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstå att när man väljer något avstår man från något annat"
           }
         },
         "th" : {
@@ -21210,6 +22134,12 @@
             "value" : "Описание (необязательно)"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beskrivning (valfritt)"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21345,6 +22275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тактильный отклик"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taktil respons"
           }
         },
         "th" : {
@@ -21484,6 +22420,12 @@
             "value" : "Количество: %lld паёв"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antal: %lld andelar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21619,6 +22561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спрос и предложение"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utbud och efterfrågan"
           }
         },
         "th" : {
@@ -21758,6 +22706,12 @@
             "value" : "Большая прибыль — это большой риск. Раскладывай и рискуй только тем, что не жалко потерять!"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Större vinst betyder större risk. Sprid och riskera bara det du tål att förlora!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21893,6 +22847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "4 цифры"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 siffror"
           }
         },
         "th" : {
@@ -22032,6 +22992,12 @@
             "value" : "Начало = 100"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start = 100"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22167,6 +23133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Начальная цена"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Startpris"
           }
         },
         "th" : {
@@ -22306,6 +23278,12 @@
             "value" : "+%@%% с начала"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@ %% sedan start"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22441,6 +23419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Начать 🎉"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom igång 🎉"
           }
         },
         "th" : {
@@ -22580,6 +23564,12 @@
             "value" : "Рынок"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marknad"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22715,6 +23705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Откройте вкладку «Рынок» и вместе посмотрите ценники в магазине. Поговорите о том, почему у разных вещей разная цена."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titta tillsammans på prislapparna i butiken på fliken Marknad och prata om varför saker kostar olika mycket."
           }
         },
         "th" : {
@@ -22854,6 +23850,12 @@
             "value" : "Во вкладке «Рынок» вместе посмотрите индекс цен и график динамики цен, а потом проведите «Опыт с инфляцией» ниже."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titta tillsammans på prisindex och diagrammet över prisutvecklingen på fliken Marknad och prova sedan ”Inflationsexperimentet” nedan."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22989,6 +23991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Во вкладке «Рынок» наблюдайте, как каждый день меняются цены вложений, и обсудите: «если многие хотят купить, цена растёт»."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Följ på fliken Marknad hur investeringspriserna ändras varje dag och prata om att ”när många vill köpa stiger priset”."
           }
         },
         "th" : {
@@ -23128,6 +24136,12 @@
             "value" : "Настоящая цена: %@ вон"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verkligt pris: %@ won"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23263,6 +24277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настоящая цена (вон)"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verkligt pris (won)"
           }
         },
         "th" : {
@@ -23402,6 +24422,12 @@
             "value" : "Цена в реальном мире"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pris i den verkliga världen"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23537,6 +24563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Реальная стоимость"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Realt värde"
           }
         },
         "th" : {
@@ -23676,6 +24708,12 @@
             "value" : "Начало работы с СукСук Карманные"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom igång med SukSuk Fickpengar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23811,6 +24849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добро пожаловать в СукСук Карманные!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välkommen till SukSuk Fickpengar!"
           }
         },
         "th" : {
@@ -23950,6 +24994,12 @@
             "value" : "Советы по использованию"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tips för användning"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24085,6 +25135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продолжить с того же места"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsätt där du slutade"
           }
         },
         "th" : {
@@ -24224,6 +25280,12 @@
             "value" : "В «Калькуляторе сложных процентов» ниже увеличьте срок с 4 до 52 недель. Вместе посмотрите, как график становится всё круче!"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I ”Ränta på ränta-kalkylatorn” nedan kan du förlänga perioden från 4 till 52 veckor. Titta tillsammans på hur grafen blir brantare och brantare!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24359,6 +25421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, почему не всё может быть деньгами (свойства денег)"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstå varför inte vad som helst kan vara pengar (pengars egenskaper)"
           }
         },
         "th" : {
@@ -24498,6 +25566,12 @@
             "value" : "Переложите половину кошелька ребёнка на накопительный счёт. Через неделю вместе проверьте проценты — эффект отличный!"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flytta hälften av barnets plånbok till sparkontot. En vecka senare tittar ni tillsammans på räntan – det fungerar fantastiskt!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24633,6 +25707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перед тем как ребёнок заплатит в магазине, попросите его обязательно назвать «ещё одну вещь, которую можно купить на эти деньги»."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innan barnet betalar i butiken, be alltid barnet säga ”en annan sak man kunde köpa för de här pengarna”."
           }
         },
         "th" : {
@@ -24772,6 +25852,12 @@
             "value" : "Скажите ребёнку так"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prova att säga så här till barnet"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24907,6 +25993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Идите вместе с ребёнком по шагам, начиная с шага 1. Каждый шаг — «объяснить → спросить → попробовать вместе», хватит 10 минут."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gå igenom stegen ett i taget tillsammans med barnet från steg 1. Varje steg följer ordningen ”förklara → fråga → prova tillsammans” och 10 minuter räcker."
           }
         },
         "th" : {
@@ -25046,6 +26138,12 @@
             "value" : "Вместе с ребёнком вложите небольшую сумму в 2 продукта. Каждый день смотрите на цены, чтобы он привык к взлётам и падениям."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fördela tillsammans med barnet en liten summa på 2 produkter. Titta på priserna varje dag så att barnet vänjer sig vid upp- och nedgångarna."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25181,6 +26279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "История цен ещё слишком короткая. Загляните завтра!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det finns ännu inte tillräckligt med prishistorik. Titta igen i morgon!"
           }
         },
         "th" : {
@@ -25320,6 +26424,12 @@
             "value" : "Операций пока нет"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga transaktioner ännu"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25455,6 +26565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Товаров пока нет.\nДобавьте товары вашей семьи в родительском режиме!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga varor ännu.\nRegistrera familjens varor i föräldraläget!"
           }
         },
         "th" : {
@@ -25594,6 +26710,12 @@
             "value" : "Товаров пока нет · добавьте их во вкладке «Действия»"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga varor ännu · lägg till dem på fliken Åtgärder"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25729,6 +26851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пока ничего нет"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inget innehav ännu"
           }
         },
         "th" : {
@@ -25868,6 +26996,12 @@
             "value" : "Спокойный 🐢"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trygg 🐢"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26003,6 +27137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уведомление"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meddelande"
           }
         },
         "th" : {
@@ -26142,6 +27282,12 @@
             "value" : "Ненавязчиво подскажем полезные функции в нужный момент."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vi tipsar diskret om användbara funktioner vid rätt tillfälle."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26277,6 +27423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Действия"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åtgärder"
           }
         },
         "th" : {
@@ -26416,6 +27568,12 @@
             "value" : "Попробуйте вместе в приложении"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prova tillsammans i appen"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26551,6 +27709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Смотрите баланс ребёнка прямо на экране «Домой», не открывая приложение."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se barnets saldo direkt på hemskärmen utan att öppna appen."
           }
         },
         "th" : {
@@ -26690,6 +27854,12 @@
             "value" : "Приложением можно будет пользоваться и на английском."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du kan använda appen även på engelska."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26825,6 +27995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сколько?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur mycket?"
           }
         },
         "th" : {
@@ -26964,6 +28140,12 @@
             "value" : "Сколько заплатить?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur mycket betalar du?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27099,6 +28281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "При первом запуске после обновления приложение расскажет, что нового."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Första gången du öppnar appen efter en uppdatering ser du vad som är nytt."
           }
         },
         "th" : {
@@ -27238,6 +28426,12 @@
             "value" : "Что нового"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nyheter"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27373,6 +28567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Роль"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roll"
           }
         },
         "th" : {
@@ -27512,6 +28712,12 @@
             "value" : "Поддержка английского"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stöd för engelska"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27647,6 +28853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Например: вещь, которая на самом деле стоит 1000 вон = %@ %@. Цены в магазине в валюте «%@» рассчитываются автоматически по этому курсу."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "T.ex.: en sak som i verkligheten kostar 1 000 won = %@ %@. Priserna på butikens varor i %@ räknas automatiskt med den här kursen."
           }
         },
         "th" : {
@@ -27786,6 +28998,12 @@
             "value" : "Например: Бобы, Звезда, Монета"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "T.ex.: Böna, Stjärna, Mynt"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27921,6 +29139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Составляем бюджет"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Göra en budget"
           }
         },
         "th" : {
@@ -28060,6 +29284,12 @@
             "value" : "Что узнаем сегодня"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det här lär vi oss i dag"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28195,6 +29425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Готово"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klart"
           }
         },
         "th" : {
@@ -28334,6 +29570,12 @@
             "value" : "Почему песок на дороге не может быть деньгами? Потому что его везде полно! Чтобы стать хорошими деньгами, нужно пройти пять испытаний.\n\n① Должны долго храниться (гнить нельзя!) ② Должны быть удобными для переноски (корова слишком тяжёлая — не подходит!) ③ Их можно делить на мелкие части ④ Они не должны встречаться слишком часто ⑤ Все должны верить: «Это настоящие деньги».\n\nНаши домашние монеты ценны потому, что мама и папа не печатают их когда попало, а держат своё слово."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varför kan inte sand från vägkanten vara pengar? För att det finns massor av det överallt! För att vara bra pengar måste något klara fem prov.\n\n① Det måste hålla länge (det får inte ruttna!) ② Det måste vara lätt att bära (en ko är för tung – ute!) ③ Det måste kunna delas i små bitar ④ Det får inte vara för vanligt ⑤ Alla måste tro att ”det här är riktiga pengar”.\n\nVåra hemmamynt har värde eftersom mamma och pappa inte tillverkar dem när det passar, utan håller sitt löfte."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28469,6 +29711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Из того, что тебе сейчас хочется купить, что — нужда, а что — желание?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Av sakerna du vill köpa just nu, vilka är behov och vilka är önskningar?"
           }
         },
         "th" : {
@@ -28608,6 +29856,12 @@
             "value" : "Карманные деньги"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fickpengar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28743,6 +29997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Напоминания о карманных деньгах"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Påminnelser om fickpengar"
           }
         },
         "th" : {
@@ -28882,6 +30142,12 @@
             "value" : "Выдать карманные деньги"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge fickpengar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29017,6 +30283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выдать / списать карманные деньги"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge / dra av fickpengar"
           }
         },
         "th" : {
@@ -29156,6 +30428,12 @@
             "value" : "В день выдачи карманных денег пусть ребёнок сам определит долю накоплений, вложений и трат и выполнит план. Через неделю вместе посмотрите вкладку «История»."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På fickpengsdagen kan du låta barnet själv bestämma fördelningen mellan sparande, investering och utgifter och följa den. En vecka senare tittar ni tillsammans på fliken Historik."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29291,6 +30569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уведомление в день выдачи карманных денег или при начислении процентов."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Få en avisering på fickpengsdagen eller när ränta betalas."
           }
         },
         "th" : {
@@ -29430,6 +30714,12 @@
             "value" : "Выдавать карманные деньги, задавать ставки и т. д.\nмогут только те, кто знает этот PIN-код."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bara de som kan den här PIN-koden kan ge fickpengar,\nställa in räntor och liknande."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29565,6 +30855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Лёгкая вибрация сообщит, когда пришли карманные деньги или совершена покупка."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En lätt vibration meddelar när fickpengarna kommer eller något köps."
           }
         },
         "th" : {
@@ -29704,6 +31000,12 @@
             "value" : "Если потратить карманные деньги сразу, как получил, без плана, они быстро закончатся. Поэтому план составляют заранее. Это называется «бюджет».\n\nНапример, раздели так: накопления 30, необходимое 40, то, что хочется 20, пробное вложение 10. Необязательно именно так. Главное — решить самому!"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om du spenderar fickpengarna direkt när du får dem utan plan är de snabbt slut. Därför gör man en plan i förväg. Det kallas en ”budget”.\n\nFördela dem till exempel så här: sparande 30, nödvändiga saker 40, saker du vill ha 20, investeringsprov 10. Det behöver inte vara exakt så. Det viktiga är att du bestämmer själv!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29839,6 +31141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Здесь появятся выданные карманные деньги и оплаты"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När du ger fickpengar eller betalar visas det här"
           }
         },
         "th" : {
@@ -29978,6 +31286,12 @@
             "value" : "Выдавайте карманные деньги, платите, получайте проценты по накоплениям\nи даже вкладывайте — экономика только для вашей семьи."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge fickpengar, betala, få sparränta\noch investera till och med – ett ekonomiskt system bara för er familj."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30113,6 +31427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Домашний магазин"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hemmabutik"
           }
         },
         "th" : {
@@ -30252,6 +31572,12 @@
             "value" : "Вместе посмотрите товары в домашнем магазине и по одному разделите их на «нужды» и «желания»."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titta tillsammans på varorna i hemmabutiken och sortera dem en och en i ”behov” och ”önskningar”."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30387,6 +31713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Цена у нас дома"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pris hemma"
           }
         },
         "th" : {
@@ -30526,6 +31858,12 @@
             "value" : "Домашние цены"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priser hemma"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30661,6 +31999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каков сейчас индекс цен в нашем доме?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad är prisindex hemma hos oss just nu?"
           }
         },
         "th" : {
@@ -30800,6 +32144,12 @@
             "value" : "Сохраните записи вашего домашнего банка в файл и загрузите их снова позже."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spara hemmabankens poster i en fil och läs in dem igen senare."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30935,6 +32285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На что можно обменять наши домашние монеты?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad kan vi byta våra hemmamynt mot?"
           }
         },
         "th" : {
@@ -31074,6 +32430,12 @@
             "value" : "Почему наши домашние монеты чего-то стоят?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varför har våra hemmamynt värde?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31209,6 +32571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Денежная масса у нас дома 💰"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penningmängd hemma hos oss 💰"
           }
         },
         "th" : {
@@ -31348,6 +32716,12 @@
             "value" : "Это домашний продукт для вложений."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det här är familjens investeringsprodukt."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31483,6 +32857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Придумайте название домашней валюты"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge hemmavalutan ett namn"
           }
         },
         "th" : {
@@ -31622,6 +33002,12 @@
             "value" : "Деньги в обороте у нас дома"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengar i omlopp hemma hos oss"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31757,6 +33143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уменьшение движения"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minska rörelse"
           }
         },
         "th" : {
@@ -31896,6 +33288,12 @@
             "value" : "Если включить «Уменьшение движения», эффекты на экране станут спокойнее."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När ”Minska rörelser” är på blir skärmeffekterna lugnare."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32031,6 +33429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "вон"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "won"
           }
         },
         "th" : {
@@ -32170,6 +33574,12 @@
             "value" : "Уровень риска"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risknivå"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32305,6 +33715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рискованный 🚀"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riskabel 🚀"
           }
         },
         "th" : {
@@ -32444,6 +33860,12 @@
             "value" : "Настройки банка"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bankinställningar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32579,6 +34001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Когда ты оставляешь деньги в банке, банк говорит: «Спасибо, что доверил нам деньги!» — и добавляет немного сверху. Эта добавка называется «процентами».\n\nДеньги в кошельке не растут, сколько ни жди. А если положить их на накопительный счёт, каждую неделю добавляются проценты, и деньги растут. Куда лучше положить деньги, которые не нужны прямо сейчас?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När du lämnar pengar i banken säger banken ”Tack för att du litar på oss!” och ger dig lite extra. Det extra kallas ”ränta”.\n\nPengar i plånboken växer aldrig, hur länge du än väntar. Men sätter du in dem på sparkontot läggs det till ränta varje vecka och pengarna växer. Var är det bäst att ha pengar som du inte använder just nu?"
           }
         },
         "th" : {
@@ -32718,6 +34146,12 @@
             "value" : "Передать это устройство"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lämna över den här enheten"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32853,6 +34287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Это устройство переключится на отдельный экран выбранного ребёнка. Ребёнок увидит только свой кошелёк, магазин, вложения, историю и уроки. Удобно, когда вы даёте родительский телефон ребёнку, у которого нет своего. Чтобы вернуться, нажмите на замок и введите родительский PIN-код."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den här enheten växlar till det valda barnets egen skärm. Barnet ser bara sin egen plånbok, butik, sina investeringar, sin historik och sina lektioner. Praktiskt när du lånar ut din telefon till ett barn som inte har någon. För att komma tillbaka trycker du på låsknappen och anger förälderns PIN-kod."
           }
         },
         "th" : {
@@ -32992,6 +34432,12 @@
             "value" : "Сделать это устройство телефоном: %@ %@? Чтобы вернуться, понадобится родительский PIN-код."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Göra den här enheten till %@ %@s telefon? För att byta tillbaka behövs förälderns PIN-kod."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33127,6 +34573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Чьим телефоном сделать это устройство? Чтобы вернуться, понадобится родительский PIN-код."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vems telefon ska den här enheten bli? För att byta tillbaka behövs förälderns PIN-kod."
           }
         },
         "th" : {
@@ -33266,6 +34718,12 @@
             "value" : "Сколько станет, если оставить как есть? (прогноз на 12 недель со сложными процентами)"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur mycket blir det om du låter det ligga? (uppskattning för 12 veckor med ränta på ränta)"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33401,6 +34859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спросите так"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prova att fråga så här"
           }
         },
         "th" : {
@@ -33540,6 +35004,12 @@
             "value" : "Имя"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namn"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33675,6 +35145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Эмодзи"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
           }
         },
         "th" : {
@@ -33814,6 +35290,12 @@
             "value" : "Как ты хочешь распределить карманные деньги на эту неделю?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur vill du fördela veckans fickpengar?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33949,6 +35431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Причина"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orsak"
           }
         },
         "th" : {
@@ -34088,6 +35576,12 @@
             "value" : "Проценты"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ränta"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34223,6 +35717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Проценты · Курс · Цены"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Räntor · Kurs · Priser"
           }
         },
         "th" : {
@@ -34362,6 +35862,12 @@
             "value" : "Когда проценты приносят проценты, это называется «сложными процентами». Чем дольше копишь, тем сильнее деньги растут, как снежный ком! ⛄️"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När ränta ger ny ränta kallas det ”ränta på ränta”. Ju längre du sparar, desto mer växer pengarna som en snöboll! ⛄️"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34497,6 +36003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Только на процентах вы заработали %@ %@!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du tjänade %@ %@ enbart på ränta!"
           }
         },
         "th" : {
@@ -34636,6 +36148,12 @@
             "value" : "Понять, что проценты на проценты растут как снежный ком"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstå att ränta på ränta växer som en snöboll"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34771,6 +36289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если ставка ниже роста цен, то даже накопленные деньги теряют силу. Попробуйте поднять ставку!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om räntan är lägre än prisökningen förlorar pengarna kraft även om du sparar. Prova att höja räntan!"
           }
         },
         "th" : {
@@ -34910,6 +36434,12 @@
             "value" : "Назад"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tillbaka"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35045,6 +36575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Инфляция"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflation"
           }
         },
         "th" : {
@@ -35184,6 +36720,12 @@
             "value" : "Без инфляции"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen inflation"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35319,6 +36861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "День"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dag"
           }
         },
         "th" : {
@@ -35458,6 +37006,12 @@
             "value" : "Начинать рано и не бросать — вот секрет сложных процентов."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Börja tidigt och håll i – det är hemligheten bakom ränta på ränta."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35593,6 +37147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сколько денег не страшно потерять?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur mycket pengar gör det inte något att förlora?"
           }
         },
         "th" : {
@@ -35732,6 +37292,12 @@
             "value" : "Положить"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sätt in"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35867,6 +37433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Положить / снять"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sätt in / Ta ut"
           }
         },
         "th" : {
@@ -36006,6 +37578,12 @@
             "value" : "Ребёнок"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barn"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36141,6 +37719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отсканируйте камерой устройства ребёнка, чтобы увидеть приглашение"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skanna med kameran på barnets enhet för att se inbjudan"
           }
         },
         "th" : {
@@ -36280,6 +37864,12 @@
             "value" : "Пригласить ребёнка"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bjud in barn"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36415,6 +38005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Режим телефона ребёнка"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barntelefonläge"
           }
         },
         "th" : {
@@ -36554,6 +38150,12 @@
             "value" : "Переключиться на телефон ребёнка"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Byt till barntelefon"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36689,6 +38291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Дети 👧"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barn 👧"
           }
         },
         "th" : {
@@ -36828,6 +38436,12 @@
             "value" : "Когда ребёнок отсканирует этот штрихкод в разделе «Сканировать и оплатить»,\nиз кошелька спишется %@."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När ditt barn skannar den här streckkoden med ”Skanna och betala”\ndras %@ från plånboken."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36963,6 +38577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавьте хотя бы одного ребёнка."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till minst ett barn."
           }
         },
         "th" : {
@@ -37102,6 +38722,12 @@
             "value" : "В прошлом году сладость стоила 1000. В этом году она стоит 1100. А сладость не стала больше! Когда цены растут так, это называется «инфляцией».\n\nЧисло на твоих деньгах то же, а купить можно меньше. Как из шарика выходит воздух, сила денег слабеет. Поэтому если просто держать деньги в кошельке, потихоньку теряешь. Чтобы сохранить их силу, нужно увеличивать их быстрее, чем растут цены, — с помощью процентов или вложений."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I fjol kostade ett godis 1 000. I år kostar det 1 100. Och godiset har inte blivit större! När priserna stiger så kallas det ”inflation”.\n\nSiffran på dina pengar är densamma, men du kan köpa mindre. Som luften som rinner ut ur en ballong blir pengarnas kraft svagare. Därför förlorar du lite om pengarna bara ligger i plånboken. För att behålla kraften måste du låta dem växa snabbare än priserna – med ränta eller genom att investera."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37237,6 +38863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Баланс"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo"
           }
         },
         "th" : {
@@ -37376,6 +39008,12 @@
             "value" : "Заблокировать"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37511,6 +39149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сохранить"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spara"
           }
         },
         "th" : {
@@ -37650,6 +39294,12 @@
             "value" : "Накопления"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparande"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37785,6 +39435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ставка накоплений"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparränta"
           }
         },
         "th" : {
@@ -37924,6 +39580,12 @@
             "value" : "Взнос на накопления"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insättning på sparande"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38059,6 +39721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Баланс накоплений"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparsaldo"
           }
         },
         "th" : {
@@ -38198,6 +39866,12 @@
             "value" : "Снятие с накоплений"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uttag från sparande"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38333,6 +40007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Накопления: %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparande: %@"
           }
         },
         "th" : {
@@ -38472,6 +40152,12 @@
             "value" : "Накопления и проценты"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparande och ränta"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38607,6 +40293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если один человек начнёт копить рано, а другой поздно, кто потом станет богаче?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om en person börjar spara tidigt och en annan sent, vem blir rikast senare?"
           }
         },
         "th" : {
@@ -38746,6 +40438,12 @@
             "value" : "Положить на накопительный счёт"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sätt in på sparkontot"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38881,6 +40579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На накопительном счёте не хватает денег."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det finns inte pengar nog på sparkontot."
           }
         },
         "th" : {
@@ -39020,6 +40724,12 @@
             "value" : "Сложные проценты каждую неделю на накопительном счёте"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veckovis ränta på ränta på sparkontot"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39155,6 +40865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, как накопления увеличивают деньги"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstå hur sparande får pengar att växa"
           }
         },
         "th" : {
@@ -39294,6 +41010,12 @@
             "value" : "Накопленные деньги"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparade pengar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39429,6 +41151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Даже если приложение закроется во время ввода, набранный текст сохранится."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Även om appen stängs medan du skriver finns det du skrev kvar."
           }
         },
         "th" : {
@@ -39568,6 +41296,12 @@
             "value" : "Удалить всё"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radera allt"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39703,6 +41437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Все"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alla"
           }
         },
         "th" : {
@@ -39842,6 +41582,12 @@
             "value" : "Действительно удалить все данные?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vill du verkligen radera alla data?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39977,6 +41723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вид"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ"
           }
         },
         "th" : {
@@ -40116,6 +41868,12 @@
             "value" : "Какими должны быть хорошие деньги"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad som gör pengar bra"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40251,6 +42009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "нед."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "v."
           }
         },
         "th" : {
@@ -40390,6 +42154,12 @@
             "value" : "%@%% в неделю"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %% per vecka"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40525,6 +42295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Недельный рост цен: %@%%"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veckovis prisökning: %@ %%"
           }
         },
         "th" : {
@@ -40664,6 +42440,12 @@
             "value" : "Недельная ставка"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veckoränta"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40799,6 +42581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Недельная ставка: %@%%"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veckoränta: %@ %%"
           }
         },
         "th" : {
@@ -40938,6 +42726,12 @@
             "value" : "Недельная ставка накоплений %@%% · Недельный рост цен %@%%"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veckovis sparränta %@ %% · Veckovis prisökning %@ %%"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41073,6 +42867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Недельная ставка накоплений: %@%%"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veckovis sparränta: %@ %%"
           }
         },
         "th" : {
@@ -41212,6 +43012,12 @@
             "value" : "Кошелёк"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plånbok"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41347,6 +43153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Баланс кошелька"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plånbokens saldo"
           }
         },
         "th" : {
@@ -41486,6 +43298,12 @@
             "value" : "Кошелёк: %@"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plånbok: %@"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41621,6 +43439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кошелёк: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plånbok: %@ %@"
           }
         },
         "th" : {
@@ -41760,6 +43584,12 @@
             "value" : "Деньги, оставленные в кошельке, потеряли силу, а накопленные сохранили её! 💪"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengarna som blev kvar i plånboken förlorade kraft, men de sparade pengarna behöll den! 💪"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41895,6 +43725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В кошельке не хватает денег! Баланс: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det finns inte pengar nog i plånboken! Saldo: %@ %@"
           }
         },
         "th" : {
@@ -42034,6 +43870,12 @@
             "value" : "В кошельке не хватает денег."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det finns inte pengar nog i plånboken."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42169,6 +44011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В кошельке не хватает денег. Нужно: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det finns inte pengar nog i plånboken. Behövs: %@ %@"
           }
         },
         "th" : {
@@ -42308,6 +44156,12 @@
             "value" : "Деньги в кошельке"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengar i plånboken"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42443,6 +44297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Чем отличаются деньги в кошельке от накопленных денег?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad är skillnaden mellan pengar i plånboken och sparade pengar?"
           }
         },
         "th" : {
@@ -42582,6 +44442,12 @@
             "value" : "Вернуть в кошелёк"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flytta till plånboken"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42717,6 +44583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выдать · Списать"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge · Dra av"
           }
         },
         "th" : {
@@ -42856,6 +44728,12 @@
             "value" : "От чего ты отказался в прошлый раз, когда что-то купил?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad avstod du från senast du köpte något?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42991,6 +44869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На что ты потратил больше всего денег на прошлой неделе?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad lade du mest pengar på förra veckan?"
           }
         },
         "th" : {
@@ -43130,6 +45014,12 @@
             "value" : "Индекс %lld"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Index %lld"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43265,6 +45155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поддержка"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
           }
         },
         "th" : {
@@ -43404,6 +45300,12 @@
             "value" : "Выберите дома 3 предмета и сыграйте в «Могло бы это быть деньгами?». Отметьте каждое из пяти условий галочкой или крестиком."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj 3 saker hemma och lek ”Kunde det här vara pengar?”. Sätt ✓ eller ✗ vid vart och ett av de fem villkoren."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43539,6 +45441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сканировать и оплатить"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skanna och betala"
           }
         },
         "th" : {
@@ -43678,6 +45586,12 @@
             "value" : "Сканируйте и сразу платите"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skanna och betala direkt"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43813,6 +45727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Списание"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avdrag"
           }
         },
         "th" : {
@@ -43952,6 +45872,12 @@
             "value" : "Списать"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dra av"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44087,6 +46013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Начальная сумма: %@ %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Startbelopp: %@ %@"
           }
         },
         "th" : {
@@ -44226,6 +46158,12 @@
             "value" : "Цены выросли на %@%% с начала. 1000 %@ в кошельке теперь имеют силу %@ %@."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priserna har stigit med %@ %% sedan start. 1 000 %@ i plånboken har nu kraften hos %@ %@."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44361,6 +46299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Приглашение · QR"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inbjudan · QR"
           }
         },
         "th" : {
@@ -44500,6 +46444,12 @@
             "value" : "Отправить приглашение"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skicka inbjudan"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44635,6 +46585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Общая сумма"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totalbelopp"
           }
         },
         "th" : {
@@ -44774,6 +46730,12 @@
             "value" : "Всего активов"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total förmögenhet"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44909,6 +46871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Всего активов · около %@ вон в реальных деньгах"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total förmögenhet · cirka %@ won i riktiga pengar"
           }
         },
         "th" : {
@@ -45048,6 +47016,12 @@
             "value" : "Последние операции"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senaste transaktioner"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45183,6 +47157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till"
           }
         },
         "th" : {
@@ -45322,6 +47302,12 @@
             "value" : "Снять"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta ut"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45457,6 +47443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отмена"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avbryt"
           }
         },
         "th" : {
@@ -45596,6 +47588,12 @@
             "value" : "Почему популярные игрушки дорожают перед Рождеством?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varför blir populära leksaker dyrare till jul?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45731,6 +47729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Экраны для крупного текста"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skärmar för stor text"
           }
         },
         "th" : {
@@ -45870,6 +47874,12 @@
             "value" : "Вложения"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investerat"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46005,6 +48015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продажа вложений"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringsförsäljning"
           }
         },
         "th" : {
@@ -46144,6 +48160,12 @@
             "value" : "Покупка вложений"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringsköp"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46279,6 +48301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продукты для вложений"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringsprodukter"
           }
         },
         "th" : {
@@ -46418,6 +48446,12 @@
             "value" : "Добавить продукт для вложений"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till investeringsprodukt"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46553,6 +48587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рынок вложений 📈"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringsmarknad 📈"
           }
         },
         "th" : {
@@ -46692,6 +48732,12 @@
             "value" : "Стоимость вложений: %@ %@"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringsvärde: %@ %@"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46827,6 +48873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вложить деньги — всё равно что посадить деньги. Если семечко хорошо растёт, вырастет большое дерево, но оно может и завять. В отличие от накоплений, при вложениях деньги могут и вырасти, и уменьшиться.\n\nЗапомни главное правило: чем больше можно заработать, тем больше можно потерять. И если положить все яйца в одну корзину, при падении разобьются все. Раскладывай по разным (диверсификация). Сажай только столько, сколько не жалко потерять."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att investera är som att plantera pengar. Om fröet växer bra blir det ett stort träd, men det kan också vissna. Till skillnad från att spara kan pengarna öka eller minska när man investerar.\n\nKom ihåg regeln: ju mer du kan vinna, desto mer kan du också förlora. Och om du lägger alla ägg i samma korg går alla sönder när den faller. Sprid dem (diversifiering). Plantera bara så mycket du tål att förlora."
           }
         },
         "th" : {
@@ -46966,6 +49018,12 @@
             "value" : "Вложения и риск"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investering och risk"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47101,6 +49159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Инвестор"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investerare"
           }
         },
         "th" : {
@@ -47240,6 +49304,12 @@
             "value" : "Выберите инвестора"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj investerare"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47375,6 +49445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Чтобы вкладывать, сначала добавьте ребёнка на главном экране."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "För att investera, lägg först till ett barn på Hem."
           }
         },
         "th" : {
@@ -47514,6 +49590,12 @@
             "value" : "Нет продуктов для вложений"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga investeringsprodukter till salu"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47649,6 +49731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Экран для складного iPhone"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skärm för vikbar iPhone"
           }
         },
         "th" : {
@@ -47788,6 +49876,12 @@
             "value" : "Используйте широкий экран складного iPhone в двух панелях."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Använd den breda skärmen på en vikbar iPhone delad i två paneler."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47923,6 +50017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сначала нужное, потом желаемое!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Först behov, sedan önskningar!"
           }
         },
         "th" : {
@@ -48062,6 +50162,12 @@
             "value" : "Нужды и желания"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behov och önskningar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48197,6 +50303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Что будет, если покупать желания, а нужное не купить?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad händer om man köper önskningar och låter bli att köpa behov?"
           }
         },
         "th" : {
@@ -48336,6 +50448,12 @@
             "value" : "Фильтр"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48471,6 +50589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сбросить фильтры"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rensa filter"
           }
         },
         "th" : {
@@ -48610,6 +50734,12 @@
             "value" : "Сильно колеблется — до ±15 %% в день! Можно много заработать и много потерять."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rör sig kraftigt, upp till ±15 %% per dag! Du kan vinna mycket eller förlora mycket."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48745,6 +50875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Двигается понемногу, примерно ±2 %% в день. Риск потерь невысокий."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rör sig lite i taget, ungefär ±2 %% per dag. Liten risk att förlora."
           }
         },
         "th" : {
@@ -48884,6 +51020,12 @@
             "value" : "Растёт и падает примерно на ±6 %% в день. Умеренный вызов."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Går upp och ner ungefär ±6 %% per dag. En lagom utmaning."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49019,6 +51161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Введите ещё раз"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ange den en gång till"
           }
         },
         "th" : {
@@ -49158,6 +51306,12 @@
             "value" : "Экспериментируем вместе · Калькулятор сложных процентов 🧮"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prova tillsammans · Ränta på ränta-kalkylator 🧮"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49293,6 +51447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Экспериментируем вместе · Опыт с инфляцией 🎈"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prova tillsammans · Inflationsexperiment 🎈"
           }
         },
         "th" : {
@@ -49432,6 +51592,12 @@
             "value" : "Текущая цена"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuellt pris"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49567,6 +51733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кошелёк сейчас"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuvarande plånbok"
           }
         },
         "th" : {
@@ -49706,6 +51878,12 @@
             "value" : "Виджеты на экране «Домой»"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgetar på hemskärmen"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49841,6 +52019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Валюта «%@» · Проценты в неделю %@%%"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valuta ”%@” · Veckoränta %@ %%"
           }
         },
         "th" : {
@@ -49980,6 +52164,12 @@
             "value" : "Название валюты"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valutans namn"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50115,6 +52305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ОК"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "th" : {
@@ -50254,6 +52450,12 @@
             "value" : "Курс обмена"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Växelkurs"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50389,6 +52591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рассчитывается автоматически по курсу 1 %@ = %@ вон."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Räknas automatiskt med 1 %@ = %@ won."
           }
         },
         "th" : {
@@ -50528,6 +52736,12 @@
             "value" : "Курс: 1 %@ ="
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Växelkurs: 1 %@ ="
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50663,6 +52877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Деньгами становится то, что редко встречается и чему все доверяют."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "För att vara pengar måste något vara sällsynt och alla måste lita på det."
           }
         },
         "th" : {
@@ -50802,6 +53022,12 @@
             "value" : "🌱 %@, приглашаем вас в СукСук Карманные!\n\nДавайте вместе пользоваться домашней валютой «%@»:\n• Копите карманные деньги и платите ими 💸\n• Если копить, каждую неделю начисляется %@%% 🏦\n• Узнавайте об экономике на примере вложений 📈\n\nОткройте приложение СукСук Карманные на устройстве с той же учётной записью iCloud, что и у родителей, — и вы сразу сможете присоединиться!"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, du är inbjuden till SukSuk Fickpengar!\n\nLåt oss använda vår hemmavaluta ”%@” tillsammans:\n• Spara fickpengarna och betala med dem 💸\n• När du sparar får du %@ %% ränta varje vecka 🏦\n• Lär dig om ekonomi med investeringsprodukter 📈\n\nÖppna appen SukSuk Fickpengar på en enhet som är inloggad med samma iCloud-konto som dina föräldrars enhet så är du med direkt!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50937,6 +53163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Учёба"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Lär dig"
           }
         },
         "th" : {
@@ -51076,6 +53308,12 @@
             "value" : "🏛️ Рынок"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Marknad"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51211,6 +53449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Родительский режим"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Föräldraläge"
           }
         },
         "th" : {
@@ -51350,6 +53594,12 @@
             "value" : "🏦 Накопления"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Sparande"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51485,6 +53735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Накопительный счёт"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Sparkonto"
           }
         },
         "th" : {
@@ -51624,6 +53880,12 @@
             "value" : "🏪 Домашний магазин"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Hemmabutik"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51759,6 +54021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Штрихкод товара"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Streckkod för vara"
           }
         },
         "th" : {
@@ -51898,6 +54166,12 @@
             "value" : "👨‍👩‍👧‍👦 Члены семьи"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Familjemedlemmar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52033,6 +54307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Приглашение"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Inbjudan"
           }
         },
         "th" : {
@@ -52172,6 +54452,12 @@
             "value" : "💡 Деньги, которые просто лежат, теряют силу. Защитите их накоплениями (проценты) или вложениями!"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Pengar som bara ligger förlorar kraft. Skydda dem med sparande (ränta) eller investeringar!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52307,6 +54593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 Приглашение можно отправить сообщением или через мессенджер.\nНа устройствах с той же учётной записью iCloud данные появятся автоматически."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Du kan skicka inbjudan som meddelande eller i en chattapp.\nPå enheter som är inloggade med samma iCloud-konto visas uppgifterna automatiskt."
           }
         },
         "th" : {
@@ -52446,6 +54738,12 @@
             "value" : "💡 Цены меняются раз в день. Купить дёшево и продать дорого — прибыль, наоборот — убыток!"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Priserna ändras en gång om dagen. Köp billigt och sälj dyrt ger vinst, tvärtom ger förlust!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52581,6 +54879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Оплата"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Betala"
           }
         },
         "th" : {
@@ -52720,6 +55024,12 @@
             "value" : "💵 Кошелёк"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Plånbok"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52855,6 +55165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Управление деньгами"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Hantera pengar"
           }
         },
         "th" : {
@@ -52994,6 +55310,12 @@
             "value" : "💸 Карманные деньги"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Fickpengar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53129,6 +55451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Вложения"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Investera"
           }
         },
         "th" : {
@@ -53268,6 +55596,12 @@
             "value" : "📈 Продукты для вложений"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Investeringsprodukter"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53403,6 +55737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Режим телефона ребёнка"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Barntelefonläge"
           }
         },
         "th" : {
@@ -53542,6 +55882,12 @@
             "value" : "📷 Сканировать и оплатить"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Skanna och betala"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53679,6 +56025,12 @@
             "value" : "🔐 Вернуться в родительский режим"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Tillbaka till föräldraläget"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53814,6 +56166,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 История операций"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Transaktioner"
           }
         },
         "th" : {

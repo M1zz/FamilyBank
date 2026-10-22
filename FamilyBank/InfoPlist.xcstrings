@@ -111,6 +111,12 @@
             "value" : "СукСук Карманные"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Fickpengar"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -247,6 +253,12 @@
             "value" : "Камера нужна, чтобы ребёнок мог отсканировать штрихкод товара и оплатить."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kameran behövs för att barnet ska kunna skanna en varas streckkod och betala."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -381,6 +393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID используется для подтверждения родителя при разблокировке действий."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID används för att bekräfta en förälder när åtgärder låses upp."
           }
         },
         "th" : {

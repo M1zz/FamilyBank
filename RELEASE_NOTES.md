@@ -158,3 +158,10 @@ Wyślij opinię z trybu rodzica.
 Czytaj odpowiedzi na opinie w aplikacji.
 Otwieraj prywatność i pomoc w aplikacji.
 Aplikacja działa stabilniej.
+
+### 앱스토어 (svenska)
+
+Skicka feedback från föräldraläget.
+Läs svar på din feedback i appen.
+Öppna integritet och support i appen.
+Appen fungerar nu stabilare.
