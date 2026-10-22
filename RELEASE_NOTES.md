@@ -109,3 +109,10 @@ Pošli nám názor z rodičovského režimu.
 Odpovědi na názory čti v aplikaci.
 Soukromí a podporu otevřeš v aplikaci.
 Aplikace běží stabilněji.
+
+### 앱스토어 (dansk)
+
+Send feedback fra forældretilstand.
+Læs svar på din feedback i appen.
+Åbn privatliv og support i appen.
+Appen kører nu mere stabilt.

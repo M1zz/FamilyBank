@@ -10,6 +10,12 @@
             "value" : "%@ %@ — zaplatit %@ %@?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — betal %@ %@?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zaplatit %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betal %@ %@"
           }
         },
         "de" : {
@@ -200,6 +212,12 @@
             "value" : "Dát %@ %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv %@ %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -293,6 +311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odečíst %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Træk %@ %@ fra"
           }
         },
         "de" : {
@@ -390,6 +414,12 @@
             "value" : "Koupit %1$@ %2$@ za %3$@ %4$@?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Køb %1$@ %2$@ for %3$@ %4$@?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -483,6 +513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Našetřil(a) jsi %@ %@! Každý týden se přičtou úroky. 💰"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har sparet %@ %@ op! Der lægges renter til hver uge. 💰"
           }
         },
         "de" : {
@@ -580,6 +616,12 @@
             "value" : "%@ %@ bylo přesunuto do peněženky."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ er flyttet til pungen."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -673,6 +715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Držené investice: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beholdning for %@ %@"
           }
         },
         "de" : {
@@ -770,6 +818,12 @@
             "value" : "Banka: %@ %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@s bank"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -863,6 +917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Udělat z toho telefon: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gør til telefon for %@ %@"
           }
         },
         "de" : {
@@ -960,6 +1020,12 @@
             "value" : "Koupil(a) jsi %2$lld podílů produktu %1$@! 📈"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har købt %2$lld andele af %1$@! 📈"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1053,6 +1119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prodal(a) jsi %2$lld podílů produktu %1$@! %3$@ %4$@ přibyly do peněženky."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har solgt %2$lld andele af %1$@! %3$@ %4$@ er kommet ind i pungen."
           }
         },
         "de" : {
@@ -1150,6 +1222,12 @@
             "value" : "%@ %% (složené)"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (renters rente)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1243,6 +1321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zveme %@\ndo SukSuk Kapesné!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inviter %@\ntil SukSuk Lommepenge!"
           }
         },
         "de" : {
@@ -1340,6 +1424,12 @@
             "value" : "Zaplatil(a) jsi %2$@ %3$@: %1$@."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du betalte %2$@ %3$@ til %1$@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1433,6 +1523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dal(a) jsi %2$@ %3$@: %1$@! 🎁"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du gav %1$@ %2$@ %3$@! 🎁"
           }
         },
         "de" : {
@@ -1530,6 +1626,12 @@
             "value" : "%@ wonů → %@ %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ won → %@ %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1623,6 +1725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Koupil(a) jsi: %@! V peněžence zbývá: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har købt %@! Der er tilbage i pungen: %@ %@"
           }
         },
         "de" : {
@@ -1720,6 +1828,12 @@
             "value" : "Koupil(a) jsi: %@! 🎉 V peněžence zbývá: %@ %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har købt %@! 🎉 Der er tilbage i pungen: %@ %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1813,6 +1927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "V peněžence (%@) není dost peněz."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@s pung har ikke penge nok."
           }
         },
         "de" : {
@@ -1910,6 +2030,12 @@
             "value" : "Z peněženky (%1$@) bylo odečteno %2$@ %3$@."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %3$@ blev trukket fra %1$@s pung."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2003,6 +2129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Krok %lld"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trin %lld"
           }
         },
         "de" : {
@@ -2100,6 +2232,12 @@
             "value" : "Krok %lld · %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trin %lld · %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2193,6 +2331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld podílů · průměr %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld andele · gns. %@"
           }
         },
         "de" : {
@@ -2290,6 +2434,12 @@
             "value" : "Hodnota toho, co si lze koupit za %lld týdnů"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Værdien af det, man kan købe efter %lld uger"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2383,6 +2533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Po %lld týdnech: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Efter %lld uger: %@ %@"
           }
         },
         "de" : {
@@ -2480,6 +2636,12 @@
             "value" : "„Potřeba“ je něco, bez čeho by byl problém: jídlo, oblečení, školní pomůcky. „Přání“ je něco, z čeho máš radost, ale dá se bez toho žít: hračky, herní předměty.\n\nDůležité je obojí! Ale záleží na pořadí. Nejdřív zajisti potřeby, a pak ze zbylých peněz podle plánu splň přání."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Et “behov” er noget, man får problemer uden: mad, tøj, skoleting. Et “ønske” er noget, der er sjovt at have, men som man godt kan undvære: legetøj, ting i spil.\n\nBegge dele er vigtige! Men rækkefølgen betyder noget. Tag først hånd om behovene, og brug så de penge, der er tilbage, til at opfylde ønsker efter en plan."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2573,6 +2735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ wonů"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ won"
           }
         },
         "de" : {
@@ -2670,6 +2838,12 @@
             "value" : "Skutečná hodnota 1 %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reel værdi af 1 %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2763,6 +2937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ wonů"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ won"
           }
         },
         "de" : {
@@ -2860,6 +3040,12 @@
             "value" : "Jak se změní „skutečná síla“ 1 000 %@?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan ændrer den “rigtige kraft” i 1.000 %@ sig?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2953,6 +3139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když uložíš 1 000 mincí s úrokem 5 %%, kolik budeš mít za týden?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis du sætter 1.000 mønter ind til 5 %% rente, hvor meget har du så efter en uge?"
           }
         },
         "de" : {
@@ -3050,6 +3242,12 @@
             "value" : "Máš 1 000 mincí a chtěl(a) bys koupit sladkosti i samolepky. Jenže peníze stačí jen na jedno. Co teď? Když vybereš jedno, musíš se vzdát druhého.\n\nTomu, čeho se vzdáš, se říká „náklady obětované příležitosti“. Platí to i pro čas. Když hraješ hodinu hry, vzdal(a) ses všeho, co jsi mohl(a) za tu hodinu dělat."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har 1.000 mønter, og du vil gerne købe både slik og klistermærker. Men pengene rækker kun til én ting. Hvad gør du? Vælger du den ene, må du give afkald på den anden.\n\nDet, du giver afkald på, kaldes “alternativomkostning”. Det gælder også tid. Hvis du spiller i en time, har du givet afkald på alt det andet, du kunne have lavet i den time."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3143,6 +3341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odhad za 12 týdnů: %@ %@ (+%@)"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forventet om 12 uger: %@ %@ (+%@)"
           }
         },
         "de" : {
@@ -3240,6 +3444,12 @@
             "value" : "Cena za podíl"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pris pr. andel"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3333,6 +3543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Otevřít přes Face ID"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åbn med Face ID"
           }
         },
         "de" : {
@@ -3430,6 +3646,12 @@
             "value" : "Změnit PIN"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skift PIN"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3523,6 +3745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zadejte PIN"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indtast PIN"
           }
         },
         "de" : {
@@ -3620,6 +3848,12 @@
             "value" : "PIN musí mít 4 číslice."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN-koden skal have 4 cifre."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3713,6 +3947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeptejte se Siri a hned uvidíte zůstatek dítěte."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spørg Siri og se straks barnets saldo."
           }
         },
         "de" : {
@@ -3810,6 +4050,12 @@
             "value" : "Siri a Zkratky"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri og Genveje"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3903,6 +4149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Otevřít přes Touch ID"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åbn med Touch ID"
           }
         },
         "de" : {
@@ -4000,6 +4252,12 @@
             "value" : "VoiceOver přečte všechny zůstatky a tlačítka v pořadí, jak mají být."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver læser alle saldi og knapper op, i den rigtige rækkefølge."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4093,6 +4351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pohodlnější VoiceOver"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nemmere at bruge VoiceOver"
           }
         },
         "de" : {
@@ -4190,6 +4454,12 @@
             "value" : "≈ %@ wonů"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ won"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4283,6 +4553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ Nastavení banky"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Bankindstillinger"
           }
         },
         "de" : {
@@ -4380,6 +4656,12 @@
             "value" : "⚡️ Akce"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Handlinger"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4473,6 +4755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Obchůdek"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Butik"
           }
         },
         "de" : {
@@ -4570,6 +4858,12 @@
             "value" : "Zapsat do obchůdku"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opret i butikken"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4663,6 +4957,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cena"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pris"
           }
         },
         "de" : {
@@ -4760,6 +5060,12 @@
             "value" : "Cena se tvoří tam, kde se potkává chuť koupit s množstvím k prodeji."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisen bliver til, hvor lysten til at købe og mængden til salg mødes."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4853,6 +5159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pochopit, jak se tvoří ceny"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forstå hvordan priser bliver til"
           }
         },
         "de" : {
@@ -4950,6 +5262,12 @@
             "value" : "Cenovky 🏷️"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisskilte 🏷️"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5043,6 +5361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přidejte členy rodiny"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opret familiemedlemmerne"
           }
         },
         "de" : {
@@ -5140,6 +5464,12 @@
             "value" : "Přidat rodinu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opret familie"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5233,6 +5563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Žádné transakce"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen transaktioner"
           }
         },
         "de" : {
@@ -5330,6 +5666,12 @@
             "value" : "Typ transakce"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transaktionstype"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5423,6 +5765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Který je rizikovější, Fond Želva, nebo Fond Raketa? Proč?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad er mest risikabelt, Skildpaddefonden eller Raketfonden? Hvorfor?"
           }
         },
         "de" : {
@@ -5520,6 +5868,12 @@
             "value" : "Jaké jsou náklady obětované příležitosti jedné hodiny hraní?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad er alternativomkostningen ved en times spil?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5613,6 +5967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Platba"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betaling"
           }
         },
         "de" : {
@@ -5710,6 +6070,12 @@
             "value" : "Platba se nezdařila"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betalingen mislykkedes"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5803,6 +6169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zaplaceno! 🎉"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betalingen er gennemført! 🎉"
           }
         },
         "de" : {
@@ -5900,6 +6272,12 @@
             "value" : "Zaplatit"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betal"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5993,6 +6371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peníze s plánem vydrží déle."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penge med en plan holder længere."
           }
         },
         "de" : {
@@ -6090,6 +6474,12 @@
             "value" : "Pochopit, že vyšší zisk znamená vyšší riziko"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forstå at større gevinst følger med større risiko"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6183,6 +6573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kategorie"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategori"
           }
         },
         "de" : {
@@ -6280,6 +6676,12 @@
             "value" : "Člen"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medlem"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6373,6 +6775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přidat člena"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj medlem"
           }
         },
         "de" : {
@@ -6470,6 +6878,12 @@
             "value" : "Při zvětšení písma se obrazovky přeskládají a nic se neořízne."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du gør teksten større, bliver skærmene lagt pænt om i stedet for at blive skåret af."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6563,6 +6977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Částka"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beløb"
           }
         },
         "de" : {
@@ -6660,6 +7080,12 @@
             "value" : "Doba: %lld týdnů"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periode: %lld uger"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6753,6 +7179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historie"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historik"
           }
         },
         "de" : {
@@ -6850,6 +7282,12 @@
             "value" : "Náklady obětované příležitosti"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alternativomkostning"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6943,6 +7381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rozlišit, co opravdu potřebuju a co si jen přeju"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skelne mellem det, man virkelig har brug for, og det, man bare ønsker sig"
           }
         },
         "de" : {
@@ -7040,6 +7484,12 @@
             "value" : "Moje historie"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min historik"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7133,6 +7583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Můj spořicí účet"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min sparekonto"
           }
         },
         "de" : {
@@ -7230,6 +7686,12 @@
             "value" : "Moje peněženka"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min pung"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7323,6 +7785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moje peněženka: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min pung: %@ %@"
           }
         },
         "de" : {
@@ -7420,6 +7888,12 @@
             "value" : "Představ si, že máš rybu a potřebuješ boty. Jenže když prodavač bot ryby nemá rád, nemůžeš si vyměnit, že? Lidé dávno taky přišli na to, že je to hrozně nepraktické. Vymysleli proto něco, co mají rádi všichni: „peníze“.\n\nPeníze mají tři úkoly. Za prvé: dá se za ně vyměnit cokoli (směna). Za druhé: ukazují, kolik každá věc stojí (měřítko hodnoty). Za třetí: dají se schovat a použít později (uchování)."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forestil dig, at du har en fisk og skal bruge sko. Men hvis skohandleren ikke kan lide fisk, kan I ikke bytte, vel? Folk i gamle dage syntes også, det var meget besværligt. Så de fandt på noget, som alle kan lide: “penge”.\n\nPenge har tre opgaver. For det første kan man bytte dem til næsten hvad som helst (byttemiddel). For det andet kan man se, hvor meget hver ting er værd (værdimåler). For det tredje kan man gemme dem og bruge dem senere (opbevaring)."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7513,6 +7987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Koho chcete pozvat?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvem vil du invitere?"
           }
         },
         "de" : {
@@ -7610,6 +8090,12 @@
             "value" : "Komu zaplatíš?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvem betaler du til?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7703,6 +8189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Komu?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Til hvem?"
           }
         },
         "de" : {
@@ -7800,6 +8292,12 @@
             "value" : "Co se stane, když kutálíš sněhovou kouli? Čím víc se kutálí, tím rychleji roste, že? Složené úročení je přesně takové.\n\nKdyž k 1 000 mincím přibude úrok 50, je z toho 1 050. Příští týden se úrok počítá ze všech 1 050. I peníze, které vydělaly úroky, vydělávají další úroky! Zpočátku to není znát, ale časem to naroste jako sněhová koule."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad sker der, når man ruller en snebold? Jo længere den ruller, jo hurtigere vokser den, ikke? Renters rente er præcis sådan.\n\nHvis 1.000 mønter får 50 i rente, bliver det til 1.050. Næste uge beregnes renten af hele de 1.050. Pengene, som renterne har tjent, får også renter! I starten kan man ikke mærke det, men med tiden vokser det som en snebold."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7893,6 +8391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Další"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Næste"
           }
         },
         "de" : {
@@ -7990,6 +8494,12 @@
             "value" : "Zavřít"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luk"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8083,6 +8593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peníze, které teď nepotřebuješ, patří na spořicí účet!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penge, du ikke bruger lige nu, hører hjemme på sparekontoen!"
           }
         },
         "de" : {
@@ -8180,6 +8696,12 @@
             "value" : "Zůstatky a historii přečtete snadno, i když zapnete vyšší kontrast nebo hůř rozlišujete barvy."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du kan nemt læse saldi og historik, selv med højere kontrast eller hvis det er svært at skelne farver."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8273,6 +8795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přehled"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overblik"
           }
         },
         "de" : {
@@ -8370,6 +8898,12 @@
             "value" : "Aplikaci půjde používat ve více jazycích."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appen kan bruges på flere sprog."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8463,6 +8997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Další jazyky"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flere sprog"
           }
         },
         "de" : {
@@ -8560,6 +9100,12 @@
             "value" : "Peníze jsou nástroj na směňování, měření a uchovávání."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penge er et redskab til at bytte, måle og gemme."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8653,6 +9199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "K čemu jsou peníze?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvorfor har vi brug for penge?"
           }
         },
         "de" : {
@@ -8750,6 +9302,12 @@
             "value" : "Vytvořit si zvyk peníze plánovat a rozdělovat"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Få for vane at planlægge og fordele sine penge"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8843,6 +9401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pochopit, proč peníze vznikly a co dělají"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forstå hvorfor penge opstod, og hvad de bruges til"
           }
         },
         "de" : {
@@ -8940,6 +9504,12 @@
             "value" : "Zadané PINy se neshodují."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De to PIN-koder er ikke ens."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9033,6 +9603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zatím tu nejsou žádné položky. Nejdřív je přidejte do obchůdku pomocí „Přidat položku“."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er ingen varer endnu. Tilføj først varer til butikken med “Tilføj vare”."
           }
         },
         "de" : {
@@ -9130,6 +9706,12 @@
             "value" : "Žádné přidané děti"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen børn oprettet"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9223,6 +9805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mohla by být penězi kostička LEGO? Prošla by pěti zkouškami?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne en LEGO-klods være penge? Ville den bestå de fem prøver?"
           }
         },
         "de" : {
@@ -9320,6 +9908,12 @@
             "value" : "Co by se stalo, kdyby na světě nebyly peníze?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad ville der ske, hvis der ikke fandtes penge i verden?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9413,6 +10007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prodat"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sælg"
           }
         },
         "de" : {
@@ -9510,6 +10110,12 @@
             "value" : "Koupit"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Køb"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9603,6 +10209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Každý týden ceny rostou o %@ %%. Znamená to, že za stejné peníze koupíš postupně o něco míň."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver uge stiger priserne med %@%%. Det betyder, at man for de samme penge kan købe lidt mindre og mindre."
           }
         },
         "de" : {
@@ -9700,6 +10312,12 @@
             "value" : "Ceny rostou každý týden"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priserne stiger hver uge"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9793,6 +10411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Každý týden cenový index našeho domova vzroste o tuto hodnotu (aktuální index %lld). Při 0 %% inflace není. Když o trochu zvýšíte i skutečné ceny svačin a hraček, dítě pochopí, jak se mění hodnota peněz."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver uge stiger prisindekset hjemme hos os med dette beløb (nuværende indeks %lld). Ved 0 %% er der ingen inflation. Hvis du også sætter de rigtige priser på snacks og legetøj lidt op, lærer dit barn, hvordan pengenes værdi ændrer sig."
           }
         },
         "de" : {
@@ -9890,6 +10514,12 @@
             "value" : "Poznámka (např.: koupit svačinu)"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note (f.eks.: køb en snack)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9983,6 +10613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Poznámka (např.: týdenní kapesné)"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note (f.eks.: ugens lommepenge)"
           }
         },
         "de" : {
@@ -10080,6 +10716,12 @@
             "value" : "Co se stane s cenou věci, kterou chtějí prodat všichni?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad sker der med prisen på noget, som alle vil sælge?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10173,6 +10815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Všichni členové, transakce a investiční produkty budou smazány a vrátíte se na úvodní obrazovku nastavení."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle medlemmer, transaktioner og investeringsprodukter slettes, og du kommer tilbage til opsætningsskærmen."
           }
         },
         "de" : {
@@ -10270,6 +10918,12 @@
             "value" : "Resetovat všechna data"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nulstil alle data"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10363,6 +11017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Za každou volbou se skrývá něco, čeho ses vzdal(a)."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bag hvert valg gemmer sig noget, man har givet afkald på."
           }
         },
         "de" : {
@@ -10460,6 +11120,12 @@
             "value" : "Na co to je?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad skal det bruges til?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10553,6 +11219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Růst cen"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisstigning"
           }
         },
         "de" : {
@@ -10650,6 +11322,12 @@
             "value" : "Vývoj cen 📊"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisudvikling 📊"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10743,6 +11421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když rostou ceny, za stejné peníze koupíte méně"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når priserne stiger, kan man købe mindre for de samme penge"
           }
         },
         "de" : {
@@ -10840,6 +11524,12 @@
             "value" : "Když rostou ceny, peníze ztrácejí sílu. Proto je potřeba spořit a investovat."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når priserne stiger, mister penge kraft. Derfor er opsparing og investering vigtigt."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10933,6 +11623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pochopit, že když rostou ceny, peníze ztrácejí sílu"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forstå at penge mister kraft, når priserne stiger"
           }
         },
         "de" : {
@@ -11030,6 +11726,12 @@
             "value" : "Když rostou ceny, je dobré nechat peníze jen tak ležet v peněžence?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når priserne stiger, er det så en god idé bare at lade pengene ligge i pungen?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11123,6 +11825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cenový index"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisindeks"
           }
         },
         "de" : {
@@ -11220,6 +11928,12 @@
             "value" : "V prodeji položek: %lld · směnný kurz se použije automaticky"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld varer til salg · valutakurs anvendes automatisk"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11313,6 +12027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Čárový kód položky"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stregkode til vare"
           }
         },
         "de" : {
@@ -11410,6 +12130,12 @@
             "value" : "Zaměřte čárový kód položky do rámečku"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placér varens stregkode inde i rammen"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11503,6 +12229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Název položky (např.: limonáda, 30 min hraní)"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varenavn (f.eks.: sodavand, 30 min. spil)"
           }
         },
         "de" : {
@@ -11600,6 +12332,12 @@
             "value" : "Údaje o položce"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varedetaljer"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11693,6 +12431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přidat položku"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj vare"
           }
         },
         "de" : {
@@ -11790,6 +12534,12 @@
             "value" : "Čárový kód"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stregkode"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11883,6 +12633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Příjemce"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modtager"
           }
         },
         "de" : {
@@ -11980,6 +12736,12 @@
             "value" : "Přijaté peníze"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modtaget"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12073,6 +12835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Není nikdo, kdo by platbu přijal"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er ingen modtager"
           }
         },
         "de" : {
@@ -12170,6 +12938,12 @@
             "value" : "Učení"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lær"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12263,6 +13037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Záloha a export"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sikkerhedskopi og eksport"
           }
         },
         "de" : {
@@ -12360,6 +13140,12 @@
             "value" : "Příjemnější barvy a kontrast"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behagelige farver og kontrast"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12453,6 +13239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nemáš dost podílů."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har ikke andele nok."
           }
         },
         "de" : {
@@ -12550,6 +13342,12 @@
             "value" : "Držené investiční produkty"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringer, du ejer"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12643,6 +13441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vyvážený 🐰"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moderat 🐰"
           }
         },
         "de" : {
@@ -12740,6 +13544,12 @@
             "value" : "Kouzlo složeného úročení"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renters rentes magi"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12833,6 +13643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rodič"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forælder"
           }
         },
         "de" : {
@@ -12930,6 +13746,12 @@
             "value" : "Průvodce pro rodiče 📖"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forældreguide 📖"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13023,6 +13845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rodičovský režim"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forældretilstand"
           }
         },
         "de" : {
@@ -13120,6 +13948,12 @@
             "value" : "Nastavte PIN rodičovského režimu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vælg en PIN-kode til forældretilstand"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13213,6 +14047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Produkty můžete přidat v rodičovském režimu"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du kan tilføje produkter i forældretilstand"
           }
         },
         "de" : {
@@ -13310,6 +14150,12 @@
             "value" : "Slouží k potvrzení, že jste rodič"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bruges til at bekræfte, at du er forælder"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13403,6 +14249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je potřeba potvrzení rodiče"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det kræver en forælders bekræftelse"
           }
         },
         "de" : {
@@ -13500,6 +14352,12 @@
             "value" : "Rodiče 🏦"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forældre 🏦"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13593,6 +14451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rodiče hrají roli banky (centrální banky) a děti jsou zákazníci."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forældre er banken (centralbanken), og børnene er kunderne."
           }
         },
         "de" : {
@@ -13690,6 +14554,12 @@
             "value" : "Je potřeba potvrzení rodiče"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det kræver en forælders bekræftelse"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13783,6 +14653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přidejte alespoň jednoho rodiče."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opret mindst én forælder."
           }
         },
         "de" : {
@@ -13880,6 +14756,12 @@
             "value" : "Představ si prodavače deštníků v deštivý den. Deštník chce hodně lidí, ale je jich jen pár? I za vyšší cenu se prodají. A plavky na konci léta? Nikdo je nechce kupovat, takže se musí prodávat levně.\n\nCena se tak tvoří přetahováním mezi „chutí koupit“ (poptávka) a „množstvím k prodeji“ (nabídka). Ceny investic rostou a klesají podle stejného principu."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tænk på en paraplysælger en regnvejrsdag. Mange vil have en paraply, men der er kun få? Selv med en højere pris bliver de solgt. Og badetøj efter sommerens slutning? Ingen vil købe det, så det må sælges billigt.\n\nPrisen bliver til i et slags tovtrækkeri mellem “lysten til at købe” (efterspørgsel) og “mængden til salg” (udbud). Priserne på investeringer går op og ned efter samme princip."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13975,6 +14857,12 @@
             "value" : "Koupit"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Køb"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14065,6 +14953,12 @@
       "comment" : "MemberDetailView.swift:101",
       "localizations" : {
         "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produkt"
+          }
+        },
+        "da" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Produkt"
@@ -14165,6 +15059,12 @@
             "value" : "Název produktu (např.: Fond Hvězdné světlo)"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produktnavn (f.eks.: Stjernelys-fonden)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14258,6 +15158,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Údaje o produktu"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produktdetaljer"
           }
         },
         "de" : {
@@ -14355,6 +15261,12 @@
             "value" : "Přidat produkt"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj produkt"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14448,6 +15360,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nový 4místný PIN"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ny PIN med 4 cifre"
           }
         },
         "de" : {
@@ -14545,6 +15463,12 @@
             "value" : "Pochopit, že když něco vybereš, něčeho se vzdáváš"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forstå at et valg betyder, at man giver afkald på noget andet"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14638,6 +15562,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Popis (volitelné)"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beskrivelse (valgfri)"
           }
         },
         "de" : {
@@ -14735,6 +15665,12 @@
             "value" : "Hmatová odezva"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mærkbar respons"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14828,6 +15764,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Množství: %lld podílů"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antal: %lld andele"
           }
         },
         "de" : {
@@ -14925,6 +15867,12 @@
             "value" : "Nabídka a poptávka"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udbud og efterspørgsel"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15018,6 +15966,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Větší zisk znamená větší riziko. Rozlož to a riskuj jen to, co můžeš ztratit!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Større gevinst betyder større risiko. Fordel og risikér kun det, du kan miste!"
           }
         },
         "de" : {
@@ -15115,6 +16069,12 @@
             "value" : "4 číslice"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 cifre"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15208,6 +16168,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Základ 100 na začátku"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start = 100"
           }
         },
         "de" : {
@@ -15305,6 +16271,12 @@
             "value" : "Počáteční cena"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Startpris"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15398,6 +16370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "+%@ %% od začátku"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% siden start"
           }
         },
         "de" : {
@@ -15495,6 +16473,12 @@
             "value" : "Začít 🎉"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom i gang 🎉"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15588,6 +16572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trh"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marked"
           }
         },
         "de" : {
@@ -15685,6 +16675,12 @@
             "value" : "Na kartě Trh se společně podívejte na cenovky v obchůdku a povídejte si, proč mají různé věci různou cenu."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gå ind på fanen Marked og se prisskiltene i butikken sammen. Tal om, hvorfor tingene koster forskellige beløb."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15778,6 +16774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na kartě Trh se společně podívejte na cenový index a graf vývoje cen a pak vyzkoušejte „Pokus s inflací“ níže."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se sammen på prisindekset og grafen over prisudviklingen på fanen Marked, og prøv derefter “Inflationsforsøg” herunder."
           }
         },
         "de" : {
@@ -15875,6 +16877,12 @@
             "value" : "Na kartě Trh sledujte, jak se ceny investic každý den mění, a povídejte si o tom, že „když chce kupovat hodně lidí, cena roste“."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se på fanen Marked, hvordan investeringspriserne ændrer sig hver dag, og tal om, at “når mange vil købe, stiger prisen”."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15968,6 +16976,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skutečná cena: %@ wonů"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rigtig pris: %@ won"
           }
         },
         "de" : {
@@ -16065,6 +17079,12 @@
             "value" : "Skutečná cena (wony)"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rigtig pris (won)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16158,6 +17178,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cena ve skutečném světě"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pris i den virkelige verden"
           }
         },
         "de" : {
@@ -16255,6 +17281,12 @@
             "value" : "Reálná hodnota"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reel værdi"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16348,6 +17380,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Začínáme se SukSuk Kapesné"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom i gang med SukSuk Lommepenge"
           }
         },
         "de" : {
@@ -16445,6 +17483,12 @@
             "value" : "Vítejte v SukSuk Kapesné!"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velkommen til SukSuk Lommepenge!"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16538,6 +17582,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipy k používání"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tips til brug"
           }
         },
         "de" : {
@@ -16635,6 +17685,12 @@
             "value" : "Pokračování v rozepsaném"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsæt, hvor du slap"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16728,6 +17784,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "V „Kalkulačce složeného úročení“ níže prodlužte dobu ze 4 na 52 týdnů. Společně sledujte, jak se graf stále víc zvedá!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I “Renters rente-beregneren” herunder kan du forlænge perioden fra 4 til 52 uger. Se sammen, hvordan grafen bliver stejlere og stejlere!"
           }
         },
         "de" : {
@@ -16825,6 +17887,12 @@
             "value" : "Pochopit, proč nemůže být penězi cokoli (vlastnosti peněz)"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forstå hvorfor ikke hvad som helst kan være penge (pengenes egenskaber)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16918,6 +17986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přesuňte polovinu dětské peněženky na spořicí účet. Po týdnu se společně podívejte na úroky — funguje to skvěle!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flyt halvdelen af dit barns pung ind på sparekontoen. En uge efter kan I sammen se renterne – det virker rigtig godt!"
           }
         },
         "de" : {
@@ -17015,6 +18089,12 @@
             "value" : "Než dítě v obchůdku zaplatí, ať vždycky řekne „jednu další věc, kterou by za tyhle peníze koupilo“."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før dit barn betaler i butikken, så lad altid barnet sige “en anden ting, man kunne købe for de penge”."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17108,6 +18188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zkuste to dítěti říct takto"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prøv at sige det sådan til dit barn"
           }
         },
         "de" : {
@@ -17205,6 +18291,12 @@
             "value" : "Postupujte s dítětem krok za krokem od kroku 1. Každý krok jde v pořadí „vysvětlit → zeptat se → vyzkoušet společně“ a stačí na něj 10 minut."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag trinene ét ad gangen sammen med dit barn fra trin 1. Hvert trin følger rækkefølgen “forklar → spørg → prøv sammen”, og 10 minutter er nok."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17298,6 +18390,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spolu s dítětem rozdělte malou částku mezi 2 produkty. Každý den společně kontrolujte ceny, ať si zvykne na to, že rostou a klesají."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fordel sammen med dit barn et lille beløb på 2 produkter. Se priserne hver dag, så barnet vænner sig til op- og nedgange."
           }
         },
         "de" : {
@@ -17395,6 +18493,12 @@
             "value" : "Zatím je málo cenových záznamů. Podívejte se znovu zítra!"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er endnu ikke nok prishistorik. Kig igen i morgen!"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17488,6 +18592,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zatím žádné transakce"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen transaktioner endnu"
           }
         },
         "de" : {
@@ -17585,6 +18695,12 @@
             "value" : "Zatím nejsou žádné položky.\nZapište si položky své rodiny v rodičovském režimu!"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen varer endnu.\nOpret jeres familiens varer i forældretilstand!"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17678,6 +18794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zatím žádné položky · přidejte je na kartě Akce"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen varer endnu · tilføj dem på fanen Handlinger"
           }
         },
         "de" : {
@@ -17775,6 +18897,12 @@
             "value" : "Zatím nic nedržíš"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen beholdning endnu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17868,6 +18996,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opatrný 🐢"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sikker 🐢"
           }
         },
         "de" : {
@@ -17965,6 +19099,12 @@
             "value" : "Upozornění"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Besked"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18058,6 +19198,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nenápadně vám v pravou chvíli poradíme užitečné funkce."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vi giver dig diskret besked om nyttige funktioner på det rette tidspunkt."
           }
         },
         "de" : {
@@ -18155,6 +19301,12 @@
             "value" : "Akce"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handlinger"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18248,6 +19400,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vyzkoušejte společně v aplikaci"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prøv sammen i appen"
           }
         },
         "de" : {
@@ -18345,6 +19503,12 @@
             "value" : "Zůstatek dítěte uvidíte rovnou na ploše, aniž byste otevírali aplikaci."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se barnets saldo direkte på hjemmeskærmen uden at åbne appen."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18438,6 +19602,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aplikaci půjde používat i anglicky."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du kan også bruge appen på engelsk."
           }
         },
         "de" : {
@@ -18535,6 +19705,12 @@
             "value" : "Kolik?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor meget?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18628,6 +19804,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kolik zaplatíš?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor meget vil du betale?"
           }
         },
         "de" : {
@@ -18725,6 +19907,12 @@
             "value" : "Při prvním otevření po aktualizaci vám řekneme, co je nového."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Første gang du åbner appen efter en opdatering, kan du se, hvad der er nyt."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18818,6 +20006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Co je nového"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nyheder"
           }
         },
         "de" : {
@@ -18915,6 +20109,12 @@
             "value" : "Role"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rolle"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19008,6 +20208,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Podpora angličtiny"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understøttelse af engelsk"
           }
         },
         "de" : {
@@ -19105,6 +20311,12 @@
             "value" : "Např.: věc, která ve skutečnosti stojí 1 000 wonů = %@ %@. Ceny položek v obchůdku v měně %@ se podle tohoto kurzu počítají automaticky."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "F.eks.: en ting, der i virkeligheden koster 1.000 won = %@ %@. Priserne på butikkens varer i %@ beregnes automatisk med denne kurs."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19198,6 +20410,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Např.: Fazole, Hvězda, Mince"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "F.eks.: Bønne, Stjerne, Mønt"
           }
         },
         "de" : {
@@ -19295,6 +20513,12 @@
             "value" : "Sestavení rozpočtu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lav et budget"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19388,6 +20612,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Co se dnes naučíme"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det lærer vi i dag"
           }
         },
         "de" : {
@@ -19485,6 +20715,12 @@
             "value" : "Hotovo"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Færdig"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19578,6 +20814,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Proč nemůže být penězi písek u cesty? Protože ho je všude spousta! Aby něco byly dobré peníze, musí to projít pěti zkouškami.\n\n① Musí vydržet (nesmí shnít!) ② Musí se snadno nosit (kráva je moc těžká — vyřazena!) ③ Musí se dát rozdělit na malé kousky ④ Nesmí být příliš běžné ⑤ Všichni musí věřit: „Tohle jsou opravdové peníze.“\n\nNaše domácí mince mají hodnotu, protože je máma s tátou netisknou, kdy se jim zachce, ale drží slovo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvorfor kan sand fra vejkanten ikke være penge? Fordi der er masser af det alle vegne! For at være gode penge skal noget bestå fem prøver.\n\n① Det skal holde længe (det må ikke rådne!) ② Det skal være nemt at bære rundt på (en ko er for tung – ude!) ③ Det skal kunne deles i små stykker ④ Det må ikke være for almindeligt ⑤ Alle skal tro på: “Det her er rigtige penge.”\n\nVores hjemmemønter er værd noget, fordi mor og far ikke laver dem, hvornår det passer dem, men holder deres løfte."
           }
         },
         "de" : {
@@ -19675,6 +20917,12 @@
             "value" : "Z věcí, které si teď chceš koupit, co je potřeba a co je přání?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Af de ting, du gerne vil købe lige nu, hvad er behov, og hvad er ønsker?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19768,6 +21016,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kapesné"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lommepenge"
           }
         },
         "de" : {
@@ -19865,6 +21119,12 @@
             "value" : "Upozornění na kapesné"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Påmindelser om lommepenge"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19958,6 +21218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dát kapesné"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv lommepenge"
           }
         },
         "de" : {
@@ -20055,6 +21321,12 @@
             "value" : "Dát / odečíst kapesné"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv / træk lommepenge fra"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20148,6 +21420,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "V den kapesného nechte dítě, ať samo určí podíl spoření, investic a útraty a podle toho jedná. Po týdnu se společně podívejte na kartu Historie."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På lommepengedagen kan du lade barnet selv bestemme fordelingen mellem opsparing, investering og forbrug og følge den. En uge senere ser I sammen på fanen Historik."
           }
         },
         "de" : {
@@ -20245,6 +21523,12 @@
             "value" : "Upozornění v den kapesného nebo při připsání úroků."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Få en besked på lommepengedagen, eller når der tilskrives renter."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20338,6 +21622,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dávat kapesné, nastavovat úroky a podobně\nmůže jen ten, kdo zná tento PIN."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun dem, der kender denne PIN-kode, kan give lommepenge,\nindstille renter og lignende."
           }
         },
         "de" : {
@@ -20435,6 +21725,12 @@
             "value" : "Lehké zavibrování oznámí příchod kapesného nebo nákup."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En let vibration fortæller dig, når lommepengene kommer, eller når noget er købt."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20528,6 +21824,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když utratíš kapesné hned, jak ho dostaneš, bez plánu, rychle zmizí. Proto se plán dělá předem. Říká se tomu „rozpočet“.\n\nNapříklad ho rozděl takhle: spoření 30, potřebné věci 40, věci, které chceš, 20, zkouška investování 10. Nemusí to být přesně takhle. Důležité je, že rozhodneš ty!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis du bruger lommepengene med det samme uden en plan, er de hurtigt væk. Derfor laver man en plan på forhånd. Det kaldes et “budget”.\n\nFordel dem for eksempel sådan her: opsparing 30, nødvendige ting 40, ting du har lyst til 20, investeringsprøve 10. Det behøver ikke være præcis sådan. Det vigtigste er, at du selv bestemmer!"
           }
         },
         "de" : {
@@ -20625,6 +21927,12 @@
             "value" : "Až dáte kapesné nebo zaplatíte, objeví se to tady"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du giver lommepenge eller betaler, vises det her"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20718,6 +22026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dávejte kapesné, platte, získávejte úroky ze spoření\na dokonce investujte — ekonomický systém jen pro vaši rodinu."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv lommepenge, betal, få renter på opsparingen\nog invester endda – et økonomisk system kun for jeres familie."
           }
         },
         "de" : {
@@ -20815,6 +22129,12 @@
             "value" : "Domácí obchůdek"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjemmebutik"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20908,6 +22228,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Společně projděte položky v domácím obchůdku a po jedné je rozřaďte na „potřeby“ a „přání“."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se varerne i hjemmebutikken sammen, og sortér dem én for én i “behov” og “ønsker”."
           }
         },
         "de" : {
@@ -21005,6 +22331,12 @@
             "value" : "Cena u nás doma"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pris derhjemme"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21098,6 +22430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Domácí ceny"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priser derhjemme"
           }
         },
         "de" : {
@@ -21195,6 +22533,12 @@
             "value" : "Jaký je teď cenový index našeho domova?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad er prisindekset hjemme hos os lige nu?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21288,6 +22632,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uložte záznamy domácí banky do souboru a později je znovu načtěte."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gem jeres hjemmebanks poster i en fil, og hent dem ind igen senere."
           }
         },
         "de" : {
@@ -21385,6 +22735,12 @@
             "value" : "Za co můžeme vyměnit naše domácí mince?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad kan vi bytte vores hjemmemønter til?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21478,6 +22834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Proč mají naše domácí mince hodnotu?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvorfor er vores hjemmemønter værd noget?"
           }
         },
         "de" : {
@@ -21575,6 +22937,12 @@
             "value" : "Množství peněz u nás doma 💰"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengemængde hjemme hos os 💰"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21668,6 +23036,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je to investiční produkt naší rodiny."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er vores families investeringsprodukt."
           }
         },
         "de" : {
@@ -21765,6 +23139,12 @@
             "value" : "Vymyslete název domácí měny"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv jeres hjemmevaluta et navn"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21858,6 +23238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peníze v oběhu u nás doma"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penge i omløb hjemme hos os"
           }
         },
         "de" : {
@@ -21955,6 +23341,12 @@
             "value" : "Omezení pohybu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reducer bevægelse"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22048,6 +23440,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Po zapnutí „Omezit pohyb“ budou efekty na obrazovce klidnější."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når “Reducer bevægelse” er slået til, bliver skærmeffekterne mere rolige."
           }
         },
         "de" : {
@@ -22145,6 +23543,12 @@
             "value" : "wonů"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "won"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22238,6 +23642,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Úroveň rizika"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risikoniveau"
           }
         },
         "de" : {
@@ -22335,6 +23745,12 @@
             "value" : "Rizikový 🚀"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risikabel 🚀"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22428,6 +23844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nastavení banky"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bankindstillinger"
           }
         },
         "de" : {
@@ -22525,6 +23947,12 @@
             "value" : "Když dáš peníze do banky, banka řekne „Děkujeme, že nám důvěřuješ!“ a přidá ti něco navíc. Tomu navíc se říká „úrok“.\n\nPeníze v peněžence se nezvětší, i kdybys čekal(a) sebelíp. Ale když je dáš na spořicí účet, každý týden se přičtou úroky a peníze rostou. Kam je dobré uložit peníze, které hned nepotřebuješ?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du sætter penge i banken, siger banken “Tak fordi du betror os dine penge!” og giver dig lidt ekstra. Det ekstra kaldes “renter”.\n\nPenge i pungen vokser aldrig, uanset hvor længe du venter. Men sætter du dem ind på sparekontoen, lægges der renter til hver uge, og pengene vokser. Hvor skal penge, du ikke bruger lige nu, være?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22618,6 +24046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Předat toto zařízení"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv denne enhed videre"
           }
         },
         "de" : {
@@ -22715,6 +24149,12 @@
             "value" : "Toto zařízení se přepne na vlastní obrazovku vybraného dítěte. Dítě uvidí jen svou peněženku, obchůdek, investice, historii a lekce. Hodí se, když půjčíte rodičovský telefon dítěti, které žádný nemá. Pro návrat klepněte na tlačítko zámku a zadejte rodičovský PIN."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denne enhed skifter til det valgte barns egen skærm. Barnet kan kun se sin egen pung, butik, investeringer, historik og lektioner. Praktisk, når du lader et barn uden telefon bruge din. For at komme tilbage skal du trykke på låseknappen og indtaste forældrenes PIN-kode."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22808,6 +24248,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Udělat z tohoto zařízení telefon: %@ %@? Pro návrat je potřeba rodičovský PIN."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gøre denne enhed til telefon for %@ %@? Du skal bruge forældrenes PIN-kode for at skifte tilbage."
           }
         },
         "de" : {
@@ -22905,6 +24351,12 @@
             "value" : "Čí telefon se má z tohoto zařízení stát? Pro návrat je potřeba rodičovský PIN."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis telefon skal denne enhed være? Du skal bruge forældrenes PIN-kode for at skifte tilbage."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22998,6 +24450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kolik z toho bude, když to tak necháš? (odhad na 12 týdnů se složeným úročením)"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor meget bliver det til, hvis du lader det stå? (estimat for 12 uger med renters rente)"
           }
         },
         "de" : {
@@ -23095,6 +24553,12 @@
             "value" : "Zkuste se zeptat takto"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prøv at spørge sådan"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23190,6 +24654,12 @@
             "value" : "Jméno"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navn"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23280,6 +24750,12 @@
       "comment" : "ParentModeView.swift:483",
       "localizations" : {
         "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
+          }
+        },
+        "da" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji"
@@ -23380,6 +24856,12 @@
             "value" : "Jak bys chtěl(a) rozdělit kapesné na tento týden?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan vil du gerne fordele ugens lommepenge?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23473,6 +24955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Důvod"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Årsag"
           }
         },
         "de" : {
@@ -23570,6 +25058,12 @@
             "value" : "Úrok"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rente"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23663,6 +25157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Úroky · Kurz · Ceny"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renter · Kurs · Priser"
           }
         },
         "de" : {
@@ -23760,6 +25260,12 @@
             "value" : "Když úroky vydělávají další úroky, říká se tomu „složené úročení“. Čím déle spoříš, tím víc peníze rostou jako sněhová koule! ⛄️"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når renter giver nye renter, kaldes det “renters rente”. Jo længere du sparer op, jo mere vokser pengene som en snebold! ⛄️"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23853,6 +25359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jen z úroků jsi vydělal(a) %@ %@!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har tjent %@ %@ alene på renter!"
           }
         },
         "de" : {
@@ -23950,6 +25462,12 @@
             "value" : "Pochopit, že úrok z úroku roste jako sněhová koule"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forstå at rente af renter vokser som en snebold"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24043,6 +25561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když je úrok nižší než růst cen, peníze ztrácejí sílu i při spoření. Zkuste úrok zvýšit!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis renten er lavere end prisstigningen, mister pengene kraft, selv om du sparer op. Prøv at sætte renten op!"
           }
         },
         "de" : {
@@ -24140,6 +25664,12 @@
             "value" : "Zpět"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilbage"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24233,6 +25763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inflace"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflation"
           }
         },
         "de" : {
@@ -24330,6 +25866,12 @@
             "value" : "Žádná inflace"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen inflation"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24423,6 +25965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dag"
           }
         },
         "de" : {
@@ -24520,6 +26068,12 @@
             "value" : "Začít brzy a vydržet — to je tajemství složeného úročení."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start tidligt og hold ved – det er hemmeligheden bag renters rente."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24613,6 +26167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kolik peněz nevadí ztratit?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor mange penge gør det ikke noget at miste?"
           }
         },
         "de" : {
@@ -24710,6 +26270,12 @@
             "value" : "Vklad"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indsæt"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24803,6 +26369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vklad / Výběr"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indsæt / Hæv"
           }
         },
         "de" : {
@@ -24900,6 +26472,12 @@
             "value" : "Dítě"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barn"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24993,6 +26571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Naskenujte kamerou zařízení dítěte a zobrazí se pozvánka"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan med kameraet på barnets enhed for at se invitationen"
           }
         },
         "de" : {
@@ -25090,6 +26674,12 @@
             "value" : "Pozvat dítě"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inviter barn"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25183,6 +26773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Režim telefonu dítěte"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Børnetelefon-tilstand"
           }
         },
         "de" : {
@@ -25280,6 +26876,12 @@
             "value" : "Přepnout na telefon dítěte"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skift til børnetelefon"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25373,6 +26975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Děti 👧"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Børn 👧"
           }
         },
         "de" : {
@@ -25470,6 +27078,12 @@
             "value" : "Až dítě naskenuje tento čárový kód v části „Naskenovat a zaplatit“,\nz peněženky se odečte %@."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når dit barn scanner denne stregkode med “Scan og betal”,\ntrækkes %@ fra pungen."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25563,6 +27177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přidejte alespoň jedno dítě."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opret mindst ét barn."
           }
         },
         "de" : {
@@ -25660,6 +27280,12 @@
             "value" : "Loni stála sladkost 1 000. Letos stojí 1 100. A sladkost není větší! Když ceny takhle rostou, říká se tomu „inflace“.\n\nČíslo na tvých penězích zůstalo stejné, ale koupíš za ně míň. Jako když z balónku uniká vzduch, síla peněz slábne. Proto když necháš peníze jen tak ležet v peněžence, pomalu na to doplácíš. Aby si peníze udržely sílu, musíš je zvětšovat rychleji, než rostou ceny — úroky nebo investováním."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I fjor kostede en slikpose 1.000. I år koster den 1.100. Og slikposen er ikke blevet større! Når priserne stiger sådan, kaldes det “inflation”.\n\nTallet på dine penge er det samme, men du kan købe mindre. Som luften, der siver ud af en ballon, bliver pengenes kraft svagere. Derfor taber du lidt, hvis pengene bare ligger i pungen. For at bevare deres kraft skal du få dem til at vokse hurtigere end priserne – med renter eller investering."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25753,6 +27379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zůstatek"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo"
           }
         },
         "de" : {
@@ -25850,6 +27482,12 @@
             "value" : "Zamknout"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25943,6 +27581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uložit"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gem"
           }
         },
         "de" : {
@@ -26040,6 +27684,12 @@
             "value" : "Spoření"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opsparing"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26133,6 +27783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Úrok ze spoření"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparerente"
           }
         },
         "de" : {
@@ -26230,6 +27886,12 @@
             "value" : "Vklad na spoření"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indsat på opsparing"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26323,6 +27985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zůstatek spoření"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opsparingssaldo"
           }
         },
         "de" : {
@@ -26420,6 +28088,12 @@
             "value" : "Výběr ze spoření"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hævet fra opsparing"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26513,6 +28187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spoření: %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opsparing: %@"
           }
         },
         "de" : {
@@ -26610,6 +28290,12 @@
             "value" : "Spoření a úroky"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opsparing og renter"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26703,6 +28389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když jeden začne spořit brzy a druhý pozdě, kdo bude později bohatší?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis én begynder at spare tidligt og en anden sent, hvem bliver så rigest bagefter?"
           }
         },
         "de" : {
@@ -26800,6 +28492,12 @@
             "value" : "Uložit na spořicí účet"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sæt ind på sparekontoen"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26893,6 +28591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na spořicím účtu není dost peněz."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er ikke penge nok på sparekontoen."
           }
         },
         "de" : {
@@ -26990,6 +28694,12 @@
             "value" : "Týdenní složené úročení na spořicím účtu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ugentlig renters rente på sparekontoen"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27083,6 +28793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pochopit, jak spoření peníze zvětšuje"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forstå hvordan opsparing får penge til at vokse"
           }
         },
         "de" : {
@@ -27180,6 +28896,12 @@
             "value" : "Našetřené peníze"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparede penge"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27273,6 +28995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I když se aplikace při psaní zavře, rozepsaný text zůstane."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv om appen lukkes, mens du skriver, bliver det skrevne stående."
           }
         },
         "de" : {
@@ -27370,6 +29098,12 @@
             "value" : "Smazat vše"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slet alt"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27463,6 +29197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vše"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle"
           }
         },
         "de" : {
@@ -27560,6 +29300,12 @@
             "value" : "Opravdu smazat všechna data?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vil du virkelig slette alle data?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27653,6 +29399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Typ"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
           }
         },
         "de" : {
@@ -27750,6 +29502,12 @@
             "value" : "Jaké mají být dobré peníze"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad der gør penge gode"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27843,6 +29601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "týd."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uge"
           }
         },
         "de" : {
@@ -27940,6 +29704,12 @@
             "value" : "%@ %% týdně"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% om ugen"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28033,6 +29803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Týdenní růst cen: %@ %%"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ugentlig prisstigning: %@%%"
           }
         },
         "de" : {
@@ -28130,6 +29906,12 @@
             "value" : "Týdenní úrok"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ugentlig rente"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28223,6 +30005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Týdenní úrok: %@ %%"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ugentlig rente: %@%%"
           }
         },
         "de" : {
@@ -28320,6 +30108,12 @@
             "value" : "Týdenní úrok ze spoření %@ %% · Týdenní růst cen %@ %%"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ugentlig sparerente %@%% · Ugentlig prisstigning %@%%"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28413,6 +30207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Týdenní úrok ze spoření: %@ %%"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ugentlig sparerente: %@%%"
           }
         },
         "de" : {
@@ -28510,6 +30310,12 @@
             "value" : "Peněženka"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pung"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28603,6 +30409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zůstatek peněženky"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pungens saldo"
           }
         },
         "de" : {
@@ -28700,6 +30512,12 @@
             "value" : "Peněženka: %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pung: %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28793,6 +30611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peněženka: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pung: %@ %@"
           }
         },
         "de" : {
@@ -28890,6 +30714,12 @@
             "value" : "Peníze nechané v peněžence ztratily sílu, ale našetřené peníze si ji udržely! 💪"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengene, der blev i pungen, mistede kraft, men de sparede penge bevarede den! 💪"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28983,6 +30813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "V peněžence není dost peněz! Zůstatek: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er ikke penge nok i pungen! Saldo: %@ %@"
           }
         },
         "de" : {
@@ -29080,6 +30916,12 @@
             "value" : "V peněžence není dost peněz."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er ikke penge nok i pungen."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29173,6 +31015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "V peněžence není dost peněz. Potřeba: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er ikke penge nok i pungen. Du skal bruge: %@ %@"
           }
         },
         "de" : {
@@ -29270,6 +31118,12 @@
             "value" : "Peníze v peněžence"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penge i pungen"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29363,6 +31217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jaký je rozdíl mezi penězi v peněžence a našetřenými penězi?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad er forskellen på penge i pungen og sparede penge?"
           }
         },
         "de" : {
@@ -29460,6 +31320,12 @@
             "value" : "Vybrat do peněženky"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flyt til pungen"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29553,6 +31419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dát · Odečíst"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv · Træk fra"
           }
         },
         "de" : {
@@ -29650,6 +31522,12 @@
             "value" : "Čeho ses vzdal(a), když jsi naposledy něco koupil(a)?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad gav du afkald på, sidste gang du købte noget?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29743,6 +31621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Za co jsi minulý týden utratil(a) nejvíc peněz?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad brugte du flest penge på sidste uge?"
           }
         },
         "de" : {
@@ -29840,6 +31724,12 @@
             "value" : "Index %lld"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indeks %lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29933,6 +31823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Podpora"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
           }
         },
         "de" : {
@@ -30030,6 +31926,12 @@
             "value" : "Vyberte doma 3 věci a zahrajte si hru „Mohlo by to být penězi?“. U každé z pěti podmínek označte ✓ nebo ✗."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vælg 3 ting derhjemme og leg “Kunne det være penge?”. Sæt ✓ eller ✗ ved hver af de fem betingelser."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30123,6 +32025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Naskenovat a zaplatit"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan og betal"
           }
         },
         "de" : {
@@ -30220,6 +32128,12 @@
             "value" : "Naskenovat a hned zaplatit"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan og betal med det samme"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30313,6 +32227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odečtení"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Træk"
           }
         },
         "de" : {
@@ -30410,6 +32330,12 @@
             "value" : "Odečíst"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Træk fra"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30503,6 +32429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Počáteční částka: %@ %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Startbeløb: %@ %@"
           }
         },
         "de" : {
@@ -30600,6 +32532,12 @@
             "value" : "Ceny vzrostly od začátku o %@ %%. 1 000 %@ v peněžence má teď sílu %@ %@."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priserne er steget med %@%% siden start. 1.000 %@ i pungen har nu kraft som %@ %@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30693,6 +32631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pozvánka · QR"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invitation · QR"
           }
         },
         "de" : {
@@ -30790,6 +32734,12 @@
             "value" : "Poslat pozvánku"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send invitation"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30883,6 +32833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Celková částka"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samlet beløb"
           }
         },
         "de" : {
@@ -30980,6 +32936,12 @@
             "value" : "Celkový majetek"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samlet formue"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31073,6 +33035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Celkový majetek · asi %@ wonů ve skutečných penězích"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samlet formue · ca. %@ won i rigtige penge"
           }
         },
         "de" : {
@@ -31170,6 +33138,12 @@
             "value" : "Poslední transakce"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seneste transaktioner"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31263,6 +33237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přidat"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj"
           }
         },
         "de" : {
@@ -31360,6 +33340,12 @@
             "value" : "Výběr"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hæv"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31453,6 +33439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zrušit"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuller"
           }
         },
         "de" : {
@@ -31550,6 +33542,12 @@
             "value" : "Proč se oblíbené hračky o Vánocích zdražují?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvorfor bliver populært legetøj dyrere til jul?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31643,6 +33641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Obrazovky pro velké písmo"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skærme til stor tekst"
           }
         },
         "de" : {
@@ -31740,6 +33744,12 @@
             "value" : "Investice"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeret"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31833,6 +33843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prodej investice"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringssalg"
           }
         },
         "de" : {
@@ -31930,6 +33946,12 @@
             "value" : "Nákup investice"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringskøb"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32023,6 +34045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investiční produkty"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringsprodukter"
           }
         },
         "de" : {
@@ -32120,6 +34148,12 @@
             "value" : "Přidat investiční produkt"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj investeringsprodukt"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32213,6 +34247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investiční trh 📈"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringsmarked 📈"
           }
         },
         "de" : {
@@ -32310,6 +34350,12 @@
             "value" : "Hodnota investic: %@ %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investeringsværdi: %@ %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32403,6 +34449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investovat je jako zasadit peníze. Když semínko dobře roste, vyroste velký strom, ale může také uschnout. Na rozdíl od spoření se při investování peníze mohou zvětšit, nebo zmenšit.\n\nZapamatuj si pravidlo: čím víc můžeš vydělat, tím víc můžeš i prodělat. A když dáš všechna vejce do jednoho košíku, po pádu se rozbijí všechna. Rozlož je (diverzifikace). Zasaď jen tolik, kolik můžeš ztratit."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At investere er som at plante penge. Hvis frøet vokser godt, bliver det til et stort træ – men det kan også visne. I modsætning til at spare kan pengene stige eller falde, når man investerer.\n\nHusk den regel: Jo mere man kan vinde, jo mere kan man også tabe. Og hvis du lægger alle æggene i den samme kurv, går de alle i stykker, når den vælter. Fordel dem (spredning). Plant kun, hvad du kan tåle at miste."
           }
         },
         "de" : {
@@ -32500,6 +34552,12 @@
             "value" : "Investice a riziko"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investering og risiko"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32590,6 +34648,12 @@
       "comment" : "InvestView.swift:66",
       "localizations" : {
         "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investor"
+          }
+        },
+        "da" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investor"
@@ -32690,6 +34754,12 @@
             "value" : "Vyberte investora"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vælg investor"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32783,6 +34853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chcete-li investovat, nejdřív na úvodní obrazovce přidejte dítě."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For at investere skal du først oprette et barn på startsiden."
           }
         },
         "de" : {
@@ -32880,6 +34956,12 @@
             "value" : "Žádné investiční produkty v prodeji"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen investeringsprodukter til salg"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32973,6 +35055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Obrazovka pro skládací iPhone"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skærm til foldbar iPhone"
           }
         },
         "de" : {
@@ -33070,6 +35158,12 @@
             "value" : "Širokou obrazovku skládacího iPhonu využijete rozdělenou na dva panely."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brug den brede skærm på en foldbar iPhone delt i to paneler."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33163,6 +35257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nejdřív potřeby, potom přání!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Først behov, så ønsker!"
           }
         },
         "de" : {
@@ -33260,6 +35360,12 @@
             "value" : "Potřeby a přání"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behov og ønsker"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33353,6 +35459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Co se stane, když koupíš přání a potřeby ne?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad sker der, hvis man køber ønsker og lader være med at købe behov?"
           }
         },
         "de" : {
@@ -33450,6 +35562,12 @@
             "value" : "Filtr"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33543,6 +35661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zrušit filtry"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nulstil filtre"
           }
         },
         "de" : {
@@ -33640,6 +35764,12 @@
             "value" : "Pohybuje se silně, až ±15 %% denně! Můžete hodně vydělat, ale i hodně ztratit."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bevæger sig kraftigt, op til ±15 %% om dagen! Du kan vinde meget eller tabe meget."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33733,6 +35863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pohybuje se pomalu, asi ±2 %% denně. Malé riziko ztráty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bevæger sig lidt ad gangen, omkring ±2 %% om dagen. Lille risiko for tab."
           }
         },
         "de" : {
@@ -33830,6 +35966,12 @@
             "value" : "Roste a klesá asi o ±6 %% denně. Střední výzva."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Går op og ned omkring ±6 %% om dagen. En passende udfordring."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33923,6 +36065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zadejte ještě jednou"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indtast den igen"
           }
         },
         "de" : {
@@ -34020,6 +36168,12 @@
             "value" : "Společný pokus · Kalkulačka složeného úročení 🧮"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prøv sammen · Beregner til renters rente 🧮"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34113,6 +36267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Společný pokus · Pokus s inflací 🎈"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prøv sammen · Inflationsforsøg 🎈"
           }
         },
         "de" : {
@@ -34210,6 +36370,12 @@
             "value" : "Aktuální cena"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuel pris"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34303,6 +36469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktuální peněženka"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuværende pung"
           }
         },
         "de" : {
@@ -34400,6 +36572,12 @@
             "value" : "Widgety na ploše"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets på hjemmeskærmen"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34493,6 +36671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Měna „%@“ · Týdenní úrok %@ %%"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valuta “%@” · Ugentlig rente %@%%"
           }
         },
         "de" : {
@@ -34590,6 +36774,12 @@
             "value" : "Název měny"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valutanavn"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34680,6 +36870,12 @@
       "comment" : "BarcodePayView.swift:199, InvestView.swift:329",
       "localizations" : {
         "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "da" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -34780,6 +36976,12 @@
             "value" : "Směnný kurz"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valutakurs"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34873,6 +37075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automaticky se počítá podle kurzu 1 %@ = %@ wonů."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beregnes automatisk ud fra 1 %@ = %@ won."
           }
         },
         "de" : {
@@ -34970,6 +37178,12 @@
             "value" : "Kurz: 1 %@ ="
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valutakurs: 1 %@ ="
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35063,6 +37277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penězi je to, čeho je málo a čemu všichni věří."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For at være penge skal noget være sjældent, og alle skal stole på det."
           }
         },
         "de" : {
@@ -35160,6 +37380,12 @@
             "value" : "🌱 %@, zveme tě do SukSuk Kapesné!\n\nPojďme společně používat domácí měnu „%@“:\n• Šetři kapesné a platí jím 💸\n• Když spoříš, každý týden dostaneš úrok %@ %% 🏦\n• Poznávej ekonomiku na investičních produktech 📈\n\nOtevři aplikaci SukSuk Kapesné na zařízení přihlášeném ke stejnému účtu iCloud jako zařízení rodičů a můžeš se hned zapojit!"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, du er inviteret til SukSuk Lommepenge!\n\nLad os sammen bruge vores hjemmevaluta “%@”:\n• Spar lommepengene op og betal med dem 💸\n• Når du sparer op, får du %@%% i rente hver uge 🏦\n• Lær om økonomi med investeringsprodukter 📈\n\nÅbn appen SukSuk Lommepenge på en enhed, der er logget ind med den samme iCloud-konto som dine forældres enhed, så kan du være med med det samme!"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35253,6 +37479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Učení"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Lær"
           }
         },
         "de" : {
@@ -35350,6 +37582,12 @@
             "value" : "🏛️ Trh"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Marked"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35443,6 +37681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Rodičovský režim"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Forældretilstand"
           }
         },
         "de" : {
@@ -35540,6 +37784,12 @@
             "value" : "🏦 Spoření"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Opsparing"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35633,6 +37883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Spořicí účet"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Sparekonto"
           }
         },
         "de" : {
@@ -35730,6 +37986,12 @@
             "value" : "🏪 Domácí obchůdek"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Hjemmebutik"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35823,6 +38085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Čárový kód položky"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Stregkode til vare"
           }
         },
         "de" : {
@@ -35920,6 +38188,12 @@
             "value" : "👨‍👩‍👧‍👦 Členové rodiny"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Familiemedlemmer"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36013,6 +38287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Pozvánka"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Invitation"
           }
         },
         "de" : {
@@ -36110,6 +38390,12 @@
             "value" : "💡 Peníze, které jen leží, ztrácejí sílu. Chraňte je spořením (úroky) nebo investováním!"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Penge, der bare ligger, mister kraft. Beskyt dem med opsparing (renter) eller investering!"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36203,6 +38489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 Pozvánku můžete poslat zprávou nebo v chatovací aplikaci.\nNa zařízeních přihlášených ke stejnému účtu iCloud se data zobrazí automaticky."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Du kan sende invitationen som besked eller i en chat-app.\nPå enheder, der er logget ind med den samme iCloud-konto, vises dataene automatisk."
           }
         },
         "de" : {
@@ -36300,6 +38592,12 @@
             "value" : "💡 Ceny se mění jednou denně. Koupit levně a prodat draho je zisk, opačně ztráta!"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Priserne ændrer sig én gang om dagen. Køb billigt og sælg dyrt giver gevinst, det modsatte giver tab!"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36393,6 +38691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Zaplatit"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Betal"
           }
         },
         "de" : {
@@ -36490,6 +38794,12 @@
             "value" : "💵 Peněženka"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Pung"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36583,6 +38893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Správa peněz"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Administrer penge"
           }
         },
         "de" : {
@@ -36680,6 +38996,12 @@
             "value" : "💸 Kapesné"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Lommepenge"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36773,6 +39095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Investovat"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Invester"
           }
         },
         "de" : {
@@ -36870,6 +39198,12 @@
             "value" : "📈 Investiční produkty"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Investeringsprodukter"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36963,6 +39297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Režim telefonu dítěte"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Børnetelefon-tilstand"
           }
         },
         "de" : {
@@ -37060,6 +39400,12 @@
             "value" : "📷 Naskenovat a zaplatit"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Scan og betal"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37155,6 +39501,12 @@
             "value" : "🔐 Zpět do rodičovského režimu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Tilbage til forældretilstand"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37248,6 +39600,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 Historie transakcí"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Transaktioner"
           }
         },
         "de" : {

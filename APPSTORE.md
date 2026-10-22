@@ -929,3 +929,65 @@ Proměňte telefon dítěte v obrazovku jen pro něj. Vidí jen svou peněženku
 
 Synchronizace iCloud
 Zařízení přihlášená ke stejnému účtu iCloud mají rodinnou knihu stále shodnou.
+
+## da
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Lommepenge: Børn
+
+### 부제
+
+Lær at spare og investere
+
+### 키워드
+
+økonomi,sparegris,bank,renters rente,budget,familie,mønter,aktier,børnebank,pengeforståelse
+
+### 프로모션 텍스트
+
+Forældrene er centralbanken, børnene er kunderne. Giv lommepenge i jeres egen hjemmevaluta og lad børnene opleve renter og øve sig i at investere.
+
+### 설명
+
+Lær dine børn, hvordan penge fungerer, med en valuta, der kun er jeres. Forældrene er centralbank og udsteder lommepenge; børnene betaler, sparer op og investerer og lærer økonomi ved at prøve det selv.
+Det, man selv har oplevet, husker man meget længere end det, man bare har fået forklaret.
+
+Hjemmevalutaen
+I vælger selv valutaens navn, f.eks. Bønner, Stjerner eller Mønter. Lommepenge kan kun gives eller trækkes fra i forældretilstand, som er låst med en PIN-kode.
+
+Betaling og hjemmebutik
+Forældrene opretter de ting, man bruger derhjemme, som snacks, spilletid eller tv-tid, og sætter en pris på dem.
+Børnene vælger i butikken og betaler med det samme, eller de scanner med kameraet en stregkode, som en forælder viser.
+
+Opsparing og renter
+Pengene på sparekontoen får renters rente hver uge. Forældrene bestemmer renten, og man kan på forhånd se, hvor meget pengene vil vokse.
+
+Øv dig i at investere
+Køb og sælg tre øvefonde, hvis pris ændrer sig én gang om dagen, og følg kurverne for afkast. Sammenlign sikre, moderate og risikable fonde og forstå sammenhængen mellem risiko og gevinst.
+
+Marked og historik
+Fanen Marked viser jeres priser, valutakurs, rente, pengemængde og investeringskurser med ét blik. Den viser også, at man kan købe mindre for de samme penge, når priserne stiger.
+Alle pengebevægelser skrives i bogen, og de kan gennemses efter dato, medlem og type.
+
+Lær
+En forældreguide i 10 trin, fra “Hvorfor har vi brug for penge?” via behov og ønsker, alternativomkostning, opsparing og renter, renters rente, inflation og investering og risiko til budget, hjælper jer med at tale sammen.
+I beregneren til renters rente og inflationsforsøget kan I selv ændre tallene og eksperimentere.
+
+Børnetelefon-tilstand
+Gør dit barns telefon til en skærm kun til barnet. Barnet ser kun sin egen pung, sine investeringer, sin historik og sine lektioner, og for at forlade tilstanden skal man bruge forældrenes PIN-kode. Du kan invitere dit barn med en invitation med QR-kode.
+
+iCloud-synkronisering
+Enheder, der er logget ind med den samme iCloud-konto, holder familiens bog ens.

@@ -9,6 +9,12 @@
             "value" : "SukSuk Kapesné"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Lommepenge"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103,6 +109,12 @@
             "value" : "Fotoaparát je potřeba, aby dítě mohlo naskenovat čárový kód položky a zaplatit."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kameraet er nødvendigt, for at barnet kan scanne en vares stregkode og betale."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -195,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID slouží k potvrzení rodiče při odemknutí akcí."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID bruges til at bekræfte en forælder, når handlinger låses op."
           }
         },
         "de" : {
