@@ -46,3 +46,10 @@ Smoother and more stable performance.
 回報後得到的回覆也能在App裡查看。
 可在App裡開啟隱私權政策與支援頁面。
 讓App運作得更穩定。
+
+### 앱스토어 (español)
+
+Envía comentarios desde modo padres.
+Lee en la app las respuestas recibidas.
+Abre privacidad y soporte en la app.
+La app funciona con más estabilidad.

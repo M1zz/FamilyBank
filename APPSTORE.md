@@ -371,3 +371,65 @@ https://m1zz.github.io/FamilyBank/
 
 iCloud同步
 用同一個iCloud帳戶登入的裝置之間，家庭帳本會保持一致。
+
+## es
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Paga: Dinero en casa
+
+### 부제
+
+Aprende a ahorrar e invertir
+
+### 키워드
+
+mesada,economía,niños,finanzas,educación financiera,interés,compuesto,bolsa,presupuesto,familia
+
+### 프로모션 텍스트
+
+Los padres son el banco central y los hijos, los clientes. Da la paga con la moneda de tu casa y deja que ellos vivan el interés del ahorro y practiquen la inversión.
+
+### 설명
+
+Enseña a tus hijos cómo funciona el dinero con una moneda solo vuestra. Los padres hacen de banco central y emiten la paga; los hijos pagan, ahorran e invierten, y aprenden economía haciendo.
+Lo que se vive con las propias manos se recuerda mucho más que lo que solo se escucha.
+
+La moneda de casa
+Elige el nombre de la moneda: Judías, Estrellas, Monedas… Dar o descontar paga solo se puede hacer en el modo para padres, protegido con un PIN.
+
+Pagos y tienda de casa
+Los padres fijan los artículos que se usan en casa, como meriendas, tiempo de videojuegos o de tele, y les ponen precio.
+Los hijos eligen en la tienda y pagan al instante, o escanean con la cámara el código de barras que muestra un adulto.
+
+Ahorro e intereses
+El dinero de la cuenta de ahorro recibe interés compuesto cada semana. Los padres fijan el tipo de interés y se puede ver de antemano cuánto va a crecer.
+
+Prácticas de inversión
+Compra y vende tres fondos de práctica cuyo precio cambia una vez al día y mira las gráficas de rentabilidad. Compara fondos estables, moderados y arriesgados para entender cómo se relacionan riesgo y ganancia.
+
+Mercado e historial
+En la pestaña Mercado ves de un vistazo los precios de tu casa, el tipo de cambio, el interés, el dinero en circulación y las cotizaciones. También se ve cómo, al subir los precios, el mismo dinero compra menos.
+Todos los movimientos de dinero quedan en el libro de cuentas y se pueden repasar por fecha, miembro y tipo.
+
+Aprender
+Una guía para padres de 10 pasos, desde «¿Para qué sirve el dinero?» hasta necesidades y deseos, coste de oportunidad, ahorro e intereses, interés compuesto, inflación, inversión y riesgo, y presupuesto, para conversar con tu hijo.
+Con la calculadora de interés compuesto y la de inflación puedes cambiar los números y experimentar.
+
+Modo teléfono del hijo
+Convierte el teléfono de tu hijo en una pantalla solo para él. Solo ve su monedero, inversiones, historial y lecciones, y para salir hace falta el PIN de los padres. Puedes invitar a tu hijo con una invitación con código QR.
+
+Sincronización con iCloud
+Los dispositivos con la misma cuenta de iCloud mantienen sincronizado el libro de cuentas de la familia.

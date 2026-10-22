@@ -103,6 +103,7 @@
 				ja,
 				"zh-Hans",
 				"zh-Hant",
+				es,
 				Base,
 			);
 			mainGroup = A10000000000000000000003;
