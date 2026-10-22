@@ -18,7 +18,7 @@ W, H = 1242, 2688   # 이 계정의 iPhone 제출 규격
 
 # ── 앱마다 고치는 곳 ──────────────────────────────────────────────
 # 앱 언어 → App Store 로케일 (스토어 폴더 이름)
-STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO"}
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO", "nl": "nl-NL"}
 # 바탕 · 포인트 색 (헤더·검색 결과 그림과 맞춘다)
 BG, ACCENT, INK, SUB = "#EEF5EC", "#2F9E4F", "#12281C", "#5E6B62"
 # 언어 → [(원본 파일, 레이아웃, 헤드라인, 서브카피)]
@@ -30,6 +30,14 @@ SHOTS = {
         ("04-market.png",    "flat-rotate", "물가와 환율까지<br>진짜 경제처럼", "돈의 가치가 변하는 걸 직접 봐요"),
         ("05-actions.png",   "hero-bleed",  "용돈 주기도<br>결제도 간단하게", "부모 PIN으로 잠그고, 바코드로 결제"),
         ("06-learn.png",     "dark",        "10단계로 배우는<br>돈 이야기", "아이와 함께 읽는 부모 가이드"),
+    ],
+    "nl": [
+        ("01-dashboard.png", "hero-bleed"  , "Jullie huis wordt<br>een kleine bank", "Ouders zijn de bank, kinderen de klanten"),
+        ("02-child.png", "left-text"   , "Portemonnee, sparen en<br>beleggen in één oogopslag", "Elk kind krijgt een eigen rekening"),
+        ("03-savings.png", "text-bottom" , "Als je spaart,<br>groeit de rente", "Zie de wekelijkse rente op rente in een grafiek"),
+        ("04-market.png", "flat-rotate" , "Prijzen en koersen<br>zoals in de echte economie", "Zie hoe de waarde van geld verandert"),
+        ("05-actions.png", "hero-bleed"  , "Zakgeld en betalen<br>supereenvoudig", "Vergrendel met de pincode van de ouder, betaal met streepjescode"),
+        ("06-learn.png", "dark"        , "Leer over geld<br>in 10 stappen", "Een handleiding om samen met je kind te lezen"),
     ],
     "nb": [
         ("01-dashboard.png", "hero-bleed"  , "Hjemmet ditt blir<br>en liten bank", "Foreldre er banken, barn er kundene"),

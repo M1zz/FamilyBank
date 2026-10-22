@@ -87,6 +87,12 @@
             "value" : "SukSuk Lommepenger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Zakgeld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +217,12 @@
             "value" : "Kameraet trengs for at barnet kan skanne strekkoden på en vare og betale."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De camera is nodig zodat je kind de streepjescode van een artikel kan scannen en betalen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -333,6 +345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID brukes til å bekrefte en forelder når handlinger låses opp."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID wordt gebruikt om een ouder te bevestigen bij het ontgrendelen van acties."
           }
         },
         "pt-BR" : {

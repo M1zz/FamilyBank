@@ -88,6 +88,12 @@
             "value" : "%@ %@ — betale %@ %@?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — %@ %@ betalen?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Betal %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ betalen"
           }
         },
         "pt-BR" : {
@@ -338,6 +350,12 @@
             "value" : "Gi %@ %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ geven"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -461,6 +479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trekk fra %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ afschrijven"
           }
         },
         "pt-BR" : {
@@ -588,6 +612,12 @@
             "value" : "Kjøpe %1$@ %2$@ for %3$@ %4$@?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ kopen voor %3$@ %4$@?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -711,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du sparte %@ %@! Hver uke legges det til renter. 💰"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt %@ %@ gespaard! Elke week komt er rente bij. 💰"
           }
         },
         "pt-BR" : {
@@ -838,6 +874,12 @@
             "value" : "%@ %@ ble flyttet til lommeboken."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ is naar de portemonnee verplaatst."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -961,6 +1003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beholdning for %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bezit van %@ %@"
           }
         },
         "pt-BR" : {
@@ -1088,6 +1136,12 @@
             "value" : "%@ %@s bank"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bank van %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1211,6 +1265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gjør til telefonen til %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maak de telefoon van %@ %@"
           }
         },
         "pt-BR" : {
@@ -1338,6 +1398,12 @@
             "value" : "Du kjøpte %2$lld andeler av %1$@! 📈"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt %2$lld aandelen van %1$@ gekocht! 📈"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1461,6 +1527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du solgte %2$lld andeler av %1$@! %3$@ %4$@ kom inn i lommeboken."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt %2$lld aandelen van %1$@ verkocht! %3$@ %4$@ is in de portemonnee gekomen."
           }
         },
         "pt-BR" : {
@@ -1588,6 +1660,12 @@
             "value" : "%@ %% (rentes rente)"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (rente op rente)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1711,6 +1789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inviter %@\ntil SukSuk Lommepenger!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nodig %@\nuit voor SukSuk Zakgeld!"
           }
         },
         "pt-BR" : {
@@ -1838,6 +1922,12 @@
             "value" : "Du betalte %2$@ %3$@ til %1$@."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt %2$@ %3$@ aan %1$@ betaald."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1963,6 +2053,12 @@
             "value" : "Du ga %2$@ %3$@ til %1$@! 🎁"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt %2$@ %3$@ aan %1$@ gegeven! 🎁"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2083,6 +2179,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ won → %@ %@"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ won → %@ %@"
@@ -2213,6 +2315,12 @@
             "value" : "Du kjøpte %@! Igjen i lommeboken: %@ %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt %@ gekocht! Er zit nog in je portemonnee: %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2336,6 +2444,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du kjøpte %@! 🎉 Igjen i lommeboken: %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt %@ gekocht! 🎉 Er zit nog in je portemonnee: %@ %@"
           }
         },
         "pt-BR" : {
@@ -2463,6 +2577,12 @@
             "value" : "Lommeboken til %@ har ikke nok penger."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De portemonnee van %@ heeft niet genoeg saldo."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2586,6 +2706,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%2$@ %3$@ ble trukket fra lommeboken til %1$@."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %3$@ is afgeschreven van de portemonnee van %1$@."
           }
         },
         "pt-BR" : {
@@ -2713,6 +2839,12 @@
             "value" : "Trinn %lld"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stap %lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2836,6 +2968,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trinn %lld · %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stap %lld · %@"
           }
         },
         "pt-BR" : {
@@ -2963,6 +3101,12 @@
             "value" : "%lld andeler · snitt %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld aandelen · gem. %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3086,6 +3230,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verdien av det man kan kjøpe etter %lld uker"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarde van wat je na %lld weken kunt kopen"
           }
         },
         "pt-BR" : {
@@ -3213,6 +3363,12 @@
             "value" : "Etter %lld uker: %@ %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na %lld weken: %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3338,6 +3494,12 @@
             "value" : "Et «behov» er noe du får problemer uten: mat, klær, skolesaker. Et «ønske» er noe som er gøy å ha, men som du klarer deg uten: leker, ting i spill.\n\nBegge deler er viktige! Men rekkefølgen er viktig. Ta først vare på behovene, og bruk så pengene som er igjen på å oppfylle ønsker etter en plan."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een ‘behoefte’ is iets waar je zonder in de problemen komt: eten, kleren, schoolspullen. Een ‘wens’ is iets wat leuk is om te hebben, maar waar je zonder kunt: speelgoed, spelspullen.\n\nBeide zijn belangrijk! Maar de volgorde telt. Zorg eerst voor je behoeften en maak daarna met het geld dat overblijft een plan om wensen te vervullen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3458,6 +3620,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ won"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ won"
@@ -3588,6 +3756,12 @@
             "value" : "Reell verdi av 1 %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echte waarde van 1 %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3708,6 +3882,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ won"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ won"
@@ -3838,6 +4018,12 @@
             "value" : "Hvordan endres den «virkelige kraften» til 1000 %@?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe verandert de ‘echte kracht’ van 1.000 %@?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3961,6 +4147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvis du setter inn 1000 mynter med 5 %% rente, hvor mye har du etter en uke?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als je 1.000 munten tegen 5 %% rente wegzet, hoeveel heb je dan na een week?"
           }
         },
         "pt-BR" : {
@@ -4088,6 +4280,12 @@
             "value" : "Du har 1000 mynter og vil kjøpe både godteri og klistremerker. Men pengene strekker bare til én ting. Hva gjør du? Velger du det ene, må du gi avkall på det andre.\n\nDet du gir avkall på, kalles «alternativkostnad». Det gjelder også tid. Hvis du spiller i én time, har du gitt avkall på alt det andre du kunne gjort i den timen."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt 1.000 munten en je wilt zowel snoep als stickers kopen. Maar het geld is maar voor één ding genoeg. Wat nu? Als je er één kiest, moet je het andere opgeven.\n\nWat je opgeeft heet ‘alternatieve kosten’. Dat geldt ook voor tijd. Als je een uur gamet, heb je alles opgegeven wat je in dat uur nog meer had kunnen doen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4211,6 +4409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estimat om 12 uker: %@ %@ (+%@)"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwacht na 12 weken: %@ %@ (+%@)"
           }
         },
         "pt-BR" : {
@@ -4338,6 +4542,12 @@
             "value" : "Pris per andel"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijs per aandeel"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4461,6 +4671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Åpne med Face ID"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Openen met Face ID"
           }
         },
         "pt-BR" : {
@@ -4588,6 +4804,12 @@
             "value" : "Endre PIN"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pincode wijzigen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4711,6 +4933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skriv inn PIN"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pincode invoeren"
           }
         },
         "pt-BR" : {
@@ -4838,6 +5066,12 @@
             "value" : "PIN-koden må ha 4 sifre."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De pincode moet uit 4 cijfers bestaan."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4961,6 +5195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spør Siri og se barnets saldo med en gang."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vraag het aan Siri en zie meteen het saldo van je kind."
           }
         },
         "pt-BR" : {
@@ -5088,6 +5328,12 @@
             "value" : "Siri og Snarveier"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri en Opdrachten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5211,6 +5457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Åpne med Touch ID"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Openen met Touch ID"
           }
         },
         "pt-BR" : {
@@ -5338,6 +5590,12 @@
             "value" : "VoiceOver leser opp alle saldoer og knapper, i riktig rekkefølge."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver leest alle saldo’s en knoppen volledig en in de juiste volgorde voor."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5463,6 +5721,12 @@
             "value" : "Enklere å bruke VoiceOver"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver gemakkelijker gebruiken"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5583,6 +5847,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ won"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "≈ %@ won"
@@ -5713,6 +5983,12 @@
             "value" : "⚙️ Bankinnstillinger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Bankinstellingen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5836,6 +6112,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚡️ Handlinger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Acties"
           }
         },
         "pt-BR" : {
@@ -5963,6 +6245,12 @@
             "value" : "Butikk"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winkel"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6086,6 +6374,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registrer i butikken"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In de winkel zetten"
           }
         },
         "pt-BR" : {
@@ -6213,6 +6507,12 @@
             "value" : "Pris"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijs"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6336,6 +6636,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prisen blir til der kjøpelysten og mengden til salgs møtes."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De prijs komt tot stand waar koopzin en hoeveelheid te koop elkaar ontmoeten."
           }
         },
         "pt-BR" : {
@@ -6463,6 +6769,12 @@
             "value" : "Forstå hvordan priser blir til"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijpen hoe prijzen tot stand komen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6586,6 +6898,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prislapper 🏷️"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijskaartjes 🏷️"
           }
         },
         "pt-BR" : {
@@ -6713,6 +7031,12 @@
             "value" : "Legg til familiemedlemmene"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voeg de gezinsleden toe"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6836,6 +7160,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registrer familie"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gezin registreren"
           }
         },
         "pt-BR" : {
@@ -6963,6 +7293,12 @@
             "value" : "Ingen transaksjoner"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen transacties"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7086,6 +7422,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Transaksjonstype"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soort transactie"
           }
         },
         "pt-BR" : {
@@ -7213,6 +7555,12 @@
             "value" : "Hva er mest risikabelt, Skilpaddefondet eller Rakettfondet? Hvorfor?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat is riskanter, het Schildpadfonds of het Raketfonds? Waarom?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7338,6 +7686,12 @@
             "value" : "Hva er alternativkostnaden ved en times spilling?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat zijn de alternatieve kosten van een uur gamen?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7458,6 +7812,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betaling"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Betaling"
@@ -7588,6 +7948,12 @@
             "value" : "Betalingen mislyktes"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betaling mislukt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7711,6 +8077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Betalingen er fullført! 🎉"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betaald! 🎉"
           }
         },
         "pt-BR" : {
@@ -7838,6 +8210,12 @@
             "value" : "Betal"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betalen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7961,6 +8339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penger med plan varer lenger."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geld met een plan gaat langer mee."
           }
         },
         "pt-BR" : {
@@ -8088,6 +8472,12 @@
             "value" : "Forstå at høy gevinst følger med høy risiko"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijpen dat een hoge winst met een hoog risico komt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8211,6 +8601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kategori"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Categorie"
           }
         },
         "pt-BR" : {
@@ -8338,6 +8734,12 @@
             "value" : "Medlem"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lid"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8461,6 +8863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legg til medlem"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lid toevoegen"
           }
         },
         "pt-BR" : {
@@ -8588,6 +8996,12 @@
             "value" : "Når du gjør teksten større, legges skjermene pent om i stedet for å bli kuttet."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als je de tekst vergroot, worden de schermen netjes opnieuw ingedeeld in plaats van afgesneden."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8711,6 +9125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beløp"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bedrag"
           }
         },
         "pt-BR" : {
@@ -8838,6 +9258,12 @@
             "value" : "Periode: %lld uker"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periode: %lld weken"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8961,6 +9387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historikk"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschiedenis"
           }
         },
         "pt-BR" : {
@@ -9088,6 +9520,12 @@
             "value" : "Alternativkostnad"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alternatieve kosten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9211,6 +9649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skille mellom det man virkelig trenger og det man bare ønsker seg"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het verschil leren zien tussen wat je echt nodig hebt en wat je alleen maar wilt"
           }
         },
         "pt-BR" : {
@@ -9338,6 +9782,12 @@
             "value" : "Min historikk"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn geschiedenis"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9461,6 +9911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Min sparekonto"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn spaarrekening"
           }
         },
         "pt-BR" : {
@@ -9588,6 +10044,12 @@
             "value" : "Lommeboken min"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn portemonnee"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9711,6 +10173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lommeboken min: %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn portemonnee: %@ %@"
           }
         },
         "pt-BR" : {
@@ -9838,6 +10306,12 @@
             "value" : "Tenk deg at du har en fisk og trenger sko. Men hvis skoselgeren ikke liker fisk, kan dere ikke bytte, vel? Folk for lenge siden syntes også at dette var veldig tungvint. Så de fant på noe alle liker: «penger».\n\nPenger har tre oppgaver. For det første kan man bytte dem mot nesten hva som helst (byttemiddel). For det andre viser de hvor mye hver ting er verdt (verdimåler). For det tredje kan man ta vare på dem og bruke dem senere (oppbevaring)."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stel je voor dat je een vis hebt en schoenen nodig hebt. Maar als de schoenenverkoper niet van vis houdt, kun je niet ruilen, hè? Mensen vroeger vonden dat ook heel lastig. Daarom bedachten ze iets waar iedereen van houdt: ‘geld’.\n\nGeld heeft drie taken. Ten eerste kun je er bijna alles mee ruilen (ruilmiddel). Ten tweede zie je ermee hoeveel iets waard is (waardemeter). Ten derde kun je het bewaren en later gebruiken (bewaarmiddel)."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9961,6 +10435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvem vil du invitere?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie wil je uitnodigen?"
           }
         },
         "pt-BR" : {
@@ -10088,6 +10568,12 @@
             "value" : "Hvem betaler du til?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aan wie betaal je?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10211,6 +10697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Til hvem?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aan wie?"
           }
         },
         "pt-BR" : {
@@ -10338,6 +10830,12 @@
             "value" : "Hva skjer når du ruller en snøball? Jo lenger den ruller, jo raskere vokser den, ikke sant? Rentes rente er akkurat det.\n\nHvis 1000 mynter får 50 i rente, blir det 1050. Neste uke regnes renten av hele 1050. Pengene som rentene har tjent, får også renter! I begynnelsen merker man det ikke, men med tiden vokser det som en snøball."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat gebeurt er als je een sneeuwbal rolt? Hoe verder hij rolt, hoe sneller hij groeit, toch? Rente op rente is precies dat.\n\nAls 1.000 munten 50 rente krijgen, worden het er 1.050. Volgende week wordt de rente berekend over alle 1.050. Ook het geld dat de rente heeft verdiend, levert weer rente op! In het begin merk je het niet, maar na verloop van tijd groeit het als een sneeuwbal."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10461,6 +10959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Neste"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volgende"
           }
         },
         "pt-BR" : {
@@ -10588,6 +11092,12 @@
             "value" : "Lukk"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sluiten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10711,6 +11221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penger du ikke bruker nå, hører hjemme på sparekontoen!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geld dat je nu niet uitgeeft, hoort op de spaarrekening!"
           }
         },
         "pt-BR" : {
@@ -10838,6 +11354,12 @@
             "value" : "Du kan lese saldoer og historikk lett, selv med økt kontrast eller hvis det er vanskelig å skille farger."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lees saldo’s en geschiedenis makkelijk, ook met meer contrast of als kleuren moeilijk te onderscheiden zijn."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10961,6 +11483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oversikt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overzicht"
           }
         },
         "pt-BR" : {
@@ -11088,6 +11616,12 @@
             "value" : "Appen kan brukes på flere språk."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De app wordt in meer talen beschikbaar."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11211,6 +11745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Flere språk"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meer talen"
           }
         },
         "pt-BR" : {
@@ -11338,6 +11878,12 @@
             "value" : "Penger er et verktøy for å bytte, måle og ta vare på verdier."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geld is een hulpmiddel om te ruilen, te meten en te bewaren."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11461,6 +12007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvorfor trenger vi penger?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarom hebben we geld nodig?"
           }
         },
         "pt-BR" : {
@@ -11588,6 +12140,12 @@
             "value" : "Få for vane å planlegge og fordele pengene"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De gewoonte aanleren om geld te plannen en te verdelen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11711,6 +12269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forstå hvorfor penger finnes og hva de gjør"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijpen waarom geld bestaat en wat het doet"
           }
         },
         "pt-BR" : {
@@ -11838,6 +12402,12 @@
             "value" : "De to PIN-kodene er ikke like."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De twee ingevoerde pincodes komen niet overeen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11961,6 +12531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er ingen varer ennå. Legg først til varer i butikken med «Legg til vare»."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er zijn nog geen artikelen. Voeg eerst artikelen toe aan de winkel met ‘Artikel toevoegen’."
           }
         },
         "pt-BR" : {
@@ -12088,6 +12664,12 @@
             "value" : "Ingen barn er lagt til"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen kinderen toegevoegd"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12211,6 +12793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kunne en LEGO-kloss vært penger? Ville den bestått de fem prøvene?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan een LEGO-steentje geld zijn? Zou het de vijf proeven doorstaan?"
           }
         },
         "pt-BR" : {
@@ -12338,6 +12926,12 @@
             "value" : "Hva ville skjedd hvis det ikke fantes penger i verden?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat zou er gebeuren als er geen geld op de wereld was?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12461,6 +13055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selg"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verkopen"
           }
         },
         "pt-BR" : {
@@ -12588,6 +13188,12 @@
             "value" : "Kjøp"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12711,6 +13317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver uke stiger prisene med %@ %%. Det betyr at man for de samme pengene kan kjøpe litt mindre for hver gang."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke week stijgen de prijzen met %@%%. Dat betekent dat je voor hetzelfde geld steeds iets minder kunt kopen."
           }
         },
         "pt-BR" : {
@@ -12838,6 +13450,12 @@
             "value" : "Prisene stiger hver uke"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De prijzen stijgen elke week"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12961,6 +13579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver uke stiger prisindeksen hjemme hos oss med dette beløpet (nåværende indeks %lld). Ved 0 %% er det ingen inflasjon. Hvis du også setter opp de ekte prisene på snacks og leker litt, lærer barnet hvordan pengenes verdi endrer seg."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke week stijgt de prijsindex bij ons thuis met dit bedrag (huidige index %lld). Bij 0 %% is er geen inflatie. Als je ook de echte prijzen van snacks en speelgoed een beetje verhoogt, leert je kind hoe de waarde van geld verandert."
           }
         },
         "pt-BR" : {
@@ -13088,6 +13712,12 @@
             "value" : "Notat (f.eks.: kjøp en snack)"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notitie (bijv.: een snack kopen)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13211,6 +13841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notat (f.eks.: ukens lommepenger)"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notitie (bijv.: zakgeld van de week)"
           }
         },
         "pt-BR" : {
@@ -13338,6 +13974,12 @@
             "value" : "Hva skjer med prisen på noe alle vil selge?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat gebeurt er met de prijs van iets wat iedereen wil verkopen?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13461,6 +14103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle medlemmer, transaksjoner og investeringsprodukter slettes, og du kommer tilbake til oppsettskjermen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle leden, transacties en beleggingsproducten worden verwijderd en je keert terug naar het instelscherm."
           }
         },
         "pt-BR" : {
@@ -13588,6 +14236,12 @@
             "value" : "Tilbakestill alle data"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle gegevens resetten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13711,6 +14365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bak hvert valg skjuler det seg noe man ga avkall på."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achter elke keuze zit iets wat je hebt opgegeven."
           }
         },
         "pt-BR" : {
@@ -13838,6 +14498,12 @@
             "value" : "Hva skal det brukes til?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarvoor is het?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13961,6 +14627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prisstigning"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijsstijging"
           }
         },
         "pt-BR" : {
@@ -14088,6 +14760,12 @@
             "value" : "Prisutvikling 📊"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijsontwikkeling 📊"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14211,6 +14889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når prisene stiger, kan man kjøpe mindre for de samme pengene"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als de prijzen stijgen, kun je voor hetzelfde geld minder kopen"
           }
         },
         "pt-BR" : {
@@ -14338,6 +15022,12 @@
             "value" : "Når prisene stiger, mister penger kraft. Derfor trengs sparing og investering."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als de prijzen stijgen, verliest geld kracht. Daarom zijn sparen en beleggen belangrijk."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14461,6 +15151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forstå at penger mister kraft når prisene stiger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijpen dat geld kracht verliest als de prijzen stijgen"
           }
         },
         "pt-BR" : {
@@ -14588,6 +15284,12 @@
             "value" : "Når prisene stiger, er det lurt å la pengene bare ligge i lommeboken?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als de prijzen stijgen, is het dan een goed idee om geld gewoon in de portemonnee te laten zitten?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14711,6 +15413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prisindeks"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijsindex"
           }
         },
         "pt-BR" : {
@@ -14838,6 +15546,12 @@
             "value" : "%lld varer til salgs · valutakurs brukes automatisk"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld artikelen te koop · wisselkoers automatisch toegepast"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14961,6 +15675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Strekkode for vare"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streepjescode van artikel"
           }
         },
         "pt-BR" : {
@@ -15088,6 +15808,12 @@
             "value" : "Plasser varens strekkode innenfor rammen"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaats de streepjescode van het artikel in het kader"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15211,6 +15937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Varenavn (f.eks.: brus, 30 min spilling)"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artikelnaam (bijv.: cola, 30 min gamen)"
           }
         },
         "pt-BR" : {
@@ -15338,6 +16070,12 @@
             "value" : "Vareinformasjon"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artikelgegevens"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15461,6 +16199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legg til vare"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artikel toevoegen"
           }
         },
         "pt-BR" : {
@@ -15588,6 +16332,12 @@
             "value" : "Strekkode"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streepjescode"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15711,6 +16461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mottaker"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontvanger"
           }
         },
         "pt-BR" : {
@@ -15838,6 +16594,12 @@
             "value" : "Mottatt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontvangen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15961,6 +16723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er ingen mottaker"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er is niemand die kan ontvangen"
           }
         },
         "pt-BR" : {
@@ -16088,6 +16856,12 @@
             "value" : "Lær"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leren"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16211,6 +16985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sikkerhetskopi og eksport"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back-up en exporteren"
           }
         },
         "pt-BR" : {
@@ -16338,6 +17118,12 @@
             "value" : "Behagelige farger og kontrast"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prettige kleuren en contrast"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16461,6 +17247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du har ikke nok andeler."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt niet genoeg aandelen."
           }
         },
         "pt-BR" : {
@@ -16588,6 +17380,12 @@
             "value" : "Investeringer du eier"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beleggingen in bezit"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16711,6 +17509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moderat 🐰"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gematigd 🐰"
           }
         },
         "pt-BR" : {
@@ -16838,6 +17642,12 @@
             "value" : "Rentesrentens magi"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De magie van rente op rente"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16961,6 +17771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forelder"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouder"
           }
         },
         "pt-BR" : {
@@ -17088,6 +17904,12 @@
             "value" : "Veiledning for foreldre 📖"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouderhandleiding 📖"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17211,6 +18033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Foreldremodus"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouderstand"
           }
         },
         "pt-BR" : {
@@ -17338,6 +18166,12 @@
             "value" : "Velg PIN-kode for foreldremodus"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies de pincode voor de ouderstand"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17461,6 +18295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du kan legge til produkter i foreldremodus"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je kunt producten toevoegen in de ouderstand"
           }
         },
         "pt-BR" : {
@@ -17588,6 +18428,12 @@
             "value" : "Brukes for å bekrefte at du er forelder"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wordt gebruikt om te bevestigen dat je een ouder bent"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17711,6 +18557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En forelder må bekrefte"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een ouder moet bevestigen"
           }
         },
         "pt-BR" : {
@@ -17838,6 +18690,12 @@
             "value" : "Foreldre 🏦"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouders 🏦"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17961,6 +18819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Foreldre er banken (sentralbanken), og barna er kundene."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouders spelen de bank (centrale bank) en kinderen zijn de klanten."
           }
         },
         "pt-BR" : {
@@ -18088,6 +18952,12 @@
             "value" : "En forelder må bekrefte"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een ouder moet bevestigen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18211,6 +19081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legg til minst én forelder."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voeg minstens één ouder toe."
           }
         },
         "pt-BR" : {
@@ -18338,6 +19214,12 @@
             "value" : "Tenk på en paraplyselger en regnværsdag. Mange vil ha paraply, men det finnes bare noen få? Selv med høyere pris blir de solgt. Og badetøy når sommeren er over? Ingen vil kjøpe det, så det må selges billig.\n\nPrisen blir til i et slags tautrekking mellom «kjøpelysten» (etterspørsel) og «mengden til salgs» (tilbud). Prisene på investeringer går opp og ned etter samme prinsipp."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denk aan een paraplu-verkoper op een regenachtige dag. Veel mensen willen een paraplu, maar er zijn er maar een paar? Zelfs tegen een hogere prijs gaan ze weg. En zwemkleding aan het eind van de zomer? Niemand wil die kopen, dus moet het goedkoop worden verkocht.\n\nDe prijs komt zo tot stand door het touwtrekken tussen ‘koopzin’ (vraag) en ‘hoeveelheid te koop’ (aanbod). De prijzen van beleggingen gaan volgens hetzelfde principe op en neer."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18461,6 +19343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kjøp"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopen"
           }
         },
         "pt-BR" : {
@@ -18588,6 +19476,12 @@
             "value" : "Produkt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18711,6 +19605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Produktnavn (f.eks.: Stjernelys-fondet)"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Productnaam (bijv.: Sterrenlicht-fonds)"
           }
         },
         "pt-BR" : {
@@ -18838,6 +19738,12 @@
             "value" : "Produktinformasjon"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Productgegevens"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18961,6 +19867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legg til produkt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product toevoegen"
           }
         },
         "pt-BR" : {
@@ -19088,6 +20000,12 @@
             "value" : "Ny PIN med 4 sifre"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nieuwe pincode van 4 cijfers"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19211,6 +20129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forstå at det å velge betyr å gi avkall på noe annet"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijpen dat kiezen betekent dat je iets anders opgeeft"
           }
         },
         "pt-BR" : {
@@ -19338,6 +20262,12 @@
             "value" : "Beskrivelse (valgfritt)"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschrijving (optioneel)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19461,6 +20391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Følbar respons"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voelbare reactie"
           }
         },
         "pt-BR" : {
@@ -19588,6 +20524,12 @@
             "value" : "Antall: %lld andeler"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aantal: %lld aandelen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19711,6 +20653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tilbud og etterspørsel"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vraag en aanbod"
           }
         },
         "pt-BR" : {
@@ -19838,6 +20786,12 @@
             "value" : "Større gevinst betyr større risiko. Fordel og ta bare risiko med det du tåler å miste!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meer winst betekent meer risico. Spreid en riskeer alleen wat je kunt missen!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19961,6 +20915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "4 sifre"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 cijfers"
           }
         },
         "pt-BR" : {
@@ -20088,6 +21048,12 @@
             "value" : "Start = 100"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begin = 100"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20211,6 +21177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Startpris"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beginprijs"
           }
         },
         "pt-BR" : {
@@ -20338,6 +21310,12 @@
             "value" : "+%@ %% siden start"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% sinds het begin"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20461,6 +21439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kom i gang 🎉"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aan de slag 🎉"
           }
         },
         "pt-BR" : {
@@ -20588,6 +21572,12 @@
             "value" : "Marked"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20711,6 +21701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se sammen på prislappene i butikken på fanen Marked, og snakk om hvorfor ting koster ulikt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekijk samen op het tabblad Markt de prijskaartjes in de winkel en praat over waarom dingen verschillend kosten."
           }
         },
         "pt-BR" : {
@@ -20838,6 +21834,12 @@
             "value" : "Se sammen på prisindeksen og grafen over prisutviklingen på fanen Marked, og prøv deretter «Inflasjonsforsøket» under."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekijk samen op het tabblad Markt de prijsindex en de grafiek van de prijsontwikkeling en probeer daarna het ‘Inflatie-experiment’ hieronder uit."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20961,6 +21963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Følg med på fanen Marked på hvordan investeringsprisene endrer seg hver dag, og snakk om at «når mange vil kjøpe, stiger prisen»."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volg op het tabblad Markt hoe de beleggingsprijzen elke dag veranderen en praat over ‘als veel mensen willen kopen, stijgt de prijs’."
           }
         },
         "pt-BR" : {
@@ -21088,6 +22096,12 @@
             "value" : "Faktisk pris: %@ won"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echte prijs: %@ won"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21211,6 +22225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Faktisk pris (won)"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echte prijs (won)"
           }
         },
         "pt-BR" : {
@@ -21338,6 +22358,12 @@
             "value" : "Pris i den virkelige verden"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijs in de echte wereld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21461,6 +22487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reell verdi"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reële waarde"
           }
         },
         "pt-BR" : {
@@ -21588,6 +22620,12 @@
             "value" : "Kom i gang med SukSuk Lommepenger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aan de slag met SukSuk Zakgeld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21711,6 +22749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Velkommen til SukSuk Lommepenger!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welkom bij SukSuk Zakgeld!"
           }
         },
         "pt-BR" : {
@@ -21838,6 +22882,12 @@
             "value" : "Bruksråd"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebruikstips"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21961,6 +23011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fortsett der du slapp"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verdergaan waar je was gebleven"
           }
         },
         "pt-BR" : {
@@ -22088,6 +23144,12 @@
             "value" : "I «Rentesrente-kalkulatoren» under kan du forlenge perioden fra 4 til 52 uker. Se sammen hvordan grafen blir brattere og brattere!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verleng in de ‘Rente-op-rente-rekenmachine’ hieronder de periode van 4 naar 52 weken. Kijk samen hoe de grafiek steeds steiler wordt!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22211,6 +23273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forstå hvorfor ikke hva som helst kan være penger (pengenes egenskaper)"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijpen waarom niet alles geld kan zijn (de eigenschappen van geld)"
           }
         },
         "pt-BR" : {
@@ -22338,6 +23406,12 @@
             "value" : "Flytt halvparten av barnets lommebok til sparekontoen. En uke senere kan dere se på rentene sammen – det virker kjempegodt!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zet de helft van de portemonnee van je kind op de spaarrekening. Bekijk een week later samen de rente – dat werkt geweldig!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22461,6 +23535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Før barnet betaler i butikken, la det alltid si «én annen ting man kunne kjøpt for disse pengene»."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laat je kind, voordat het in de winkel betaalt, altijd ‘nog één ander ding dat je met dit geld kunt kopen’ noemen."
           }
         },
         "pt-BR" : {
@@ -22588,6 +23668,12 @@
             "value" : "Prøv å si det slik til barnet"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probeer het zo tegen je kind te zeggen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22711,6 +23797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ta ett trinn om gangen sammen med barnet fra trinn 1. Hvert trinn følger rekkefølgen «forklar → spør → prøv sammen», og 10 minutter er nok."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ga samen met je kind stap voor stap, te beginnen bij stap 1. Elke stap volgt de volgorde ‘uitleggen → vragen → samen proberen’ en 10 minuten is genoeg."
           }
         },
         "pt-BR" : {
@@ -22838,6 +23930,12 @@
             "value" : "Fordel sammen med barnet et lite beløp på 2 produkter. Se på prisene hver dag, så barnet blir vant til opp- og nedgangene."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verdeel samen met je kind een klein bedrag over 2 producten. Kijk elke dag naar de prijzen, zodat het went aan het op en neer."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22961,6 +24059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er ikke nok prishistorikk ennå. Sjekk igjen i morgen!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er is nog niet genoeg prijsgeschiedenis. Kijk morgen nog eens!"
           }
         },
         "pt-BR" : {
@@ -23088,6 +24192,12 @@
             "value" : "Ingen transaksjoner ennå"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen transacties"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23211,6 +24321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingen varer ennå.\nLegg til familiens varer i foreldremodus!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen artikelen.\nVoeg de artikelen van jullie gezin toe in de ouderstand!"
           }
         },
         "pt-BR" : {
@@ -23338,6 +24454,12 @@
             "value" : "Ingen varer ennå · legg dem til på fanen Handlinger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen artikelen · voeg ze toe op het tabblad Acties"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23461,6 +24583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingen beholdning ennå"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog niets in bezit"
           }
         },
         "pt-BR" : {
@@ -23588,6 +24716,12 @@
             "value" : "Trygg 🐢"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veilig 🐢"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23711,6 +24845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Varsel"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Melding"
           }
         },
         "pt-BR" : {
@@ -23838,6 +24978,12 @@
             "value" : "Vi gir deg diskret beskjed om nyttige funksjoner til riktig tid."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuttige functies worden op het juiste moment onopvallend voorgesteld."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23961,6 +25107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Handlinger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acties"
           }
         },
         "pt-BR" : {
@@ -24088,6 +25240,12 @@
             "value" : "Prøv sammen i appen"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samen proberen in de app"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24211,6 +25369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se barnets saldo rett på hjemskjermen uten å åpne appen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zie het saldo van je kind direct op het beginscherm, zonder de app te openen."
           }
         },
         "pt-BR" : {
@@ -24338,6 +25502,12 @@
             "value" : "Du kan også bruke appen på engelsk."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je kunt de app ook in het Engels gebruiken."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24461,6 +25631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvor mye?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoeveel?"
           }
         },
         "pt-BR" : {
@@ -24588,6 +25764,12 @@
             "value" : "Hvor mye betaler du?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoeveel betaal je?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24711,6 +25893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Første gang du åpner appen etter en oppdatering, ser du hva som er nytt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De eerste keer dat je de app na een update opent, zie je wat er nieuw is."
           }
         },
         "pt-BR" : {
@@ -24838,6 +26026,12 @@
             "value" : "Hva er nytt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat is er nieuw"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24961,6 +26155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rolle"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rol"
           }
         },
         "pt-BR" : {
@@ -25088,6 +26288,12 @@
             "value" : "Støtte for engelsk"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ondersteuning voor Engels"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25211,6 +26417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "F.eks.: en ting som i virkeligheten koster 1000 won = %@ %@. Prisene på varene i butikken i %@ beregnes automatisk med denne kursen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bijv.: iets wat echt 1.000 won kost = %@ %@. De prijzen van de winkelartikelen in %@ worden met deze koers automatisch berekend."
           }
         },
         "pt-BR" : {
@@ -25338,6 +26550,12 @@
             "value" : "F.eks.: Bønne, Stjerne, Mynt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bijv.: Boon, Ster, Munt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25461,6 +26679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lage et budsjett"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een budget maken"
           }
         },
         "pt-BR" : {
@@ -25588,6 +26812,12 @@
             "value" : "Dette lærer vi i dag"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat we vandaag leren"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25711,6 +26941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ferdig"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klaar"
           }
         },
         "pt-BR" : {
@@ -25838,6 +27074,12 @@
             "value" : "Hvorfor kan ikke sand fra veikanten være penger? Fordi det finnes masse av det overalt! For å være gode penger må noe bestå fem prøver.\n\n① Det må holde lenge (det kan ikke råtne!) ② Det må være lett å bære (en ku er for tung – ute!) ③ Det må kunne deles i små biter ④ Det kan ikke være for vanlig ⑤ Alle må tro at «dette er ekte penger».\n\nHjemmemyntene våre har verdi fordi mamma og pappa ikke lager dem når det passer, men holder løftet sitt."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarom kan zand van de weg geen geld zijn? Omdat er overal zo veel van is! Om goed geld te zijn, moet iets vijf proeven doorstaan.\n\n① Het moet lang meegaan (niet rotten!) ② Het moet makkelijk mee te nemen zijn (een koe is te zwaar – afgevallen!) ③ Het moet in kleine stukjes te verdelen zijn ④ Het mag niet te gewoon zijn ⑤ Iedereen moet geloven: ‘Dit is echt geld.’\n\nOnze munten thuis zijn iets waard omdat mama en papa ze niet maken wanneer ze maar willen, maar zich aan hun belofte houden."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25961,6 +27203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Av tingene du vil kjøpe i det siste, hva er behov og hva er ønsker?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Van de dingen die je de laatste tijd wilt kopen, wat zijn behoeften en wat zijn wensen?"
           }
         },
         "pt-BR" : {
@@ -26088,6 +27336,12 @@
             "value" : "Lommepenger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakgeld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26211,6 +27465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Påminnelser om lommepenger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakgeldherinneringen"
           }
         },
         "pt-BR" : {
@@ -26338,6 +27598,12 @@
             "value" : "Gi lommepenger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakgeld geven"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26461,6 +27727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gi / trekk fra lommepenger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakgeld geven / afschrijven"
           }
         },
         "pt-BR" : {
@@ -26588,6 +27860,12 @@
             "value" : "På lommepengedagen kan du la barnet selv bestemme fordelingen mellom sparing, investering og forbruk og følge den. En uke senere ser dere sammen på fanen Historikk."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laat je kind op zakgelddag zelf bepalen hoeveel het spaart, belegt en uitgeeft en dat uitvoeren. Een week later bekijken jullie samen het tabblad Geschiedenis."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26711,6 +27989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Få et varsel på lommepengedagen eller når renter tilskrives."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontvang een melding op zakgelddag of wanneer er rente wordt bijgeschreven."
           }
         },
         "pt-BR" : {
@@ -26838,6 +28122,12 @@
             "value" : "Bare de som kjenner denne PIN-koden, kan gi lommepenger,\nstille inn renter og lignende."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakgeld geven, rentes instellen en meer\nkan alleen door wie deze pincode kent."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26961,6 +28251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En lett vibrasjon varsler deg når lommepengene kommer eller noe kjøpes."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een lichte trilling laat je weten dat zakgeld binnenkomt of dat iets is gekocht."
           }
         },
         "pt-BR" : {
@@ -27088,6 +28384,12 @@
             "value" : "Hvis du bruker lommepengene med en gang uten plan, er de fort borte. Derfor lager man en plan på forhånd. Det kalles et «budsjett».\n\nFordel dem for eksempel slik: sparing 30, nødvendige ting 40, ting du vil ha 20, investeringsprøve 10. Det trenger ikke være akkurat slik. Det viktigste er at du bestemmer selv!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als je je zakgeld meteen uitgeeft zodra je het krijgt, zonder plan, is het zo op. Daarom maak je van tevoren een plan. Dat heet een ‘budget’.\n\nVerdeel het bijvoorbeeld zo: sparen 30, nodige dingen 40, dingen die je wilt 20, beleggen proberen 10. Het hoeft niet precies zo. Het belangrijkste is dat je zelf beslist!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27211,6 +28513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du gir lommepenger eller betaler, vises det her"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als je zakgeld geeft of betaalt, verschijnt het hier"
           }
         },
         "pt-BR" : {
@@ -27338,6 +28646,12 @@
             "value" : "Gi lommepenger, betal, få renter på sparingen\nog invester til og med – et økonomisystem bare for familien din."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geef zakgeld, betaal, ontvang spaarrente\nen ga zelfs beleggen – een economisch systeem alleen voor jullie gezin."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27461,6 +28775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hjemmebutikk"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winkel thuis"
           }
         },
         "pt-BR" : {
@@ -27588,6 +28908,12 @@
             "value" : "Se på varene i hjemmebutikken sammen, og sorter dem én og én i «behov» og «ønsker»."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekijk samen de artikelen in de winkel thuis en verdeel ze een voor een in ‘behoeften’ en ‘wensen’."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27711,6 +29037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pris hjemme"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijs bij ons thuis"
           }
         },
         "pt-BR" : {
@@ -27838,6 +29170,12 @@
             "value" : "Priser hjemme"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prijzen thuis"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27961,6 +29299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hva er prisindeksen hjemme hos oss akkurat nå?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat is de prijsindex bij ons thuis nu?"
           }
         },
         "pt-BR" : {
@@ -28088,6 +29432,12 @@
             "value" : "Lagre hjemmebankens poster i en fil og hent dem inn igjen senere."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewaar de gegevens van jullie huisbank in een bestand en laad ze later weer in."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28211,6 +29561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hva kan vi bytte hjemmemyntene våre mot?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarvoor kunnen we onze munten van thuis ruilen?"
           }
         },
         "pt-BR" : {
@@ -28338,6 +29694,12 @@
             "value" : "Hvorfor har hjemmemyntene våre verdi?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarom zijn onze munten thuis iets waard?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28461,6 +29823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pengemengde hjemme hos oss 💰"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geldhoeveelheid bij ons thuis 💰"
           }
         },
         "pt-BR" : {
@@ -28588,6 +29956,12 @@
             "value" : "Dette er familiens investeringsprodukt."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit is het beleggingsproduct van ons gezin."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28711,6 +30085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gi hjemmevalutaen et navn"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies een naam voor de munteenheid van jullie huis"
           }
         },
         "pt-BR" : {
@@ -28838,6 +30218,12 @@
             "value" : "Penger i omløp hjemme hos oss"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geld in omloop bij ons thuis"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28961,6 +30347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reduser bevegelse"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beweging verminderen"
           }
         },
         "pt-BR" : {
@@ -29088,6 +30480,12 @@
             "value" : "Når «Reduser bevegelse» er slått på, blir skjermeffektene roligere."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als ‘Verminder beweging’ aanstaat, worden de schermeffecten rustiger."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29208,6 +30606,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "won"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "won"
@@ -29338,6 +30742,12 @@
             "value" : "Risikonivå"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risiconiveau"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29461,6 +30871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Risikabel 🚀"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riskant 🚀"
           }
         },
         "pt-BR" : {
@@ -29588,6 +31004,12 @@
             "value" : "Bankinnstillinger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bankinstellingen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29711,6 +31133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du setter penger i banken, sier banken «Takk for at du stoler på oss!» og gir deg litt ekstra. Det ekstra kalles «renter».\n\nPenger i lommeboken vokser aldri, uansett hvor lenge du venter. Men setter du dem på sparekontoen, legges det til renter hver uke, og pengene vokser. Hvor bør penger du ikke bruker nå, ligge?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als je geld bij de bank brengt, zegt de bank ‘Bedankt dat je ons vertrouwt!’ en geeft je er iets bij. Dat extra heet ‘rente’.\n\nGeld in de portemonnee groeit nooit, hoe lang je ook wacht. Maar als je het op de spaarrekening zet, komt er elke week rente bij en groeit het geld. Waar kun je geld dat je nu niet uitgeeft het best neerzetten?"
           }
         },
         "pt-BR" : {
@@ -29838,6 +31266,12 @@
             "value" : "Gi denne enheten videre"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit toestel doorgeven"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29961,6 +31395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Denne enheten bytter til valgt barns egen skjerm. Barnet ser bare sin egen lommebok, butikk, investeringer, historikk og leksjoner. Praktisk når du lar et barn uten telefon bruke din. For å komme tilbake trykker du på låseknappen og skriver inn foreldrenes PIN-kode."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit toestel schakelt over naar het eigen scherm van het gekozen kind. Het kind ziet alleen zijn of haar eigen portemonnee, winkel, beleggingen, geschiedenis en lessen. Handig als je je telefoon uitleent aan een kind zonder eigen telefoon. Om terug te gaan, tik je op de slotknop en voer je de pincode van de ouder in."
           }
         },
         "pt-BR" : {
@@ -30088,6 +31528,12 @@
             "value" : "Gjøre denne enheten til telefonen til %@ %@? Du trenger foreldrenes PIN-kode for å bytte tilbake."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit toestel de telefoon van %@ %@ maken? Om terug te schakelen is de pincode van de ouder nodig."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30211,6 +31657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvem sin telefon skal denne enheten bli? Du trenger foreldrenes PIN-kode for å bytte tilbake."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Van wie moet dit toestel de telefoon worden? Om terug te schakelen is de pincode van de ouder nodig."
           }
         },
         "pt-BR" : {
@@ -30338,6 +31790,12 @@
             "value" : "Hvor mye blir det hvis du lar det stå? (estimat for 12 uker med rentes rente)"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoeveel wordt het als je het zo laat staan? (schatting voor 12 weken met rente op rente)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30461,6 +31919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prøv å spørre slik"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probeer het zo te vragen"
           }
         },
         "pt-BR" : {
@@ -30588,6 +32052,12 @@
             "value" : "Navn"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naam"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30708,6 +32178,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji"
@@ -30838,6 +32314,12 @@
             "value" : "Hvordan vil du fordele ukens lommepenger?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe wil je het zakgeld van deze week verdelen?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30963,6 +32445,12 @@
             "value" : "Årsak"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reden"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31083,6 +32571,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rente"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rente"
@@ -31213,6 +32707,12 @@
             "value" : "Renter · Kurs · Priser"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rente · Koers · Prijzen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31336,6 +32836,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når renter gir nye renter, kalles det «rentes rente». Jo lenger du sparer, jo mer vokser pengene som en snøball! ⛄️"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als rente weer rente oplevert, heet dat ‘rente op rente’. Hoe langer je spaart, hoe meer je geld groeit als een sneeuwbal! ⛄️"
           }
         },
         "pt-BR" : {
@@ -31463,6 +32969,12 @@
             "value" : "Du tjente %@ %@ bare på renter!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt %@ %@ verdiend met alleen rente!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31586,6 +33098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forstå at renter på renter vokser som en snøball"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijpen dat rente op rente groeit als een sneeuwbal"
           }
         },
         "pt-BR" : {
@@ -31713,6 +33231,12 @@
             "value" : "Hvis renten er lavere enn prisstigningen, mister pengene kraft selv om du sparer. Prøv å sette opp renten!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als de rente lager is dan de prijsstijging, verliest geld kracht, zelfs als je spaart. Probeer de rente te verhogen!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31836,6 +33360,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tilbake"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terug"
           }
         },
         "pt-BR" : {
@@ -31963,6 +33493,12 @@
             "value" : "Inflasjon"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflatie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32088,6 +33624,12 @@
             "value" : "Ingen inflasjon"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen inflatie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32208,6 +33750,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dag"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dag"
@@ -32338,6 +33886,12 @@
             "value" : "Start tidlig og hold ut – det er hemmeligheten bak rentes rente."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vroeg beginnen en volhouden – dat is het geheim van rente op rente."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32461,6 +34015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvor mye penger gjør det ikke noe å miste?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoeveel geld is het niet erg om te verliezen?"
           }
         },
         "pt-BR" : {
@@ -32588,6 +34148,12 @@
             "value" : "Sett inn"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Storten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32711,6 +34277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sett inn / Ta ut"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Storten / Opnemen"
           }
         },
         "pt-BR" : {
@@ -32838,6 +34410,12 @@
             "value" : "Barn"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kind"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32961,6 +34539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skann med kameraet på barnets enhet for å se invitasjonen"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan met de camera van het toestel van je kind om de uitnodiging te zien"
           }
         },
         "pt-BR" : {
@@ -33088,6 +34672,12 @@
             "value" : "Inviter barn"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kind uitnodigen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33211,6 +34801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barnetelefon-modus"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kindertelefoonstand"
           }
         },
         "pt-BR" : {
@@ -33338,6 +34934,12 @@
             "value" : "Bytt til barnetelefon"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overschakelen naar kindertelefoon"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33461,6 +35063,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barn 👧"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kinderen 👧"
           }
         },
         "pt-BR" : {
@@ -33588,6 +35196,12 @@
             "value" : "Når barnet ditt skanner denne strekkoden med «Skann og betal»,\ntrekkes %@ fra lommeboken."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als je kind deze streepjescode scant met ‘Scannen en betalen’,\nwordt er %@ van de portemonnee afgeschreven."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33711,6 +35325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legg til minst ett barn."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voeg minstens één kind toe."
           }
         },
         "pt-BR" : {
@@ -33838,6 +35458,12 @@
             "value" : "I fjor kostet en godtepose 1000. I år koster den 1100. Og godteposen har ikke blitt større! Når prisene stiger slik, kalles det «inflasjon».\n\nTallet på pengene dine er det samme, men du kan kjøpe mindre. Som luften som siver ut av en ballong, blir pengenes kraft svakere. Derfor taper du litt hvis pengene bare ligger i lommeboken. For å bevare kraften må du la dem vokse raskere enn prisene – med renter eller investering."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorig jaar kostte een snoepje 1.000. Dit jaar kost het 1.100. En het snoepje is niet groter geworden! Als prijzen zo stijgen, heet dat ‘inflatie’.\n\nHet getal op je geld blijft hetzelfde, maar je kunt er minder mee kopen. Zoals lucht uit een ballon ontsnapt, wordt de kracht van geld zwakker. Als je geld dus gewoon in je portemonnee laat zitten, verlies je beetje bij beetje. Om de kracht te behouden, moet je het sneller laten groeien dan de prijzen stijgen – met rente of beleggen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33958,6 +35584,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo"
@@ -34088,6 +35720,12 @@
             "value" : "Lås"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergrendelen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34211,6 +35849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lagre"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewaren"
           }
         },
         "pt-BR" : {
@@ -34338,6 +35982,12 @@
             "value" : "Sparing"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34461,6 +36111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sparerente"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spaarrente"
           }
         },
         "pt-BR" : {
@@ -34588,6 +36244,12 @@
             "value" : "Innskudd på sparing"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Storting op sparen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34711,6 +36373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sparesaldo"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spaarsaldo"
           }
         },
         "pt-BR" : {
@@ -34838,6 +36506,12 @@
             "value" : "Uttak fra sparing"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opname van sparen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34961,6 +36635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sparing: %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparen: %@"
           }
         },
         "pt-BR" : {
@@ -35088,6 +36768,12 @@
             "value" : "Sparing og renter"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparen en rente"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35211,6 +36897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvis én begynner å spare tidlig og en annen sent, hvem blir rikest etterpå?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als de een vroeg begint met sparen en de ander laat, wie is er later rijker?"
           }
         },
         "pt-BR" : {
@@ -35338,6 +37030,12 @@
             "value" : "Sett på sparekontoen"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Op de spaarrekening zetten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35461,6 +37159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er ikke nok penger på sparekontoen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er staat niet genoeg geld op de spaarrekening."
           }
         },
         "pt-BR" : {
@@ -35588,6 +37292,12 @@
             "value" : "Ukentlig rentes rente på sparekontoen"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wekelijks rente op rente op de spaarrekening"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35711,6 +37421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forstå hvordan sparing får penger til å vokse"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijpen hoe sparen geld laat groeien"
           }
         },
         "pt-BR" : {
@@ -35838,6 +37554,12 @@
             "value" : "Sparte penger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gespaard geld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35961,6 +37683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv om appen lukkes mens du skriver, blir det du skrev stående."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ook als de app tijdens het typen sluit, blijft wat je schreef staan."
           }
         },
         "pt-BR" : {
@@ -36088,6 +37816,12 @@
             "value" : "Slett alt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles verwijderen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36208,6 +37942,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle"
@@ -36338,6 +38078,12 @@
             "value" : "Vil du virkelig slette alle data?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echt alle gegevens verwijderen?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36461,6 +38207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Type"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soort"
           }
         },
         "pt-BR" : {
@@ -36588,6 +38340,12 @@
             "value" : "Hva som gjør penger gode"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat goed geld goed maakt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36711,6 +38469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "uke"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wk"
           }
         },
         "pt-BR" : {
@@ -36838,6 +38602,12 @@
             "value" : "%@ %% per uke"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% per week"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36961,6 +38731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ukentlig prisstigning: %@ %%"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wekelijkse prijsstijging: %@%%"
           }
         },
         "pt-BR" : {
@@ -37088,6 +38864,12 @@
             "value" : "Ukentlig rente"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rente per week"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37211,6 +38993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ukentlig rente: %@ %%"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rente per week: %@%%"
           }
         },
         "pt-BR" : {
@@ -37338,6 +39126,12 @@
             "value" : "Ukentlig sparerente %@ %% · Ukentlig prisstigning %@ %%"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wekelijkse spaarrente %@%% · Wekelijkse prijsstijging %@%%"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37461,6 +39255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ukentlig sparerente: %@ %%"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wekelijkse spaarrente: %@%%"
           }
         },
         "pt-BR" : {
@@ -37588,6 +39388,12 @@
             "value" : "Lommebok"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portemonnee"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37711,6 +39517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo i lommeboken"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo van de portemonnee"
           }
         },
         "pt-BR" : {
@@ -37838,6 +39650,12 @@
             "value" : "Lommebok: %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portemonnee: %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37961,6 +39779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lommebok: %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portemonnee: %@ %@"
           }
         },
         "pt-BR" : {
@@ -38088,6 +39912,12 @@
             "value" : "Pengene som ble liggende i lommeboken mistet kraft, men de sparte pengene beholdt den! 💪"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het geld dat in de portemonnee bleef zitten, verloor kracht, maar het gespaarde geld behield die! 💪"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38211,6 +40041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er ikke nok penger i lommeboken! Saldo: %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er zit niet genoeg geld in je portemonnee! Saldo: %@ %@"
           }
         },
         "pt-BR" : {
@@ -38338,6 +40174,12 @@
             "value" : "Det er ikke nok penger i lommeboken."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er zit niet genoeg geld in de portemonnee."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38461,6 +40303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er ikke nok penger i lommeboken. Trengs: %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er zit niet genoeg geld in de portemonnee. Nodig: %@ %@"
           }
         },
         "pt-BR" : {
@@ -38588,6 +40436,12 @@
             "value" : "Penger i lommeboken"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geld in de portemonnee"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38711,6 +40565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hva er forskjellen på penger i lommeboken og sparte penger?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat is het verschil tussen geld in de portemonnee en gespaard geld?"
           }
         },
         "pt-BR" : {
@@ -38838,6 +40698,12 @@
             "value" : "Flytt til lommeboken"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naar de portemonnee halen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38961,6 +40827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gi · Trekk fra"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geven · Afschrijven"
           }
         },
         "pt-BR" : {
@@ -39088,6 +40960,12 @@
             "value" : "Hva ga du avkall på sist du kjøpte noe?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat gaf je op de laatste keer dat je iets kocht?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39211,6 +41089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hva brukte du mest penger på forrige uke?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waar gaf je vorige week het meeste geld aan uit?"
           }
         },
         "pt-BR" : {
@@ -39338,6 +41222,12 @@
             "value" : "Indeks %lld"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Index %lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39461,6 +41351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Støtte"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ondersteuning"
           }
         },
         "pt-BR" : {
@@ -39588,6 +41484,12 @@
             "value" : "Velg 3 ting hjemme og lek «Kunne dette vært penger?». Sett ✓ eller ✗ for hver av de fem betingelsene."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies 3 dingen in huis en speel ‘Kan dit geld zijn?’. Zet bij elk van de vijf voorwaarden een ✓ of een ✗."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39711,6 +41613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skann og betal"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scannen en betalen"
           }
         },
         "pt-BR" : {
@@ -39838,6 +41746,12 @@
             "value" : "Skann og betal med en gang"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan en betaal meteen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39961,6 +41875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trekk"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afschrijving"
           }
         },
         "pt-BR" : {
@@ -40088,6 +42008,12 @@
             "value" : "Trekk fra"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afschrijven"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40211,6 +42137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Startbeløp: %@ %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beginbedrag: %@ %@"
           }
         },
         "pt-BR" : {
@@ -40338,6 +42270,12 @@
             "value" : "Prisene har steget %@ %% siden start. 1000 %@ i lommeboken har nå kraften til %@ %@."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De prijzen zijn sinds het begin met %@%% gestegen. 1.000 %@ in de portemonnee heeft nu de kracht van %@ %@."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40461,6 +42399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Invitasjon · QR"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitnodiging · QR"
           }
         },
         "pt-BR" : {
@@ -40588,6 +42532,12 @@
             "value" : "Send invitasjon"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitnodiging versturen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40711,6 +42661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Totalbeløp"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totaalbedrag"
           }
         },
         "pt-BR" : {
@@ -40838,6 +42794,12 @@
             "value" : "Total formue"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totaal vermogen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40961,6 +42923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total formue · ca. %@ won i ekte penger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totaal vermogen · ongeveer %@ won in echt geld"
           }
         },
         "pt-BR" : {
@@ -41088,6 +43056,12 @@
             "value" : "Siste transaksjoner"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recente transacties"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41211,6 +43185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legg til"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toevoegen"
           }
         },
         "pt-BR" : {
@@ -41338,6 +43318,12 @@
             "value" : "Ta ut"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opnemen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41461,6 +43447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avbryt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuleren"
           }
         },
         "pt-BR" : {
@@ -41588,6 +43580,12 @@
             "value" : "Hvorfor blir populære leker dyrere til jul?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarom wordt populair speelgoed met kerst duurder?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41711,6 +43709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skjermer for stor tekst"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schermen voor grote letters"
           }
         },
         "pt-BR" : {
@@ -41838,6 +43842,12 @@
             "value" : "Investert"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belegd"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41961,6 +43971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investeringssalg"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verkoop belegging"
           }
         },
         "pt-BR" : {
@@ -42088,6 +44104,12 @@
             "value" : "Investeringskjøp"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aankoop belegging"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42211,6 +44233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investeringsprodukter"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beleggingsproducten"
           }
         },
         "pt-BR" : {
@@ -42338,6 +44366,12 @@
             "value" : "Legg til investeringsprodukt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beleggingsproduct toevoegen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42461,6 +44495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investeringsmarked 📈"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beleggingsmarkt 📈"
           }
         },
         "pt-BR" : {
@@ -42588,6 +44628,12 @@
             "value" : "Investeringsverdi: %@ %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarde beleggingen: %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42711,6 +44757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Å investere er som å plante penger. Hvis frøet vokser godt, blir det et stort tre – men det kan også visne. I motsetning til sparing kan pengene øke eller minke når man investerer.\n\nHusk denne regelen: Jo mer du kan vinne, jo mer kan du også tape. Og hvis du legger alle eggene i én kurv, går alle i stykker når den faller. Fordel dem (spredning). Plant bare det du tåler å miste."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beleggen is als geld planten. Als het zaadje goed groeit, wordt het een grote boom – maar het kan ook verwelken. Anders dan bij sparen kan je geld bij beleggen groeien of krimpen.\n\nOnthoud deze regel: hoe meer je kunt winnen, hoe meer je ook kunt verliezen. En als je alle eieren in één mandje legt, zijn ze allemaal kapot als het valt. Verdeel ze (spreiden). Plant alleen wat je kunt missen."
           }
         },
         "pt-BR" : {
@@ -42838,6 +44890,12 @@
             "value" : "Investering og risiko"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beleggen en risico"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42961,6 +45019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investor"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belegger"
           }
         },
         "pt-BR" : {
@@ -43088,6 +45152,12 @@
             "value" : "Velg investor"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies een belegger"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43211,6 +45281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "For å investere må du først legge til et barn på Hjem."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om te beleggen, voeg je eerst een kind toe op het beginscherm."
           }
         },
         "pt-BR" : {
@@ -43338,6 +45414,12 @@
             "value" : "Ingen investeringsprodukter til salgs"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen beleggingsproducten te koop"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43461,6 +45543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skjerm for foldbar iPhone"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scherm voor opvouwbare iPhone"
           }
         },
         "pt-BR" : {
@@ -43588,6 +45676,12 @@
             "value" : "Bruk den brede skjermen på en foldbar iPhone delt i to paneler."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebruik het brede scherm van een opvouwbare iPhone in twee kolommen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43711,6 +45805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Først behov, så ønsker!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eerst behoeften, dan wensen!"
           }
         },
         "pt-BR" : {
@@ -43838,6 +45938,12 @@
             "value" : "Behov og ønsker"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behoeften en wensen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43963,6 +46069,12 @@
             "value" : "Hva skjer hvis man kjøper ønsker og lar være å kjøpe behov?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat gebeurt er als je wensen koopt en behoeften niet?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44083,6 +46195,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Filter"
@@ -44213,6 +46331,12 @@
             "value" : "Nullstill filtre"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filters wissen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44336,6 +46460,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beveger seg kraftig, opptil ±15 %% per dag! Du kan vinne mye eller tape mye."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beweegt sterk, tot ±15 %% per dag! Je kunt veel winnen of veel verliezen."
           }
         },
         "pt-BR" : {
@@ -44463,6 +46593,12 @@
             "value" : "Beveger seg litt av gangen, rundt ±2 %% per dag. Liten risiko for tap."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beweegt rustig, ongeveer ±2 %% per dag. Weinig kans op verlies."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44586,6 +46722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Går opp og ned rundt ±6 %% per dag. En passe utfordring."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gaat op en neer met ongeveer ±6 %% per dag. Een gepaste uitdaging."
           }
         },
         "pt-BR" : {
@@ -44713,6 +46855,12 @@
             "value" : "Skriv den inn en gang til"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voer nog een keer in"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44836,6 +46984,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prøv sammen · Rentesrente-kalkulator 🧮"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samen experimenteren · Rente-op-rente-rekenmachine 🧮"
           }
         },
         "pt-BR" : {
@@ -44963,6 +47117,12 @@
             "value" : "Prøv sammen · Inflasjonsforsøk 🎈"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samen experimenteren · Inflatie-experiment 🎈"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45086,6 +47246,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nåværende pris"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huidige prijs"
           }
         },
         "pt-BR" : {
@@ -45213,6 +47379,12 @@
             "value" : "Nåværende lommebok"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huidige portemonnee"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45336,6 +47508,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Miniprogrammer på hjemskjermen"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets op het beginscherm"
           }
         },
         "pt-BR" : {
@@ -45463,6 +47641,12 @@
             "value" : "Valuta «%@» · Ukentlig rente %@ %%"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Munteenheid ‘%@’ · Wekelijkse rente %@%%"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45588,6 +47772,12 @@
             "value" : "Valutanavn"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naam van de munteenheid"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45708,6 +47898,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -45838,6 +48034,12 @@
             "value" : "Valutakurs"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wisselkoers"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45961,6 +48163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beregnes automatisk med 1 %@ = %@ won."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wordt automatisch berekend met 1 %@ = %@ won."
           }
         },
         "pt-BR" : {
@@ -46088,6 +48296,12 @@
             "value" : "Valutakurs: 1 %@ ="
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wisselkoers: 1 %@ ="
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46211,6 +48425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "For å være penger må noe være sjeldent, og alle må stole på det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om geld te zijn moet iets schaars zijn en moet iedereen het vertrouwen."
           }
         },
         "pt-BR" : {
@@ -46338,6 +48558,12 @@
             "value" : "🌱 %@, du er invitert til SukSuk Lommepenger!\n\nLa oss bruke hjemmevalutaen vår «%@» sammen:\n• Spar lommepengene og betal med dem 💸\n• Når du sparer, får du %@ %% rente hver uke 🏦\n• Lær om økonomi med investeringsprodukter 📈\n\nÅpne appen SukSuk Lommepenger på en enhet som er logget på med samme iCloud-konto som foreldrenes enhet, så er du med med en gang!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, je bent uitgenodigd voor SukSuk Zakgeld!\n\nLaten we samen de munteenheid van ons huis, ‘%@’, gebruiken:\n• Spaar je zakgeld en betaal ermee 💸\n• Als je spaart, krijg je elke week %@%% rente 🏦\n• Leer over economie met beleggingsproducten 📈\n\nOpen de app SukSuk Zakgeld op een toestel dat met hetzelfde iCloud-account is ingelogd als het toestel van je ouders, en je doet meteen mee!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46461,6 +48687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Lær"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Leren"
           }
         },
         "pt-BR" : {
@@ -46588,6 +48820,12 @@
             "value" : "🏛️ Marked"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Markt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46711,6 +48949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Foreldremodus"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Ouderstand"
           }
         },
         "pt-BR" : {
@@ -46838,6 +49082,12 @@
             "value" : "🏦 Sparing"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Sparen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46961,6 +49211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Sparekonto"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Spaarrekening"
           }
         },
         "pt-BR" : {
@@ -47088,6 +49344,12 @@
             "value" : "🏪 Hjemmebutikk"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Winkel thuis"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47211,6 +49473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Strekkode for vare"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Streepjescode van artikel"
           }
         },
         "pt-BR" : {
@@ -47338,6 +49606,12 @@
             "value" : "👨‍👩‍👧‍👦 Familiemedlemmer"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Gezinsleden"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47461,6 +49735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Invitasjon"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Uitnodiging"
           }
         },
         "pt-BR" : {
@@ -47588,6 +49868,12 @@
             "value" : "💡 Penger som bare ligger, mister kraft. Beskytt dem med sparing (renter) eller investering!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Geld dat stilligt, verliest kracht. Bescherm het met sparen (rente) of beleggen!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47711,6 +49997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 Du kan sende invitasjonen som melding eller i en chat-app.\nPå enheter som er logget på med samme iCloud-konto, vises dataene automatisk."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Je kunt de uitnodiging versturen via een bericht of een chat-app.\nOp toestellen die met hetzelfde iCloud-account zijn ingelogd, verschijnen de gegevens automatisch."
           }
         },
         "pt-BR" : {
@@ -47838,6 +50130,12 @@
             "value" : "💡 Prisene endrer seg én gang om dagen. Kjøp billig og selg dyrt gir gevinst, motsatt gir tap!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 De prijzen veranderen één keer per dag. Goedkoop kopen en duur verkopen levert winst op, andersom verlies!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47961,6 +50259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Betal"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Betalen"
           }
         },
         "pt-BR" : {
@@ -48088,6 +50392,12 @@
             "value" : "💵 Lommebok"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Portemonnee"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48211,6 +50521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Administrer penger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Geld beheren"
           }
         },
         "pt-BR" : {
@@ -48338,6 +50654,12 @@
             "value" : "💸 Lommepenger"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Zakgeld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48461,6 +50783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Invester"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Beleggen"
           }
         },
         "pt-BR" : {
@@ -48588,6 +50916,12 @@
             "value" : "📈 Investeringsprodukter"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Beleggingsproducten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48711,6 +51045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Barnetelefon-modus"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Kindertelefoonstand"
           }
         },
         "pt-BR" : {
@@ -48838,6 +51178,12 @@
             "value" : "📷 Skann og betal"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Scannen en betalen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48963,6 +51309,12 @@
             "value" : "🔐 Tilbake til foreldremodus"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Terug naar de ouderstand"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49086,6 +51438,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 Transaksjoner"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Transacties"
           }
         },
         "pt-BR" : {

@@ -144,3 +144,10 @@ Send tilbakemelding fra foreldremodus.
 Les svar på tilbakemeldingen i appen.
 Åpne personvern og støtte i appen.
 Appen går nå mer stabilt.
+
+### 앱스토어 (Nederlands)
+
+Stuur feedback vanuit de ouderstand.
+Lees antwoorden op feedback in de app.
+Open privacy en support in de app.
+De app werkt nu stabieler.

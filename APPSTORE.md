@@ -1239,3 +1239,65 @@ Gjør barnets telefon til en skjerm bare for barnet. Barnet ser bare sin egen lo
 
 iCloud-synkronisering
 Enheter som er logget på med samme iCloud-konto, holder familiens bok lik.
+
+## nl
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Zakgeld: Kinderen
+
+### 부제
+
+Leer sparen en beleggen
+
+### 키워드
+
+financiële educatie,spaarpot,bank,rente,rente op rente,budget,gezin,economie,munten,aandelen
+
+### 프로모션 텍스트
+
+Ouders zijn de centrale bank, kinderen de klanten. Geef zakgeld in jullie eigen huismunt en laat kinderen spaarrente ervaren en oefenen met beleggen.
+
+### 설명
+
+Leer je kinderen hoe geld werkt met een munteenheid die alleen van jullie is. Ouders spelen de centrale bank en geven het zakgeld uit; kinderen betalen, sparen en beleggen en leren economie door te doen.
+Wat je zelf hebt meegemaakt, onthoud je veel langer dan wat alleen is uitgelegd.
+
+De huismunt
+Je kiest zelf de naam van de munt, zoals Bonen, Sterren of Munten. Zakgeld geven of afschrijven kan alleen in de ouderstand, die met een pincode is vergrendeld.
+
+Betalen en de winkel thuis
+Ouders stellen de dingen in die thuis worden gebruikt, zoals snacks, speeltijd of tv-tijd, en geven ze een prijs.
+Kinderen kiezen in de winkel en betalen meteen, of scannen met de camera een streepjescode die een ouder laat zien.
+
+Sparen en rente
+Het geld op de spaarrekening krijgt elke week rente op rente. Ouders bepalen de rente en je kunt van tevoren zien hoeveel het geld groeit.
+
+Oefenen met beleggen
+Koop en verkoop drie oefenfondsen waarvan de prijs één keer per dag verandert en volg de rendementsgrafieken. Vergelijk veilige, gematigde en riskante fondsen en begrijp het verband tussen risico en winst.
+
+Markt en geschiedenis
+Het tabblad Markt laat in één oogopslag de prijzen thuis, wisselkoers, rente, geldhoeveelheid en beleggingskoersen zien. Het laat ook zien dat je voor hetzelfde geld minder kunt kopen als de prijzen stijgen.
+Elke geldbeweging wordt in het grootboek vastgelegd en kan worden teruggekeken op datum, lid en soort.
+
+Leren
+Een ouderhandleiding in 10 stappen, van ‘Waarom hebben we geld nodig?’ via behoeften en wensen, alternatieve kosten, sparen en rente, rente op rente, inflatie en beleggen en risico tot een budget maken, helpt je met je kind te praten.
+In de rente-op-rente-rekenmachine en het inflatie-experiment kun je zelf de getallen aanpassen en experimenteren.
+
+Kindertelefoonstand
+Maak van de telefoon van je kind een scherm alleen voor hem of haar. Het kind ziet alleen de eigen portemonnee, beleggingen, geschiedenis en lessen en om eruit te gaan is de pincode van de ouder nodig. Je kunt je kind uitnodigen met een QR-uitnodiging.
+
+iCloud-synchronisatie
+Toestellen die met hetzelfde iCloud-account zijn ingelogd, houden het gezinsgrootboek gelijk.
