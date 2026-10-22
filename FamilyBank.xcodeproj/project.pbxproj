@@ -99,6 +99,9 @@
 			knownRegions = (
 				ko,
 				en,
+				"en-GB",
+				ja,
+				"zh-Hans",
 				Base,
 			);
 			mainGroup = A10000000000000000000003;

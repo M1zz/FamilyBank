@@ -26,6 +26,12 @@
             "state" : "translated",
             "value" : "쑥쑥용돈"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "茁壮零花钱"
+          }
         }
       }
     },
@@ -54,6 +60,12 @@
             "state" : "translated",
             "value" : "자녀가 물품 바코드를 찍어서 결제하려면 카메라가 필요해요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子扫描商品条形码进行支付时需要使用相机。"
+          }
         }
       }
     },
@@ -81,6 +93,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 확인(액션 잠금 해제)을 위해 Face ID를 사용해요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用面容ID来确认家长身份（解锁“操作”）。"
           }
         }
       }

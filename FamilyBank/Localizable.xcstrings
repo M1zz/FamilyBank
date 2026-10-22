@@ -27,6 +27,12 @@
             "state" : "translated",
             "value" : "%@ %@ — %@ %@을(를) 낼까요?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — 用%@ %@购买吗？"
+          }
         }
       }
     },
@@ -55,6 +61,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@ 결제하기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付%@ %@"
           }
         }
       }
@@ -85,6 +97,12 @@
             "state" : "translated",
             "value" : "%@ %@ 주기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发放%@ %@"
+          }
         }
       }
     },
@@ -113,6 +131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@ 차감"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "扣除%@ %@"
           }
         }
       }
@@ -143,6 +167,12 @@
             "state" : "translated",
             "value" : "%@ %@을(를) %@ %@에 살까요?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用%3$@ %4$@购买%1$@ %2$@吗？"
+          }
         }
       }
     },
@@ -171,6 +201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@을(를) 저축했어요! 매주 이자가 붙어요. 💰"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入了%@ %@！每周都会加上利息。💰"
           }
         }
       }
@@ -201,6 +237,12 @@
             "state" : "translated",
             "value" : "%@ %@을(를) 지갑으로 옮겼어요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已把%@ %@转入钱包。"
+          }
         }
       }
     },
@@ -229,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@의 보유 현황"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@的持仓"
           }
         }
       }
@@ -259,6 +307,12 @@
             "state" : "translated",
             "value" : "%@ %@의 은행"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@的银行"
+          }
         }
       }
     },
@@ -287,6 +341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@의 폰으로 만들기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设为%@ %@的手机"
           }
         }
       }
@@ -317,6 +377,12 @@
             "state" : "translated",
             "value" : "%@ %lld주를 샀어요! 📈"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "买入了%2$lld股%1$@！📈"
+          }
         }
       }
     },
@@ -345,6 +411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %lld주를 팔았어요! %@ %@이 지갑에 들어왔어요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "卖出了%2$lld股%1$@！%3$@ %4$@已进入钱包。"
           }
         }
       }
@@ -375,6 +447,12 @@
             "state" : "translated",
             "value" : "%@%% (복리)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%（复利）"
+          }
         }
       }
     },
@@ -403,6 +481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@님을\n쑥쑥용돈에 초대해요!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀请%@\n加入茁壮零花钱！"
           }
         }
       }
@@ -433,6 +517,12 @@
             "state" : "translated",
             "value" : "%@에게 %@ %@을(를) 결제했어요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "向%1$@支付了%2$@ %3$@。"
+          }
         }
       }
     },
@@ -461,6 +551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@에게 %@ %@을(를) 줬어요! 🎁"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "给%1$@发了%2$@ %3$@！🎁"
           }
         }
       }
@@ -491,6 +587,12 @@
             "state" : "translated",
             "value" : "%@원 → %@ %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@韩元 → %@ %@"
+          }
         }
       }
     },
@@ -519,6 +621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@을(를) 샀어요! 남은 지갑: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "买到%@了！钱包还剩：%@ %@"
           }
         }
       }
@@ -549,6 +657,12 @@
             "state" : "translated",
             "value" : "%@을(를) 샀어요! 🎉 남은 지갑: %@ %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "买到%@了！🎉 钱包还剩：%@ %@"
+          }
         }
       }
     },
@@ -577,6 +691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@의 지갑 잔액이 부족해요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@的钱包余额不足。"
           }
         }
       }
@@ -607,6 +727,12 @@
             "state" : "translated",
             "value" : "%@의 지갑에서 %@ %@을(를) 차감했어요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从%1$@的钱包里扣除了%2$@ %3$@。"
+          }
         }
       }
     },
@@ -635,6 +761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld단계"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第%lld步"
           }
         }
       }
@@ -665,6 +797,12 @@
             "state" : "translated",
             "value" : "%lld단계 · %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第%lld步 · %@"
+          }
         }
       }
     },
@@ -693,6 +831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld주 · 평균 %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld股 · 均价 %@"
           }
         }
       }
@@ -723,6 +867,12 @@
             "state" : "translated",
             "value" : "%lld주 뒤 살 수 있는 것의 가치"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld周后能买到的东西的价值"
+          }
         }
       }
     },
@@ -751,6 +901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld주 뒤: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld周后：%@ %@"
           }
         }
       }
@@ -781,6 +937,12 @@
             "state" : "translated",
             "value" : "'필요'는 없으면 곤란한 것이야. 밥, 옷, 학용품 같은 거지. '욕구'는 있으면 신나지만 없어도 사는 데 문제없는 것이야. 장난감, 게임 아이템 같은 거란다.\n\n둘 다 소중해! 하지만 순서가 중요해. 필요한 걸 먼저 챙기고, 남는 돈으로 계획을 세워서 욕구를 채우는 거야."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“需要”是没有就会很麻烦的东西，比如饭、衣服、文具。“想要”是有了很开心，但没有也能过日子的东西，比如玩具、游戏道具。\n\n两种都很重要！不过顺序很关键。先把需要的准备好，再用剩下的钱做计划，满足想要的。"
+          }
         }
       }
     },
@@ -809,6 +971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@원"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@韩元"
           }
         }
       }
@@ -839,6 +1007,12 @@
             "state" : "translated",
             "value" : "1 %@의 실제 가치"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@的实际价值"
+          }
         }
       }
     },
@@ -867,6 +1041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@원"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@韩元"
           }
         }
       }
@@ -897,6 +1077,12 @@
             "state" : "translated",
             "value" : "1,000 %@의 '진짜 힘'은 어떻게 변할까요?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,000 %@的“真正购买力”会怎么变化？"
+          }
         }
       }
     },
@@ -925,6 +1111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1,000코인을 이자 5%%로 맡기면 일주일 뒤 얼마가 될까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把1,000枚硬币按5%%的利息存起来，一周后会有多少？"
           }
         }
       }
@@ -955,6 +1147,12 @@
             "state" : "translated",
             "value" : "1,000코인이 있는데 과자도 사고 싶고 스티커도 사고 싶어. 그런데 돈은 한 번 쓸 만큼만 있어. 어떡하지? 하나를 고르면 다른 하나는 포기해야 해.\n\n이때 포기한 것을 '기회비용'이라고 불러. 돈뿐만 아니라 시간도 그래. 게임을 1시간 하면, 그 시간에 할 수 있었던 다른 일을 포기한 거야."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你有1,000枚硬币，既想买零食，又想买贴纸。可是钱只够买一样。怎么办呢？选了一样，另一样就得放弃。\n\n被放弃的那样东西就叫“机会成本”。不光是钱，时间也一样。玩一小时游戏，就等于放弃了这一小时里本来可以做的别的事。"
+          }
         }
       }
     },
@@ -983,6 +1181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "12주 뒤 예상: %@ %@ (+%@)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12周后预计：%@ %@（+%@）"
           }
         }
       }
@@ -1013,6 +1217,12 @@
             "state" : "translated",
             "value" : "1주 가격"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每股价格"
+          }
         }
       }
     },
@@ -1041,6 +1251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID로 열기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用面容ID打开"
           }
         }
       }
@@ -1071,6 +1287,12 @@
             "state" : "translated",
             "value" : "PIN 변경"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改PIN"
+          }
         }
       }
     },
@@ -1099,6 +1321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PIN 입력"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入PIN"
           }
         }
       }
@@ -1129,6 +1357,12 @@
             "state" : "translated",
             "value" : "PIN은 숫자 4자리여야 해요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN必须是4位数字。"
+          }
         }
       }
     },
@@ -1157,6 +1391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siri에게 물어 아이의 잔액을 바로 확인해요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "问问Siri，立刻查看孩子的余额。"
           }
         }
       }
@@ -1187,6 +1427,12 @@
             "state" : "translated",
             "value" : "Siri와 단축어"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri 与快捷指令"
+          }
         }
       }
     },
@@ -1215,6 +1461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Touch ID로 열기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用触控ID打开"
           }
         }
       }
@@ -1245,6 +1497,12 @@
             "state" : "translated",
             "value" : "VoiceOver가 잔액과 단추를 빠짐없이, 알맞은 순서로 읽어 줘요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "旁白会按正确的顺序，完整朗读余额和按钮。"
+          }
         }
       }
     },
@@ -1273,6 +1531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VoiceOver로 더 편하게"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更好用的旁白"
           }
         }
       }
@@ -1303,6 +1567,12 @@
             "state" : "translated",
             "value" : "≈ %@원"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@韩元"
+          }
         }
       }
     },
@@ -1331,6 +1601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ 은행 설정"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ 银行设置"
           }
         }
       }
@@ -1361,6 +1637,12 @@
             "state" : "translated",
             "value" : "⚡️ 액션"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ 操作"
+          }
         }
       }
     },
@@ -1389,6 +1671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "가게"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小店"
           }
         }
       }
@@ -1419,6 +1707,12 @@
             "state" : "translated",
             "value" : "가게에 등록"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登记到小店"
+          }
         }
       }
     },
@@ -1447,6 +1741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "가격"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "价格"
           }
         }
       }
@@ -1477,6 +1777,12 @@
             "state" : "translated",
             "value" : "가격은 사려는 마음과 팔려는 양이 만나서 정해져요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "价格由买家的意愿和卖家的数量碰在一起决定。"
+          }
         }
       }
     },
@@ -1505,6 +1811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "가격이 어떻게 정해지는지 알기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解价格是怎么定出来的"
           }
         }
       }
@@ -1535,6 +1847,12 @@
             "state" : "translated",
             "value" : "가격표 🏷️"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "价目表 🏷️"
+          }
         }
       }
     },
@@ -1563,6 +1881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "가족 구성원을 등록해 주세요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请登记家庭成员"
           }
         }
       }
@@ -1593,6 +1917,12 @@
             "state" : "translated",
             "value" : "가족 등록"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登记家人"
+          }
         }
       }
     },
@@ -1621,6 +1951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "거래 기록이 없어요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有交易记录"
           }
         }
       }
@@ -1651,6 +1987,12 @@
             "state" : "translated",
             "value" : "거래 종류"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交易类型"
+          }
         }
       }
     },
@@ -1679,6 +2021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "거북이 펀드와 로켓 펀드, 어떤 게 더 위험할까? 왜?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "乌龟基金和火箭基金，哪个更危险？为什么？"
           }
         }
       }
@@ -1709,6 +2057,12 @@
             "state" : "translated",
             "value" : "게임 1시간의 기회비용은 뭘까?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "玩一小时游戏的机会成本是什么？"
+          }
         }
       }
     },
@@ -1737,6 +2091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "결제"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付"
           }
         }
       }
@@ -1767,6 +2127,12 @@
             "state" : "translated",
             "value" : "결제 실패"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付失败"
+          }
         }
       }
     },
@@ -1795,6 +2161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "결제 완료! 🎉"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付成功！🎉"
           }
         }
       }
@@ -1825,6 +2197,12 @@
             "state" : "translated",
             "value" : "결제하기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支付"
+          }
         }
       }
     },
@@ -1853,6 +2231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계획이 있는 돈이 오래 가요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有计划的钱更经得起花。"
           }
         }
       }
@@ -1883,6 +2267,12 @@
             "state" : "translated",
             "value" : "고수익에는 고위험이 따른다는 것 알기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解收益越高，风险也越大"
+          }
         }
       }
     },
@@ -1911,6 +2301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구분"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "类别"
           }
         }
       }
@@ -1941,6 +2337,12 @@
             "state" : "translated",
             "value" : "구성원"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成员"
+          }
         }
       }
     },
@@ -1969,6 +2371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구성원 추가"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加成员"
           }
         }
       }
@@ -1999,6 +2407,12 @@
             "state" : "translated",
             "value" : "글자 크기를 키워도 잘리지 않고 보기 좋게 다시 배치돼요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放大字体后，界面会重新排布，不会被截断。"
+          }
         }
       }
     },
@@ -2027,6 +2441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "금액"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "金额"
           }
         }
       }
@@ -2057,6 +2477,12 @@
             "state" : "translated",
             "value" : "기간: %lld주"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "期限：%lld周"
+          }
         }
       }
     },
@@ -2085,6 +2511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "기록"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "记录"
           }
         }
       }
@@ -2115,6 +2547,12 @@
             "state" : "translated",
             "value" : "기회비용"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "机会成本"
+          }
         }
       }
     },
@@ -2143,6 +2581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "꼭 필요한 것과 갖고 싶은 것 구분하기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "学会分清必须要有的和只是想要的"
           }
         }
       }
@@ -2173,6 +2617,12 @@
             "state" : "translated",
             "value" : "내 기록"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的记录"
+          }
         }
       }
     },
@@ -2201,6 +2651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내 저축통장"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的储蓄账户"
           }
         }
       }
@@ -2231,6 +2687,12 @@
             "state" : "translated",
             "value" : "내 지갑"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的钱包"
+          }
         }
       }
     },
@@ -2259,6 +2721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내 지갑: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的钱包：%@ %@"
           }
         }
       }
@@ -2289,6 +2757,12 @@
             "state" : "translated",
             "value" : "네가 물고기를 갖고 있는데 신발이 필요하다고 해 보자. 신발 가게 아저씨가 물고기를 싫어하면 바꿀 수가 없겠지? 옛날 사람들도 이게 너무 불편했어. 그래서 누구나 좋아하는 '돈'을 만들었단다.\n\n돈은 세 가지 일을 해. 첫째, 뭐든지 바꿀 수 있어(교환). 둘째, 물건마다 얼마짜리인지 잴 수 있어(가치 재기). 셋째, 모아 뒀다가 나중에 쓸 수 있어(저장)."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "假如你有一条鱼，可是想要一双鞋。要是卖鞋的叔叔不喜欢鱼，就换不成了，对吧？很久以前的人也觉得这样太不方便了。于是就发明了人人都喜欢的“钱”。\n\n钱有三个作用。第一，什么都能换（交换）。第二，能衡量每样东西值多少（衡量价值）。第三，可以存起来以后再用（储存）。"
+          }
         }
       }
     },
@@ -2317,6 +2791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "누구를 초대할까요?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要邀请谁？"
           }
         }
       }
@@ -2347,6 +2827,12 @@
             "state" : "translated",
             "value" : "누구에게 낼까요?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "付给谁？"
+          }
         }
       }
     },
@@ -2375,6 +2861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "누구에게?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "给谁？"
           }
         }
       }
@@ -2405,6 +2897,12 @@
             "state" : "translated",
             "value" : "눈덩이를 굴리면 어떻게 되지? 구를수록 점점 빨리 커지지? 복리가 딱 그거야.\n\n1,000코인에 이자 50이 붙으면 1,050이 돼. 다음 주에는 1,050 전체에 이자가 붙어. 이자가 벌어 온 돈에도 또 이자가 붙는 거야! 처음엔 티가 안 나지만 시간이 지날수록 눈덩이처럼 불어나."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滚雪球的时候会怎么样？越滚越大，而且越来越快，对吧？复利就是这样。\n\n1,000枚硬币加上50的利息，就变成1,050。下一周，利息是按整个1,050来算的。利息赚来的钱，也会再生利息！刚开始不明显，可时间越久，就像雪球一样越滚越大。"
+          }
         }
       }
     },
@@ -2433,6 +2931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다음"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一步"
           }
         }
       }
@@ -2463,6 +2967,12 @@
             "state" : "translated",
             "value" : "닫기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
+          }
         }
       }
     },
@@ -2491,6 +3001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "당장 안 쓸 돈은 저축통장으로!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂时不用的钱，就存进储蓄账户！"
           }
         }
       }
@@ -2521,6 +3037,12 @@
             "state" : "translated",
             "value" : "대비를 높이거나 색을 구별하기 어려워도 잔액과 기록을 알아볼 수 있어요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即使开启增强对比度或不易分辨颜色，也能看清余额和记录。"
+          }
         }
       }
     },
@@ -2549,6 +3071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "대시보드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "总览"
           }
         }
       }
@@ -2579,6 +3107,12 @@
             "state" : "translated",
             "value" : "더 많은 나라 말로 앱을 쓸 수 있게 해요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "让应用支持更多国家的语言。"
+          }
         }
       }
     },
@@ -2607,6 +3141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "더 많은 언어"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多语言"
           }
         }
       }
@@ -2637,6 +3177,12 @@
             "state" : "translated",
             "value" : "돈은 바꾸고, 재고, 모아 두는 도구예요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钱是用来交换、衡量和储存的工具。"
+          }
         }
       }
     },
@@ -2665,6 +3211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "돈은 왜 필요할까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "为什么需要钱？"
           }
         }
       }
@@ -2695,6 +3247,12 @@
             "state" : "translated",
             "value" : "돈을 계획해서 나눠 쓰는 습관 만들기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "养成先计划再分配用钱的习惯"
+          }
         }
       }
     },
@@ -2723,6 +3281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "돈이 왜 생겨났고 어떤 일을 하는지 알기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解钱是怎么来的，又有什么用"
           }
         }
       }
@@ -2753,6 +3317,12 @@
             "state" : "translated",
             "value" : "두 번 입력한 PIN이 서로 달라요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "两次输入的PIN不一致。"
+          }
         }
       }
     },
@@ -2781,6 +3351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "등록된 물품이 없어요. 먼저 '물품 추가'로 가게에 물품을 등록해 주세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还没有登记的商品。请先用“添加商品”把商品登记到小店里。"
           }
         }
       }
@@ -2811,6 +3387,12 @@
             "state" : "translated",
             "value" : "등록된 자녀가 없어요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还没有登记孩子"
+          }
         }
       }
     },
@@ -2839,6 +3421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "레고 블록은 돈이 될 수 있을까? 다섯 가지 시험을 통과할까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "乐高积木能当钱吗？它能通过五项测试吗？"
           }
         }
       }
@@ -2869,6 +3457,12 @@
             "state" : "translated",
             "value" : "만약 세상에 돈이 없다면 어떤 일이 생길까?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果世界上没有钱，会发生什么事呢？"
+          }
         }
       }
     },
@@ -2897,6 +3491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매도"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "卖出"
           }
         }
       }
@@ -2927,6 +3527,12 @@
             "state" : "translated",
             "value" : "매수"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "买入"
+          }
         }
       }
     },
@@ -2955,6 +3561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매주 물가가 %@%%씩 올라요. 같은 돈으로 살 수 있는 게 조금씩 줄어든다는 뜻이에요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价每周上涨%@%%。意思是同样的钱能买到的东西会一点点变少。"
           }
         }
       }
@@ -2985,6 +3597,12 @@
             "state" : "translated",
             "value" : "매주 물가가 올라요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价每周上涨"
+          }
         }
       }
     },
@@ -3013,6 +3631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매주 우리집 물가지수가 이만큼 올라요 (현재 지수 %lld). 0%%로 두면 인플레이션이 없어요. 물가에 맞춰 실제 간식·장난감 가격도 조금씩 올려 주면 아이가 돈의 가치 변화를 몸으로 배워요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们家的物价指数每周会涨这么多（当前指数 %lld）。设为0%%就没有通货膨胀。如果顺着物价把真实的零食、玩具价格也稍微调高一点，孩子就能亲身体会钱的价值变化。"
           }
         }
       }
@@ -3043,6 +3667,12 @@
             "state" : "translated",
             "value" : "메모 (예: 간식 사기)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备注（例如：买零食）"
+          }
         }
       }
     },
@@ -3071,6 +3701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "메모 (예: 주간 용돈)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备注（例如：每周零花钱）"
           }
         }
       }
@@ -3101,6 +3737,12 @@
             "state" : "translated",
             "value" : "모두가 팔고 싶어 하는 물건의 가격은 어떻게 될까?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大家都想卖掉的东西，价格会怎么样？"
+          }
         }
       }
     },
@@ -3129,6 +3771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모든 구성원, 거래 기록, 투자 상품이 삭제되고 처음 설정 화면으로 돌아갑니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有成员、交易记录和投资商品都会被删除，并回到初始设置界面。"
           }
         }
       }
@@ -3159,6 +3807,12 @@
             "state" : "translated",
             "value" : "모든 데이터 초기화"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置所有数据"
+          }
         }
       }
     },
@@ -3187,6 +3841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모든 선택에는 포기한 것이 숨어 있어요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每个选择背后，都藏着被放弃的东西。"
           }
         }
       }
@@ -3217,6 +3877,12 @@
             "state" : "translated",
             "value" : "무엇에 쓰나요?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用来做什么？"
+          }
         }
       }
     },
@@ -3245,6 +3911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물가 상승률"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价涨幅"
           }
         }
       }
@@ -3275,6 +3947,12 @@
             "state" : "translated",
             "value" : "물가 추이 📊"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价走势 📊"
+          }
         }
       }
     },
@@ -3303,6 +3981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물가가 오르면 같은 돈으로 살 수 있는 게 줄어들어요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价上涨，同样的钱能买的东西就变少"
           }
         }
       }
@@ -3333,6 +4017,12 @@
             "state" : "translated",
             "value" : "물가가 오르면 돈의 힘은 줄어요. 그래서 저축과 투자가 필요해요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价上涨，钱的购买力就会下降。所以才需要储蓄和投资。"
+          }
         }
       }
     },
@@ -3361,6 +4051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물가가 오르면 돈의 힘이 줄어든다는 것 알기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解物价上涨，钱的购买力就会变弱"
           }
         }
       }
@@ -3391,6 +4087,12 @@
             "state" : "translated",
             "value" : "물가가 오르면 지갑에 돈을 그냥 두는 게 좋을까?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价上涨的时候，把钱一直放在钱包里好吗？"
+          }
         }
       }
     },
@@ -3419,6 +4121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물가지수"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价指数"
           }
         }
       }
@@ -3449,6 +4157,12 @@
             "state" : "translated",
             "value" : "물품 %lld개 판매 중 · 환율 자동 반영"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在售商品%lld件 · 自动按汇率换算"
+          }
         }
       }
     },
@@ -3477,6 +4191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물품 바코드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品条形码"
           }
         }
       }
@@ -3507,6 +4227,12 @@
             "state" : "translated",
             "value" : "물품 바코드를 네모 안에 맞춰 주세요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请把商品条形码对准框内"
+          }
         }
       }
     },
@@ -3535,6 +4261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물품 이름 (예: 콜라, 게임 30분)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品名称（例如：可乐、游戏30分钟）"
           }
         }
       }
@@ -3565,6 +4297,12 @@
             "state" : "translated",
             "value" : "물품 정보"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品信息"
+          }
         }
       }
     },
@@ -3593,6 +4331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물품 추가"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加商品"
           }
         }
       }
@@ -3623,6 +4367,12 @@
             "state" : "translated",
             "value" : "바코드"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "条形码"
+          }
         }
       }
     },
@@ -3651,6 +4401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "받는 사람"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收款人"
           }
         }
       }
@@ -3681,6 +4437,12 @@
             "state" : "translated",
             "value" : "받은 돈"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收到的钱"
+          }
         }
       }
     },
@@ -3709,6 +4471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "받을 사람이 없어요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有收款人"
           }
         }
       }
@@ -3739,6 +4507,12 @@
             "state" : "translated",
             "value" : "배우기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "学习"
+          }
         }
       }
     },
@@ -3767,6 +4541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "백업과 내보내기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份与导出"
           }
         }
       }
@@ -3797,6 +4577,12 @@
             "state" : "translated",
             "value" : "보기 편한 색과 대비"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更易读的颜色和对比度"
+          }
         }
       }
     },
@@ -3825,6 +4611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "보유 수량이 부족해요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "持有的股数不够。"
           }
         }
       }
@@ -3855,6 +4647,12 @@
             "state" : "translated",
             "value" : "보유 투자 상품"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "持有的投资商品"
+          }
         }
       }
     },
@@ -3883,6 +4681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "보통형 🐰"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "均衡型 🐰"
           }
         }
       }
@@ -3913,6 +4717,12 @@
             "state" : "translated",
             "value" : "복리의 마법"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复利的魔法"
+          }
         }
       }
     },
@@ -3941,6 +4751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家长"
           }
         }
       }
@@ -3971,6 +4787,12 @@
             "state" : "translated",
             "value" : "부모 가이드 📖"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家长指南 📖"
+          }
         }
       }
     },
@@ -3999,6 +4821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 모드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家长模式"
           }
         }
       }
@@ -4029,6 +4857,12 @@
             "state" : "translated",
             "value" : "부모 모드 비밀번호(PIN)를 정해 주세요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置家长模式密码（PIN）"
+          }
         }
       }
     },
@@ -4057,6 +4891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 모드에서 상품을 추가할 수 있어요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以在家长模式中添加商品"
           }
         }
       }
@@ -4087,6 +4927,12 @@
             "state" : "translated",
             "value" : "부모 확인을 위해 사용해요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用于确认家长身份"
+          }
         }
       }
     },
@@ -4115,6 +4961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 확인이 필요해요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要家长确认"
           }
         }
       }
@@ -4145,6 +4997,12 @@
             "state" : "translated",
             "value" : "부모 🏦"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家长 🏦"
+          }
         }
       }
     },
@@ -4173,6 +5031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모는 은행(중앙은행) 역할, 자녀는 고객이 돼요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家长扮演银行（中央银行），孩子是客户。"
           }
         }
       }
@@ -4203,6 +5067,12 @@
             "state" : "translated",
             "value" : "부모님 확인이 필요해요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要家长确认"
+          }
         }
       }
     },
@@ -4231,6 +5101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모를 한 명 이상 등록해 주세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请至少登记一位家长。"
           }
         }
       }
@@ -4261,6 +5137,12 @@
             "state" : "translated",
             "value" : "비 오는 날 우산 장수를 생각해 봐. 우산을 사려는 사람은 많은데 우산이 몇 개 없으면? 값을 올려도 팔려. 반대로 여름이 끝난 수영복은? 사려는 사람이 없어서 싸게 팔아야 해.\n\n이렇게 가격은 '사려는 마음(수요)'과 '팔려는 양(공급)'이 밀고 당기면서 정해져. 투자 상품 가격이 오르내리는 것도 같은 원리야."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "想想下雨天的卖伞人。想买伞的人很多，可是伞只有几把，会怎么样？就算涨价也卖得出去。反过来，夏天过后的泳衣呢？没人想买，只能卖得很便宜。\n\n价格就是这样，由“想买的心情（需求）”和“想卖的数量（供给）”互相拉扯而定的。投资商品的价格涨涨跌跌，也是同样的道理。"
+          }
         }
       }
     },
@@ -4289,6 +5171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "购买"
           }
         }
       }
@@ -4319,6 +5207,12 @@
             "state" : "translated",
             "value" : "상품"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品"
+          }
         }
       }
     },
@@ -4347,6 +5241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상품 이름 (예: 별빛 펀드)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品名称（例如：星光基金）"
           }
         }
       }
@@ -4377,6 +5277,12 @@
             "state" : "translated",
             "value" : "상품 정보"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品信息"
+          }
         }
       }
     },
@@ -4405,6 +5311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상품 추가"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加商品"
           }
         }
       }
@@ -4435,6 +5347,12 @@
             "state" : "translated",
             "value" : "새 PIN 4자리"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新的4位数PIN"
+          }
         }
       }
     },
@@ -4463,6 +5381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "선택하면 포기하는 것이 생긴다는 것 알기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解选择了一样，就要放弃另一样"
           }
         }
       }
@@ -4493,6 +5417,12 @@
             "state" : "translated",
             "value" : "설명 (선택)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "说明（可选）"
+          }
         }
       }
     },
@@ -4521,6 +5451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "손끝으로 느끼는 반응"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指尖的触感反馈"
           }
         }
       }
@@ -4551,6 +5487,12 @@
             "state" : "translated",
             "value" : "수량: %lld주"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数量：%lld股"
+          }
         }
       }
     },
@@ -4579,6 +5521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "수요와 공급"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "供给和需求"
           }
         }
       }
@@ -4609,6 +5557,12 @@
             "state" : "translated",
             "value" : "수익이 크면 위험도 커요. 나눠 담고, 잃어도 되는 만큼만!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收益大，风险也大。分开放，只投亏得起的部分！"
+          }
         }
       }
     },
@@ -4637,6 +5591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "숫자 4자리"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4位数字"
           }
         }
       }
@@ -4667,6 +5627,12 @@
             "state" : "translated",
             "value" : "시작 100 기준"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以开始时为100"
+          }
         }
       }
     },
@@ -4695,6 +5661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시작 가격"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起始价格"
           }
         }
       }
@@ -4725,6 +5697,12 @@
             "state" : "translated",
             "value" : "시작보다 +%@%%"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "比开始时 +%@%%"
+          }
         }
       }
     },
@@ -4753,6 +5731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시작하기 🎉"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始吧 🎉"
           }
         }
       }
@@ -4783,6 +5767,12 @@
             "state" : "translated",
             "value" : "시장"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "市场"
+          }
         }
       }
     },
@@ -4811,6 +5801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시장 탭 → 우리집 가게 가격표를 함께 보면서, 물건마다 가격이 다른 이유를 이야기해 보세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开“市场”标签，一起看看小店的价目表，聊聊为什么每样东西的价格不一样。"
           }
         }
       }
@@ -4841,6 +5837,12 @@
             "state" : "translated",
             "value" : "시장 탭에서 물가지수와 물가 추이 그래프를 함께 보고, 아래 '인플레이션 체험'으로 실험해 보세요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在“市场”标签里一起看物价指数和物价走势图，再用下面的“通胀体验”做个实验。"
+          }
         }
       }
     },
@@ -4869,6 +5871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시장 탭에서 투자 상품 가격이 매일 변하는 걸 보며 '사려는 사람이 많으면 오른다'를 이야기해 보세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在“市场”标签里看投资商品的价格每天变化，聊聊“想买的人多，价格就会上涨”。"
           }
         }
       }
@@ -4899,6 +5907,12 @@
             "state" : "translated",
             "value" : "실제 가격 %@원"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "实际价格 %@韩元"
+          }
         }
       }
     },
@@ -4927,6 +5941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실제 가격 (원)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "实际价格（韩元）"
           }
         }
       }
@@ -4957,6 +5977,12 @@
             "state" : "translated",
             "value" : "실제 세상 가격"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "现实世界的价格"
+          }
         }
       }
     },
@@ -4985,6 +6011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실질 가치"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "实际价值"
           }
         }
       }
@@ -5015,6 +6047,12 @@
             "state" : "translated",
             "value" : "쑥쑥용돈 시작하기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始使用茁壮零花钱"
+          }
         }
       }
     },
@@ -5043,6 +6081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "쑥쑥용돈에 오신 걸 환영해요!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欢迎使用茁壮零花钱！"
           }
         }
       }
@@ -5073,6 +6117,12 @@
             "state" : "translated",
             "value" : "쓰는 요령 알려 주기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用小技巧"
+          }
         }
       }
     },
@@ -5101,6 +6151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "쓰던 내용 이어 쓰기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接着上次的内容继续写"
           }
         }
       }
@@ -5131,6 +6187,12 @@
             "state" : "translated",
             "value" : "아래 '복리 계산기'에서 기간을 4주에서 52주로 늘려 보세요. 그래프가 점점 가팔라지는 걸 함께 관찰!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在下面的“复利计算器”里，把期限从4周拉到52周。一起看看曲线越来越陡！"
+          }
         }
       }
     },
@@ -5159,6 +6221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아무거나 돈이 될 수 없는 이유(화폐의 속성) 알기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解为什么不是什么东西都能当钱（货币的特性）"
           }
         }
       }
@@ -5189,6 +6257,12 @@
             "state" : "translated",
             "value" : "아이 지갑의 절반을 저축통장에 넣어 보세요. 일주일 뒤 이자가 붙은 걸 함께 확인하면 효과 만점!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把孩子钱包里的一半存进储蓄账户。一周后一起看看多出来的利息，效果特别好！"
+          }
         }
       }
     },
@@ -5217,6 +6291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아이가 가게에서 결제하기 전에, \"이 돈으로 살 수 있는 다른 것 한 가지\"를 꼭 말해 보게 하세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子在小店付款前，请一定让他说出“用这笔钱还能买的另一样东西”。"
           }
         }
       }
@@ -5247,6 +6327,12 @@
             "state" : "translated",
             "value" : "아이에게 이렇게 말해 보세요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以这样对孩子说"
+          }
         }
       }
     },
@@ -5275,6 +6361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아이와 함께 1단계부터 차근차근. 각 단계는 '설명해 주기 → 물어보기 → 함께 해보기' 순서로 10분이면 충분해요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "和孩子从第1步开始一步一步来。每一步按“讲解 → 提问 → 一起做”的顺序，10分钟就够了。"
           }
         }
       }
@@ -5305,6 +6397,12 @@
             "state" : "translated",
             "value" : "아이와 함께 적은 돈으로 상품 2개에 나눠 투자해 보세요. 매일 가격을 같이 확인하면서 오르내림에 익숙해지게 해 주세요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "和孩子一起，用少量的钱分投两个商品。每天一起看价格，让孩子习惯涨涨跌跌。"
+          }
         }
       }
     },
@@ -5333,6 +6431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아직 가격 기록이 부족해요. 내일 다시 확인해 보세요!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "价格记录还不够。明天再来看看吧！"
           }
         }
       }
@@ -5363,6 +6467,12 @@
             "state" : "translated",
             "value" : "아직 거래가 없어요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还没有交易"
+          }
         }
       }
     },
@@ -5391,6 +6501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아직 등록된 물품이 없어요.\n부모 모드에서 우리집 물품을 등록해 보세요!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还没有登记商品。\n到家长模式里登记我们家的商品吧！"
           }
         }
       }
@@ -5421,6 +6537,12 @@
             "state" : "translated",
             "value" : "아직 물품이 없어요 · 액션 탭에서 추가"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还没有商品 · 在“操作”标签里添加"
+          }
         }
       }
     },
@@ -5449,6 +6571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아직 보유하고 있지 않아요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还没有持仓"
           }
         }
       }
@@ -5479,6 +6607,12 @@
             "state" : "translated",
             "value" : "안정형 🐢"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "稳健型 🐢"
+          }
         }
       }
     },
@@ -5507,6 +6641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알림"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示"
           }
         }
       }
@@ -5537,6 +6677,12 @@
             "state" : "translated",
             "value" : "알아 두면 편한 기능을 알맞은 때에 살짝 알려 줘요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在合适的时候，轻轻提示你实用的功能。"
+          }
         }
       }
     },
@@ -5565,6 +6711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "액션"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "操作"
           }
         }
       }
@@ -5595,6 +6747,12 @@
             "state" : "translated",
             "value" : "앱으로 함께 해보기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在应用里一起做"
+          }
         }
       }
     },
@@ -5623,6 +6781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "앱을 열지 않고 홈 화면에서 아이의 잔액을 바로 확인해요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不用打开应用，在主屏幕上就能查看孩子的余额。"
           }
         }
       }
@@ -5653,6 +6817,12 @@
             "state" : "translated",
             "value" : "앱을 영어로도 쓸 수 있어요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用也可以用英语使用。"
+          }
         }
       }
     },
@@ -5681,6 +6851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "얼마나?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "多少？"
           }
         }
       }
@@ -5711,6 +6887,12 @@
             "state" : "translated",
             "value" : "얼마를 낼까요?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "付多少？"
+          }
         }
       }
     },
@@ -5739,6 +6921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "업데이트 뒤 처음 열 때 무엇이 새로 생겼는지 알려 줘요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新后首次打开时，告诉你有哪些新变化。"
           }
         }
       }
@@ -5769,6 +6957,12 @@
             "state" : "translated",
             "value" : "업데이트 소식"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新内容提示"
+          }
         }
       }
     },
@@ -5797,6 +6991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "역할"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "角色"
           }
         }
       }
@@ -5827,6 +7027,12 @@
             "state" : "translated",
             "value" : "영어 지원"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持英语"
+          }
         }
       }
     },
@@ -5855,6 +7061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예: 실제 1,000원짜리 물건 = %@ %@. 가게 물품의 %@ 가격이 이 환율로 자동 계산돼요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例如：实际1,000韩元的东西 = %@ %@。小店商品的%@价格会按这个汇率自动计算。"
           }
         }
       }
@@ -5885,6 +7097,12 @@
             "state" : "translated",
             "value" : "예: 콩, 별, 코인"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例如：豆子、星星、硬币"
+          }
         }
       }
     },
@@ -5913,6 +7131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예산 세우기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "制定预算"
           }
         }
       }
@@ -5943,6 +7167,12 @@
             "state" : "translated",
             "value" : "오늘 배울 것"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天要学的"
+          }
         }
       }
     },
@@ -5971,6 +7201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "완료"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
           }
         }
       }
@@ -6001,6 +7237,12 @@
             "state" : "translated",
             "value" : "왜 길가의 모래는 돈이 될 수 없을까? 아무 데나 잔뜩 있으니까! 좋은 돈이 되려면 다섯 가지 시험을 통과해야 해.\n\n① 오래 가야 해(썩으면 안 돼) ② 갖고 다니기 쉬워야 해(소는 무거워서 탈락!) ③ 잘게 나눌 수 있어야 해 ④ 흔하지 않아야 해 ⑤ 모두가 '이건 진짜 돈이야'라고 믿어야 해.\n\n우리집 코인도 엄마 아빠가 아무 때나 마구 찍어내지 않고 약속을 지키니까 가치가 있는 거야."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "路边的沙子为什么不能当钱呢？因为到处都是！想成为好钱，必须通过五项测试。\n\n① 要耐用（不能烂掉） ② 要方便携带（牛太重，淘汰！） ③ 要能分成小份 ④ 不能太常见 ⑤ 大家都相信“这是真正的钱”。\n\n我们家的硬币有价值，是因为爸爸妈妈不会随便乱印，而是遵守约定。"
+          }
         }
       }
     },
@@ -6029,6 +7271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "요즘 사고 싶은 것들 중에 '필요'는 뭐고 '욕구'는 뭘까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你最近想买的东西里，哪些是“需要”，哪些是“想要”？"
           }
         }
       }
@@ -6059,6 +7307,12 @@
             "state" : "translated",
             "value" : "용돈"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "零花钱"
+          }
         }
       }
     },
@@ -6087,6 +7341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈 알림"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "零花钱提醒"
           }
         }
       }
@@ -6117,6 +7377,12 @@
             "state" : "translated",
             "value" : "용돈 주기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发零花钱"
+          }
         }
       }
     },
@@ -6145,6 +7411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈 주기 / 차감하기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发放 / 扣除零花钱"
           }
         }
       }
@@ -6175,6 +7447,12 @@
             "state" : "translated",
             "value" : "용돈 주는 날, 아이가 직접 저축·투자·소비 비율을 정해서 실행하게 하세요. 일주일 뒤 기록 탭을 함께 보며 돌아봅니다."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发零花钱的那天，让孩子自己定好储蓄、投资、消费的比例，并照着做。一周后一起看“记录”标签回顾。"
+          }
         }
       }
     },
@@ -6203,6 +7481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈 주는 날이나 이자가 붙을 때 알림으로 알려 줘요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发零花钱的日子或加上利息时，用通知提醒你。"
           }
         }
       }
@@ -6233,6 +7517,12 @@
             "state" : "translated",
             "value" : "용돈 지급, 이자율 설정 등은\n이 PIN을 아는 사람만 할 수 있어요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发零花钱、设置利率等操作，\n只有知道这个PIN的人才能进行。"
+          }
         }
       }
     },
@@ -6261,6 +7551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈을 받거나 물건을 샀을 때 가볍게 떨려서 알려 줘요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收到零花钱或买东西时，会轻轻震动提醒。"
           }
         }
       }
@@ -6291,6 +7587,12 @@
             "state" : "translated",
             "value" : "용돈을 받자마자 계획 없이 쓰면 금방 사라져 버려. 그래서 미리 계획을 세우는 거야. 이걸 '예산'이라고 해.\n\n예를 들면 이렇게 나눠 봐. 저축 30, 필요한 것 40, 하고 싶은 것 20, 투자 도전 10. 꼭 이대로가 아니어도 돼. 네가 직접 정하는 게 중요해!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拿到零花钱就随手乱花，很快就没了。所以要事先做计划，这就叫“预算”。\n\n比如这样分：储蓄30，必需品40，想要的东西20，投资挑战10。不一定要完全照这样分。最重要的是你自己来决定！"
+          }
         }
       }
     },
@@ -6319,6 +7621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈을 주거나 결제하면 여기에 기록돼요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发零花钱或支付之后，会记录在这里"
           }
         }
       }
@@ -6349,6 +7657,12 @@
             "state" : "translated",
             "value" : "용돈을 주고, 결제하고, 저축 이자를 받고,\n투자도 해 보는 우리 가족만의 경제 시스템이에요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发零花钱、支付、拿储蓄利息，\n还能投资——这是只属于你们一家人的经济系统。"
+          }
         }
       }
     },
@@ -6377,6 +7691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 가게"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们家的小店"
           }
         }
       }
@@ -6407,6 +7727,12 @@
             "state" : "translated",
             "value" : "우리집 가게 물품을 함께 보면서 하나씩 '필요'와 '욕구'로 나눠 보세요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起看看小店里的商品，把它们一个个分成“需要”和“想要”。"
+          }
         }
       }
     },
@@ -6435,6 +7761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 가격"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们家的价格"
           }
         }
       }
@@ -6465,6 +7797,12 @@
             "state" : "translated",
             "value" : "우리집 물가"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们家的物价"
+          }
         }
       }
     },
@@ -6493,6 +7831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 물가지수는 지금 얼마일까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们家现在的物价指数是多少呢？"
           }
         }
       }
@@ -6523,6 +7867,12 @@
             "state" : "translated",
             "value" : "우리집 은행 기록을 파일로 저장하고 다시 불러올 수 있어요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以把我们家银行的记录保存成文件，之后再导入。"
+          }
         }
       }
     },
@@ -6551,6 +7901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 코인으로는 뭘 바꿀 수 있을까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用我们家的硬币能换到什么呢？"
           }
         }
       }
@@ -6581,6 +7937,12 @@
             "state" : "translated",
             "value" : "우리집 코인은 왜 가치가 있을까?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们家的硬币为什么有价值呢？"
+          }
         }
       }
     },
@@ -6609,6 +7971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 통화량 💰"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们家的货币量 💰"
           }
         }
       }
@@ -6639,6 +8007,12 @@
             "state" : "translated",
             "value" : "우리집 투자 상품이에요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这是我们家的投资商品。"
+          }
         }
       }
     },
@@ -6667,6 +8041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 화폐 이름을 정해 주세요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "给我们家的货币起个名字"
           }
         }
       }
@@ -6697,6 +8077,12 @@
             "state" : "translated",
             "value" : "우리집에 도는 돈"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们家流通的钱"
+          }
         }
       }
     },
@@ -6725,6 +8111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "움직임 줄이기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "减弱动态效果"
           }
         }
       }
@@ -6755,6 +8147,12 @@
             "state" : "translated",
             "value" : "움직임 줄이기를 켜면 화면 효과가 차분해져요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开启“减弱动态效果”后，界面效果会更平静。"
+          }
         }
       }
     },
@@ -6783,6 +8181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "원"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韩元"
           }
         }
       }
@@ -6813,6 +8217,12 @@
             "state" : "translated",
             "value" : "위험도"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "风险等级"
+          }
         }
       }
     },
@@ -6841,6 +8251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "위험형 🚀"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "冒险型 🚀"
           }
         }
       }
@@ -6871,6 +8287,12 @@
             "state" : "translated",
             "value" : "은행 설정"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "银行设置"
+          }
         }
       }
     },
@@ -6899,6 +8321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "은행에 돈을 맡기면 은행이 '맡겨 줘서 고마워!' 하면서 덤을 줘. 그 덤이 '이자'야.\n\n지갑에 넣어 둔 돈은 아무리 기다려도 안 늘어나. 그런데 저축통장에 넣으면 매주 이자가 붙어서 돈이 자라나. 당장 쓰지 않을 돈을 어디에 두면 좋을까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把钱存进银行，银行会说“谢谢你把钱放在这儿！”，还送你一点额外的钱。这份额外的钱就是“利息”。\n\n放在钱包里的钱，等多久都不会变多。可是存进储蓄账户，每周都会加上利息，钱就会长大。暂时不用的钱，放在哪里好呢？"
           }
         }
       }
@@ -6929,6 +8357,12 @@
             "state" : "translated",
             "value" : "이 기기 건네주기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把这台设备交给孩子"
+          }
         }
       }
     },
@@ -6957,6 +8391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이 기기가 선택한 자녀의 전용 화면으로 바뀌어요. 자녀는 자기 지갑·가게·투자·기록·배우기만 볼 수 있어요. 폰이 없는 자녀에게 부모 폰을 건네줄 때 좋아요. 되돌아오려면 자물쇠 버튼을 누르고 부모 PIN을 입력하면 돼요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这台设备会切换成所选孩子的专用界面。孩子只能看到自己的钱包、小店、投资、记录和学习内容。把家长的手机交给还没有手机的孩子时很方便。想切换回来，点锁形按钮并输入家长PIN即可。"
           }
         }
       }
@@ -6987,6 +8427,12 @@
             "state" : "translated",
             "value" : "이 기기를 %@ %@의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要把这台设备设为%@ %@的手机吗？切换回来需要家长PIN。"
+          }
         }
       }
     },
@@ -7015,6 +8461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이 기기를 누구의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要把这台设备变成谁的手机？切换回来需要家长PIN。"
           }
         }
       }
@@ -7045,6 +8497,12 @@
             "state" : "translated",
             "value" : "이대로 두면 얼마가 될까? (12주 복리 예상)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "就这样放着会变成多少？（12周复利预估）"
+          }
         }
       }
     },
@@ -7073,6 +8531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이렇게 물어보세요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以这样问孩子"
           }
         }
       }
@@ -7103,6 +8567,12 @@
             "state" : "translated",
             "value" : "이름"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "姓名"
+          }
         }
       }
     },
@@ -7131,6 +8601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이모지"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表情符号"
           }
         }
       }
@@ -7161,6 +8637,12 @@
             "state" : "translated",
             "value" : "이번 주 용돈을 어떻게 나누고 싶어?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这周的零花钱，你想怎么分？"
+          }
         }
       }
     },
@@ -7189,6 +8671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이유"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "原因"
           }
         }
       }
@@ -7219,6 +8707,12 @@
             "state" : "translated",
             "value" : "이자"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利息"
+          }
         }
       }
     },
@@ -7247,6 +8741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이자 · 환율 · 물가"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利息 · 汇率 · 物价"
           }
         }
       }
@@ -7277,6 +8777,12 @@
             "state" : "translated",
             "value" : "이자가 이자를 낳는 것을 '복리'라고 해요. 오래 저축할수록 돈이 눈덩이처럼 불어나요! ⛄️"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利息再生利息，叫做“复利”。存得越久，钱就像雪球一样越滚越大！⛄️"
+          }
         }
       }
     },
@@ -7305,6 +8811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이자로만 %@ %@을(를) 벌었어요!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "光靠利息就赚了%@ %@！"
           }
         }
       }
@@ -7335,6 +8847,12 @@
             "state" : "translated",
             "value" : "이자에 이자가 붙으면 눈덩이처럼 커진다는 것 알기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解利息再生利息，会像雪球一样越滚越大"
+          }
         }
       }
     },
@@ -7363,6 +8881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이자율이 물가 상승률보다 낮으면 저축해도 돈의 힘이 줄어요. 이자율을 올려 보세요!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利率低于物价涨幅时，就算储蓄，钱的购买力也会下降。试着把利率调高吧！"
           }
         }
       }
@@ -7393,6 +8917,12 @@
             "state" : "translated",
             "value" : "이전"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上一步"
+          }
         }
       }
     },
@@ -7421,6 +8951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인플레이션"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通货膨胀"
           }
         }
       }
@@ -7451,6 +8987,12 @@
             "state" : "translated",
             "value" : "인플레이션 없음"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有通货膨胀"
+          }
         }
       }
     },
@@ -7479,6 +9021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日"
           }
         }
       }
@@ -7509,6 +9057,12 @@
             "state" : "translated",
             "value" : "일찍, 꾸준히 — 이게 복리의 비밀이에요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早开始、坚持下去——这就是复利的秘密。"
+          }
         }
       }
     },
@@ -7537,6 +9091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "잃어도 괜찮은 돈은 얼마일까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "亏掉也没关系的钱，大概是多少？"
           }
         }
       }
@@ -7567,6 +9127,12 @@
             "state" : "translated",
             "value" : "입금"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入"
+          }
         }
       }
     },
@@ -7595,6 +9161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "입금 / 출금"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入 / 取出"
           }
         }
       }
@@ -7625,6 +9197,12 @@
             "state" : "translated",
             "value" : "자녀"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子"
+          }
         }
       }
     },
@@ -7653,6 +9231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자녀 기기의 카메라로 스캔하면 초대장이 보여요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用孩子设备的相机扫描，就能看到邀请函"
           }
         }
       }
@@ -7683,6 +9267,12 @@
             "state" : "translated",
             "value" : "자녀 초대"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀请孩子"
+          }
         }
       }
     },
@@ -7711,6 +9301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자녀 폰 모드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子手机模式"
           }
         }
       }
@@ -7741,6 +9337,12 @@
             "state" : "translated",
             "value" : "자녀 폰으로 전환"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换为孩子手机"
+          }
         }
       }
     },
@@ -7769,6 +9371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자녀 👧"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子 👧"
           }
         }
       }
@@ -7799,6 +9407,12 @@
             "state" : "translated",
             "value" : "자녀가 '찍어서 결제'로 이 바코드를 찍으면\n지갑에서 %@이 빠져나가요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "孩子用“扫码支付”扫描这个条形码后，\n钱包里的%@就会减少"
+          }
         }
       }
     },
@@ -7827,6 +9441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자녀를 한 명 이상 등록해 주세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请至少登记一个孩子。"
           }
         }
       }
@@ -7857,6 +9477,12 @@
             "state" : "translated",
             "value" : "작년에 1,000원이던 과자가 올해 1,100원이 됐어. 과자가 커진 것도 아닌데! 이렇게 물건값이 오르는 걸 '인플레이션'이라고 해.\n\n내 돈의 숫자는 그대로인데 살 수 있는 게 줄어들어. 풍선에서 바람이 빠지듯 돈의 힘이 약해지는 거야. 그래서 돈을 지갑에 가만히 두면 조금씩 손해란다. 이자를 받거나 투자해서 물가보다 빨리 불려야 돈의 힘을 지킬 수 있어."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "去年1,000元的零食，今年变成了1,100元。零食又没有变大！像这样东西价格上涨，就叫“通货膨胀”。\n\n你的钱上的数字没变，能买到的东西却变少了。就像气球慢慢漏气，钱的力量也变弱了。所以把钱一直放在钱包里，会一点点吃亏。想守住钱的力量，就要靠利息或投资，让钱增长得比物价更快。"
+          }
         }
       }
     },
@@ -7885,6 +9511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "잔액"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "余额"
           }
         }
       }
@@ -7915,6 +9547,12 @@
             "state" : "translated",
             "value" : "잠그기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "锁定"
+          }
         }
       }
     },
@@ -7943,6 +9581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저장"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
           }
         }
       }
@@ -7973,6 +9617,12 @@
             "state" : "translated",
             "value" : "저축"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "储蓄"
+          }
         }
       }
     },
@@ -8001,6 +9651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축 이자율"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "储蓄利率"
           }
         }
       }
@@ -8031,6 +9687,12 @@
             "state" : "translated",
             "value" : "저축 입금"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入储蓄"
+          }
         }
       }
     },
@@ -8059,6 +9721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축 잔액"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "储蓄余额"
           }
         }
       }
@@ -8089,6 +9757,12 @@
             "state" : "translated",
             "value" : "저축 출금"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取出储蓄"
+          }
         }
       }
     },
@@ -8117,6 +9791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "储蓄：%@"
           }
         }
       }
@@ -8147,6 +9827,12 @@
             "state" : "translated",
             "value" : "저축과 이자"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "储蓄和利息"
+          }
         }
       }
     },
@@ -8175,6 +9861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축을 일찍 시작한 사람과 늦게 시작한 사람, 나중에 누가 더 부자가 될까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早开始储蓄的人和晚开始的人，以后谁会更有钱？"
           }
         }
       }
@@ -8205,6 +9897,12 @@
             "state" : "translated",
             "value" : "저축통장에 넣기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存入储蓄账户"
+          }
         }
       }
     },
@@ -8233,6 +9931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축통장에 돈이 부족해요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "储蓄账户里的钱不够。"
           }
         }
       }
@@ -8263,6 +9967,12 @@
             "state" : "translated",
             "value" : "저축통장에 매주 복리"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "储蓄账户每周复利"
+          }
         }
       }
     },
@@ -8291,6 +10001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축하면 돈이 늘어나는 원리 알기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解储蓄为什么能让钱变多"
           }
         }
       }
@@ -8321,6 +10037,12 @@
             "state" : "translated",
             "value" : "저축한 돈"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存起来的钱"
+          }
         }
       }
     },
@@ -8349,6 +10071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "적다가 앱이 꺼져도 쓰던 내용이 남아 있어요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入时应用被关闭，写到一半的内容也会保留。"
           }
         }
       }
@@ -8379,6 +10107,12 @@
             "state" : "translated",
             "value" : "전부 삭제"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部删除"
+          }
         }
       }
     },
@@ -8407,6 +10141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "전체"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部"
           }
         }
       }
@@ -8437,6 +10177,12 @@
             "state" : "translated",
             "value" : "정말 모든 데이터를 삭제할까요?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "真的要删除所有数据吗？"
+          }
         }
       }
     },
@@ -8465,6 +10211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "종류"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "类型"
           }
         }
       }
@@ -8495,6 +10247,12 @@
             "state" : "translated",
             "value" : "좋은 돈의 조건"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好钱的条件"
+          }
         }
       }
     },
@@ -8523,6 +10281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "周"
           }
         }
       }
@@ -8553,6 +10317,12 @@
             "state" : "translated",
             "value" : "주 %@%%"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每周 %@%%"
+          }
         }
       }
     },
@@ -8581,6 +10351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주간 물가 상승률: %@%%"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每周物价涨幅：%@%%"
           }
         }
       }
@@ -8611,6 +10387,12 @@
             "state" : "translated",
             "value" : "주간 이자율"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每周利率"
+          }
         }
       }
     },
@@ -8639,6 +10421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주간 이자율: %@%%"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每周利率：%@%%"
           }
         }
       }
@@ -8669,6 +10457,12 @@
             "state" : "translated",
             "value" : "주간 저축 이자율 %@%% · 주간 물가 상승률 %@%%"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每周储蓄利率 %@%% · 每周物价涨幅 %@%%"
+          }
         }
       }
     },
@@ -8697,6 +10491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주간 저축 이자율: %@%%"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每周储蓄利率：%@%%"
           }
         }
       }
@@ -8727,6 +10527,12 @@
             "state" : "translated",
             "value" : "지갑"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钱包"
+          }
         }
       }
     },
@@ -8755,6 +10561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑 잔액"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钱包余额"
           }
         }
       }
@@ -8785,6 +10597,12 @@
             "state" : "translated",
             "value" : "지갑: %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钱包：%@"
+          }
         }
       }
     },
@@ -8813,6 +10631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钱包：%@ %@"
           }
         }
       }
@@ -8843,6 +10667,12 @@
             "state" : "translated",
             "value" : "지갑에 그냥 둔 돈은 힘이 줄었지만, 저축한 돈은 지켜냈어요! 💪"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一直放在钱包里的钱购买力下降了，而存起来的钱守住了！💪"
+          }
         }
       }
     },
@@ -8871,6 +10701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑에 돈이 부족해요! 잔액: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钱包里的钱不够啦！余额：%@ %@"
           }
         }
       }
@@ -8901,6 +10737,12 @@
             "state" : "translated",
             "value" : "지갑에 돈이 부족해요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钱包里的钱不够。"
+          }
         }
       }
     },
@@ -8929,6 +10771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑에 돈이 부족해요. 필요 금액: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钱包里的钱不够。需要金额：%@ %@"
           }
         }
       }
@@ -8959,6 +10807,12 @@
             "state" : "translated",
             "value" : "지갑에 둔 돈"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放在钱包里的钱"
+          }
         }
       }
     },
@@ -8987,6 +10841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑에 둔 돈과 저축한 돈, 뭐가 다를까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放在钱包里的钱和存起来的钱，有什么不一样？"
           }
         }
       }
@@ -9017,6 +10877,12 @@
             "state" : "translated",
             "value" : "지갑으로 꺼내기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取回钱包"
+          }
         }
       }
     },
@@ -9045,6 +10911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지급 · 차감"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发放 · 扣除"
           }
         }
       }
@@ -9075,6 +10947,12 @@
             "state" : "translated",
             "value" : "지난번에 뭘 사느라 뭘 포기했었지?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上次买东西的时候，你放弃了什么？"
+          }
         }
       }
     },
@@ -9103,6 +10981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지난주에는 어디에 돈을 제일 많이 썼을까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上周你在哪里花的钱最多？"
           }
         }
       }
@@ -9133,6 +11017,12 @@
             "state" : "translated",
             "value" : "지수 %lld"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指数 %lld"
+          }
         }
       }
     },
@@ -9161,6 +11051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지원"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持"
           }
         }
       }
@@ -9191,6 +11087,12 @@
             "state" : "translated",
             "value" : "집에 있는 물건 3개를 골라 '돈이 될 수 있을까?' 게임을 해 보세요. 다섯 조건에 O/X를 매겨 봅니다."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在家里挑3样东西，玩“它能当钱吗？”的游戏。给五个条件打√或×。"
+          }
         }
       }
     },
@@ -9219,6 +11121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "찍어서 결제"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "扫码支付"
           }
         }
       }
@@ -9249,6 +11157,12 @@
             "state" : "translated",
             "value" : "찍으면 바로 결제"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "扫一扫立即支付"
+          }
         }
       }
     },
@@ -9277,6 +11191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "차감"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "扣除"
           }
         }
       }
@@ -9307,6 +11227,12 @@
             "state" : "translated",
             "value" : "차감하기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "扣除"
+          }
         }
       }
     },
@@ -9335,6 +11261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "처음 금액: %@ %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起始金额：%@ %@"
           }
         }
       }
@@ -9365,6 +11297,12 @@
             "state" : "translated",
             "value" : "처음보다 물가가 %@%% 올랐어요. 지갑 속 1,000 %@의 힘은 이제 %@ %@만큼이에요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物价比开始时涨了%@%%。钱包里1,000 %@现在只有%@ %@的购买力了。"
+          }
         }
       }
     },
@@ -9393,6 +11331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "초대장 · QR"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀请函 · 二维码"
           }
         }
       }
@@ -9423,6 +11367,12 @@
             "state" : "translated",
             "value" : "초대장 보내기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发送邀请函"
+          }
         }
       }
     },
@@ -9451,6 +11401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "총 금액"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "总金额"
           }
         }
       }
@@ -9481,6 +11437,12 @@
             "state" : "translated",
             "value" : "총자산"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "总资产"
+          }
         }
       }
     },
@@ -9509,6 +11471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "총자산 · 실제 돈으로 약 %@원"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "总资产 · 约合真实货币%@韩元"
           }
         }
       }
@@ -9539,6 +11507,12 @@
             "state" : "translated",
             "value" : "최근 거래"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近交易"
+          }
         }
       }
     },
@@ -9567,6 +11541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "추가"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加"
           }
         }
       }
@@ -9597,6 +11577,12 @@
             "state" : "translated",
             "value" : "출금"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取出"
+          }
         }
       }
     },
@@ -9625,6 +11611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "취소"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
           }
         }
       }
@@ -9655,6 +11647,12 @@
             "state" : "translated",
             "value" : "크리스마스에 인기 장난감이 비싸지는 이유는 뭘까?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "为什么圣诞节时热门玩具会变贵？"
+          }
         }
       }
     },
@@ -9683,6 +11681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "큰 글씨에 맞춘 화면"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "适配大字体的界面"
           }
         }
       }
@@ -9713,6 +11717,12 @@
             "state" : "translated",
             "value" : "투자"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投资"
+          }
         }
       }
     },
@@ -9741,6 +11751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자 매도"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "卖出投资"
           }
         }
       }
@@ -9771,6 +11787,12 @@
             "state" : "translated",
             "value" : "투자 매수"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "买入投资"
+          }
         }
       }
     },
@@ -9799,6 +11821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자 상품"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投资商品"
           }
         }
       }
@@ -9829,6 +11857,12 @@
             "state" : "translated",
             "value" : "투자 상품 추가"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加投资商品"
+          }
         }
       }
     },
@@ -9857,6 +11891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자 시장 📈"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投资市场 📈"
           }
         }
       }
@@ -9887,6 +11927,12 @@
             "state" : "translated",
             "value" : "투자 평가액: %@ %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投资估值：%@ %@"
+          }
         }
       }
     },
@@ -9915,6 +11961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자는 돈을 심는 거야. 씨앗이 잘 자라면 큰 나무가 되지만, 시들 수도 있어. 저축과 달리 투자는 돈이 늘 수도, 줄 수도 있단다.\n\n꼭 기억할 규칙: 크게 벌 수 있는 것일수록 크게 잃을 수도 있어. 그리고 계란을 한 바구니에 다 담으면 떨어뜨렸을 때 전부 깨져. 나눠 담아야 해(분산투자). 잃어도 괜찮은 만큼만 심는 거야."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投资就像把钱种下去。种子长得好，会长成大树，但也可能枯萎。和储蓄不同，投资的钱可能变多，也可能变少。\n\n一定要记住的规则：能赚得越多的，也可能亏得越多。还有，把鸡蛋全放在一个篮子里，摔一跤就全碎了。要分开放（分散投资）。只种下就算亏掉也没关系的那部分。"
           }
         }
       }
@@ -9945,6 +11997,12 @@
             "state" : "translated",
             "value" : "투자와 위험"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投资和风险"
+          }
         }
       }
     },
@@ -9973,6 +12031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자자"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投资人"
           }
         }
       }
@@ -10003,6 +12067,12 @@
             "state" : "translated",
             "value" : "투자자 선택"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择投资人"
+          }
         }
       }
     },
@@ -10031,6 +12101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자하려면 먼저 홈에서 자녀를 등록해 주세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要投资的话，请先在首页登记孩子。"
           }
         }
       }
@@ -10061,6 +12137,12 @@
             "state" : "translated",
             "value" : "판매 중인 투자 상품이 없어요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有在售的投资商品"
+          }
         }
       }
     },
@@ -10089,6 +12171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "펼치는 아이폰 화면"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "折叠屏iPhone界面"
           }
         }
       }
@@ -10119,6 +12207,12 @@
             "state" : "translated",
             "value" : "펼치는 아이폰에서 넓은 화면을 두 쪽으로 나눠 써요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在折叠屏iPhone的宽屏上，分成两栏使用。"
+          }
         }
       }
     },
@@ -10147,6 +12241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "필요 먼저, 욕구는 그다음!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先满足需要，再满足想要！"
           }
         }
       }
@@ -10177,6 +12277,12 @@
             "state" : "translated",
             "value" : "필요와 욕구"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要和想要"
+          }
         }
       }
     },
@@ -10205,6 +12311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "필요한 걸 안 사고 욕구부터 채우면 어떤 일이 생길까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果不买需要的，先买想要的，会怎么样呢？"
           }
         }
       }
@@ -10235,6 +12347,12 @@
             "state" : "translated",
             "value" : "필터"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "筛选"
+          }
         }
       }
     },
@@ -10263,6 +12381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "필터 초기화"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置筛选"
           }
         }
       }
@@ -10293,6 +12417,12 @@
             "state" : "translated",
             "value" : "하루 ±15%%까지 크게 움직여요! 크게 벌 수도, 잃을 수도 있어요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天最多大幅波动±15%%！可能大赚，也可能大亏。"
+          }
         }
       }
     },
@@ -10321,6 +12451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "하루 ±2%% 정도로 조금씩 움직여요. 잃을 걱정이 적어요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天小幅波动约±2%%。亏损的担心比较小。"
           }
         }
       }
@@ -10351,6 +12487,12 @@
             "state" : "translated",
             "value" : "하루 ±6%% 정도로 오르내려요. 적당한 도전이에요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天涨跌约±6%%。是适度的挑战。"
+          }
         }
       }
     },
@@ -10379,6 +12521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "한 번 더 입력"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再输入一次"
           }
         }
       }
@@ -10409,6 +12557,12 @@
             "state" : "translated",
             "value" : "함께 실험하기 · 복리 계산기 🧮"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起做实验 · 复利计算器 🧮"
+          }
         }
       }
     },
@@ -10437,6 +12591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "함께 실험하기 · 인플레이션 체험 🎈"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起做实验 · 通胀体验 🎈"
           }
         }
       }
@@ -10467,6 +12627,12 @@
             "state" : "translated",
             "value" : "현재 가격"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前价格"
+          }
         }
       }
     },
@@ -10495,6 +12661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "현재 지갑"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前钱包"
           }
         }
       }
@@ -10525,6 +12697,12 @@
             "state" : "translated",
             "value" : "홈 화면 위젯"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主屏幕小组件"
+          }
         }
       }
     },
@@ -10553,6 +12731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "화폐 '%@' · 주간 이자 %@%%"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "货币“%@” · 每周利息 %@%%"
           }
         }
       }
@@ -10583,6 +12767,12 @@
             "state" : "translated",
             "value" : "화폐 이름"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "货币名称"
+          }
         }
       }
     },
@@ -10611,6 +12801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "확인"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好的"
           }
         }
       }
@@ -10641,6 +12837,12 @@
             "state" : "translated",
             "value" : "환율"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "汇率"
+          }
         }
       }
     },
@@ -10669,6 +12871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "환율 1 %@ = %@원 기준으로 자동 계산돼요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按汇率 1 %@ = %@韩元 自动计算。"
           }
         }
       }
@@ -10699,6 +12907,12 @@
             "state" : "translated",
             "value" : "환율: 1 %@ ="
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "汇率：1 %@ ="
+          }
         }
       }
     },
@@ -10727,6 +12941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "희소하고 모두가 믿어야 돈이 돼요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "稀少而且大家都信任，才能成为钱。"
           }
         }
       }
@@ -10757,6 +12977,12 @@
             "state" : "translated",
             "value" : "🌱 %@님, 쑥쑥용돈에 초대해요!\n\n우리집 화폐 '%@'(으)로 함께해요:\n• 용돈을 모으고 결제해요 💸\n• 저축하면 매주 이자 %@%%를 받아요 🏦\n• 투자 상품으로 경제를 배워요 📈\n\n부모님 기기와 같은 iCloud 계정으로 로그인한 기기에서 쑥쑥용돈 앱을 열면 바로 함께할 수 있어요!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@，邀请你加入茁壮零花钱！\n\n让我们用家里的货币“%@”一起玩：\n• 攒零花钱，也用来支付 💸\n• 储蓄后每周能拿%@%%的利息 🏦\n• 通过投资商品学习经济 📈\n\n只要在和家长设备登录同一个iCloud账户的设备上打开茁壮零花钱应用，就能马上加入！"
+          }
         }
       }
     },
@@ -10785,6 +13011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 배우기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 学习"
           }
         }
       }
@@ -10815,6 +13047,12 @@
             "state" : "translated",
             "value" : "🏛️ 시장"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ 市场"
+          }
         }
       }
     },
@@ -10843,6 +13081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 부모 모드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 家长模式"
           }
         }
       }
@@ -10873,6 +13117,12 @@
             "state" : "translated",
             "value" : "🏦 저축"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 储蓄"
+          }
         }
       }
     },
@@ -10901,6 +13151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 저축통장"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 储蓄账户"
           }
         }
       }
@@ -10931,6 +13187,12 @@
             "state" : "translated",
             "value" : "🏪 우리집 가게"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 我们家的小店"
+          }
         }
       }
     },
@@ -10959,6 +13221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ 물품 바코드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ 商品条形码"
           }
         }
       }
@@ -10989,6 +13257,12 @@
             "state" : "translated",
             "value" : "👨‍👩‍👧‍👦 가족 구성원"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 家庭成员"
+          }
         }
       }
     },
@@ -11017,6 +13291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 초대장"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 邀请函"
           }
         }
       }
@@ -11047,6 +13327,12 @@
             "state" : "translated",
             "value" : "💡 돈을 그냥 두면 힘이 줄어요. 저축(이자)이나 투자로 지켜 보세요!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 钱放着不动，购买力就会下降。用储蓄（利息）或投资来守住它吧！"
+          }
         }
       }
     },
@@ -11075,6 +13361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 메시지, 카카오톡 등으로 초대장을 보낼 수 있어요.\n같은 iCloud 계정으로 로그인한 기기라면 데이터가 자동으로 함께 보여요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 可以通过信息等方式发送邀请函。\n用同一个iCloud账户登录的设备，数据会自动同步显示。"
           }
         }
       }
@@ -11105,6 +13397,12 @@
             "state" : "translated",
             "value" : "💡 시세는 하루에 한 번 바뀌어요. 값이 쌀 때 사서 비쌀 때 팔면 이익, 반대면 손해예요!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 价格每天变动一次。低价买入、高价卖出就赚，反过来就亏！"
+          }
         }
       }
     },
@@ -11133,6 +13431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 결제하기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 支付"
           }
         }
       }
@@ -11163,6 +13467,12 @@
             "state" : "translated",
             "value" : "💵 지갑"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 钱包"
+          }
         }
       }
     },
@@ -11191,6 +13501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 돈 관리"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 资金管理"
           }
         }
       }
@@ -11221,6 +13537,12 @@
             "state" : "translated",
             "value" : "💸 용돈 관리"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 零花钱管理"
+          }
         }
       }
     },
@@ -11249,6 +13571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 투자"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 投资"
           }
         }
       }
@@ -11279,6 +13607,12 @@
             "state" : "translated",
             "value" : "📈 투자 상품"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 投资商品"
+          }
         }
       }
     },
@@ -11307,6 +13641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 자녀 폰 모드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 孩子手机模式"
           }
         }
       }
@@ -11337,6 +13677,12 @@
             "state" : "translated",
             "value" : "📷 찍어서 결제"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 扫码支付"
+          }
         }
       }
     },
@@ -11366,6 +13712,12 @@
             "state" : "translated",
             "value" : "🔐 부모 모드로 돌아가기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 返回家长模式"
+          }
         }
       }
     },
@@ -11394,6 +13746,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 거래 기록"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 交易记录"
           }
         }
       }
