@@ -33,6 +33,7 @@ SPEC = {
 # 기기 화면은 아이 한 명의 통장 - 지갑 · 저축 · 투자와 최근 거래.
 SEARCH = {
     "ko": ("용돈 관리", "우리 집 은행에서<br>용돈이 쑥쑥", "저축하면 이자가 붙고 투자도 해 봐요"),
+    "fr": ("argent de poche", "L’argent de poche grandit<br>à la banque de la maison", "L’épargne rapporte des intérêts, essaie les placements"),
     "de": ("Taschengeld Kinder", "Das Taschengeld wächst<br>in der Familienbank", "Sparen bringt Zinsen, Anlegen ausprobieren"),
     "es": ("paga para niños", "La paga crece<br>en el banco de casa", "El ahorro da intereses y puedes invertir"),
     "zh-Hant": ("兒童零用錢", "在家裡的銀行<br>零用錢茁壯成長", "存錢有利息，還能試試投資"),
@@ -45,6 +46,7 @@ SEARCH = {
 # 헤더: 처음 온 사람에게 한 가지 약속. 용돈으로 돈 쓰는 법을 몸으로 배운다.
 HEADER = {
     "ko": ("우리 집 경제 교육", "용돈으로 배우는<br>저축과 투자"),
+    "fr": ("L’éducation financière à la maison", "Apprends à épargner<br>et à placer"),
     "de": ("Finanzbildung für zu Hause", "Sparen und Anlegen<br>mit dem Taschengeld lernen"),
     "es": ("Educación financiera en casa", "Aprende ahorro<br>e inversión con la paga"),
     "zh-Hant": ("在家學理財", "用零用錢學<br>儲蓄與投資"),

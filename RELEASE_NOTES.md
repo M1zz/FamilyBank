@@ -60,3 +60,10 @@ Feedback direkt im Elternmodus senden.
 Antworten auf Feedback in der App lesen.
 Datenschutz & Support in der App öffnen.
 Die App läuft jetzt noch stabiler.
+
+### 앱스토어 (français)
+
+Envoie tes avis depuis le mode parent.
+Lis les réponses à tes avis dans l’app.
+Ouvre la confidentialité et l’aide.
+L’app fonctionne de façon plus stable.

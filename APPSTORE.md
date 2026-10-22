@@ -495,3 +495,65 @@ Verwandle das Handy deines Kindes in eine Ansicht nur für dieses Kind. Es sieht
 
 iCloud-Synchronisierung
 Geräte mit derselben iCloud-Anmeldung halten das Familien-Kassenbuch auf dem gleichen Stand.
+
+## fr
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Argent de poche
+
+### 부제
+
+Apprends à épargner et placer
+
+### 키워드
+
+éducation financière,tirelire,banque,enfant,intérêts,composés,budget,famille,économie,bourse,pièces
+
+### 프로모션 텍스트
+
+Les parents sont la banque centrale, les enfants les clients. Donnez l’argent de poche dans la monnaie de la maison et faites découvrir l’épargne et les placements.
+
+### 설명
+
+Apprenez à vos enfants comment fonctionne l’argent avec une monnaie bien à vous. Les parents jouent la banque centrale et émettent l’argent de poche ; les enfants paient, épargnent et placent, et découvrent l’économie en pratiquant.
+Ce qu’on a vécu soi-même reste bien plus longtemps en mémoire que ce qu’on nous a expliqué.
+
+La monnaie de la maison
+Choisissez le nom de votre monnaie : Haricots, Étoiles, Pièces… Donner ou retirer de l’argent de poche n’est possible que dans le mode parent, verrouillé par un code PIN.
+
+Paiements et boutique de la maison
+Les parents fixent les articles utilisés à la maison, comme les goûters, le temps de jeu ou de télévision, avec leur prix.
+L’enfant choisit dans la boutique et paie aussitôt, ou scanne avec l’appareil photo le code-barres affiché par un parent.
+
+Épargne et intérêts
+L’argent placé sur le compte d’épargne rapporte des intérêts composés chaque semaine. Les parents fixent le taux, et on peut voir à l’avance combien l’argent va grossir.
+
+Initiation aux placements
+Achetez et vendez trois fonds d’entraînement dont le prix change une fois par jour et suivez les courbes de rendement. Comparez fonds prudents, équilibrés et risqués pour comprendre le lien entre risque et gain.
+
+Marché et historique
+L’onglet Marché montre d’un coup d’œil les prix de la maison, le taux de change, le taux d’intérêt, la masse monétaire et les cours des placements. On y voit aussi que, quand les prix montent, le même argent achète moins.
+Chaque mouvement d’argent est inscrit dans le registre et peut être revu par date, par membre et par type.
+
+Apprendre
+Un guide pour les parents en 10 étapes, de « À quoi sert l’argent ? » jusqu’au budget, en passant par les besoins et les envies, le coût d’opportunité, l’épargne et les intérêts, les intérêts composés, l’inflation, le placement et le risque, pour en discuter avec votre enfant.
+Le calculateur d’intérêts composés et celui de l’expérience d’inflation vous laissent changer les chiffres vous-mêmes.
+
+Mode téléphone d’enfant
+Transformez le téléphone de votre enfant en écran rien que pour lui. Il ne voit que son porte-monnaie, ses placements, son historique et l’apprentissage, et il faut le code PIN parent pour en sortir. Invitez votre enfant avec une invitation à code QR.
+
+Synchronisation iCloud
+Les appareils connectés au même compte iCloud gardent le registre de la famille à jour.

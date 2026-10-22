@@ -18,7 +18,7 @@ W, H = 1242, 2688   # 이 계정의 iPhone 제출 규격
 
 # ── 앱마다 고치는 곳 ──────────────────────────────────────────────
 # 앱 언어 → App Store 로케일 (스토어 폴더 이름)
-STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE"}
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR"}
 # 바탕 · 포인트 색 (헤더·검색 결과 그림과 맞춘다)
 BG, ACCENT, INK, SUB = "#EEF5EC", "#2F9E4F", "#12281C", "#5E6B62"
 # 언어 → [(원본 파일, 레이아웃, 헤드라인, 서브카피)]
@@ -30,6 +30,14 @@ SHOTS = {
         ("04-market.png",    "flat-rotate", "물가와 환율까지<br>진짜 경제처럼", "돈의 가치가 변하는 걸 직접 봐요"),
         ("05-actions.png",   "hero-bleed",  "용돈 주기도<br>결제도 간단하게", "부모 PIN으로 잠그고, 바코드로 결제"),
         ("06-learn.png",     "dark",        "10단계로 배우는<br>돈 이야기", "아이와 함께 읽는 부모 가이드"),
+    ],
+    "fr": [
+        ("01-dashboard.png", "hero-bleed"  , "Ta maison devient<br>une petite banque", "Parents banque centrale, enfants clients"),
+        ("02-child.png", "left-text"   , "Porte-monnaie, épargne,<br>placements d’un coup d’œil", "Chaque enfant a son propre compte"),
+        ("03-savings.png", "text-bottom" , "Épargne et<br>les intérêts s’ajoutent", "Les intérêts composés chaque semaine en graphique"),
+        ("04-market.png", "flat-rotate" , "Prix et taux de change<br>comme dans la vraie économie", "Vois la valeur de l’argent évoluer"),
+        ("05-actions.png", "hero-bleed"  , "Argent de poche et paiements<br>tout simplement", "Verrou PIN parent, paiement par code-barres"),
+        ("06-learn.png", "dark"        , "L’argent en<br>10 étapes", "Un guide à lire avec ton enfant"),
     ],
     "de": [
         ("01-dashboard.png", "hero-bleed"  , "Euer Zuhause wird<br>zur kleinen Bank", "Eltern sind die Bank, Kinder die Kunden"),

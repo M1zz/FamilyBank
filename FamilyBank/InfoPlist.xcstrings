@@ -27,6 +27,12 @@
             "value" : "SukSuk Paga"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Argent de poche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79,6 +85,12 @@
             "value" : "Se necesita la cámara para que tu hijo pueda escanear el código de barras de un artículo y pagar."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’appareil photo est nécessaire pour que ton enfant scanne le code-barres d’un article et paie."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129,6 +141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se usa Face ID para confirmar que eres un adulto al desbloquear las acciones."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID sert à confirmer qu’un parent est présent pour déverrouiller les actions."
           }
         },
         "ja" : {

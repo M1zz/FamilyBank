@@ -28,6 +28,12 @@
             "value" : "%@ %@ — ¿pagar %@ %@?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — payer %@ %@ ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79,6 +85,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pagar %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payer %@ %@"
           }
         },
         "ja" : {
@@ -134,6 +146,12 @@
             "value" : "Dar %@ %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donner %@ %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -185,6 +203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descontar %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retirer %@ %@"
           }
         },
         "ja" : {
@@ -240,6 +264,12 @@
             "value" : "¿Comprar %1$@ %2$@ por %3$@ %4$@?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acheter %1$@ %2$@ pour %3$@ %4$@ ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -291,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has ahorrado %@ %@! Cada semana se suman intereses. 💰"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as épargné %@ %@ ! Des intérêts s’ajoutent chaque semaine. 💰"
           }
         },
         "ja" : {
@@ -346,6 +382,12 @@
             "value" : "Has pasado %@ %@ al monedero."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ ont été remis dans le porte-monnaie."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -397,6 +439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cartera de %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placements de %@ %@"
           }
         },
         "ja" : {
@@ -452,6 +500,12 @@
             "value" : "Banco de %@ %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Banque de %@ %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -503,6 +557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Convertir en el teléfono de %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En faire le téléphone de %@ %@"
           }
         },
         "ja" : {
@@ -558,6 +618,12 @@
             "value" : "¡Has comprado %2$lld acciones de %1$@! 📈"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as acheté %2$lld parts de %1$@ ! 📈"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -609,6 +675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has vendido %2$lld acciones de %1$@! %3$@ %4$@ han entrado en el monedero."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as vendu %2$lld parts de %1$@ ! %3$@ %4$@ sont arrivés dans le porte-monnaie."
           }
         },
         "ja" : {
@@ -664,6 +736,12 @@
             "value" : "%@%% (compuesto)"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (composé)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -715,6 +793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Invitamos a %@\na SukSuk Paga!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inviter %@\nsur SukSuk Argent de poche !"
           }
         },
         "ja" : {
@@ -770,6 +854,12 @@
             "value" : "Has pagado %2$@ %3$@ a %1$@."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as payé %2$@ %3$@ à %1$@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -821,6 +911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has dado %2$@ %3$@ a %1$@! 🎁"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as donné %2$@ %3$@ à %1$@ ! 🎁"
           }
         },
         "ja" : {
@@ -876,6 +972,12 @@
             "value" : "%@ wones → %@ %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wons → %@ %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -927,6 +1029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has comprado %@! Te quedan en el monedero: %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as acheté %@ ! Il te reste dans le porte-monnaie : %@ %@"
           }
         },
         "ja" : {
@@ -982,6 +1090,12 @@
             "value" : "¡Has comprado %@! 🎉 Te quedan en el monedero: %@ %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as acheté %@ ! 🎉 Il te reste dans le porte-monnaie : %@ %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1033,6 +1147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El monedero de %@ no tiene saldo suficiente."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le porte-monnaie de %@ n’a pas assez d’argent."
           }
         },
         "ja" : {
@@ -1088,6 +1208,12 @@
             "value" : "Se han descontado %2$@ %3$@ del monedero de %1$@."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %3$@ ont été retirés du porte-monnaie de %1$@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1139,6 +1265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paso %lld"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Étape %lld"
           }
         },
         "ja" : {
@@ -1194,6 +1326,12 @@
             "value" : "Paso %lld · %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Étape %lld · %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1245,6 +1383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld acciones · media %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld parts · moy. %@"
           }
         },
         "ja" : {
@@ -1300,6 +1444,12 @@
             "value" : "Valor de lo que podrás comprar dentro de %lld semanas"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valeur de ce qu’on peut acheter après %lld semaines"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1351,6 +1501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tras %lld semanas: %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Après %lld semaines : %@ %@"
           }
         },
         "ja" : {
@@ -1406,6 +1562,12 @@
             "value" : "Una «necesidad» es algo sin lo que tendrías problemas: comida, ropa, material escolar. Un «deseo» es algo que te hace ilusión, pero con lo que puedes vivir sin problema: juguetes, objetos de videojuegos.\n\n¡Las dos cosas importan! Pero el orden es clave. Primero se cubren las necesidades y, con el dinero que sobra, se hace un plan para cumplir los deseos."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un « besoin », c’est quelque chose dont l’absence pose problème : la nourriture, les vêtements, le matériel scolaire. Une « envie », c’est quelque chose qui fait plaisir mais dont on peut se passer : les jouets, les objets de jeu vidéo.\n\nLes deux comptent ! Mais l’ordre est important. On s’occupe d’abord des besoins, puis, avec l’argent qui reste, on fait un plan pour combler les envies."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1457,6 +1619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ wones"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ wons"
           }
         },
         "ja" : {
@@ -1512,6 +1680,12 @@
             "value" : "Valor real de 1 %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valeur réelle de 1 %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1563,6 +1737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ wones"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ wons"
           }
         },
         "ja" : {
@@ -1618,6 +1798,12 @@
             "value" : "¿Cómo cambia el «poder real» de 1.000 %@?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment évolue la « vraie force » de 1 000 %@ ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1669,6 +1855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si ahorras 1.000 monedas con un 5 %% de interés, ¿cuánto tendrás al cabo de una semana?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si tu places 1 000 pièces à 5 %% d’intérêt, combien auras-tu au bout d’une semaine ?"
           }
         },
         "ja" : {
@@ -1724,6 +1916,12 @@
             "value" : "Tienes 1.000 monedas y quieres comprar chucherías y también pegatinas. Pero solo te alcanza para una cosa. ¿Qué haces? Si eliges una, tienes que renunciar a la otra.\n\nA eso a lo que renuncias se le llama «coste de oportunidad». Y no solo pasa con el dinero, también con el tiempo. Si juegas una hora a videojuegos, has renunciado a todo lo que podrías haber hecho en esa hora."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as 1 000 pièces et tu voudrais acheter des bonbons et aussi des autocollants. Mais tu n’as de quoi payer qu’une seule chose. Que faire ? Si tu en choisis une, tu dois renoncer à l’autre.\n\nCe à quoi tu renonces s’appelle le « coût d’opportunité ». Ça marche aussi avec le temps. Si tu joues une heure, tu renonces à tout ce que tu aurais pu faire pendant cette heure."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1775,6 +1973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estimado en 12 semanas: %@ %@ (+%@)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estimation à 12 semaines : %@ %@ (+%@)"
           }
         },
         "ja" : {
@@ -1830,6 +2034,12 @@
             "value" : "Precio por acción"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prix par part"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1881,6 +2091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir con Face ID"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir avec Face ID"
           }
         },
         "ja" : {
@@ -1936,6 +2152,12 @@
             "value" : "Cambiar PIN"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Changer le PIN"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1987,6 +2209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Introducir PIN"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisir le PIN"
           }
         },
         "ja" : {
@@ -2042,6 +2270,12 @@
             "value" : "El PIN debe tener 4 cifras."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le code PIN doit comporter 4 chiffres."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2093,6 +2327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pregunta a Siri y consulta al instante el saldo de tu hijo."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demande à Siri et vois tout de suite le solde de ton enfant."
           }
         },
         "ja" : {
@@ -2148,6 +2388,12 @@
             "value" : "Siri y Atajos"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri et Raccourcis"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2199,6 +2445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir con Touch ID"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir avec Touch ID"
           }
         },
         "ja" : {
@@ -2254,6 +2506,12 @@
             "value" : "VoiceOver lee todos los saldos y botones, en el orden correcto."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver lit tous les soldes et boutons, dans le bon ordre."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2305,6 +2563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VoiceOver más cómodo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver plus pratique"
           }
         },
         "ja" : {
@@ -2360,6 +2624,12 @@
             "value" : "≈ %@ wones"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ wons"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2411,6 +2681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ Ajustes del banco"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Réglages de la banque"
           }
         },
         "ja" : {
@@ -2466,6 +2742,12 @@
             "value" : "⚡️ Acciones"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Actions"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2517,6 +2799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tienda"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boutique"
           }
         },
         "ja" : {
@@ -2572,6 +2860,12 @@
             "value" : "Registrar en la tienda"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer dans la boutique"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2623,6 +2917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prix"
           }
         },
         "ja" : {
@@ -2678,6 +2978,12 @@
             "value" : "El precio se fija donde se encuentran las ganas de comprar y la cantidad en venta."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le prix se fixe là où se rencontrent l’envie d’acheter et la quantité à vendre."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2729,6 +3035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender cómo se fijan los precios"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprendre comment les prix se fixent"
           }
         },
         "ja" : {
@@ -2784,6 +3096,12 @@
             "value" : "Precios 🏷️"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Étiquettes de prix 🏷️"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2835,6 +3153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registra a los miembros de la familia"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistre les membres de la famille"
           }
         },
         "ja" : {
@@ -2890,6 +3214,12 @@
             "value" : "Registrar familia"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer la famille"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2941,6 +3271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay movimientos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune transaction"
           }
         },
         "ja" : {
@@ -2996,6 +3332,12 @@
             "value" : "Tipo de movimiento"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type de transaction"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3047,6 +3389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Qué es más arriesgado, el Fondo Tortuga o el Fondo Cohete? ¿Por qué?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qui est le plus risqué, le Fonds Tortue ou le Fonds Fusée ? Pourquoi ?"
           }
         },
         "ja" : {
@@ -3102,6 +3450,12 @@
             "value" : "¿Cuál es el coste de oportunidad de una hora de videojuegos?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quel est le coût d’opportunité d’une heure de jeu ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3153,6 +3507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pago"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paiement"
           }
         },
         "ja" : {
@@ -3208,6 +3568,12 @@
             "value" : "Error en el pago"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec du paiement"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3259,6 +3625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Pago completado! 🎉"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paiement effectué ! 🎉"
           }
         },
         "ja" : {
@@ -3314,6 +3686,12 @@
             "value" : "Pagar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3365,6 +3743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El dinero con plan dura más."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’argent avec un plan dure plus longtemps."
           }
         },
         "ja" : {
@@ -3420,6 +3804,12 @@
             "value" : "Entender que quien puede ganar mucho también puede perder mucho"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprendre que plus on peut gagner, plus on peut aussi perdre"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3471,6 +3861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catégorie"
           }
         },
         "ja" : {
@@ -3526,6 +3922,12 @@
             "value" : "Miembro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Membre"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3577,6 +3979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir miembro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un membre"
           }
         },
         "ja" : {
@@ -3632,6 +4040,12 @@
             "value" : "Al aumentar el tamaño del texto, las pantallas se reorganizan sin cortarse."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand on agrandit le texte, les écrans se réorganisent proprement sans que rien ne soit coupé."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3683,6 +4097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importe"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montant"
           }
         },
         "ja" : {
@@ -3738,6 +4158,12 @@
             "value" : "Plazo: %lld semanas"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durée : %lld semaines"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3789,6 +4215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historial"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historique"
           }
         },
         "ja" : {
@@ -3844,6 +4276,12 @@
             "value" : "Coste de oportunidad"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coût d’opportunité"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3895,6 +4333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Distinguir lo que de verdad se necesita de lo que solo se quiere"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distinguer ce dont on a vraiment besoin de ce dont on a seulement envie"
           }
         },
         "ja" : {
@@ -3950,6 +4394,12 @@
             "value" : "Mi historial"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mon historique"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4001,6 +4451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi cuenta de ahorro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mon compte d’épargne"
           }
         },
         "ja" : {
@@ -4056,6 +4512,12 @@
             "value" : "Mi monedero"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mon porte-monnaie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4107,6 +4569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi monedero: %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mon porte-monnaie : %@ %@"
           }
         },
         "ja" : {
@@ -4162,6 +4630,12 @@
             "value" : "Imagina que tienes un pez y necesitas unas zapatillas. Pero si al zapatero no le gustan los peces, no puedes cambiarlos, ¿verdad? A la gente de hace mucho tiempo esto también le parecía un fastidio. Por eso inventaron algo que le gusta a todo el mundo: el «dinero».\n\nEl dinero hace tres cosas. Primera: sirve para cambiar por casi todo (intercambio). Segunda: nos dice cuánto vale cada cosa (medir el valor). Tercera: podemos guardarlo y usarlo más tarde (ahorro)."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imagine que tu as un poisson et qu’il te faut des chaussures. Si le vendeur de chaussures n’aime pas le poisson, impossible d’échanger, n’est-ce pas ? Les gens d’autrefois trouvaient ça très pénible. Alors ils ont inventé quelque chose que tout le monde aime : l’« argent ».\n\nL’argent fait trois choses. Un : on peut l’échanger contre presque tout (échange). Deux : il permet de mesurer ce que vaut chaque chose (mesure de la valeur). Trois : on peut le garder pour plus tard (réserve)."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4213,6 +4687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿A quién quieres invitar?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qui veux-tu inviter ?"
           }
         },
         "ja" : {
@@ -4268,6 +4748,12 @@
             "value" : "¿A quién le pagas?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À qui paies-tu ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4319,6 +4805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿A quién?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À qui ?"
           }
         },
         "ja" : {
@@ -4374,6 +4866,12 @@
             "value" : "¿Qué pasa cuando haces rodar una bola de nieve? Cuanto más rueda, más rápido crece, ¿verdad? El interés compuesto es justo eso.\n\nSi a 1.000 monedas se les suman 50 de interés, tienes 1.050. La semana siguiente, el interés se calcula sobre los 1.050 enteros. ¡El dinero que ganaron los intereses también gana intereses! Al principio apenas se nota, pero con el tiempo crece como una bola de nieve."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que se passe-t-il quand on fait rouler une boule de neige ? Plus elle roule, plus elle grossit vite, non ? Les intérêts composés, c’est exactement ça.\n\nQuand 1 000 pièces rapportent 50 d’intérêts, on a 1 050. La semaine suivante, les intérêts se calculent sur les 1 050 entiers. L’argent gagné par les intérêts rapporte lui aussi des intérêts ! Au début, ça ne se voit pas, mais avec le temps, ça grossit comme une boule de neige."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4425,6 +4923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siguiente"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suivant"
           }
         },
         "ja" : {
@@ -4480,6 +4984,12 @@
             "value" : "Cerrar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4531,6 +5041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El dinero que no vas a gastar ahora, ¡a la cuenta de ahorro!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’argent qu’on ne dépense pas tout de suite va sur le compte d’épargne !"
           }
         },
         "ja" : {
@@ -4586,6 +5102,12 @@
             "value" : "Podrás leer los saldos y el historial aunque actives más contraste o te cueste distinguir colores."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lis facilement les soldes et l’historique, même avec « Augmenter le contraste » ou si les couleurs sont difficiles à distinguer."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4637,6 +5159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Panel"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tableau de bord"
           }
         },
         "ja" : {
@@ -4692,6 +5220,12 @@
             "value" : "Podrás usar la app en más idiomas."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’app sera disponible dans plus de langues."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4743,6 +5277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Más idiomas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus de langues"
           }
         },
         "ja" : {
@@ -4798,6 +5338,12 @@
             "value" : "El dinero es una herramienta para cambiar, medir y guardar."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’argent est un outil pour échanger, mesurer et garder."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4849,6 +5395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Para qué sirve el dinero?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À quoi sert l’argent ?"
           }
         },
         "ja" : {
@@ -4904,6 +5456,12 @@
             "value" : "Crear el hábito de planificar y repartir el dinero"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prendre l’habitude de planifier et de répartir son argent"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4955,6 +5513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender por qué existe el dinero y para qué sirve"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprendre pourquoi l’argent existe et à quoi il sert"
           }
         },
         "ja" : {
@@ -5010,6 +5574,12 @@
             "value" : "Los dos PIN no coinciden."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les deux codes PIN ne correspondent pas."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5061,6 +5631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no hay artículos. Primero añade artículos a la tienda con «Añadir artículo»."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun article pour l’instant. Ajoute d’abord des articles à la boutique avec « Ajouter un article »."
           }
         },
         "ja" : {
@@ -5116,6 +5692,12 @@
             "value" : "No hay hijos registrados"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun enfant enregistré"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5167,6 +5749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Podría una pieza de LEGO ser dinero? ¿Superaría las cinco pruebas?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une brique LEGO pourrait-elle servir d’argent ? Réussirait-elle les cinq épreuves ?"
           }
         },
         "ja" : {
@@ -5222,6 +5810,12 @@
             "value" : "¿Qué pasaría si no existiera el dinero?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que se passerait-il s’il n’y avait pas d’argent dans le monde ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5273,6 +5867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vender"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vendre"
           }
         },
         "ja" : {
@@ -5328,6 +5928,12 @@
             "value" : "Comprar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acheter"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5379,6 +5985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cada semana los precios suben un %@%%. Eso significa que con el mismo dinero puedes comprar un poco menos cada vez."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaque semaine, les prix augmentent de %@%%. Cela veut dire qu’avec le même argent, on peut acheter un peu moins de choses."
           }
         },
         "ja" : {
@@ -5434,6 +6046,12 @@
             "value" : "Los precios suben cada semana"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les prix montent chaque semaine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5485,6 +6103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cada semana, el índice de precios de casa sube esta cantidad (índice actual: %lld). Con 0 %% no hay inflación. Si además subes un poco los precios reales de golosinas y juguetes, tu hijo aprende cómo cambia el valor del dinero."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaque semaine, l’indice des prix de la maison augmente de ce montant (indice actuel : %lld). À 0 %%, il n’y a pas d’inflation. Si tu augmentes aussi un peu les vrais prix des goûters et des jouets, ton enfant apprend comment la valeur de l’argent change."
           }
         },
         "ja" : {
@@ -5540,6 +6164,12 @@
             "value" : "Nota (ej.: comprar una merienda)"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note (ex. : acheter un goûter)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5591,6 +6221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nota (ej.: paga semanal)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note (ex. : argent de poche de la semaine)"
           }
         },
         "ja" : {
@@ -5646,6 +6282,12 @@
             "value" : "¿Qué pasa con el precio de algo que todos quieren vender?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que devient le prix de quelque chose que tout le monde veut vendre ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5697,6 +6339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se eliminarán todos los miembros, movimientos y productos de inversión, y volverás a la pantalla de configuración inicial."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tous les membres, transactions et produits de placement seront supprimés et tu reviendras à l’écran de configuration initiale."
           }
         },
         "ja" : {
@@ -5752,6 +6400,12 @@
             "value" : "Borrar todos los datos"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réinitialiser toutes les données"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5803,6 +6457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detrás de cada elección hay algo a lo que se renunció."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Derrière chaque choix se cache quelque chose à quoi on a renoncé."
           }
         },
         "ja" : {
@@ -5858,6 +6518,12 @@
             "value" : "¿Para qué es?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est pour quoi ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5909,6 +6575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subida de precios"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hausse des prix"
           }
         },
         "ja" : {
@@ -5964,6 +6636,12 @@
             "value" : "Evolución de precios 📊"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Évolution des prix 📊"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6015,6 +6693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuando suben los precios, con el mismo dinero se compra menos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand les prix montent, on achète moins avec le même argent"
           }
         },
         "ja" : {
@@ -6070,6 +6754,12 @@
             "value" : "Cuando suben los precios, el dinero pierde fuerza. Por eso hacen falta el ahorro y la inversión."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand les prix montent, l’argent perd de sa force. C’est pour ça que l’épargne et les placements comptent."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6121,6 +6811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender que, cuando suben los precios, el dinero pierde fuerza"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprendre que, quand les prix montent, l’argent perd de sa force"
           }
         },
         "ja" : {
@@ -6176,6 +6872,12 @@
             "value" : "Cuando suben los precios, ¿es buena idea dejar el dinero quieto en el monedero?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand les prix montent, est-ce une bonne idée de laisser l’argent dans le porte-monnaie ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6227,6 +6929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Índice de precios"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice des prix"
           }
         },
         "ja" : {
@@ -6282,6 +6990,12 @@
             "value" : "%lld artículos en venta · tipo de cambio automático"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld articles en vente · taux de change appliqué automatiquement"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6333,6 +7047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Código de barras"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Code-barres de l’article"
           }
         },
         "ja" : {
@@ -6388,6 +7108,12 @@
             "value" : "Coloca el código de barras dentro del recuadro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place le code-barres de l’article dans le cadre"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6439,6 +7165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nombre del artículo (ej.: refresco, 30 min de juego)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom de l’article (ex. : soda, 30 min de jeu)"
           }
         },
         "ja" : {
@@ -6494,6 +7226,12 @@
             "value" : "Datos del artículo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Infos de l’article"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6545,6 +7283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir artículo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un article"
           }
         },
         "ja" : {
@@ -6600,6 +7344,12 @@
             "value" : "Código de barras"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Code-barres"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6651,6 +7401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Destinatario"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destinataire"
           }
         },
         "ja" : {
@@ -6706,6 +7462,12 @@
             "value" : "Dinero recibido"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Argent reçu"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6757,6 +7519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay nadie que reciba el pago"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personne ne peut recevoir le paiement"
           }
         },
         "ja" : {
@@ -6812,6 +7580,12 @@
             "value" : "Aprender"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apprendre"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6863,6 +7637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copia de seguridad y exportación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauvegarde et exportation"
           }
         },
         "ja" : {
@@ -6918,6 +7698,12 @@
             "value" : "Colores y contraste más cómodos"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couleurs et contraste plus confortables"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6969,6 +7755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No tienes suficientes acciones."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu n’as pas assez de parts."
           }
         },
         "ja" : {
@@ -7024,6 +7816,12 @@
             "value" : "Productos de inversión que tienes"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placements détenus"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7075,6 +7873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moderado 🐰"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Équilibré 🐰"
           }
         },
         "ja" : {
@@ -7130,6 +7934,12 @@
             "value" : "La magia del interés compuesto"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La magie des intérêts composés"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7181,6 +7991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Padre/madre"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parent"
           }
         },
         "ja" : {
@@ -7236,6 +8052,12 @@
             "value" : "Guía para padres 📖"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guide pour les parents 📖"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7287,6 +8109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modo para padres"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode parent"
           }
         },
         "ja" : {
@@ -7342,6 +8170,12 @@
             "value" : "Elige el PIN del modo para padres"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisis le code PIN du mode parent"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7393,6 +8227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Puedes añadir productos en el modo para padres"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu peux ajouter des produits en mode parent"
           }
         },
         "ja" : {
@@ -7448,6 +8288,12 @@
             "value" : "Se usa para confirmar que eres un adulto"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sert à confirmer qu’un parent est présent"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7499,6 +8345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hace falta la confirmación de un adulto"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un parent doit confirmer"
           }
         },
         "ja" : {
@@ -7554,6 +8406,12 @@
             "value" : "Padres 🏦"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parents 🏦"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7605,6 +8463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Los padres hacen de banco (banco central) y los hijos son los clientes."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les parents jouent le rôle de la banque (banque centrale) et les enfants sont les clients."
           }
         },
         "ja" : {
@@ -7660,6 +8524,12 @@
             "value" : "Hace falta la confirmación de un adulto"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un parent doit confirmer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7711,6 +8581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registra al menos a un adulto."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistre au moins un parent."
           }
         },
         "ja" : {
@@ -7766,6 +8642,12 @@
             "value" : "Piensa en un vendedor de paraguas un día de lluvia. Si mucha gente quiere un paraguas y hay muy pocos, ¿qué pasa? Aunque subas el precio, se venden. En cambio, los bañadores cuando se acaba el verano: nadie quiere comprarlos y hay que venderlos baratos.\n\nAsí, el precio se fija en el tira y afloja entre «las ganas de comprar» (demanda) y «la cantidad en venta» (oferta). Los precios de las inversiones suben y bajan por la misma razón."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pense à un vendeur de parapluies un jour de pluie. Beaucoup de gens veulent un parapluie, mais il y en a peu ? Même plus cher, ils se vendent. Et les maillots de bain à la fin de l’été ? Personne n’en veut, il faut les vendre pas cher.\n\nLe prix se fixe ainsi dans le bras de fer entre l’« envie d’acheter » (demande) et la « quantité à vendre » (offre). Les prix des placements montent et descendent selon le même principe."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7817,6 +8699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comprar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acheter"
           }
         },
         "ja" : {
@@ -7872,6 +8760,12 @@
             "value" : "Producto"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produit"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7923,6 +8817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nombre del producto (ej.: Fondo Luz de Estrella)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom du produit (ex. : Fonds Lumière d’étoile)"
           }
         },
         "ja" : {
@@ -7978,6 +8878,12 @@
             "value" : "Datos del producto"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Infos du produit"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8029,6 +8935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir producto"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un produit"
           }
         },
         "ja" : {
@@ -8084,6 +8996,12 @@
             "value" : "Nuevo PIN de 4 cifras"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouveau PIN à 4 chiffres"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8135,6 +9053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender que elegir algo significa renunciar a otra cosa"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprendre que choisir, c’est renoncer à autre chose"
           }
         },
         "ja" : {
@@ -8190,6 +9114,12 @@
             "value" : "Descripción (opcional)"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Description (facultatif)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8241,6 +9171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Respuesta háptica"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retour haptique"
           }
         },
         "ja" : {
@@ -8296,6 +9232,12 @@
             "value" : "Cantidad: %lld acciones"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quantité : %lld parts"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8347,6 +9289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oferta y demanda"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Offre et demande"
           }
         },
         "ja" : {
@@ -8402,6 +9350,12 @@
             "value" : "Más ganancia significa más riesgo. ¡Reparte y arriesga solo lo que puedas perder!"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus de gain, c’est plus de risque. Répartis, et ne risque que ce que tu peux perdre !"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8453,6 +9407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "4 cifras"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 chiffres"
           }
         },
         "ja" : {
@@ -8508,6 +9468,12 @@
             "value" : "Base 100 al inicio"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Base 100 au départ"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8559,6 +9525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio inicial"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prix de départ"
           }
         },
         "ja" : {
@@ -8614,6 +9586,12 @@
             "value" : "+%@%% desde el inicio"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% depuis le début"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8665,6 +9643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Empezar 🎉"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est parti 🎉"
           }
         },
         "ja" : {
@@ -8720,6 +9704,12 @@
             "value" : "Mercado"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marché"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8771,6 +9761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En la pestaña Mercado, miren juntos los precios de la tienda de casa y hablen de por qué cada cosa cuesta distinto."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dans l’onglet Marché, regardez ensemble les étiquettes de prix de la boutique et parlez de la raison pour laquelle chaque chose coûte un prix différent."
           }
         },
         "ja" : {
@@ -8826,6 +9822,12 @@
             "value" : "En la pestaña Mercado, miren juntos el índice de precios y la gráfica de su evolución, y luego experimenten con «Experimento de inflación» más abajo."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dans l’onglet Marché, regardez ensemble l’indice des prix et le graphique de son évolution, puis faites l’expérience avec « Expérience d’inflation » plus bas."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8877,6 +9879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vean en la pestaña Mercado cómo cambian cada día los precios de las inversiones y hablen de «cuando hay mucha gente que quiere comprar, el precio sube»."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dans l’onglet Marché, observez les prix des placements changer chaque jour et parlez de « quand beaucoup de gens veulent acheter, le prix monte »."
           }
         },
         "ja" : {
@@ -8932,6 +9940,12 @@
             "value" : "Precio real: %@ wones"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prix réel : %@ wons"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8983,6 +9997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio real (wones)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prix réel (wons)"
           }
         },
         "ja" : {
@@ -9038,6 +10058,12 @@
             "value" : "Precio en el mundo real"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prix dans le monde réel"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9089,6 +10115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Valor real"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valeur réelle"
           }
         },
         "ja" : {
@@ -9144,6 +10176,12 @@
             "value" : "Empezar con SukSuk Paga"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commencer avec SukSuk Argent de poche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9195,6 +10233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Te damos la bienvenida a SukSuk Paga!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenue dans SukSuk Argent de poche !"
           }
         },
         "ja" : {
@@ -9250,6 +10294,12 @@
             "value" : "Consejos de uso"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conseils d’utilisation"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9301,6 +10351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seguir escribiendo donde lo dejaste"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reprendre ce qu’on écrivait"
           }
         },
         "ja" : {
@@ -9356,6 +10412,12 @@
             "value" : "En la «Calculadora de interés compuesto» de abajo, alarguen el plazo de 4 a 52 semanas. ¡Observen juntos cómo la gráfica se va empinando!"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dans le « Calculateur d’intérêts composés » ci-dessous, passez la durée de 4 à 52 semaines. Observez ensemble la courbe qui devient de plus en plus raide !"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9407,6 +10469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender por qué no cualquier cosa puede ser dinero (sus características)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprendre pourquoi tout ne peut pas servir d’argent (ses qualités)"
           }
         },
         "ja" : {
@@ -9462,6 +10530,12 @@
             "value" : "Pasen la mitad del monedero de su hijo a la cuenta de ahorro. Una semana después, comprueben juntos los intereses. ¡Funciona de maravilla!"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mettez la moitié du porte-monnaie de votre enfant sur le compte d’épargne. Une semaine plus tard, vérifiez ensemble les intérêts : l’effet est garanti !"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9513,6 +10587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Antes de que su hijo pague en la tienda, pídanle siempre que diga «otra cosa que podría comprar con este dinero»."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avant que votre enfant paie à la boutique, demandez-lui toujours de dire « une autre chose qu’on pourrait acheter avec cet argent »."
           }
         },
         "ja" : {
@@ -9568,6 +10648,12 @@
             "value" : "Prueba a decírselo así"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dites-le à votre enfant comme ça"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9619,6 +10705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sigue con tu hijo paso a paso desde el 1. Cada paso son 10 minutos: explicar, preguntar y probar juntos."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avancez pas à pas avec votre enfant à partir de l’étape 1. Chaque étape suit l’ordre « expliquer → demander → faire ensemble » et 10 minutes suffisent."
           }
         },
         "ja" : {
@@ -9674,6 +10766,12 @@
             "value" : "Junto a su hijo, repartan una cantidad pequeña entre 2 productos. Miren los precios cada día para que se acostumbre a las subidas y bajadas."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avec votre enfant, répartissez une petite somme sur 2 produits. Regardez les prix chaque jour pour qu’il s’habitue aux hausses et aux baisses."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9725,6 +10823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todavía hay pocos datos de precios. ¡Vuelve a mirar mañana!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’historique des prix est encore trop court. Reviens voir demain !"
           }
         },
         "ja" : {
@@ -9780,6 +10884,12 @@
             "value" : "Aún no hay movimientos"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas encore de transactions"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9831,6 +10941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no hay artículos.\n¡Registra los artículos de tu casa en el modo para padres!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas encore d’articles.\nEnregistre les articles de ta maison en mode parent !"
           }
         },
         "ja" : {
@@ -9886,6 +11002,12 @@
             "value" : "Aún no hay artículos · añádelos en la pestaña Acciones"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas encore d’articles · ajoute-en dans l’onglet Actions"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9937,6 +11059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todavía no tienes nada"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun placement pour l’instant"
           }
         },
         "ja" : {
@@ -9992,6 +11120,12 @@
             "value" : "Estable 🐢"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prudent 🐢"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10043,6 +11177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aviso"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Information"
           }
         },
         "ja" : {
@@ -10098,6 +11238,12 @@
             "value" : "Te avisaremos con discreción de funciones útiles justo cuando las necesites."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Des fonctions pratiques te sont présentées discrètement, au bon moment."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10149,6 +11295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acciones"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actions"
           }
         },
         "ja" : {
@@ -10204,6 +11356,12 @@
             "value" : "Probemos juntos en la app"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À essayer ensemble dans l’app"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10255,6 +11413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Consulta el saldo de tu hijo desde la pantalla de inicio, sin abrir la app."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vois le solde de ton enfant directement sur l’écran d’accueil, sans ouvrir l’app."
           }
         },
         "ja" : {
@@ -10310,6 +11474,12 @@
             "value" : "También podrás usar la app en inglés."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu pourras aussi utiliser l’app en anglais."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10361,6 +11531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cuánto?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combien ?"
           }
         },
         "ja" : {
@@ -10416,6 +11592,12 @@
             "value" : "¿Cuánto vas a pagar?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combien vas-tu payer ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10467,6 +11649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La primera vez que abras la app tras una actualización, te contaremos qué hay de nuevo."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À la première ouverture après une mise à jour, découvre ce qui a changé."
           }
         },
         "ja" : {
@@ -10522,6 +11710,12 @@
             "value" : "Novedades"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouveautés"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10573,6 +11767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rol"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rôle"
           }
         },
         "ja" : {
@@ -10628,6 +11828,12 @@
             "value" : "Compatibilidad con inglés"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prise en charge de l’anglais"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10679,6 +11885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ej.: algo que cuesta 1.000 wones de verdad = %@ %@. Los precios de la tienda en %@ se calculan solos con este tipo de cambio."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ex. : un article qui coûte vraiment 1 000 wons = %@ %@. Les prix de la boutique en %@ sont calculés automatiquement avec ce taux."
           }
         },
         "ja" : {
@@ -10734,6 +11946,12 @@
             "value" : "Ej.: Judía, Estrella, Moneda"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ex. : Haricot, Étoile, Pièce"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10785,6 +12003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hacer un presupuesto"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faire un budget"
           }
         },
         "ja" : {
@@ -10840,6 +12064,12 @@
             "value" : "Lo que aprenderemos hoy"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce qu’on apprend aujourd’hui"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10891,6 +12121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hecho"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminé"
           }
         },
         "ja" : {
@@ -10946,6 +12182,12 @@
             "value" : "¿Por qué la arena del camino no puede ser dinero? ¡Porque hay muchísima por todas partes! Para ser buen dinero hay que superar cinco pruebas.\n\n① Debe durar (¡no puede pudrirse!) ② Debe ser fácil de llevar (¡una vaca pesa demasiado, queda fuera!) ③ Debe poder dividirse en trozos pequeños ④ No debe ser demasiado común ⑤ Todos deben creer que «esto es dinero de verdad».\n\nLas monedas de nuestra casa valen algo porque mamá y papá no las fabrican cuando les da la gana, sino que cumplen lo prometido."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pourquoi le sable du chemin ne peut-il pas être de l’argent ? Parce qu’il y en a partout, en masse ! Pour être un bon argent, il faut réussir cinq épreuves.\n\n① Durer longtemps (pas question de pourrir !) ② Être facile à transporter (une vache est trop lourde, éliminée !) ③ Pouvoir se diviser en petits morceaux ④ Ne pas être trop courant ⑤ Que tout le monde croie : « Ça, c’est du vrai argent. »\n\nLes pièces de notre maison ont de la valeur parce que papa et maman ne les fabriquent pas n’importe quand et tiennent leur promesse."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10997,6 +12239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De las cosas que quieres comprar últimamente, ¿cuáles son necesidades y cuáles son deseos?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parmi les choses que tu as envie d’acheter en ce moment, lesquelles sont des besoins et lesquelles sont des envies ?"
           }
         },
         "ja" : {
@@ -11052,6 +12300,12 @@
             "value" : "Paga"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Argent de poche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11103,6 +12357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avisos de paga"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rappels d’argent de poche"
           }
         },
         "ja" : {
@@ -11158,6 +12418,12 @@
             "value" : "Dar paga"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donner de l’argent de poche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11209,6 +12475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dar / descontar paga"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donner / retirer de l’argent de poche"
           }
         },
         "ja" : {
@@ -11264,6 +12536,12 @@
             "value" : "El día de la paga, dejen que su hijo decida y ponga en práctica cuánto ahorra, invierte y gasta. Una semana después, repasen juntos la pestaña Historial."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le jour de l’argent de poche, laissez votre enfant décider lui-même de ses parts d’épargne, de placement et de dépense, et les appliquer. Une semaine plus tard, regardez ensemble l’onglet Historique."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11315,6 +12593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recibe una notificación el día de la paga o cuando se sumen intereses."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reçois une notification le jour de l’argent de poche ou quand des intérêts sont versés."
           }
         },
         "ja" : {
@@ -11370,6 +12654,12 @@
             "value" : "Solo quien conozca este PIN podrá\ndar la paga o fijar los intereses."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donner de l’argent de poche, fixer les taux, etc.\nn’est possible que pour les personnes qui connaissent ce code PIN."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11421,6 +12711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una ligera vibración te avisa al recibir la paga o al comprar algo."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une légère vibration t’avertit quand l’argent de poche arrive ou qu’un achat est fait."
           }
         },
         "ja" : {
@@ -11476,6 +12772,12 @@
             "value" : "Si te gastas la paga nada más recibirla, sin ningún plan, desaparece enseguida. Por eso se hace un plan antes. A eso se le llama «presupuesto».\n\nPor ejemplo, repártelo así: ahorro 30, necesidades 40, deseos 20, reto de inversión 10. No tiene que ser exactamente así. ¡Lo importante es que lo decidas tú!"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si tu dépenses ton argent de poche dès que tu le reçois, sans plan, il disparaît vite. C’est pour ça qu’on fait un plan à l’avance. On appelle ça un « budget ».\n\nPar exemple, répartis-le ainsi : épargne 30, nécessaire 40, envies 20, défi placement 10. Ça n’a pas à être exactement ça. L’important, c’est que tu décides toi-même !"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11527,6 +12829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aquí se registrarán los pagos y las pagas que des"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand tu donnes de l’argent de poche ou que tu paies, cela s’affichera ici"
           }
         },
         "ja" : {
@@ -11582,6 +12890,12 @@
             "value" : "Da la paga, paga, cobra intereses del ahorro\ny hasta invierte: el sistema económico de tu familia."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donne de l’argent de poche, paie, touche des intérêts d’épargne\net même place de l’argent : le système économique rien que pour ta famille."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11633,6 +12947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tienda de casa"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boutique de la maison"
           }
         },
         "ja" : {
@@ -11688,6 +13008,12 @@
             "value" : "Miren juntos los artículos de la tienda de casa y clasifíquenlos uno a uno en «necesidades» y «deseos»."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regardez ensemble les articles de la boutique de la maison et classez-les un par un en « besoins » et « envies »."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11739,6 +13065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio en casa"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prix de la maison"
           }
         },
         "ja" : {
@@ -11794,6 +13126,12 @@
             "value" : "Precios de casa"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les prix de la maison"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11845,6 +13183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cuál es ahora el índice de precios de nuestra casa?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quel est l’indice des prix de notre maison en ce moment ?"
           }
         },
         "ja" : {
@@ -11900,6 +13244,12 @@
             "value" : "Guarda los registros del banco de tu casa en un archivo y vuelve a cargarlos cuando quieras."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistre l’historique de la banque de la maison dans un fichier et recharge-le plus tard."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11951,6 +13301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Por qué cosas podemos cambiar las monedas de nuestra casa?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contre quoi peut-on échanger les pièces de notre maison ?"
           }
         },
         "ja" : {
@@ -12006,6 +13362,12 @@
             "value" : "¿Por qué valen algo las monedas de nuestra casa?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pourquoi les pièces de notre maison ont-elles de la valeur ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12057,6 +13419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dinero en circulación en casa 💰"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masse monétaire de la maison 💰"
           }
         },
         "ja" : {
@@ -12112,6 +13480,12 @@
             "value" : "Es un producto de inversión de nuestra casa."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est le produit de placement de notre famille."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12163,6 +13537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elige el nombre de la moneda de tu casa"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisis le nom de la monnaie de la maison"
           }
         },
         "ja" : {
@@ -12218,6 +13598,12 @@
             "value" : "Dinero que circula en casa"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’argent qui circule chez nous"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12269,6 +13655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reducir movimiento"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réduire les animations"
           }
         },
         "ja" : {
@@ -12324,6 +13716,12 @@
             "value" : "Si activas «Reducir movimiento», los efectos de pantalla se vuelven más suaves."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avec « Réduire les animations », les effets d’écran deviennent plus calmes."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12375,6 +13773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "wones"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wons"
           }
         },
         "ja" : {
@@ -12430,6 +13834,12 @@
             "value" : "Nivel de riesgo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niveau de risque"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12481,6 +13891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Arriesgado 🚀"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risqué 🚀"
           }
         },
         "ja" : {
@@ -12536,6 +13952,12 @@
             "value" : "Ajustes del banco"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages de la banque"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12587,6 +14009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuando dejas dinero en el banco, el banco dice «¡gracias por confiar en nosotros!» y te da un extra. Ese extra se llama «interés».\n\nEl dinero del monedero no crece por mucho que esperes. Pero si lo metes en la cuenta de ahorro, cada semana se le suman intereses y el dinero crece. ¿Dónde conviene guardar el dinero que no vas a gastar ahora?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand tu confies de l’argent à la banque, elle te dit « Merci de nous faire confiance ! » et te donne un petit supplément. Ce supplément, ce sont les « intérêts ».\n\nL’argent du porte-monnaie ne grandit jamais, même si tu attends longtemps. Mais si tu le mets sur le compte d’épargne, des intérêts s’ajoutent chaque semaine et l’argent grandit. Où vaut-il mieux mettre l’argent qu’on ne dépense pas tout de suite ?"
           }
         },
         "ja" : {
@@ -12642,6 +14070,12 @@
             "value" : "Entregar este dispositivo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confier cet appareil"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12693,6 +14127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Este dispositivo pasa a ser la pantalla exclusiva del hijo elegido. Solo podrá ver su monedero, la tienda, las inversiones, el historial y las lecciones. Es útil cuando le dejas tu teléfono a un hijo que no tiene uno. Para volver, toca el botón del candado e introduce el PIN de los padres."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cet appareil passe sur l’écran exclusif de l’enfant choisi. L’enfant ne voit que son porte-monnaie, la boutique, ses placements, son historique et l’apprentissage. Pratique quand tu confies ton téléphone à un enfant qui n’en a pas. Pour revenir, appuie sur le bouton cadenas et saisis le code PIN parent."
           }
         },
         "ja" : {
@@ -12748,6 +14188,12 @@
             "value" : "¿Convertir este dispositivo en el teléfono de %@ %@? Para volver hará falta el PIN de los padres."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faire de cet appareil le téléphone de %@ %@ ? Le code PIN parent sera nécessaire pour revenir en arrière."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12799,6 +14245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿De quién quieres que sea este dispositivo? Para volver hará falta el PIN de los padres."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De qui cet appareil doit-il devenir le téléphone ? Le code PIN parent sera nécessaire pour revenir en arrière."
           }
         },
         "ja" : {
@@ -12854,6 +14306,12 @@
             "value" : "¿Cuánto tendrás si lo dejas así? (estimación a 12 semanas con interés compuesto)"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combien auras-tu si tu laisses tout ? (estimation à 12 semaines, intérêts composés)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12905,6 +14363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prueba a preguntar así"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posez-lui ces questions"
           }
         },
         "ja" : {
@@ -12960,6 +14424,12 @@
             "value" : "Nombre"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13011,6 +14481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Émoji"
           }
         },
         "ja" : {
@@ -13066,6 +14542,12 @@
             "value" : "¿Cómo te gustaría repartir la paga de esta semana?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment aimerais-tu répartir ton argent de poche cette semaine ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13117,6 +14599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motif"
           }
         },
         "ja" : {
@@ -13172,6 +14660,12 @@
             "value" : "Interés"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intérêts"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13223,6 +14717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intereses · Cambio · Precios"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intérêts · Change · Prix"
           }
         },
         "ja" : {
@@ -13278,6 +14778,12 @@
             "value" : "Cuando los intereses generan más intereses, se llama «interés compuesto». ¡Cuanto más tiempo ahorres, más crece el dinero como una bola de nieve! ⛄️"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand les intérêts rapportent des intérêts, on parle d’« intérêts composés ». Plus tu épargnes longtemps, plus l’argent grossit comme une boule de neige ! ⛄️"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13329,6 +14835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has ganado %@ %@ solo con intereses!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as gagné %@ %@ rien qu’avec les intérêts !"
           }
         },
         "ja" : {
@@ -13384,6 +14896,12 @@
             "value" : "Entender que los intereses sobre intereses crecen como una bola de nieve"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprendre que des intérêts sur des intérêts grossissent comme une boule de neige"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13435,6 +14953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si el interés es menor que la subida de precios, aunque ahorres el dinero pierde fuerza. ¡Prueba a subir el interés!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si le taux est inférieur à la hausse des prix, l’argent perd de sa force même épargné. Essaie d’augmenter le taux !"
           }
         },
         "ja" : {
@@ -13490,6 +15014,12 @@
             "value" : "Atrás"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retour"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13541,6 +15071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inflación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflation"
           }
         },
         "ja" : {
@@ -13596,6 +15132,12 @@
             "value" : "Sin inflación"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas d’inflation"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13647,6 +15189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Día"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jour"
           }
         },
         "ja" : {
@@ -13702,6 +15250,12 @@
             "value" : "Empezar pronto y ser constante: ese es el secreto del interés compuesto."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commencer tôt, persévérer : voilà le secret des intérêts composés."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13753,6 +15307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cuánto dinero podrías perder sin que pasara nada grave?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combien d’argent peut-on perdre sans que ce soit grave ?"
           }
         },
         "ja" : {
@@ -13808,6 +15368,12 @@
             "value" : "Ingresar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dépôt"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13859,6 +15425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingresar / retirar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dépôt / Retrait"
           }
         },
         "ja" : {
@@ -13914,6 +15486,12 @@
             "value" : "Hijo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enfant"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13965,6 +15543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escanéalo con la cámara del dispositivo de tu hijo para ver la invitación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scanne avec l’appareil photo de l’appareil de ton enfant pour voir l’invitation"
           }
         },
         "ja" : {
@@ -14020,6 +15604,12 @@
             "value" : "Invitar a un hijo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inviter un enfant"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14071,6 +15661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modo teléfono del hijo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode téléphone d’enfant"
           }
         },
         "ja" : {
@@ -14126,6 +15722,12 @@
             "value" : "Cambiar al teléfono del hijo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passer au téléphone d’enfant"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14177,6 +15779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hijos 👧"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enfants 👧"
           }
         },
         "ja" : {
@@ -14232,6 +15840,12 @@
             "value" : "Cuando tu hijo escanee este código con «Escanear y pagar»,\nse descontarán %@ de su monedero."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand ton enfant scannera ce code-barres avec « Scanner et payer »,\n%@ sera retiré de son porte-monnaie."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14283,6 +15897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registra al menos a un hijo."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistre au moins un enfant."
           }
         },
         "ja" : {
@@ -14338,6 +15958,12 @@
             "value" : "El año pasado una golosina costaba 1.000. Este año cuesta 1.100. ¡Y la golosina no es más grande! Cuando los precios suben así, se llama «inflación».\n\nEl número de tu dinero sigue igual, pero puedes comprar menos. Como el aire que se escapa de un globo, el dinero se debilita. Por eso, dejar el dinero quieto en el monedero hace que pierdas un poco cada vez. Para proteger su fuerza, hay que hacerlo crecer más rápido que los precios, con intereses o inversiones."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’an dernier, une friandise coûtait 1 000. Cette année, elle coûte 1 100. Et la friandise n’a pas grossi ! Quand les prix montent comme ça, on appelle ça l’« inflation ».\n\nLe chiffre sur ton argent reste le même, mais tu peux acheter moins de choses. Comme l’air qui s’échappe d’un ballon, l’argent s’affaiblit. Laisser l’argent dormir dans le porte-monnaie, c’est donc perdre un peu à chaque fois. Pour préserver sa force, il faut le faire grandir plus vite que les prix, avec des intérêts ou des placements."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14389,6 +16015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solde"
           }
         },
         "ja" : {
@@ -14444,6 +16076,12 @@
             "value" : "Bloquear"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verrouiller"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14495,6 +16133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guardar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer"
           }
         },
         "ja" : {
@@ -14550,6 +16194,12 @@
             "value" : "Ahorro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Épargne"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14601,6 +16251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interés del ahorro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taux d’épargne"
           }
         },
         "ja" : {
@@ -14656,6 +16312,12 @@
             "value" : "Ingreso en ahorro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dépôt d’épargne"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14707,6 +16369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo de ahorro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solde de l’épargne"
           }
         },
         "ja" : {
@@ -14762,6 +16430,12 @@
             "value" : "Retirada de ahorro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retrait d’épargne"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14813,6 +16487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ahorro: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Épargne : %@"
           }
         },
         "ja" : {
@@ -14868,6 +16548,12 @@
             "value" : "Ahorro e intereses"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Épargne et intérêts"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14919,6 +16605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si una persona empieza a ahorrar pronto y otra tarde, ¿quién será más rica después?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si quelqu’un commence à épargner tôt et un autre tard, qui sera le plus riche ensuite ?"
           }
         },
         "ja" : {
@@ -14974,6 +16666,12 @@
             "value" : "Pasar a la cuenta de ahorro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mettre sur le compte d’épargne"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15025,6 +16723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay suficiente dinero en la cuenta de ahorro."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il n’y a pas assez d’argent sur le compte d’épargne."
           }
         },
         "ja" : {
@@ -15080,6 +16784,12 @@
             "value" : "Interés compuesto semanal en la cuenta de ahorro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intérêts composés chaque semaine sur le compte d’épargne"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15131,6 +16841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender cómo el ahorro hace crecer el dinero"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprendre comment l’épargne fait grandir l’argent"
           }
         },
         "ja" : {
@@ -15186,6 +16902,12 @@
             "value" : "Dinero ahorrado"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Argent épargné"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15237,6 +16959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si la app se cierra mientras escribes, lo que habías escrito se conserva."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Même si l’app se ferme pendant la saisie, ce que tu écrivais est conservé."
           }
         },
         "ja" : {
@@ -15292,6 +17020,12 @@
             "value" : "Borrar todo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tout supprimer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15343,6 +17077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tous"
           }
         },
         "ja" : {
@@ -15398,6 +17138,12 @@
             "value" : "¿Seguro que quieres borrar todos los datos?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer vraiment toutes les données ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15449,6 +17195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
           }
         },
         "ja" : {
@@ -15504,6 +17256,12 @@
             "value" : "Qué hace buen dinero"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce qui fait un bon argent"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15552,6 +17310,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sem."
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "sem."
@@ -15610,6 +17374,12 @@
             "value" : "%@%% a la semana"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% par semaine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15661,6 +17431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subida semanal de precios: %@%%"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hausse hebdomadaire des prix : %@%%"
           }
         },
         "ja" : {
@@ -15716,6 +17492,12 @@
             "value" : "Interés semanal"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taux hebdomadaire"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15767,6 +17549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interés semanal: %@%%"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taux hebdomadaire : %@%%"
           }
         },
         "ja" : {
@@ -15822,6 +17610,12 @@
             "value" : "Interés semanal del ahorro %@%% · Subida semanal de precios %@%%"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taux d’épargne hebdomadaire %@%% · Hausse hebdomadaire des prix %@%%"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15873,6 +17667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interés semanal del ahorro: %@%%"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taux d’épargne hebdomadaire : %@%%"
           }
         },
         "ja" : {
@@ -15928,6 +17728,12 @@
             "value" : "Monedero"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porte-monnaie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15979,6 +17785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo del monedero"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solde du porte-monnaie"
           }
         },
         "ja" : {
@@ -16034,6 +17846,12 @@
             "value" : "Monedero: %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porte-monnaie : %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16085,6 +17903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monedero: %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porte-monnaie : %@ %@"
           }
         },
         "ja" : {
@@ -16140,6 +17964,12 @@
             "value" : "El dinero que se quedó en el monedero perdió fuerza, ¡pero el dinero ahorrado la mantuvo! 💪"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’argent resté dans le porte-monnaie a perdu de sa force, mais l’argent épargné l’a conservée ! 💪"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16191,6 +18021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡No hay suficiente dinero en el monedero! Saldo: %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il n’y a pas assez d’argent dans le porte-monnaie ! Solde : %@ %@"
           }
         },
         "ja" : {
@@ -16246,6 +18082,12 @@
             "value" : "No hay suficiente dinero en el monedero."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il n’y a pas assez d’argent dans le porte-monnaie."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16297,6 +18139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay suficiente dinero en el monedero. Necesitas: %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il n’y a pas assez d’argent dans le porte-monnaie. Montant nécessaire : %@ %@"
           }
         },
         "ja" : {
@@ -16352,6 +18200,12 @@
             "value" : "Dinero en el monedero"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Argent du porte-monnaie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16403,6 +18257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Qué diferencia hay entre el dinero del monedero y el dinero ahorrado?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quelle différence y a-t-il entre l’argent du porte-monnaie et l’argent épargné ?"
           }
         },
         "ja" : {
@@ -16458,6 +18318,12 @@
             "value" : "Pasar al monedero"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remettre dans le porte-monnaie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16509,6 +18375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dar · Descontar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donner · Retirer"
           }
         },
         "ja" : {
@@ -16564,6 +18436,12 @@
             "value" : "La última vez que compraste algo, ¿a qué renunciaste?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La dernière fois que tu as acheté quelque chose, à quoi as-tu renoncé ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16615,6 +18493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La semana pasada, ¿en qué gastaste más dinero?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La semaine dernière, où as-tu dépensé le plus d’argent ?"
           }
         },
         "ja" : {
@@ -16670,6 +18554,12 @@
             "value" : "Índice %lld"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice %lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16721,6 +18611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Soporte"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assistance"
           }
         },
         "ja" : {
@@ -16776,6 +18672,12 @@
             "value" : "Elijan 3 objetos de la casa y jueguen a «¿Podría ser dinero?». Marquen con ✓ o ✗ cada una de las cinco condiciones."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisissez 3 objets de la maison et jouez à « Est-ce que ça pourrait être de l’argent ? ». Notez chacune des cinq conditions par ✓ ou ✗."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16827,6 +18729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escanear y pagar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scanner et payer"
           }
         },
         "ja" : {
@@ -16882,6 +18790,12 @@
             "value" : "Escanea y paga al instante"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scanner et payer aussitôt"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16933,6 +18847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descuento"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retrait"
           }
         },
         "ja" : {
@@ -16988,6 +18908,12 @@
             "value" : "Descontar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retirer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17039,6 +18965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importe inicial: %@ %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montant de départ : %@ %@"
           }
         },
         "ja" : {
@@ -17094,6 +19026,12 @@
             "value" : "Los precios han subido un %@%% desde el principio. Ahora 1.000 %@ del monedero tienen la fuerza de %@ %@."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les prix ont augmenté de %@%% depuis le début. 1 000 %@ dans le porte-monnaie n’ont plus que la force de %@ %@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17145,6 +19083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Invitación · QR"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invitation · QR"
           }
         },
         "ja" : {
@@ -17200,6 +19144,12 @@
             "value" : "Enviar invitación"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envoyer l’invitation"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17251,6 +19201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importe total"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montant total"
           }
         },
         "ja" : {
@@ -17306,6 +19262,12 @@
             "value" : "Patrimonio total"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patrimoine total"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17357,6 +19319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Patrimonio total · unos %@ wones en dinero real"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patrimoine total · environ %@ wons en vraie monnaie"
           }
         },
         "ja" : {
@@ -17412,6 +19380,12 @@
             "value" : "Movimientos recientes"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transactions récentes"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17463,6 +19437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter"
           }
         },
         "ja" : {
@@ -17518,6 +19498,12 @@
             "value" : "Retirar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retrait"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17569,6 +19555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler"
           }
         },
         "ja" : {
@@ -17624,6 +19616,12 @@
             "value" : "¿Por qué se encarecen los juguetes de moda en Navidad?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pourquoi les jouets à la mode deviennent-ils plus chers à Noël ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17675,6 +19673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pantallas para texto grande"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écrans adaptés au texte agrandi"
           }
         },
         "ja" : {
@@ -17730,6 +19734,12 @@
             "value" : "Inversión"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placements"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17781,6 +19791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Venta de inversión"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vente de placement"
           }
         },
         "ja" : {
@@ -17836,6 +19852,12 @@
             "value" : "Compra de inversión"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achat de placement"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17887,6 +19909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Productos de inversión"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produits de placement"
           }
         },
         "ja" : {
@@ -17942,6 +19970,12 @@
             "value" : "Añadir producto de inversión"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un produit de placement"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17993,6 +20027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mercado de inversión 📈"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marché des placements 📈"
           }
         },
         "ja" : {
@@ -18048,6 +20088,12 @@
             "value" : "Valor de la inversión: %@ %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valeur des placements : %@ %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18099,6 +20145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Invertir es como plantar dinero. Si la semilla crece bien, se convierte en un árbol grande, pero también puede marchitarse. A diferencia del ahorro, al invertir el dinero puede aumentar o disminuir.\n\nRecuerda esta regla: cuanto más puedes ganar, más puedes perder. Y si pones todos los huevos en una sola cesta, se rompen todos si se te cae. Hay que repartirlos (diversificar). Planta solo lo que puedas permitirte perder."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placer de l’argent, c’est comme planter de l’argent. Si la graine pousse bien, elle devient un grand arbre, mais elle peut aussi se faner. Contrairement à l’épargne, avec un placement l’argent peut augmenter ou diminuer.\n\nRetiens bien cette règle : plus on peut gagner gros, plus on peut perdre gros. Et si tu mets tous tes œufs dans le même panier, ils sont tous cassés quand il tombe. Il faut les répartir (diversifier). Ne plante que ce que tu peux te permettre de perdre."
           }
         },
         "ja" : {
@@ -18154,6 +20206,12 @@
             "value" : "Inversión y riesgo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placement et risque"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18205,6 +20263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inversor"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investisseur"
           }
         },
         "ja" : {
@@ -18260,6 +20324,12 @@
             "value" : "Elegir inversor"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisir l’investisseur"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18311,6 +20381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Para invertir, primero registra a un hijo en Inicio."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour placer de l’argent, enregistre d’abord un enfant sur l’accueil."
           }
         },
         "ja" : {
@@ -18366,6 +20442,12 @@
             "value" : "No hay productos de inversión en venta"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun produit de placement en vente"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18417,6 +20499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pantalla para iPhone plegable"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écran pour iPhone pliable"
           }
         },
         "ja" : {
@@ -18472,6 +20560,12 @@
             "value" : "Aprovecha la pantalla ancha del iPhone plegable dividida en dos paneles."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilise le grand écran d’un iPhone pliable en deux volets."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18523,6 +20617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Primero las necesidades, después los deseos."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les besoins d’abord, les envies ensuite !"
           }
         },
         "ja" : {
@@ -18578,6 +20678,12 @@
             "value" : "Necesidades y deseos"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Besoins et envies"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18629,6 +20735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Qué pasa si compras los deseos y dejas sin comprar las necesidades?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que se passe-t-il si on satisfait ses envies sans acheter ce dont on a besoin ?"
           }
         },
         "ja" : {
@@ -18684,6 +20796,12 @@
             "value" : "Filtro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtre"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18735,6 +20853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Borrar filtros"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réinitialiser les filtres"
           }
         },
         "ja" : {
@@ -18790,6 +20914,12 @@
             "value" : "Se mueve mucho, hasta ±15 %% al día. Puedes ganar mucho o perder mucho."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bouge fortement, jusqu’à ±15 %% par jour ! On peut gagner gros ou perdre gros."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18841,6 +20971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se mueve poco a poco, en torno a ±2 %% al día. Hay poco riesgo de perder."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bouge doucement, d’environ ±2 %% par jour. Peu de risque de perdre."
           }
         },
         "ja" : {
@@ -18896,6 +21032,12 @@
             "value" : "Sube y baja en torno a ±6 %% al día. Un reto moderado."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monte et descend d’environ ±6 %% par jour. Un défi raisonnable."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18947,6 +21089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escríbelo otra vez"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisis-le encore une fois"
           }
         },
         "ja" : {
@@ -19002,6 +21150,12 @@
             "value" : "Experimentemos juntos · Calculadora de interés compuesto 🧮"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expérimentons ensemble · Calculateur d’intérêts composés 🧮"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19053,6 +21207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Experimentemos juntos · Experimento de inflación 🎈"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expérimentons ensemble · Expérience d’inflation 🎈"
           }
         },
         "ja" : {
@@ -19108,6 +21268,12 @@
             "value" : "Precio actual"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prix actuel"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19159,6 +21325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monedero actual"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porte-monnaie actuel"
           }
         },
         "ja" : {
@@ -19214,6 +21386,12 @@
             "value" : "Widgets de la pantalla de inicio"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets de l’écran d’accueil"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19265,6 +21443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moneda «%@» · Interés semanal %@%%"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monnaie « %@ » · Intérêts hebdomadaires %@%%"
           }
         },
         "ja" : {
@@ -19320,6 +21504,12 @@
             "value" : "Nombre de la moneda"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom de la monnaie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19371,6 +21561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aceptar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "ja" : {
@@ -19426,6 +21622,12 @@
             "value" : "Tipo de cambio"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taux de change"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19477,6 +21679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se calcula automáticamente con 1 %@ = %@ wones."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calculé automatiquement avec 1 %@ = %@ wons."
           }
         },
         "ja" : {
@@ -19532,6 +21740,12 @@
             "value" : "Tipo de cambio: 1 %@ ="
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taux de change : 1 %@ ="
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19583,6 +21797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Para ser dinero hay que ser escaso y que todos confíen en ello."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour être de l’argent, il faut être rare et que tout le monde y fasse confiance."
           }
         },
         "ja" : {
@@ -19638,6 +21858,12 @@
             "value" : "🌱 %@, ¡te invitamos a SukSuk Paga!\n\nUsemos juntos la moneda de nuestra casa, «%@»:\n• Ahorra la paga y paga con ella 💸\n• Al ahorrar, cobras un %@%% de interés cada semana 🏦\n• Aprende economía con productos de inversión 📈\n\n¡Abre la app SukSuk Paga en un dispositivo con la misma cuenta de iCloud que el de tus padres y podrás participar enseguida!"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, tu es invité(e) sur SukSuk Argent de poche !\n\nUtilisons ensemble la monnaie de la maison, « %@ » :\n• Mets de l’argent de côté et paie avec 💸\n• En épargnant, tu touches %@%% d’intérêts chaque semaine 🏦\n• Découvre l’économie avec des produits de placement 📈\n\nOuvre l’app SukSuk Argent de poche sur un appareil connecté au même compte iCloud que celui de tes parents, et tu pourras participer tout de suite !"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19689,6 +21915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Aprender"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Apprendre"
           }
         },
         "ja" : {
@@ -19744,6 +21976,12 @@
             "value" : "🏛️ Mercado"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Marché"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19795,6 +22033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Modo para padres"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Mode parent"
           }
         },
         "ja" : {
@@ -19850,6 +22094,12 @@
             "value" : "🏦 Ahorro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Épargne"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19901,6 +22151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Cuenta de ahorro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Compte d’épargne"
           }
         },
         "ja" : {
@@ -19956,6 +22212,12 @@
             "value" : "🏪 Tienda de casa"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Boutique de la maison"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20007,6 +22269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Código de barras"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Code-barres de l’article"
           }
         },
         "ja" : {
@@ -20062,6 +22330,12 @@
             "value" : "👨‍👩‍👧‍👦 Miembros de la familia"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Membres de la famille"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20113,6 +22387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Invitación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Invitation"
           }
         },
         "ja" : {
@@ -20168,6 +22448,12 @@
             "value" : "💡 Si dejas el dinero quieto, pierde fuerza. ¡Protégelo con ahorro (intereses) o inversión!"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 L’argent laissé de côté perd de sa force. Protège-le avec l’épargne (intérêts) ou les placements !"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20219,6 +22505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 Puedes enviar la invitación por mensaje o por cualquier app de chat.\nSi el dispositivo usa la misma cuenta de iCloud, los datos aparecen automáticamente."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Tu peux envoyer l’invitation par message ou par une appli de discussion.\nSur les appareils connectés au même compte iCloud, les données s’affichent automatiquement."
           }
         },
         "ja" : {
@@ -20274,6 +22566,12 @@
             "value" : "💡 Los precios cambian una vez al día. Si compras barato y vendes caro, ganas; si es al revés, pierdes."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Les cours changent une fois par jour. Acheter bas et vendre haut rapporte, l’inverse fait perdre !"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20325,6 +22623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Pagar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Payer"
           }
         },
         "ja" : {
@@ -20380,6 +22684,12 @@
             "value" : "💵 Monedero"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Porte-monnaie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20431,6 +22741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Gestionar el dinero"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Gérer l’argent"
           }
         },
         "ja" : {
@@ -20486,6 +22802,12 @@
             "value" : "💸 Paga"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Argent de poche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20537,6 +22859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Invertir"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Placer"
           }
         },
         "ja" : {
@@ -20592,6 +22920,12 @@
             "value" : "📈 Productos de inversión"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Produits de placement"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20643,6 +22977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Modo teléfono del hijo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Mode téléphone d’enfant"
           }
         },
         "ja" : {
@@ -20698,6 +23038,12 @@
             "value" : "📷 Escanear y pagar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Scanner et payer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20751,6 +23097,12 @@
             "value" : "🔐 Volver al modo para padres"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Retour au mode parent"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20802,6 +23154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 Historial de movimientos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Transactions"
           }
         },
         "ja" : {
