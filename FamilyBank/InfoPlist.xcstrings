@@ -63,6 +63,12 @@
             "value" : "СукСук Карманные"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซุกซุก ค่าขนม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -139,6 +145,12 @@
             "value" : "Камера нужна, чтобы ребёнок мог отсканировать штрихкод товара и оплатить."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้องใช้กล้องเพื่อให้ลูกสแกนบาร์โค้ดสินค้าแล้วจ่ายเงิน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -213,6 +225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID используется для подтверждения родителя при разблокировке действий."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช้ Face ID เพื่อยืนยันว่าเป็นพ่อแม่ตอนปลดล็อกการดำเนินการ"
           }
         },
         "zh-Hans" : {

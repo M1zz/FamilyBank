@@ -64,6 +64,12 @@
             "value" : "%@ %@ — оплатить %@ %@?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — จ่าย %@ %@ ไหม?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -139,6 +145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оплатить %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จ่าย %@ %@"
           }
         },
         "zh-Hans" : {
@@ -218,6 +230,12 @@
             "value" : "Выдать %@ %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -293,6 +311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Списать %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หัก %@ %@"
           }
         },
         "zh-Hans" : {
@@ -372,6 +396,12 @@
             "value" : "Купить %1$@ %2$@ за %3$@ %4$@?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซื้อ %1$@ %2$@ ในราคา %3$@ %4$@ ไหม?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -447,6 +477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы накопили %@ %@! Каждую неделю добавляются проценты. 💰"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ออม %@ %@ แล้ว! ดอกเบี้ยจะเพิ่มทุกสัปดาห์ 💰"
           }
         },
         "zh-Hans" : {
@@ -526,6 +562,12 @@
             "value" : "%@ %@ переведено в кошелёк."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ย้าย %@ %@ เข้ากระเป๋าเงินแล้ว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -601,6 +643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Портфель: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่ถืออยู่ของ %@ %@"
           }
         },
         "zh-Hans" : {
@@ -680,6 +728,12 @@
             "value" : "Банк: %@ %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ธนาคารของ %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -755,6 +809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сделать телефоном: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้เป็นโทรศัพท์ของ %@ %@"
           }
         },
         "zh-Hans" : {
@@ -834,6 +894,12 @@
             "value" : "Вы купили %2$lld паёв: %1$@! 📈"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซื้อ %1$@ จำนวน %2$lld หน่วยแล้ว! 📈"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -909,6 +975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы продали %2$lld паёв: %1$@! %3$@ %4$@ поступили в кошелёк."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขาย %1$@ จำนวน %2$lld หน่วยแล้ว! %3$@ %4$@ เข้ากระเป๋าเงินแล้ว"
           }
         },
         "zh-Hans" : {
@@ -988,6 +1060,12 @@
             "value" : "%@%% (сложные)"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (ทบต้น)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1063,6 +1141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Приглашаем %@\nв СукСук Карманные!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชวน %@\nมาใช้ซุกซุก ค่าขนม!"
           }
         },
         "zh-Hans" : {
@@ -1142,6 +1226,12 @@
             "value" : "Вы заплатили %2$@ %3$@ — %1$@."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จ่าย %2$@ %3$@ ให้ %1$@ แล้ว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1217,6 +1307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы выдали %2$@ %3$@ — %1$@! 🎁"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ %1$@ ไป %2$@ %3$@ แล้ว! 🎁"
           }
         },
         "zh-Hans" : {
@@ -1296,6 +1392,12 @@
             "value" : "%@ вон → %@ %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ วอน → %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1371,6 +1473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы купили: %@! Осталось в кошельке: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซื้อ %@ แล้ว! เหลือในกระเป๋าเงิน: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -1450,6 +1558,12 @@
             "value" : "Вы купили: %@! 🎉 Осталось в кошельке: %@ %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซื้อ %@ แล้ว! 🎉 เหลือในกระเป๋าเงิน: %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1525,6 +1639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В кошельке (%@) недостаточно денег."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินในกระเป๋าของ %@ ไม่พอ"
           }
         },
         "zh-Hans" : {
@@ -1604,6 +1724,12 @@
             "value" : "Из кошелька (%1$@) списано %2$@ %3$@."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หัก %2$@ %3$@ จากกระเป๋าเงินของ %1$@ แล้ว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1679,6 +1805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Шаг %lld"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขั้นที่ %lld"
           }
         },
         "zh-Hans" : {
@@ -1758,6 +1890,12 @@
             "value" : "Шаг %lld · %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขั้นที่ %lld · %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1833,6 +1971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld паёв · в среднем %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld หน่วย · เฉลี่ย %@"
           }
         },
         "zh-Hans" : {
@@ -1912,6 +2056,12 @@
             "value" : "Стоимость того, что можно купить через %lld нед."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มูลค่าของสิ่งที่ซื้อได้หลัง %lld สัปดาห์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1987,6 +2137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Через %lld нед.: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หลัง %lld สัปดาห์: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -2066,6 +2222,12 @@
             "value" : "«Нужда» — это то, без чего трудно: еда, одежда, школьные принадлежности. «Желание» — это то, что радует, но без чего можно жить: игрушки, игровые предметы.\n\nВажно и то и другое! Но важен порядок. Сначала позаботься о нужном, а потом на оставшиеся деньги составь план и исполни желания."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“ความจำเป็น” คือสิ่งที่ถ้าไม่มีจะลำบาก เช่น อาหาร เสื้อผ้า อุปกรณ์การเรียน ส่วน “ความอยาก” คือสิ่งที่มีแล้วสนุก แต่ไม่มีก็อยู่ได้ เช่น ของเล่น ไอเทมในเกม\n\nสำคัญทั้งสองอย่าง! แต่ลำดับสำคัญ ดูแลสิ่งจำเป็นก่อน แล้วค่อยวางแผนเอาเงินที่เหลือไปทำให้ความอยากเป็นจริง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2141,6 +2303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ вон"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ วอน"
           }
         },
         "zh-Hans" : {
@@ -2220,6 +2388,12 @@
             "value" : "Реальная стоимость 1 %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มูลค่าจริงของ 1 %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2295,6 +2469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ вон"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ วอน"
           }
         },
         "zh-Hans" : {
@@ -2374,6 +2554,12 @@
             "value" : "Как изменится «настоящая сила» 1000 %@?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“พลังที่แท้จริง” ของ 1,000 %@ จะเปลี่ยนไปอย่างไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2449,6 +2635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если положить 1000 монет под 5 %% в неделю, сколько будет через неделю?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าฝากเงิน 1,000 เหรียญที่ดอกเบี้ย 5%% อีกหนึ่งสัปดาห์จะเป็นเท่าไร?"
           }
         },
         "zh-Hans" : {
@@ -2528,6 +2720,12 @@
             "value" : "У тебя 1000 монет, а хочется и сладостей, и наклеек. Но денег хватает только на что-то одно. Что делать? Выберешь одно — придётся отказаться от другого.\n\nТо, от чего ты отказался, называется «альтернативной стоимостью». Это касается не только денег, но и времени. Если час играешь, ты отказался от всего, что мог бы сделать за этот час."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หนูมี 1,000 เหรียญ อยากซื้อทั้งขนมและสติกเกอร์ แต่เงินพอซื้อได้อย่างเดียว ทำไงดี? ถ้าเลือกอย่างหนึ่ง ก็ต้องสละอีกอย่าง\n\nสิ่งที่สละไปเรียกว่า “ต้นทุนค่าเสียโอกาส” ไม่ใช่แค่เงินเท่านั้น เวลาก็เหมือนกัน ถ้าเล่นเกมหนึ่งชั่วโมง ก็เท่ากับสละทุกอย่างที่ทำได้ในชั่วโมงนั้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2603,6 +2801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Прогноз через 12 недель: %@ %@ (+%@)"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประมาณการหลัง 12 สัปดาห์: %@ %@ (+%@)"
           }
         },
         "zh-Hans" : {
@@ -2682,6 +2886,12 @@
             "value" : "Цена за пай"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาต่อหน่วย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2757,6 +2967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть с помощью Face ID"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดด้วย Face ID"
           }
         },
         "zh-Hans" : {
@@ -2836,6 +3052,12 @@
             "value" : "Сменить PIN-код"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปลี่ยน PIN"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2911,6 +3133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Введите PIN-код"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ป้อน PIN"
           }
         },
         "zh-Hans" : {
@@ -2990,6 +3218,12 @@
             "value" : "PIN-код должен состоять из 4 цифр."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN ต้องเป็นตัวเลข 4 หลัก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3065,6 +3299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спросите Siri и сразу узнайте баланс ребёнка."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถาม Siri เพื่อดูยอดเงินของลูกได้ทันที"
           }
         },
         "zh-Hans" : {
@@ -3144,6 +3384,12 @@
             "value" : "Siri и «Команды»"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri และคำสั่งลัด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3219,6 +3465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть с помощью Touch ID"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดด้วย Touch ID"
           }
         },
         "zh-Hans" : {
@@ -3298,6 +3550,12 @@
             "value" : "VoiceOver читает все балансы и кнопки полностью и в правильном порядке."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver อ่านยอดเงินและปุ่มทุกอย่างครบถ้วนตามลำดับที่เหมาะสม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3373,6 +3631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VoiceOver удобнее"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช้ VoiceOver ได้สะดวกขึ้น"
           }
         },
         "zh-Hans" : {
@@ -3452,6 +3716,12 @@
             "value" : "≈ %@ вон"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ วอน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3527,6 +3797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ Настройки банка"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ ตั้งค่าธนาคาร"
           }
         },
         "zh-Hans" : {
@@ -3606,6 +3882,12 @@
             "value" : "⚡️ Действия"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ การดำเนินการ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3681,6 +3963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Магазин"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ร้านค้า"
           }
         },
         "zh-Hans" : {
@@ -3760,6 +4048,12 @@
             "value" : "Добавить в магазин"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลงทะเบียนในร้านค้า"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3835,6 +4129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Цена"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคา"
           }
         },
         "zh-Hans" : {
@@ -3914,6 +4214,12 @@
             "value" : "Цена складывается там, где встречаются желание купить и количество на продажу."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาถูกกำหนดตรงจุดที่ความอยากซื้อกับปริมาณที่ขายมาเจอกัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3989,6 +4295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, как складываются цены"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าใจว่าราคาถูกกำหนดอย่างไร"
           }
         },
         "zh-Hans" : {
@@ -4068,6 +4380,12 @@
             "value" : "Ценники 🏷️"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ป้ายราคา 🏷️"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4143,6 +4461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавьте членов семьи"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลงทะเบียนสมาชิกในครอบครัว"
           }
         },
         "zh-Hans" : {
@@ -4222,6 +4546,12 @@
             "value" : "Добавить семью"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลงทะเบียนครอบครัว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4297,6 +4627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Операций нет"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่มีรายการธุรกรรม"
           }
         },
         "zh-Hans" : {
@@ -4376,6 +4712,12 @@
             "value" : "Вид операции"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประเภทธุรกรรม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4451,6 +4793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Какой фонд рискованнее — «Черепаха» или «Ракета»? Почему?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กองทุนเต่ากับกองทุนจรวด อันไหนเสี่ยงกว่ากัน? เพราะอะไร?"
           }
         },
         "zh-Hans" : {
@@ -4530,6 +4878,12 @@
             "value" : "Какова альтернативная стоимость часа игры?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้นทุนค่าเสียโอกาสของการเล่นเกมหนึ่งชั่วโมงคืออะไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4605,6 +4959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оплата"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จ่ายเงิน"
           }
         },
         "zh-Hans" : {
@@ -4684,6 +5044,12 @@
             "value" : "Не удалось оплатить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จ่ายเงินไม่สำเร็จ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4759,6 +5125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оплата прошла! 🎉"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จ่ายเงินสำเร็จ! 🎉"
           }
         },
         "zh-Hans" : {
@@ -4838,6 +5210,12 @@
             "value" : "Оплатить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จ่ายเงิน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4913,6 +5291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Деньги с планом служат дольше."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินที่มีแผนอยู่ได้นานกว่า"
           }
         },
         "zh-Hans" : {
@@ -4992,6 +5376,12 @@
             "value" : "Понять, что за высокой прибылью стоит высокий риск"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าใจว่าผลตอบแทนสูงมาพร้อมความเสี่ยงสูง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5067,6 +5457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Категория"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประเภท"
           }
         },
         "zh-Hans" : {
@@ -5146,6 +5542,12 @@
             "value" : "Участник"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สมาชิก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5221,6 +5623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить участника"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพิ่มสมาชิก"
           }
         },
         "zh-Hans" : {
@@ -5300,6 +5708,12 @@
             "value" : "При увеличении текста экраны аккуратно перестраиваются и ничего не обрезается."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อขยายขนาดตัวอักษร หน้าจอจะจัดวางใหม่ให้อ่านง่ายโดยไม่ถูกตัด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5375,6 +5789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сумма"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จำนวนเงิน"
           }
         },
         "zh-Hans" : {
@@ -5454,6 +5874,12 @@
             "value" : "Срок: %lld нед."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ระยะเวลา: %lld สัปดาห์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5529,6 +5955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "История"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประวัติ"
           }
         },
         "zh-Hans" : {
@@ -5608,6 +6040,12 @@
             "value" : "Альтернативная стоимость"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้นทุนค่าเสียโอกาส"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5683,6 +6121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Научиться отличать то, что действительно нужно, от того, что просто хочется"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แยกให้ออกระหว่างสิ่งที่จำเป็นจริงๆ กับสิ่งที่แค่อยากได้"
           }
         },
         "zh-Hans" : {
@@ -5762,6 +6206,12 @@
             "value" : "Моя история"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประวัติของฉัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5837,6 +6287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мой накопительный счёт"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บัญชีออมทรัพย์ของฉัน"
           }
         },
         "zh-Hans" : {
@@ -5916,6 +6372,12 @@
             "value" : "Мой кошелёк"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กระเป๋าเงินของฉัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5991,6 +6453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мой кошелёк: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กระเป๋าเงินของฉัน: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -6070,6 +6538,12 @@
             "value" : "Представь: у тебя есть рыба, а нужны ботинки. Но если продавец ботинок не любит рыбу, обменяться не получится, верно? Людям давным-давно это тоже сильно мешало. Поэтому они придумали то, что нравится всем, — «деньги».\n\nУ денег три работы. Первая: на них можно обменять что угодно (обмен). Вторая: они показывают, сколько что стоит (мера стоимости). Третья: их можно отложить и потратить потом (накопление)."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลองนึกว่าหนูมีปลาอยู่ แต่อยากได้รองเท้า ถ้าคนขายรองเท้าไม่ชอบปลา ก็แลกกันไม่ได้ใช่ไหม? คนสมัยก่อนก็รู้สึกว่ามันไม่สะดวกมาก เลยคิด “เงิน” ที่ทุกคนชอบขึ้นมา\n\nเงินมีหน้าที่สามอย่าง อย่างแรก แลกได้ทุกอย่าง (การแลกเปลี่ยน) อย่างที่สอง วัดได้ว่าของแต่ละอย่างมีค่าเท่าไร (การวัดมูลค่า) อย่างที่สาม เก็บไว้ใช้ทีหลังได้ (การเก็บรักษา)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6145,6 +6619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кого вы хотите пригласить?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จะชวนใคร?"
           }
         },
         "zh-Hans" : {
@@ -6224,6 +6704,12 @@
             "value" : "Кому заплатить?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จะจ่ายให้ใคร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6299,6 +6785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кому?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ใคร?"
           }
         },
         "zh-Hans" : {
@@ -6378,6 +6870,12 @@
             "value" : "Что бывает, когда катишь снежок? Чем дальше катится, тем быстрее растёт, правда? Сложные проценты — это то же самое.\n\nЕсли к 1000 монетам добавляется 50 процентов, получается 1050. На следующей неделе проценты начисляются на все 1050. Деньги, заработанные процентами, тоже приносят проценты! Сначала это почти незаметно, но со временем растёт как снежный ком."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้ากลิ้งก้อนหิมะจะเกิดอะไรขึ้น? ยิ่งกลิ้งก็ยิ่งใหญ่เร็วขึ้นใช่ไหม? ดอกเบี้ยทบต้นก็เป็นแบบนั้นแหละ\n\nถ้า 1,000 เหรียญได้ดอกเบี้ย 50 ก็จะเป็น 1,050 สัปดาห์ถัดไปดอกเบี้ยจะคิดจากทั้ง 1,050 เงินที่ดอกเบี้ยหามาได้ก็ออกดอกเบี้ยอีก! ตอนแรกอาจไม่เห็นผล แต่พอเวลาผ่านไป จะโตเหมือนก้อนหิมะ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6453,6 +6951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Далее"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถัดไป"
           }
         },
         "zh-Hans" : {
@@ -6532,6 +7036,12 @@
             "value" : "Закрыть"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปิด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6607,6 +7117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Деньги, которые не нужны сейчас, — на накопительный счёт!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินที่ยังไม่ใช้ ฝากเข้าบัญชีออมทรัพย์!"
           }
         },
         "zh-Hans" : {
@@ -6686,6 +7202,12 @@
             "value" : "Балансы и историю легко прочитать, даже при повышенной контрастности или если трудно различать цвета."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อ่านยอดเงินและประวัติได้ง่าย แม้เปิดเพิ่มคอนทราสต์หรือแยกสีได้ยาก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6761,6 +7283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Обзор"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ภาพรวม"
           }
         },
         "zh-Hans" : {
@@ -6840,6 +7368,12 @@
             "value" : "Приложение станет доступно на большем числе языков."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทำให้ใช้แอปได้ในอีกหลายภาษา"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6915,6 +7449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Больше языков"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ภาษาเพิ่มเติม"
           }
         },
         "zh-Hans" : {
@@ -6994,6 +7534,12 @@
             "value" : "Деньги — это инструмент, чтобы обменивать, измерять и копить."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินเป็นเครื่องมือสำหรับแลก วัดค่า และเก็บไว้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7069,6 +7615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Зачем нужны деньги?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทำไมเราถึงต้องมีเงิน?"
           }
         },
         "zh-Hans" : {
@@ -7148,6 +7700,12 @@
             "value" : "Выработать привычку планировать и распределять деньги"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สร้างนิสัยวางแผนและแบ่งใช้เงิน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7223,6 +7781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, откуда взялись деньги и что они делают"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าใจว่าเงินเกิดขึ้นมาทำไมและมีหน้าที่อะไร"
           }
         },
         "zh-Hans" : {
@@ -7302,6 +7866,12 @@
             "value" : "Введённые PIN-коды не совпадают."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN ที่ป้อนสองครั้งไม่ตรงกัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7377,6 +7947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пока нет товаров. Сначала добавьте товары в магазин через «Добавить товар»."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีสินค้า เพิ่มสินค้าลงร้านค้าก่อนด้วย “เพิ่มสินค้า”"
           }
         },
         "zh-Hans" : {
@@ -7456,6 +8032,12 @@
             "value" : "Нет добавленных детей"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีลูกที่ลงทะเบียน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7531,6 +8113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Могла бы деталька LEGO быть деньгами? Прошла бы она пять испытаний?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตัวต่อเลโก้เป็นเงินได้ไหม? จะผ่านการทดสอบห้าข้อหรือเปล่า?"
           }
         },
         "zh-Hans" : {
@@ -7610,6 +8198,12 @@
             "value" : "Что было бы, если бы в мире не было денег?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าโลกนี้ไม่มีเงิน จะเกิดอะไรขึ้นนะ?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7685,6 +8279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продать"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขาย"
           }
         },
         "zh-Hans" : {
@@ -7764,6 +8364,12 @@
             "value" : "Купить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซื้อ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7839,6 +8445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каждую неделю цены растут на %@%%. Это значит, что на те же деньги можно купить чуточку меньше."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกสัปดาห์ราคาสินค้าสูงขึ้น %@%% หมายความว่าเงินจำนวนเท่าเดิมซื้อของได้น้อยลงทีละนิด"
           }
         },
         "zh-Hans" : {
@@ -7918,6 +8530,12 @@
             "value" : "Цены растут каждую неделю"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาสินค้าสูงขึ้นทุกสัปดาห์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7993,6 +8611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каждую неделю индекс цен у нас дома растёт на столько (текущий индекс %lld). При 0 %% инфляции нет. Если вы немного повысите и реальные цены на перекусы и игрушки, ребёнок на опыте поймёт, как меняется ценность денег."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกสัปดาห์ดัชนีราคาของบ้านเราจะเพิ่มขึ้นเท่านี้ (ดัชนีปัจจุบัน %lld) ถ้าตั้งเป็น 0%% จะไม่มีเงินเฟ้อ ถ้าปรับราคาขนมและของเล่นจริงขึ้นเล็กน้อยตามไปด้วย ลูกจะได้เรียนรู้ว่ามูลค่าของเงินเปลี่ยนไปอย่างไร"
           }
         },
         "zh-Hans" : {
@@ -8072,6 +8696,12 @@
             "value" : "Заметка (например: купить перекус)"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึก (เช่น ซื้อขนม)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8147,6 +8777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Заметка (например: еженедельные карманные)"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึก (เช่น ค่าขนมรายสัปดาห์)"
           }
         },
         "zh-Hans" : {
@@ -8226,6 +8862,12 @@
             "value" : "Что происходит с ценой вещи, которую хотят продать все?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาของสิ่งที่ทุกคนอยากขายจะเป็นอย่างไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8301,6 +8943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Все участники, операции и продукты для вложений будут удалены, и вы вернётесь на экран первоначальной настройки."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สมาชิก ธุรกรรม และผลิตภัณฑ์ลงทุนทั้งหมดจะถูกลบ และกลับไปที่หน้าจอตั้งค่าเริ่มต้น"
           }
         },
         "zh-Hans" : {
@@ -8380,6 +9028,12 @@
             "value" : "Сбросить все данные"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รีเซ็ตข้อมูลทั้งหมด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8455,6 +9109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "За любым выбором прячется то, от чего отказались."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกการเลือกมีสิ่งที่สละไปซ่อนอยู่"
           }
         },
         "zh-Hans" : {
@@ -8534,6 +9194,12 @@
             "value" : "На что это?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช้ทำอะไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8609,6 +9275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рост цен"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อัตราราคาสินค้าเพิ่ม"
           }
         },
         "zh-Hans" : {
@@ -8688,6 +9360,12 @@
             "value" : "Динамика цен 📊"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แนวโน้มราคา 📊"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8763,6 +9441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Когда цены растут, на те же деньги можно купить меньше"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อราคาสูงขึ้น เงินเท่าเดิมซื้อของได้น้อยลง"
           }
         },
         "zh-Hans" : {
@@ -8842,6 +9526,12 @@
             "value" : "Когда цены растут, деньги теряют силу. Поэтому нужны накопления и вложения."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อราคาสูงขึ้น เงินจะมีพลังน้อยลง จึงต้องออมและลงทุน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8917,6 +9607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, что при росте цен деньги теряют силу"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าใจว่าเมื่อราคาสินค้าสูงขึ้น เงินจะมีพลังน้อยลง"
           }
         },
         "zh-Hans" : {
@@ -8996,6 +9692,12 @@
             "value" : "Когда цены растут, хорошо ли просто держать деньги в кошельке?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อราคาสินค้าสูงขึ้น การวางเงินทิ้งไว้ในกระเป๋าเฉยๆ เป็นเรื่องดีไหม?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9071,6 +9773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Индекс цен"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดัชนีราคา"
           }
         },
         "zh-Hans" : {
@@ -9150,6 +9858,12 @@
             "value" : "В продаже товаров: %lld · курс применяется автоматически"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สินค้าขายอยู่ %lld ชิ้น · ใช้อัตราแลกเปลี่ยนอัตโนมัติ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9225,6 +9939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Штрихкод товара"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บาร์โค้ดสินค้า"
           }
         },
         "zh-Hans" : {
@@ -9304,6 +10024,12 @@
             "value" : "Наведите штрихкод товара на рамку"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จัดบาร์โค้ดของสินค้าให้อยู่ในกรอบ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9379,6 +10105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Название товара (например: газировка, 30 минут игры)"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชื่อสินค้า (เช่น น้ำอัดลม เล่นเกม 30 นาที)"
           }
         },
         "zh-Hans" : {
@@ -9458,6 +10190,12 @@
             "value" : "Данные о товаре"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ข้อมูลสินค้า"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9533,6 +10271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить товар"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพิ่มสินค้า"
           }
         },
         "zh-Hans" : {
@@ -9612,6 +10356,12 @@
             "value" : "Штрихкод"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บาร์โค้ด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9687,6 +10437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Получатель"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผู้รับ"
           }
         },
         "zh-Hans" : {
@@ -9766,6 +10522,12 @@
             "value" : "Получено"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินที่ได้รับ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9841,6 +10603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Некому получать оплату"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่มีผู้รับเงิน"
           }
         },
         "zh-Hans" : {
@@ -9920,6 +10688,12 @@
             "value" : "Учёба"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เรียนรู้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9995,6 +10769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Резервная копия и экспорт"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สำรองและส่งออกข้อมูล"
           }
         },
         "zh-Hans" : {
@@ -10074,6 +10854,12 @@
             "value" : "Удобные цвета и контраст"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สีและคอนทราสต์ที่อ่านง่าย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10149,6 +10935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не хватает паёв."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มีหน่วยไม่พอ"
           }
         },
         "zh-Hans" : {
@@ -10228,6 +11020,12 @@
             "value" : "Имеющиеся вложения"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผลิตภัณฑ์ลงทุนที่ถืออยู่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10303,6 +11101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Умеренный 🐰"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปานกลาง 🐰"
           }
         },
         "zh-Hans" : {
@@ -10382,6 +11186,12 @@
             "value" : "Волшебство сложных процентов"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มนตร์วิเศษของดอกเบี้ยทบต้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10457,6 +11267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Родитель"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พ่อแม่"
           }
         },
         "zh-Hans" : {
@@ -10536,6 +11352,12 @@
             "value" : "Руководство для родителей 📖"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คู่มือสำหรับพ่อแม่ 📖"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10611,6 +11433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Родительский режим"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "โหมดพ่อแม่"
           }
         },
         "zh-Hans" : {
@@ -10690,6 +11518,12 @@
             "value" : "Задайте PIN-код родительского режима"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งรหัส PIN ของโหมดพ่อแม่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10765,6 +11599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продукты можно добавить в родительском режиме"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพิ่มผลิตภัณฑ์ได้ในโหมดพ่อแม่"
           }
         },
         "zh-Hans" : {
@@ -10844,6 +11684,12 @@
             "value" : "Используется для подтверждения родителя"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช้ยืนยันว่าเป็นพ่อแม่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10919,6 +11765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нужно подтверждение родителя"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้องให้พ่อแม่ยืนยัน"
           }
         },
         "zh-Hans" : {
@@ -10998,6 +11850,12 @@
             "value" : "Родители 🏦"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พ่อแม่ 🏦"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11073,6 +11931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Родители выступают в роли банка (центрального банка), а дети — клиенты."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พ่อแม่เป็นธนาคาร (ธนาคารกลาง) ส่วนลูกเป็นลูกค้า"
           }
         },
         "zh-Hans" : {
@@ -11152,6 +12016,12 @@
             "value" : "Нужно подтверждение родителя"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้องให้พ่อแม่ยืนยัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11227,6 +12097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавьте хотя бы одного родителя."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลงทะเบียนพ่อแม่อย่างน้อยหนึ่งคน"
           }
         },
         "zh-Hans" : {
@@ -11306,6 +12182,12 @@
             "value" : "Представь продавца зонтов в дождливый день. Зонты хотят многие, а их мало? Даже за большую цену купят. А купальники в конце лета? Покупать их никто не хочет, поэтому цена должна быть низкой.\n\nТак цена складывается из перетягивания каната между «желанием купить» (спрос) и «количеством на продажу» (предложение). Цены вложений растут и падают по тому же принципу."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลองนึกถึงคนขายร่มในวันฝนตก คนอยากได้ร่มเยอะ แต่ร่มมีไม่กี่คัน? ต่อให้ขึ้นราคาก็ขายได้ ส่วนชุดว่ายน้ำตอนหมดหน้าร้อนล่ะ? ไม่มีใครอยากซื้อ ก็ต้องขายถูกๆ\n\nราคาจึงถูกกำหนดจากการดึงกันระหว่าง “ความอยากซื้อ” (อุปสงค์) กับ “ปริมาณที่ขาย” (อุปทาน) ราคาสินค้าลงทุนที่ขึ้นลงก็เป็นหลักการเดียวกัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11381,6 +12263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Купить"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซื้อ"
           }
         },
         "zh-Hans" : {
@@ -11460,6 +12348,12 @@
             "value" : "Продукт"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผลิตภัณฑ์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11535,6 +12429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Название продукта (например: фонд «Звёздный свет»)"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชื่อผลิตภัณฑ์ (เช่น กองทุนแสงดาว)"
           }
         },
         "zh-Hans" : {
@@ -11614,6 +12514,12 @@
             "value" : "Данные о продукте"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ข้อมูลผลิตภัณฑ์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11689,6 +12595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить продукт"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพิ่มผลิตภัณฑ์"
           }
         },
         "zh-Hans" : {
@@ -11768,6 +12680,12 @@
             "value" : "Новый PIN-код из 4 цифр"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN ใหม่ 4 หลัก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11843,6 +12761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, что выбор означает отказ от чего-то другого"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าใจว่าเมื่อเลือกอย่างหนึ่ง ก็ต้องสละอีกอย่างหนึ่ง"
           }
         },
         "zh-Hans" : {
@@ -11922,6 +12846,12 @@
             "value" : "Описание (необязательно)"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คำอธิบาย (ไม่บังคับ)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11997,6 +12927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тактильный отклик"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การตอบสนองที่รู้สึกได้ด้วยปลายนิ้ว"
           }
         },
         "zh-Hans" : {
@@ -12076,6 +13012,12 @@
             "value" : "Количество: %lld паёв"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จำนวน: %lld หน่วย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12151,6 +13093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спрос и предложение"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อุปสงค์และอุปทาน"
           }
         },
         "zh-Hans" : {
@@ -12230,6 +13178,12 @@
             "value" : "Большая прибыль — это большой риск. Раскладывай и рискуй только тем, что не жалко потерять!"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผลตอบแทนมากก็เสี่ยงมาก กระจายออกไป และเสี่ยงเท่าที่เสียได้เท่านั้น!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12305,6 +13259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "4 цифры"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตัวเลข 4 หลัก"
           }
         },
         "zh-Hans" : {
@@ -12384,6 +13344,12 @@
             "value" : "Начало = 100"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนเริ่ม = 100"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12459,6 +13425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Начальная цена"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาเริ่มต้น"
           }
         },
         "zh-Hans" : {
@@ -12538,6 +13510,12 @@
             "value" : "+%@%% с начала"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% จากตอนเริ่ม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12613,6 +13591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Начать 🎉"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เริ่มเลย 🎉"
           }
         },
         "zh-Hans" : {
@@ -12692,6 +13676,12 @@
             "value" : "Рынок"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตลาด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12767,6 +13757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Откройте вкладку «Рынок» и вместе посмотрите ценники в магазине. Поговорите о том, почему у разных вещей разная цена."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไปที่แท็บ “ตลาด” แล้วดูป้ายราคาในร้านค้าด้วยกัน คุยกันว่าทำไมของแต่ละอย่างถึงราคาไม่เท่ากัน"
           }
         },
         "zh-Hans" : {
@@ -12846,6 +13842,12 @@
             "value" : "Во вкладке «Рынок» вместе посмотрите индекс цен и график динамики цен, а потом проведите «Опыт с инфляцией» ниже."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูดัชนีราคาและกราฟแนวโน้มราคาที่แท็บ “ตลาด” ด้วยกัน แล้วลองทดลองด้วย “ทดลองเงินเฟ้อ” ด้านล่าง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12921,6 +13923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Во вкладке «Рынок» наблюдайте, как каждый день меняются цены вложений, и обсудите: «если многие хотят купить, цена растёт»."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูราคาสินค้าลงทุนที่เปลี่ยนทุกวันในแท็บ “ตลาด” แล้วคุยกันว่า “ถ้าคนอยากซื้อเยอะ ราคาจะสูงขึ้น”"
           }
         },
         "zh-Hans" : {
@@ -13000,6 +14008,12 @@
             "value" : "Настоящая цена: %@ вон"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาจริง %@ วอน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13075,6 +14089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настоящая цена (вон)"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาจริง (วอน)"
           }
         },
         "zh-Hans" : {
@@ -13154,6 +14174,12 @@
             "value" : "Цена в реальном мире"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาในโลกจริง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13229,6 +14255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Реальная стоимость"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มูลค่าที่แท้จริง"
           }
         },
         "zh-Hans" : {
@@ -13308,6 +14340,12 @@
             "value" : "Начало работы с СукСук Карманные"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เริ่มใช้ซุกซุก ค่าขนม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13383,6 +14421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добро пожаловать в СукСук Карманные!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยินดีต้อนรับสู่ซุกซุก ค่าขนม!"
           }
         },
         "zh-Hans" : {
@@ -13462,6 +14506,12 @@
             "value" : "Советы по использованию"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เคล็ดลับการใช้งาน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13537,6 +14587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продолжить с того же места"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เขียนต่อจากที่ค้างไว้"
           }
         },
         "zh-Hans" : {
@@ -13616,6 +14672,12 @@
             "value" : "В «Калькуляторе сложных процентов» ниже увеличьте срок с 4 до 52 недель. Вместе посмотрите, как график становится всё круче!"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใน “เครื่องคิดเลขดอกเบี้ยทบต้น” ด้านล่าง ลองเพิ่มระยะเวลาจาก 4 สัปดาห์เป็น 52 สัปดาห์ แล้วดูด้วยกันว่ากราฟชันขึ้นเรื่อยๆ!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13691,6 +14753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, почему не всё может быть деньгами (свойства денег)"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าใจว่าทำไมอะไรก็เป็นเงินไม่ได้ (คุณสมบัติของเงิน)"
           }
         },
         "zh-Hans" : {
@@ -13770,6 +14838,12 @@
             "value" : "Переложите половину кошелька ребёнка на накопительный счёт. Через неделю вместе проверьте проценты — эффект отличный!"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลองย้ายเงินครึ่งหนึ่งในกระเป๋าของลูกเข้าบัญชีออมทรัพย์ แล้วหนึ่งสัปดาห์ต่อมาลองดูดอกเบี้ยด้วยกัน ได้ผลดีมาก!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13845,6 +14919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перед тем как ребёнок заплатит в магазине, попросите его обязательно назвать «ещё одну вещь, которую можно купить на эти деньги»."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก่อนที่ลูกจะจ่ายเงินที่ร้านค้า ให้ลูกบอก “อีกหนึ่งสิ่งที่ซื้อได้ด้วยเงินจำนวนนี้” ทุกครั้ง"
           }
         },
         "zh-Hans" : {
@@ -13924,6 +15004,12 @@
             "value" : "Скажите ребёнку так"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลองพูดกับลูกแบบนี้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13999,6 +15085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Идите вместе с ребёнком по шагам, начиная с шага 1. Каждый шаг — «объяснить → спросить → попробовать вместе», хватит 10 минут."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ค่อยๆ ไปทีละขั้นกับลูก เริ่มจากขั้นที่ 1 แต่ละขั้นทำตามลำดับ “อธิบาย → ถาม → ลองทำด้วยกัน” แค่ 10 นาทีก็พอ"
           }
         },
         "zh-Hans" : {
@@ -14078,6 +15170,12 @@
             "value" : "Вместе с ребёнком вложите небольшую сумму в 2 продукта. Каждый день смотрите на цены, чтобы он привык к взлётам и падениям."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลองแบ่งเงินจำนวนน้อยลงทุนใน 2 ผลิตภัณฑ์ร่วมกับลูก ดูราคาทุกวันเพื่อให้ชินกับการขึ้นลง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14153,6 +15251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "История цен ещё слишком короткая. Загляните завтра!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประวัติราคายังไม่พอ พรุ่งนี้ลองมาดูอีกครั้ง!"
           }
         },
         "zh-Hans" : {
@@ -14232,6 +15336,12 @@
             "value" : "Операций пока нет"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีธุรกรรม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14307,6 +15417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Товаров пока нет.\nДобавьте товары вашей семьи в родительском режиме!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีสินค้า\nลงทะเบียนสินค้าของบ้านเราในโหมดพ่อแม่ได้เลย!"
           }
         },
         "zh-Hans" : {
@@ -14386,6 +15502,12 @@
             "value" : "Товаров пока нет · добавьте их во вкладке «Действия»"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีสินค้า · เพิ่มได้ที่แท็บการดำเนินการ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14461,6 +15583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пока ничего нет"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีที่ถืออยู่"
           }
         },
         "zh-Hans" : {
@@ -14540,6 +15668,12 @@
             "value" : "Спокойный 🐢"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปลอดภัย 🐢"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14615,6 +15749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уведомление"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แจ้งเตือน"
           }
         },
         "zh-Hans" : {
@@ -14694,6 +15834,12 @@
             "value" : "Ненавязчиво подскажем полезные функции в нужный момент."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แนะนำฟังก์ชันที่ควรรู้อย่างเบามือในจังหวะที่เหมาะสม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14769,6 +15915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Действия"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การดำเนินการ"
           }
         },
         "zh-Hans" : {
@@ -14848,6 +16000,12 @@
             "value" : "Попробуйте вместе в приложении"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลองทำด้วยกันในแอป"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14923,6 +16081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Смотрите баланс ребёнка прямо на экране «Домой», не открывая приложение."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูยอดเงินของลูกจากหน้าจอโฮมได้เลยโดยไม่ต้องเปิดแอป"
           }
         },
         "zh-Hans" : {
@@ -15002,6 +16166,12 @@
             "value" : "Приложением можно будет пользоваться и на английском."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช้แอปเป็นภาษาอังกฤษได้ด้วย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15077,6 +16247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сколько?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เท่าไร?"
           }
         },
         "zh-Hans" : {
@@ -15156,6 +16332,12 @@
             "value" : "Сколько заплатить?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จะจ่ายเท่าไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15231,6 +16413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "При первом запуске после обновления приложение расскажет, что нового."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อเปิดแอปครั้งแรกหลังอัปเดต จะบอกว่ามีอะไรใหม่"
           }
         },
         "zh-Hans" : {
@@ -15310,6 +16498,12 @@
             "value" : "Что нового"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มีอะไรใหม่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15385,6 +16579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Роль"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บทบาท"
           }
         },
         "zh-Hans" : {
@@ -15464,6 +16664,12 @@
             "value" : "Поддержка английского"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รองรับภาษาอังกฤษ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15539,6 +16745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Например: вещь, которая на самом деле стоит 1000 вон = %@ %@. Цены в магазине в валюте «%@» рассчитываются автоматически по этому курсу."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เช่น ของที่ราคาจริง 1,000 วอน = %@ %@ ราคาสินค้าในร้านค้าเป็น %@ จะคำนวณอัตโนมัติด้วยอัตรานี้"
           }
         },
         "zh-Hans" : {
@@ -15618,6 +16830,12 @@
             "value" : "Например: Бобы, Звезда, Монета"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เช่น ถั่ว ดาว เหรียญ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15693,6 +16911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Составляем бюджет"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การวางแผนงบประมาณ"
           }
         },
         "zh-Hans" : {
@@ -15772,6 +16996,12 @@
             "value" : "Что узнаем сегодня"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สิ่งที่จะเรียนวันนี้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15847,6 +17077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Готово"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เสร็จสิ้น"
           }
         },
         "zh-Hans" : {
@@ -15926,6 +17162,12 @@
             "value" : "Почему песок на дороге не может быть деньгами? Потому что его везде полно! Чтобы стать хорошими деньгами, нужно пройти пять испытаний.\n\n① Должны долго храниться (гнить нельзя!) ② Должны быть удобными для переноски (корова слишком тяжёлая — не подходит!) ③ Их можно делить на мелкие части ④ Они не должны встречаться слишком часто ⑤ Все должны верить: «Это настоящие деньги».\n\nНаши домашние монеты ценны потому, что мама и папа не печатают их когда попало, а держат своё слово."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทำไมทรายข้างทางถึงเป็นเงินไม่ได้? ก็เพราะมีเยอะแยะไปหมดทุกที่น่ะสิ! การจะเป็นเงินที่ดีต้องผ่านการทดสอบห้าข้อ\n\n① ต้องคงทน (เน่าเสียไม่ได้!) ② ต้องพกง่าย (วัวหนักเกินไป ตกรอบ!) ③ ต้องแบ่งเป็นชิ้นเล็กๆ ได้ ④ ต้องไม่หาได้ง่ายเกินไป ⑤ ทุกคนต้องเชื่อว่า “นี่คือเงินจริงๆ”\n\nเหรียญของบ้านเรามีค่าเพราะพ่อกับแม่ไม่พิมพ์ออกมาตามใจ แต่รักษาสัญญา"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16001,6 +17243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Из того, что тебе сейчас хочется купить, что — нужда, а что — желание?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ในสิ่งที่หนูอยากซื้อช่วงนี้ อะไรคือ “ความจำเป็น” และอะไรคือ “ความอยาก”?"
           }
         },
         "zh-Hans" : {
@@ -16080,6 +17328,12 @@
             "value" : "Карманные деньги"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ค่าขนม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16155,6 +17409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Напоминания о карманных деньгах"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แจ้งเตือนค่าขนม"
           }
         },
         "zh-Hans" : {
@@ -16234,6 +17494,12 @@
             "value" : "Выдать карманные деньги"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ค่าขนม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16309,6 +17575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выдать / списать карманные деньги"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ / หักค่าขนม"
           }
         },
         "zh-Hans" : {
@@ -16388,6 +17660,12 @@
             "value" : "В день выдачи карманных денег пусть ребёнок сам определит долю накоплений, вложений и трат и выполнит план. Через неделю вместе посмотрите вкладку «История»."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ในวันให้ค่าขนม ให้ลูกกำหนดสัดส่วนการออม ลงทุน และใช้จ่ายด้วยตัวเอง แล้วทำตาม หนึ่งสัปดาห์ต่อมาดูแท็บ “ประวัติ” ย้อนหลังด้วยกัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16463,6 +17741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уведомление в день выдачи карманных денег или при начислении процентов."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แจ้งเตือนในวันให้ค่าขนมหรือเมื่อดอกเบี้ยเข้า"
           }
         },
         "zh-Hans" : {
@@ -16542,6 +17826,12 @@
             "value" : "Выдавать карманные деньги, задавать ставки и т. д.\nмогут только те, кто знает этот PIN-код."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การให้ค่าขนมและการตั้งอัตราดอกเบี้ย\nทำได้เฉพาะคนที่รู้ PIN นี้เท่านั้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16617,6 +17907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Лёгкая вибрация сообщит, когда пришли карманные деньги или совершена покупка."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สั่นเบาๆ เมื่อได้รับค่าขนมหรือซื้อของ"
           }
         },
         "zh-Hans" : {
@@ -16696,6 +17992,12 @@
             "value" : "Если потратить карманные деньги сразу, как получил, без плана, они быстро закончатся. Поэтому план составляют заранее. Это называется «бюджет».\n\nНапример, раздели так: накопления 30, необходимое 40, то, что хочется 20, пробное вложение 10. Необязательно именно так. Главное — решить самому!"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าได้ค่าขนมมาแล้วใช้ทันทีโดยไม่วางแผน เงินจะหมดเร็ว จึงต้องวางแผนไว้ก่อน เรียกว่า “งบประมาณ”\n\nลองแบ่งแบบนี้ เก็บออม 30 ของจำเป็น 40 ของที่อยากได้ 20 ลองลงทุน 10 ไม่ต้องเป๊ะแบบนี้ก็ได้ สำคัญที่หนูตัดสินใจเอง!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16771,6 +18073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Здесь появятся выданные карманные деньги и оплаты"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อให้ค่าขนมหรือจ่ายเงิน จะบันทึกไว้ที่นี่"
           }
         },
         "zh-Hans" : {
@@ -16850,6 +18158,12 @@
             "value" : "Выдавайте карманные деньги, платите, получайте проценты по накоплениям\nи даже вкладывайте — экономика только для вашей семьи."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ค่าขนม จ่ายเงิน รับดอกเบี้ยเงินออม\nและลองลงทุนด้วย — ระบบเศรษฐกิจเฉพาะครอบครัวของเรา"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16925,6 +18239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Домашний магазин"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ร้านค้าของบ้านเรา"
           }
         },
         "zh-Hans" : {
@@ -17004,6 +18324,12 @@
             "value" : "Вместе посмотрите товары в домашнем магазине и по одному разделите их на «нужды» и «желания»."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูสินค้าในร้านค้าของบ้านด้วยกัน แล้วแยกทีละชิ้นเป็น “ความจำเป็น” กับ “ความอยาก”"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17079,6 +18405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Цена у нас дома"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาในบ้านเรา"
           }
         },
         "zh-Hans" : {
@@ -17158,6 +18490,12 @@
             "value" : "Домашние цены"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาของบ้านเรา"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17233,6 +18571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каков сейчас индекс цен в нашем доме?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนนี้ดัชนีราคาของบ้านเราเป็นเท่าไร?"
           }
         },
         "zh-Hans" : {
@@ -17312,6 +18656,12 @@
             "value" : "Сохраните записи вашего домашнего банка в файл и загрузите их снова позже."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึกประวัติของธนาคารบ้านเราเป็นไฟล์ และนำกลับเข้ามาใหม่ได้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17387,6 +18737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На что можно обменять наши домашние монеты?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เหรียญของบ้านเราแลกอะไรได้บ้าง?"
           }
         },
         "zh-Hans" : {
@@ -17466,6 +18822,12 @@
             "value" : "Почему наши домашние монеты чего-то стоят?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทำไมเหรียญของบ้านเราถึงมีค่า?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17541,6 +18903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Денежная масса у нас дома 💰"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปริมาณเงินในบ้านเรา 💰"
           }
         },
         "zh-Hans" : {
@@ -17620,6 +18988,12 @@
             "value" : "Это домашний продукт для вложений."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เป็นผลิตภัณฑ์ลงทุนของบ้านเรา"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17695,6 +19069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Придумайте название домашней валюты"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งชื่อเงินของบ้านเรา"
           }
         },
         "zh-Hans" : {
@@ -17774,6 +19154,12 @@
             "value" : "Деньги в обороте у нас дома"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินที่หมุนเวียนในบ้านเรา"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17849,6 +19235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уменьшение движения"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลดการเคลื่อนไหว"
           }
         },
         "zh-Hans" : {
@@ -17928,6 +19320,12 @@
             "value" : "Если включить «Уменьшение движения», эффекты на экране станут спокойнее."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อเปิด “ลดการเคลื่อนไหว” เอฟเฟกต์บนหน้าจอจะนุ่มนวลขึ้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18003,6 +19401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "вон"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วอน"
           }
         },
         "zh-Hans" : {
@@ -18082,6 +19486,12 @@
             "value" : "Уровень риска"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ระดับความเสี่ยง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18157,6 +19567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рискованный 🚀"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เสี่ยงสูง 🚀"
           }
         },
         "zh-Hans" : {
@@ -18236,6 +19652,12 @@
             "value" : "Настройки банка"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งค่าธนาคาร"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18311,6 +19733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Когда ты оставляешь деньги в банке, банк говорит: «Спасибо, что доверил нам деньги!» — и добавляет немного сверху. Эта добавка называется «процентами».\n\nДеньги в кошельке не растут, сколько ни жди. А если положить их на накопительный счёт, каждую неделю добавляются проценты, и деньги растут. Куда лучше положить деньги, которые не нужны прямо сейчас?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อเอาเงินไปฝากธนาคาร ธนาคารจะบอกว่า “ขอบคุณที่ไว้ใจฝากเงิน!” แล้วให้ของแถมให้ ของแถมนั้นคือ “ดอกเบี้ย”\n\nเงินที่อยู่ในกระเป๋าเงินไม่เพิ่มขึ้นเลย ไม่ว่ารอนานแค่ไหน แต่ถ้าฝากเข้าบัญชีออมทรัพย์ จะมีดอกเบี้ยเพิ่มทุกสัปดาห์ เงินจึงงอกเงย เงินที่ยังไม่ใช้ตอนนี้ควรเก็บไว้ที่ไหนดี?"
           }
         },
         "zh-Hans" : {
@@ -18390,6 +19818,12 @@
             "value" : "Передать это устройство"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ส่งเครื่องนี้ให้ลูก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18465,6 +19899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Это устройство переключится на отдельный экран выбранного ребёнка. Ребёнок увидит только свой кошелёк, магазин, вложения, историю и уроки. Удобно, когда вы даёте родительский телефон ребёнку, у которого нет своего. Чтобы вернуться, нажмите на замок и введите родительский PIN-код."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เครื่องนี้จะเปลี่ยนเป็นหน้าจอเฉพาะของลูกที่เลือก ลูกจะเห็นเฉพาะกระเป๋าเงิน ร้านค้า การลงทุน ประวัติ และบทเรียนของตัวเอง เหมาะเวลาที่ส่งโทรศัพท์พ่อแม่ให้ลูกที่ไม่มีโทรศัพท์ หากต้องการกลับมา ให้แตะปุ่มกุญแจแล้วป้อน PIN ของพ่อแม่"
           }
         },
         "zh-Hans" : {
@@ -18544,6 +19984,12 @@
             "value" : "Сделать это устройство телефоном: %@ %@? Чтобы вернуться, понадобится родительский PIN-код."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้เครื่องนี้เป็นโทรศัพท์ของ %@ %@ ไหม? ต้องใช้ PIN ของพ่อแม่เพื่อกลับมา"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18619,6 +20065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Чьим телефоном сделать это устройство? Чтобы вернуться, понадобится родительский PIN-код."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จะให้เครื่องนี้เป็นโทรศัพท์ของใคร? ต้องใช้ PIN ของพ่อแม่เพื่อกลับมา"
           }
         },
         "zh-Hans" : {
@@ -18698,6 +20150,12 @@
             "value" : "Сколько станет, если оставить как есть? (прогноз на 12 недель со сложными процентами)"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าวางไว้แบบนี้จะเป็นเท่าไร? (ประมาณการ 12 สัปดาห์ ดอกเบี้ยทบต้น)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18773,6 +20231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спросите так"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลองถามแบบนี้"
           }
         },
         "zh-Hans" : {
@@ -18852,6 +20316,12 @@
             "value" : "Имя"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชื่อ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18927,6 +20397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Эмодзи"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อีโมจิ"
           }
         },
         "zh-Hans" : {
@@ -19006,6 +20482,12 @@
             "value" : "Как ты хочешь распределить карманные деньги на эту неделю?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ค่าขนมสัปดาห์นี้ หนูอยากแบ่งอย่างไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19081,6 +20563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Причина"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เหตุผล"
           }
         },
         "zh-Hans" : {
@@ -19160,6 +20648,12 @@
             "value" : "Проценты"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดอกเบี้ย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19235,6 +20729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Проценты · Курс · Цены"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดอกเบี้ย · อัตราแลกเปลี่ยน · ราคา"
           }
         },
         "zh-Hans" : {
@@ -19314,6 +20814,12 @@
             "value" : "Когда проценты приносят проценты, это называется «сложными процентами». Чем дольше копишь, тем сильнее деньги растут, как снежный ком! ⛄️"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อดอกเบี้ยออกดอกเบี้ย เรียกว่า “ดอกเบี้ยทบต้น” ยิ่งออมนาน เงินก็ยิ่งโตเหมือนก้อนหิมะ! ⛄️"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19389,6 +20895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Только на процентах вы заработали %@ %@!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ได้เงิน %@ %@ จากดอกเบี้ยอย่างเดียว!"
           }
         },
         "zh-Hans" : {
@@ -19468,6 +20980,12 @@
             "value" : "Понять, что проценты на проценты растут как снежный ком"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าใจว่าดอกเบี้ยที่ออกดอกเบี้ยจะใหญ่ขึ้นเหมือนก้อนหิมะ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19543,6 +21061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если ставка ниже роста цен, то даже накопленные деньги теряют силу. Попробуйте поднять ставку!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าอัตราดอกเบี้ยต่ำกว่าอัตราราคาสินค้าเพิ่ม แม้ออมไว้เงินก็ยังเสียพลัง ลองเพิ่มอัตราดอกเบี้ยดู!"
           }
         },
         "zh-Hans" : {
@@ -19622,6 +21146,12 @@
             "value" : "Назад"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ย้อนกลับ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19697,6 +21227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Инфляция"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินเฟ้อ"
           }
         },
         "zh-Hans" : {
@@ -19776,6 +21312,12 @@
             "value" : "Без инфляции"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่มีเงินเฟ้อ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19851,6 +21393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "День"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วัน"
           }
         },
         "zh-Hans" : {
@@ -19930,6 +21478,12 @@
             "value" : "Начинать рано и не бросать — вот секрет сложных процентов."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เริ่มเร็ว ทำต่อเนื่อง — นี่คือความลับของดอกเบี้ยทบต้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20005,6 +21559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сколько денег не страшно потерять?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เสียเงินได้ประมาณเท่าไรถึงจะไม่เป็นไร?"
           }
         },
         "zh-Hans" : {
@@ -20084,6 +21644,12 @@
             "value" : "Положить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฝาก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20159,6 +21725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Положить / снять"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฝาก / ถอน"
           }
         },
         "zh-Hans" : {
@@ -20238,6 +21810,12 @@
             "value" : "Ребёнок"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลูก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20313,6 +21891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отсканируйте камерой устройства ребёнка, чтобы увидеть приглашение"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สแกนด้วยกล้องของเครื่องลูกเพื่อดูคำเชิญ"
           }
         },
         "zh-Hans" : {
@@ -20392,6 +21976,12 @@
             "value" : "Пригласить ребёнка"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชวนลูก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20467,6 +22057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Режим телефона ребёнка"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "โหมดโทรศัพท์ของลูก"
           }
         },
         "zh-Hans" : {
@@ -20546,6 +22142,12 @@
             "value" : "Переключиться на телефон ребёнка"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สลับเป็นโทรศัพท์ของลูก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20621,6 +22223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Дети 👧"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลูก 👧"
           }
         },
         "zh-Hans" : {
@@ -20700,6 +22308,12 @@
             "value" : "Когда ребёнок отсканирует этот штрихкод в разделе «Сканировать и оплатить»,\nиз кошелька спишется %@."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อลูกสแกนบาร์โค้ดนี้ด้วย “สแกนเพื่อจ่าย”\nจะมี %@ หักออกจากกระเป๋าเงิน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20775,6 +22389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавьте хотя бы одного ребёнка."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลงทะเบียนลูกอย่างน้อยหนึ่งคน"
           }
         },
         "zh-Hans" : {
@@ -20854,6 +22474,12 @@
             "value" : "В прошлом году сладость стоила 1000. В этом году она стоит 1100. А сладость не стала больше! Когда цены растут так, это называется «инфляцией».\n\nЧисло на твоих деньгах то же, а купить можно меньше. Как из шарика выходит воздух, сила денег слабеет. Поэтому если просто держать деньги в кошельке, потихоньку теряешь. Чтобы сохранить их силу, нужно увеличивать их быстрее, чем растут цены, — с помощью процентов или вложений."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปีที่แล้วขนมราคา 1,000 ปีนี้ราคา 1,100 ทั้งที่ขนมไม่ได้ใหญ่ขึ้น! การที่ราคาของแพงขึ้นแบบนี้เรียกว่า “เงินเฟ้อ”\n\nตัวเลขบนเงินของเรายังเท่าเดิม แต่ซื้อของได้น้อยลง เหมือนลมที่รั่วออกจากลูกโป่ง พลังของเงินอ่อนลง ดังนั้นการวางเงินทิ้งไว้ในกระเป๋าเฉยๆ จะค่อยๆ เสียเปรียบ ต้องทำให้เงินเพิ่มเร็วกว่าราคาสินค้าด้วยดอกเบี้ยหรือการลงทุน จึงจะรักษาพลังของเงินไว้ได้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20929,6 +22555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Баланс"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยอดคงเหลือ"
           }
         },
         "zh-Hans" : {
@@ -21008,6 +22640,12 @@
             "value" : "Заблокировать"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ล็อก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21083,6 +22721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сохранить"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึก"
           }
         },
         "zh-Hans" : {
@@ -21162,6 +22806,12 @@
             "value" : "Накопления"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินออม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21237,6 +22887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ставка накоплений"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดอกเบี้ยออม"
           }
         },
         "zh-Hans" : {
@@ -21316,6 +22972,12 @@
             "value" : "Взнос на накопления"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฝากเงินออม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21391,6 +23053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Баланс накоплений"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยอดเงินออม"
           }
         },
         "zh-Hans" : {
@@ -21470,6 +23138,12 @@
             "value" : "Снятие с накоплений"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถอนเงินออม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21545,6 +23219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Накопления: %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินออม: %@"
           }
         },
         "zh-Hans" : {
@@ -21624,6 +23304,12 @@
             "value" : "Накопления и проценты"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การออมและดอกเบี้ย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21699,6 +23385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если один человек начнёт копить рано, а другой поздно, кто потом станет богаче?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คนที่เริ่มออมเร็วกับคนที่เริ่มช้า ต่อไปใครจะรวยกว่ากัน?"
           }
         },
         "zh-Hans" : {
@@ -21778,6 +23470,12 @@
             "value" : "Положить на накопительный счёт"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฝากเข้าบัญชีออมทรัพย์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21853,6 +23551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На накопительном счёте не хватает денег."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินในบัญชีออมทรัพย์ไม่พอ"
           }
         },
         "zh-Hans" : {
@@ -21932,6 +23636,12 @@
             "value" : "Сложные проценты каждую неделю на накопительном счёте"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดอกเบี้ยทบต้นทุกสัปดาห์ในบัญชีออมทรัพย์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22007,6 +23717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Понять, как накопления увеличивают деньги"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าใจหลักการที่ทำให้เงินงอกเงยเมื่อออม"
           }
         },
         "zh-Hans" : {
@@ -22086,6 +23802,12 @@
             "value" : "Накопленные деньги"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินที่ออม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22161,6 +23883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Даже если приложение закроется во время ввода, набранный текст сохранится."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แม้แอปปิดไประหว่างพิมพ์ สิ่งที่พิมพ์ไว้ก็ยังอยู่"
           }
         },
         "zh-Hans" : {
@@ -22240,6 +23968,12 @@
             "value" : "Удалить всё"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลบทั้งหมด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22315,6 +24049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Все"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทั้งหมด"
           }
         },
         "zh-Hans" : {
@@ -22394,6 +24134,12 @@
             "value" : "Действительно удалить все данные?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้องการลบข้อมูลทั้งหมดจริงหรือไม่?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22469,6 +24215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вид"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประเภท"
           }
         },
         "zh-Hans" : {
@@ -22548,6 +24300,12 @@
             "value" : "Какими должны быть хорошие деньги"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินที่ดีต้องเป็นอย่างไร"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22623,6 +24381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "нед."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สัปดาห์"
           }
         },
         "zh-Hans" : {
@@ -22702,6 +24466,12 @@
             "value" : "%@%% в неделю"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สัปดาห์ละ %@%%"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22777,6 +24547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Недельный рост цен: %@%%"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาสินค้าเพิ่มรายสัปดาห์: %@%%"
           }
         },
         "zh-Hans" : {
@@ -22856,6 +24632,12 @@
             "value" : "Недельная ставка"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อัตราดอกเบี้ยรายสัปดาห์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22931,6 +24713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Недельная ставка: %@%%"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อัตราดอกเบี้ยรายสัปดาห์: %@%%"
           }
         },
         "zh-Hans" : {
@@ -23010,6 +24798,12 @@
             "value" : "Недельная ставка накоплений %@%% · Недельный рост цен %@%%"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดอกเบี้ยออมรายสัปดาห์ %@%% · ราคาสินค้าเพิ่มรายสัปดาห์ %@%%"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23085,6 +24879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Недельная ставка накоплений: %@%%"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดอกเบี้ยออมรายสัปดาห์: %@%%"
           }
         },
         "zh-Hans" : {
@@ -23164,6 +24964,12 @@
             "value" : "Кошелёк"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กระเป๋าเงิน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23239,6 +25045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Баланс кошелька"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยอดเงินในกระเป๋า"
           }
         },
         "zh-Hans" : {
@@ -23318,6 +25130,12 @@
             "value" : "Кошелёк: %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กระเป๋าเงิน: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23393,6 +25211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кошелёк: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กระเป๋าเงิน: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -23472,6 +25296,12 @@
             "value" : "Деньги, оставленные в кошельке, потеряли силу, а накопленные сохранили её! 💪"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินที่วางไว้ในกระเป๋าเฉยๆ พลังลดลง แต่เงินที่ออมไว้รักษาพลังได้! 💪"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23547,6 +25377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В кошельке не хватает денег! Баланс: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินในกระเป๋าไม่พอ! ยอดคงเหลือ: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -23626,6 +25462,12 @@
             "value" : "В кошельке не хватает денег."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินในกระเป๋าไม่พอ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23701,6 +25543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В кошельке не хватает денег. Нужно: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินในกระเป๋าไม่พอ ต้องใช้: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -23780,6 +25628,12 @@
             "value" : "Деньги в кошельке"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินในกระเป๋า"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23855,6 +25709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Чем отличаются деньги в кошельке от накопленных денег?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินในกระเป๋ากับเงินที่ออมไว้ต่างกันอย่างไร?"
           }
         },
         "zh-Hans" : {
@@ -23934,6 +25794,12 @@
             "value" : "Вернуть в кошелёк"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถอนเข้ากระเป๋าเงิน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24009,6 +25875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выдать · Списать"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ · หัก"
           }
         },
         "zh-Hans" : {
@@ -24088,6 +25960,12 @@
             "value" : "От чего ты отказался в прошлый раз, когда что-то купил?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ครั้งก่อนที่ซื้อของ หนูสละอะไรไป?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24163,6 +26041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На что ты потратил больше всего денег на прошлой неделе?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สัปดาห์ที่แล้วหนูใช้เงินไปกับอะไรมากที่สุด?"
           }
         },
         "zh-Hans" : {
@@ -24242,6 +26126,12 @@
             "value" : "Индекс %lld"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดัชนี %lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24317,6 +26207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поддержка"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่วยเหลือ"
           }
         },
         "zh-Hans" : {
@@ -24396,6 +26292,12 @@
             "value" : "Выберите дома 3 предмета и сыграйте в «Могло бы это быть деньгами?». Отметьте каждое из пяти условий галочкой или крестиком."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกของในบ้าน 3 อย่าง แล้วเล่นเกม “สิ่งนี้เป็นเงินได้ไหม?” ให้ติ๊กถูกหรือผิดกับเงื่อนไขทั้งห้าข้อ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24471,6 +26373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сканировать и оплатить"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สแกนเพื่อจ่าย"
           }
         },
         "zh-Hans" : {
@@ -24550,6 +26458,12 @@
             "value" : "Сканируйте и сразу платите"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สแกนแล้วจ่ายทันที"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24625,6 +26539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Списание"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หักเงิน"
           }
         },
         "zh-Hans" : {
@@ -24704,6 +26624,12 @@
             "value" : "Списать"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หัก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24779,6 +26705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Начальная сумма: %@ %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เงินตั้งต้น: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -24858,6 +26790,12 @@
             "value" : "Цены выросли на %@%% с начала. 1000 %@ в кошельке теперь имеют силу %@ %@."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาสินค้าสูงขึ้น %@%% จากตอนเริ่ม 1,000 %@ ในกระเป๋าตอนนี้มีพลังเท่ากับ %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24933,6 +26871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Приглашение · QR"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คำเชิญ · QR"
           }
         },
         "zh-Hans" : {
@@ -25012,6 +26956,12 @@
             "value" : "Отправить приглашение"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ส่งคำเชิญ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25087,6 +27037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Общая сумма"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยอดรวม"
           }
         },
         "zh-Hans" : {
@@ -25166,6 +27122,12 @@
             "value" : "Всего активов"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สินทรัพย์รวม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25241,6 +27203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Всего активов · около %@ вон в реальных деньгах"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สินทรัพย์รวม · ประมาณ %@ วอนในเงินจริง"
           }
         },
         "zh-Hans" : {
@@ -25320,6 +27288,12 @@
             "value" : "Последние операции"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ธุรกรรมล่าสุด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25395,6 +27369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพิ่ม"
           }
         },
         "zh-Hans" : {
@@ -25474,6 +27454,12 @@
             "value" : "Снять"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถอน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25549,6 +27535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отмена"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยกเลิก"
           }
         },
         "zh-Hans" : {
@@ -25628,6 +27620,12 @@
             "value" : "Почему популярные игрушки дорожают перед Рождеством?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทำไมของเล่นยอดนิยมถึงแพงขึ้นช่วงคริสต์มาส?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25703,6 +27701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Экраны для крупного текста"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หน้าจอที่รองรับตัวอักษรใหญ่"
           }
         },
         "zh-Hans" : {
@@ -25782,6 +27786,12 @@
             "value" : "Вложения"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลงทุน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25857,6 +27867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продажа вложений"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขายการลงทุน"
           }
         },
         "zh-Hans" : {
@@ -25936,6 +27952,12 @@
             "value" : "Покупка вложений"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซื้อการลงทุน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26011,6 +28033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Продукты для вложений"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผลิตภัณฑ์ลงทุน"
           }
         },
         "zh-Hans" : {
@@ -26090,6 +28118,12 @@
             "value" : "Добавить продукт для вложений"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพิ่มผลิตภัณฑ์ลงทุน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26165,6 +28199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рынок вложений 📈"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตลาดลงทุน 📈"
           }
         },
         "zh-Hans" : {
@@ -26244,6 +28284,12 @@
             "value" : "Стоимость вложений: %@ %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มูลค่าการลงทุน: %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26319,6 +28365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вложить деньги — всё равно что посадить деньги. Если семечко хорошо растёт, вырастет большое дерево, но оно может и завять. В отличие от накоплений, при вложениях деньги могут и вырасти, и уменьшиться.\n\nЗапомни главное правило: чем больше можно заработать, тем больше можно потерять. И если положить все яйца в одну корзину, при падении разобьются все. Раскладывай по разным (диверсификация). Сажай только столько, сколько не жалко потерять."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การลงทุนเหมือนการปลูกเงิน ถ้าเมล็ดเติบโตดีก็กลายเป็นต้นไม้ใหญ่ แต่ก็อาจเหี่ยวเฉาได้ ต่างจากการออม การลงทุนทำให้เงินเพิ่มขึ้นหรือลดลงก็ได้\n\nจำกฎนี้ไว้ ยิ่งได้กำไรมากเท่าไร ก็ยิ่งเสียได้มากเท่านั้น และถ้าใส่ไข่ทั้งหมดไว้ในตะกร้าใบเดียว พอตกก็แตกหมด ต้องกระจายใส่หลายตะกร้า (กระจายการลงทุน) ปลูกเท่าที่เสียได้เท่านั้น"
           }
         },
         "zh-Hans" : {
@@ -26398,6 +28450,12 @@
             "value" : "Вложения и риск"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การลงทุนและความเสี่ยง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26473,6 +28531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Инвестор"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผู้ลงทุน"
           }
         },
         "zh-Hans" : {
@@ -26552,6 +28616,12 @@
             "value" : "Выберите инвестора"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกผู้ลงทุน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26627,6 +28697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Чтобы вкладывать, сначала добавьте ребёнка на главном экране."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หากต้องการลงทุน ให้ลงทะเบียนลูกที่หน้าแรกก่อน"
           }
         },
         "zh-Hans" : {
@@ -26706,6 +28782,12 @@
             "value" : "Нет продуктов для вложений"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่มีผลิตภัณฑ์ลงทุนที่ขายอยู่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26781,6 +28863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Экран для складного iPhone"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หน้าจอสำหรับ iPhone แบบพับได้"
           }
         },
         "zh-Hans" : {
@@ -26860,6 +28948,12 @@
             "value" : "Используйте широкий экран складного iPhone в двух панелях."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช้หน้าจอกว้างของ iPhone แบบพับได้แบ่งเป็นสองฝั่ง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26935,6 +29029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сначала нужное, потом желаемое!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จำเป็นก่อน ความอยากทีหลัง!"
           }
         },
         "zh-Hans" : {
@@ -27014,6 +29114,12 @@
             "value" : "Нужды и желания"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความจำเป็นกับความอยาก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27089,6 +29195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Что будет, если покупать желания, а нужное не купить?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าไม่ซื้อสิ่งจำเป็นแต่ซื้อสิ่งที่อยากก่อน จะเกิดอะไรขึ้น?"
           }
         },
         "zh-Hans" : {
@@ -27168,6 +29280,12 @@
             "value" : "Фильтр"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตัวกรอง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27243,6 +29361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сбросить фильтры"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ล้างตัวกรอง"
           }
         },
         "zh-Hans" : {
@@ -27322,6 +29446,12 @@
             "value" : "Сильно колеблется — до ±15 %% в день! Можно много заработать и много потерять."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขยับแรงถึง ±15%% ต่อวัน! อาจได้กำไรมากหรือขาดทุนมาก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27397,6 +29527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Двигается понемногу, примерно ±2 %% в день. Риск потерь невысокий."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขยับขึ้นลงเล็กน้อยประมาณ ±2%% ต่อวัน มีโอกาสขาดทุนน้อย"
           }
         },
         "zh-Hans" : {
@@ -27476,6 +29612,12 @@
             "value" : "Растёт и падает примерно на ±6 %% в день. Умеренный вызов."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขึ้นลงประมาณ ±6%% ต่อวัน เป็นความท้าทายระดับกลาง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27551,6 +29693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Введите ещё раз"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ป้อนอีกครั้ง"
           }
         },
         "zh-Hans" : {
@@ -27630,6 +29778,12 @@
             "value" : "Экспериментируем вместе · Калькулятор сложных процентов 🧮"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทดลองด้วยกัน · เครื่องคิดเลขดอกเบี้ยทบต้น 🧮"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27705,6 +29859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Экспериментируем вместе · Опыт с инфляцией 🎈"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทดลองด้วยกัน · ทดลองเงินเฟ้อ 🎈"
           }
         },
         "zh-Hans" : {
@@ -27784,6 +29944,12 @@
             "value" : "Текущая цена"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ราคาปัจจุบัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27859,6 +30025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кошелёк сейчас"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กระเป๋าเงินตอนนี้"
           }
         },
         "zh-Hans" : {
@@ -27938,6 +30110,12 @@
             "value" : "Виджеты на экране «Домой»"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วิดเจ็ตหน้าจอโฮม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28013,6 +30191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Валюта «%@» · Проценты в неделю %@%%"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สกุลเงิน “%@” · ดอกเบี้ยรายสัปดาห์ %@%%"
           }
         },
         "zh-Hans" : {
@@ -28092,6 +30276,12 @@
             "value" : "Название валюты"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชื่อสกุลเงิน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28167,6 +30357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ОК"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตกลง"
           }
         },
         "zh-Hans" : {
@@ -28246,6 +30442,12 @@
             "value" : "Курс обмена"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อัตราแลกเปลี่ยน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28321,6 +30523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рассчитывается автоматически по курсу 1 %@ = %@ вон."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คำนวณอัตโนมัติที่ 1 %@ = %@ วอน"
           }
         },
         "zh-Hans" : {
@@ -28400,6 +30608,12 @@
             "value" : "Курс: 1 %@ ="
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อัตราแลกเปลี่ยน: 1 %@ ="
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28475,6 +30689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Деньгами становится то, что редко встречается и чему все доверяют."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้องหายากและทุกคนเชื่อถือ จึงจะเป็นเงินได้"
           }
         },
         "zh-Hans" : {
@@ -28554,6 +30774,12 @@
             "value" : "🌱 %@, приглашаем вас в СукСук Карманные!\n\nДавайте вместе пользоваться домашней валютой «%@»:\n• Копите карманные деньги и платите ими 💸\n• Если копить, каждую неделю начисляется %@%% 🏦\n• Узнавайте об экономике на примере вложений 📈\n\nОткройте приложение СукСук Карманные на устройстве с той же учётной записью iCloud, что и у родителей, — и вы сразу сможете присоединиться!"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@ ขอเชิญมาใช้ซุกซุก ค่าขนมด้วยกัน!\n\nมาใช้สกุลเงินของบ้านเรา “%@” ด้วยกัน:\n• เก็บค่าขนมและใช้จ่าย 💸\n• ถ้าออมจะได้ดอกเบี้ย %@%% ทุกสัปดาห์ 🏦\n• เรียนรู้เศรษฐกิจจากผลิตภัณฑ์ลงทุน 📈\n\nเปิดแอปซุกซุก ค่าขนมบนเครื่องที่ล็อกอิน iCloud บัญชีเดียวกับเครื่องของพ่อแม่ ก็เข้าร่วมได้ทันที!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28629,6 +30855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Учёба"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 เรียนรู้"
           }
         },
         "zh-Hans" : {
@@ -28708,6 +30940,12 @@
             "value" : "🏛️ Рынок"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ ตลาด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28783,6 +31021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Родительский режим"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 โหมดพ่อแม่"
           }
         },
         "zh-Hans" : {
@@ -28862,6 +31106,12 @@
             "value" : "🏦 Накопления"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 เงินออม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28937,6 +31187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Накопительный счёт"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 บัญชีออมทรัพย์"
           }
         },
         "zh-Hans" : {
@@ -29016,6 +31272,12 @@
             "value" : "🏪 Домашний магазин"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 ร้านค้าของบ้านเรา"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29091,6 +31353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Штрихкод товара"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ บาร์โค้ดสินค้า"
           }
         },
         "zh-Hans" : {
@@ -29170,6 +31438,12 @@
             "value" : "👨‍👩‍👧‍👦 Члены семьи"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 สมาชิกในครอบครัว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29245,6 +31519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Приглашение"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 คำเชิญ"
           }
         },
         "zh-Hans" : {
@@ -29324,6 +31604,12 @@
             "value" : "💡 Деньги, которые просто лежат, теряют силу. Защитите их накоплениями (проценты) или вложениями!"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 ถ้าวางเงินไว้เฉยๆ พลังจะลดลง รักษาไว้ด้วยการออม (ดอกเบี้ย) หรือการลงทุน!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29399,6 +31685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 Приглашение можно отправить сообщением или через мессенджер.\nНа устройствах с той же учётной записью iCloud данные появятся автоматически."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 ส่งคำเชิญทางข้อความหรือแอปแชตได้\nเครื่องที่ล็อกอิน iCloud บัญชีเดียวกันจะเห็นข้อมูลอัตโนมัติ"
           }
         },
         "zh-Hans" : {
@@ -29478,6 +31770,12 @@
             "value" : "💡 Цены меняются раз в день. Купить дёшево и продать дорого — прибыль, наоборот — убыток!"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 ราคาเปลี่ยนวันละครั้ง ซื้อตอนถูกขายตอนแพงได้กำไร กลับกันขาดทุน!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29553,6 +31851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Оплата"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 จ่ายเงิน"
           }
         },
         "zh-Hans" : {
@@ -29632,6 +31936,12 @@
             "value" : "💵 Кошелёк"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 กระเป๋าเงิน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29707,6 +32017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Управление деньгами"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 จัดการเงิน"
           }
         },
         "zh-Hans" : {
@@ -29786,6 +32102,12 @@
             "value" : "💸 Карманные деньги"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 จัดการค่าขนม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29861,6 +32183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Вложения"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 ลงทุน"
           }
         },
         "zh-Hans" : {
@@ -29940,6 +32268,12 @@
             "value" : "📈 Продукты для вложений"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 ผลิตภัณฑ์ลงทุน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30015,6 +32349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Режим телефона ребёнка"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 โหมดโทรศัพท์ของลูก"
           }
         },
         "zh-Hans" : {
@@ -30094,6 +32434,12 @@
             "value" : "📷 Сканировать и оплатить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 สแกนเพื่อจ่าย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30171,6 +32517,12 @@
             "value" : "🔐 Вернуться в родительский режим"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 กลับไปโหมดพ่อแม่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30246,6 +32598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 История операций"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 ประวัติธุรกรรม"
           }
         },
         "zh-Hans" : {
