@@ -3,6 +3,12 @@
   "strings" : {
     "CFBundleDisplayName" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Taschengeld"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49,6 +55,12 @@
     },
     "NSCameraUsageDescription" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Kamera wird benötigt, damit dein Kind den Barcode eines Artikels scannen und bezahlen kann."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +107,12 @@
     },
     "NSFaceIDUsageDescription" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID wird verwendet, um ein Elternteil zu bestätigen und die Aktionen zu entsperren."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

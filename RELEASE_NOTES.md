@@ -53,3 +53,10 @@ Envía comentarios desde modo padres.
 Lee en la app las respuestas recibidas.
 Abre privacidad y soporte en la app.
 La app funciona con más estabilidad.
+
+### 앱스토어 (Deutsch)
+
+Feedback direkt im Elternmodus senden.
+Antworten auf Feedback in der App lesen.
+Datenschutz & Support in der App öffnen.
+Die App läuft jetzt noch stabiler.

@@ -433,3 +433,65 @@ Convierte el teléfono de tu hijo en una pantalla solo para él. Solo ve su mone
 
 Sincronización con iCloud
 Los dispositivos con la misma cuenta de iCloud mantienen sincronizado el libro de cuentas de la familia.
+
+## de
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Taschengeld: Kinder
+
+### 부제
+
+Sparen und Anlegen lernen
+
+### 키워드
+
+Finanzbildung,Kinderbank,Zinsen,Zinseszins,Haushaltsbuch,Budget,Familie,Wirtschaft,Börse,Sparschwein
+
+### 프로모션 텍스트
+
+Die Eltern sind die Zentralbank, die Kinder die Kunden. Gebt Taschengeld in eurer eigenen Familienwährung und lasst Kinder Sparzinsen erleben und das Anlegen üben.
+
+### 설명
+
+Zeig deinen Kindern mit einer ganz eigenen Währung, wie Geld funktioniert. Die Eltern sind die Zentralbank und geben das Taschengeld aus; die Kinder bezahlen, sparen und legen an und lernen so Wirtschaft durch Ausprobieren.
+Was man selbst erlebt hat, bleibt viel länger im Kopf als das, was man nur erklärt bekommt.
+
+Die Familienwährung
+Du bestimmst den Namen deiner Währung, zum Beispiel Bohnen, Sterne oder Münzen. Taschengeld geben oder abziehen geht nur im Elternmodus, der mit einer PIN gesperrt ist.
+
+Bezahlen und Familienladen
+Die Eltern legen fest, was es zu Hause gibt – etwa Snacks, Spielzeit oder Fernsehzeit – und versehen es mit einem Preis.
+Kinder suchen sich im Laden etwas aus und bezahlen sofort, oder sie scannen mit der Kamera einen Barcode, den ein Elternteil anzeigt.
+
+Sparen und Zinsen
+Auf das Geld im Sparkonto gibt es jede Woche Zinseszins. Die Eltern legen den Zinssatz fest, und man sieht im Voraus, wie viel das Geld wächst.
+
+Geldanlage zum Üben
+Kaufe und verkaufe drei Übungsfonds, deren Preis sich einmal am Tag ändert, und beobachte die Renditekurven. Vergleiche sichere, ausgewogene und riskante Fonds und verstehe, wie Risiko und Gewinn zusammenhängen.
+
+Markt und Verlauf
+Im Tab „Markt“ siehst du Preise, Wechselkurs, Zinssatz, Geldmenge und Anlagekurse deiner Familie auf einen Blick. Auch wird gezeigt, dass man bei steigenden Preisen mit demselben Geld weniger kaufen kann.
+Jede Geldbewegung wird im Kassenbuch festgehalten und lässt sich nach Datum, Mitglied und Art nachvollziehen.
+
+Lernen
+Ein Elternratgeber in 10 Schritten – von „Wozu braucht man Geld?“ über Bedürfnisse und Wünsche, Opportunitätskosten, Sparen und Zinsen, Zinseszins, Inflation und Geldanlage mit Risiko bis zum Budget – hilft euch, miteinander ins Gespräch zu kommen.
+Mit dem Zinseszins-Rechner und dem Inflations-Experiment kannst du selbst Zahlen ändern und ausprobieren.
+
+Kinderhandy-Modus
+Verwandle das Handy deines Kindes in eine Ansicht nur für dieses Kind. Es sieht nur seine eigene Geldbörse, Geldanlagen, den Verlauf und das Lernen, und zum Verlassen braucht es die Eltern-PIN. Mit einer QR-Einladung lädst du dein Kind ein.
+
+iCloud-Synchronisierung
+Geräte mit derselben iCloud-Anmeldung halten das Familien-Kassenbuch auf dem gleichen Stand.
