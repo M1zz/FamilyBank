@@ -18,7 +18,7 @@ W, H = 1242, 2688   # 이 계정의 iPhone 제출 규격
 
 # ── 앱마다 고치는 곳 ──────────────────────────────────────────────
 # 앱 언어 → App Store 로케일 (스토어 폴더 이름)
-STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO", "nl": "nl-NL", "pl": "pl-PL", "sv": "sv-SE"}
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO", "nl": "nl-NL", "pl": "pl-PL", "sv": "sv-SE", "tr": "tr-TR"}
 # 바탕 · 포인트 색 (헤더·검색 결과 그림과 맞춘다)
 BG, ACCENT, INK, SUB = "#EEF5EC", "#2F9E4F", "#12281C", "#5E6B62"
 # 언어 → [(원본 파일, 레이아웃, 헤드라인, 서브카피)]
@@ -30,6 +30,14 @@ SHOTS = {
         ("04-market.png",    "flat-rotate", "물가와 환율까지<br>진짜 경제처럼", "돈의 가치가 변하는 걸 직접 봐요"),
         ("05-actions.png",   "hero-bleed",  "용돈 주기도<br>결제도 간단하게", "부모 PIN으로 잠그고, 바코드로 결제"),
         ("06-learn.png",     "dark",        "10단계로 배우는<br>돈 이야기", "아이와 함께 읽는 부모 가이드"),
+    ],
+    "tr": [
+        ("01-dashboard.png", "hero-bleed"  , "Eviniz küçük bir<br>bankaya dönüşüyor", "Ebeveynler banka, çocuklar müşteri"),
+        ("02-child.png", "left-text"   , "Cüzdan, birikim ve<br>yatırım tek bakışta", "Her çocuğun kendi hesabı var"),
+        ("03-savings.png", "text-bottom" , "Biriktirince<br>faiz büyüyor", "Haftalık bileşik faizi grafikte gör"),
+        ("04-market.png", "flat-rotate" , "Fiyatlar ve kurlar<br>gerçek ekonomi gibi", "Paranın değerinin değişimini gör"),
+        ("05-actions.png", "hero-bleed"  , "Harçlık ve ödeme<br>çok kolay", "Ebeveyn PIN’iyle kilitle, barkodla öde"),
+        ("06-learn.png", "dark"        , "Parayı 10 adımda<br>öğren", "Çocukla birlikte okunacak ebeveyn rehberi"),
     ],
     "sv": [
         ("01-dashboard.png", "hero-bleed"  , "Ert hem blir<br>en liten bank", "Föräldrar är banken, barn är kunderna"),

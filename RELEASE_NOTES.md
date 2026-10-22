@@ -165,3 +165,10 @@ Skicka feedback från föräldraläget.
 Läs svar på din feedback i appen.
 Öppna integritet och support i appen.
 Appen fungerar nu stabilare.
+
+### 앱스토어 (Türkçe)
+
+Ebeveyn modundan geri bildirim gönder.
+Geri bildirimlere gelen yanıtları oku.
+Gizlilik ve destek uygulamada açılır.
+Uygulama daha kararlı çalışıyor.

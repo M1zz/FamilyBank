@@ -124,6 +124,12 @@
             "value" : "%@ %@ — จ่าย %@ %@ ไหม?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — %@ %@ ödensin mi?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -265,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จ่าย %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ öde"
           }
         },
         "vi" : {
@@ -410,6 +422,12 @@
             "value" : "ให้ %@ %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ ver"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -551,6 +569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หัก %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ düş"
           }
         },
         "vi" : {
@@ -696,6 +720,12 @@
             "value" : "ซื้อ %1$@ %2$@ ในราคา %3$@ %4$@ ไหม?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ ürününü %3$@ %4$@ karşılığında alalım mı?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -837,6 +867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ออม %@ %@ แล้ว! ดอกเบี้ยจะเพิ่มทุกสัปดาห์ 💰"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ biriktirdin! Her hafta faiz eklenir. 💰"
           }
         },
         "vi" : {
@@ -982,6 +1018,12 @@
             "value" : "ย้าย %@ %@ เข้ากระเป๋าเงินแล้ว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ cüzdana taşındı."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1123,6 +1165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่ถืออยู่ของ %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ varlıkları"
           }
         },
         "vi" : {
@@ -1268,6 +1316,12 @@
             "value" : "ธนาคารของ %@ %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ kişisinin bankası"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1409,6 +1463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้เป็นโทรศัพท์ของ %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ kişisinin telefonu yap"
           }
         },
         "vi" : {
@@ -1554,6 +1614,12 @@
             "value" : "ซื้อ %1$@ จำนวน %2$lld หน่วยแล้ว! 📈"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ ürününden %2$lld adet aldın! 📈"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1695,6 +1761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขาย %1$@ จำนวน %2$lld หน่วยแล้ว! %3$@ %4$@ เข้ากระเป๋าเงินแล้ว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ ürününden %2$lld adet sattın! %3$@ %4$@ cüzdana girdi."
           }
         },
         "vi" : {
@@ -1840,6 +1912,12 @@
             "value" : "%@%% (ทบต้น)"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%%%@ (bileşik)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1981,6 +2059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชวน %@\nมาใช้ซุกซุก ค่าขนม!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ kişisini\nSukSuk Harçlık’a davet et!"
           }
         },
         "vi" : {
@@ -2126,6 +2210,12 @@
             "value" : "จ่าย %2$@ %3$@ ให้ %1$@ แล้ว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ kişisine %2$@ %3$@ ödedin."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2267,6 +2357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ %1$@ ไป %2$@ %3$@ แล้ว! 🎁"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ kişisine %2$@ %3$@ verdin! 🎁"
           }
         },
         "vi" : {
@@ -2412,6 +2508,12 @@
             "value" : "%@ วอน → %@ %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ won → %@ %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2553,6 +2655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ซื้อ %@ แล้ว! เหลือในกระเป๋าเงิน: %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ satın aldın! Cüzdanda kalan: %@ %@"
           }
         },
         "vi" : {
@@ -2698,6 +2806,12 @@
             "value" : "ซื้อ %@ แล้ว! 🎉 เหลือในกระเป๋าเงิน: %@ %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ satın aldın! 🎉 Cüzdanda kalan: %@ %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2839,6 +2953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในกระเป๋าของ %@ ไม่พอ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ kişisinin cüzdanında yeterli bakiye yok."
           }
         },
         "vi" : {
@@ -2984,6 +3104,12 @@
             "value" : "หัก %2$@ %3$@ จากกระเป๋าเงินของ %1$@ แล้ว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ kişisinin cüzdanından %2$@ %3$@ düşüldü."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3125,6 +3251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขั้นที่ %lld"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adım %lld"
           }
         },
         "vi" : {
@@ -3270,6 +3402,12 @@
             "value" : "ขั้นที่ %lld · %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adım %lld · %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3411,6 +3549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld หน่วย · เฉลี่ย %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld adet · ort. %@"
           }
         },
         "vi" : {
@@ -3556,6 +3700,12 @@
             "value" : "มูลค่าของสิ่งที่ซื้อได้หลัง %lld สัปดาห์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld hafta sonra alınabilecek şeylerin değeri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3697,6 +3847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หลัง %lld สัปดาห์: %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld hafta sonra: %@ %@"
           }
         },
         "vi" : {
@@ -3842,6 +3998,12 @@
             "value" : "“ความจำเป็น” คือสิ่งที่ถ้าไม่มีจะลำบาก เช่น อาหาร เสื้อผ้า อุปกรณ์การเรียน ส่วน “ความอยาก” คือสิ่งที่มีแล้วสนุก แต่ไม่มีก็อยู่ได้ เช่น ของเล่น ไอเทมในเกม\n\nสำคัญทั้งสองอย่าง! แต่ลำดับสำคัญ ดูแลสิ่งจำเป็นก่อน แล้วค่อยวางแผนเอาเงินที่เหลือไปทำให้ความอยากเป็นจริง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“İhtiyaç”, olmayınca zor durumda kaldığın şeydir: yemek, giysi, okul malzemesi gibi. “İstek” ise olunca keyif veren ama olmasa da yaşayabildiğin şeydir: oyuncaklar, oyun eşyaları gibi.\n\nİkisi de önemli! Ama sıra önemli. Önce ihtiyaçları karşıla, sonra artan parayla plan yapıp isteklerini gerçekleştir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3983,6 +4145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ วอน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ won"
           }
         },
         "vi" : {
@@ -4128,6 +4296,12 @@
             "value" : "มูลค่าจริงของ 1 %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@’nin gerçek değeri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4269,6 +4443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ วอน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ won"
           }
         },
         "vi" : {
@@ -4414,6 +4594,12 @@
             "value" : "“พลังที่แท้จริง” ของ 1,000 %@ จะเปลี่ยนไปอย่างไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1.000 %@’nin “gerçek gücü” nasıl değişir?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4555,6 +4741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าฝากเงิน 1,000 เหรียญที่ดอกเบี้ย 5%% อีกหนึ่งสัปดาห์จะเป็นเท่าไร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1.000 madeni parayı %%5 faizle yatırırsan bir hafta sonra ne kadar olur?"
           }
         },
         "vi" : {
@@ -4700,6 +4892,12 @@
             "value" : "หนูมี 1,000 เหรียญ อยากซื้อทั้งขนมและสติกเกอร์ แต่เงินพอซื้อได้อย่างเดียว ทำไงดี? ถ้าเลือกอย่างหนึ่ง ก็ต้องสละอีกอย่าง\n\nสิ่งที่สละไปเรียกว่า “ต้นทุนค่าเสียโอกาส” ไม่ใช่แค่เงินเท่านั้น เวลาก็เหมือนกัน ถ้าเล่นเกมหนึ่งชั่วโมง ก็เท่ากับสละทุกอย่างที่ทำได้ในชั่วโมงนั้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1.000 madeni paran var ve hem şeker hem de çıkartma almak istiyorsun. Ama para sadece birine yetiyor. Ne yapacaksın? Birini seçersen diğerinden vazgeçmen gerekir.\n\nVazgeçtiğin şeye “fırsat maliyeti” denir. Sadece parada değil, zamanda da böyle. Bir saat oyun oynarsan, o saatte yapabileceğin diğer her şeyden vazgeçmiş olursun."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4841,6 +5039,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประมาณการหลัง 12 สัปดาห์: %@ %@ (+%@)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12 hafta sonra tahmin: %@ %@ (+%@)"
           }
         },
         "vi" : {
@@ -4986,6 +5190,12 @@
             "value" : "ราคาต่อหน่วย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adet başına fiyat"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5127,6 +5337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เปิดด้วย Face ID"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID ile aç"
           }
         },
         "vi" : {
@@ -5272,6 +5488,12 @@
             "value" : "เปลี่ยน PIN"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN’i değiştir"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5413,6 +5635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ป้อน PIN"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN girin"
           }
         },
         "vi" : {
@@ -5558,6 +5786,12 @@
             "value" : "PIN ต้องเป็นตัวเลข 4 หลัก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN 4 haneli bir sayı olmalı."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5699,6 +5933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถาม Siri เพื่อดูยอดเงินของลูกได้ทันที"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri’ye sorarak çocuğun bakiyesini hemen görün."
           }
         },
         "vi" : {
@@ -5844,6 +6084,12 @@
             "value" : "Siri และคำสั่งลัด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri ve Kısayollar"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5985,6 +6231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เปิดด้วย Touch ID"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch ID ile aç"
           }
         },
         "vi" : {
@@ -6130,6 +6382,12 @@
             "value" : "VoiceOver อ่านยอดเงินและปุ่มทุกอย่างครบถ้วนตามลำดับที่เหมาะสม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver tüm bakiyeleri ve düğmeleri eksiksiz ve doğru sırayla okur."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6271,6 +6529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใช้ VoiceOver ได้สะดวกขึ้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daha rahat VoiceOver"
           }
         },
         "vi" : {
@@ -6416,6 +6680,12 @@
             "value" : "≈ %@ วอน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ won"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6557,6 +6827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ ตั้งค่าธนาคาร"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Banka ayarları"
           }
         },
         "vi" : {
@@ -6702,6 +6978,12 @@
             "value" : "⚡️ การดำเนินการ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Eylemler"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6843,6 +7125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ร้านค้า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dükkân"
           }
         },
         "vi" : {
@@ -6988,6 +7276,12 @@
             "value" : "ลงทะเบียนในร้านค้า"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dükkâna kaydet"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7129,6 +7423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyat"
           }
         },
         "vi" : {
@@ -7274,6 +7574,12 @@
             "value" : "ราคาถูกกำหนดตรงจุดที่ความอยากซื้อกับปริมาณที่ขายมาเจอกัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyat, almak isteme ile satılan miktarın buluştuğu yerde belirlenir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7415,6 +7721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าราคาถูกกำหนดอย่างไร"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyatların nasıl belirlendiğini anlamak"
           }
         },
         "vi" : {
@@ -7560,6 +7872,12 @@
             "value" : "ป้ายราคา 🏷️"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyat etiketleri 🏷️"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7701,6 +8019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลงทะเบียนสมาชิกในครอบครัว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aile üyelerini ekleyin"
           }
         },
         "vi" : {
@@ -7846,6 +8170,12 @@
             "value" : "ลงทะเบียนครอบครัว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aileyi kaydet"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7987,6 +8317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่มีรายการธุรกรรม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İşlem yok"
           }
         },
         "vi" : {
@@ -8132,6 +8468,12 @@
             "value" : "ประเภทธุรกรรม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İşlem türü"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8273,6 +8615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กองทุนเต่ากับกองทุนจรวด อันไหนเสี่ยงกว่ากัน? เพราะอะไร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaplumbağa Fonu mu, Roket Fonu mu daha riskli? Neden?"
           }
         },
         "vi" : {
@@ -8418,6 +8766,12 @@
             "value" : "ต้นทุนค่าเสียโอกาสของการเล่นเกมหนึ่งชั่วโมงคืออะไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir saatlik oyun oynamanın fırsat maliyeti nedir?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8559,6 +8913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จ่ายเงิน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ödeme"
           }
         },
         "vi" : {
@@ -8704,6 +9064,12 @@
             "value" : "จ่ายเงินไม่สำเร็จ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ödeme başarısız"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8845,6 +9211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จ่ายเงินสำเร็จ! 🎉"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ödeme tamamlandı! 🎉"
           }
         },
         "vi" : {
@@ -8990,6 +9362,12 @@
             "value" : "จ่ายเงิน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öde"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9131,6 +9509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินที่มีแผนอยู่ได้นานกว่า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planlı para daha uzun dayanır."
           }
         },
         "vi" : {
@@ -9276,6 +9660,12 @@
             "value" : "เข้าใจว่าผลตอบแทนสูงมาพร้อมความเสี่ยงสูง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yüksek kazancın yüksek riskle geldiğini anlamak"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9417,6 +9807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประเภท"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategori"
           }
         },
         "vi" : {
@@ -9562,6 +9958,12 @@
             "value" : "สมาชิก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Üye"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9703,6 +10105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มสมาชิก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Üye ekle"
           }
         },
         "vi" : {
@@ -9848,6 +10256,12 @@
             "value" : "เมื่อขยายขนาดตัวอักษร หน้าจอจะจัดวางใหม่ให้อ่านง่ายโดยไม่ถูกตัด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yazıyı büyüttüğünüzde ekranlar kesilmeden düzgünce yeniden yerleşir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9989,6 +10403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จำนวนเงิน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutar"
           }
         },
         "vi" : {
@@ -10134,6 +10554,12 @@
             "value" : "ระยะเวลา: %lld สัปดาห์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Süre: %lld hafta"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10275,6 +10701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประวัติ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geçmiş"
           }
         },
         "vi" : {
@@ -10420,6 +10852,12 @@
             "value" : "ต้นทุนค่าเสียโอกาส"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fırsat maliyeti"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10561,6 +10999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แยกให้ออกระหว่างสิ่งที่จำเป็นจริงๆ กับสิ่งที่แค่อยากได้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerçekten ihtiyaç duyduğun şeyle sadece istediğin şeyi ayırt etmek"
           }
         },
         "vi" : {
@@ -10706,6 +11150,12 @@
             "value" : "ประวัติของฉัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geçmişim"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10847,6 +11297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บัญชีออมทรัพย์ของฉัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf hesabım"
           }
         },
         "vi" : {
@@ -10992,6 +11448,12 @@
             "value" : "กระเป๋าเงินของฉัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdanım"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11133,6 +11595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กระเป๋าเงินของฉัน: %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdanım: %@ %@"
           }
         },
         "vi" : {
@@ -11278,6 +11746,12 @@
             "value" : "ลองนึกว่าหนูมีปลาอยู่ แต่อยากได้รองเท้า ถ้าคนขายรองเท้าไม่ชอบปลา ก็แลกกันไม่ได้ใช่ไหม? คนสมัยก่อนก็รู้สึกว่ามันไม่สะดวกมาก เลยคิด “เงิน” ที่ทุกคนชอบขึ้นมา\n\nเงินมีหน้าที่สามอย่าง อย่างแรก แลกได้ทุกอย่าง (การแลกเปลี่ยน) อย่างที่สอง วัดได้ว่าของแต่ละอย่างมีค่าเท่าไร (การวัดมูลค่า) อย่างที่สาม เก็บไว้ใช้ทีหลังได้ (การเก็บรักษา)"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir balığın olduğunu ve ayakkabıya ihtiyacın olduğunu düşün. Ama ayakkabıcı balığı sevmiyorsa takas yapamazsın, değil mi? Eskiden insanlar da bunu çok zahmetli buluyordu. Bu yüzden herkesin sevdiği bir şey icat ettiler: “para”.\n\nParanın üç işi var. Birincisi, hemen her şeyle değiştirilebilir (değişim aracı). İkincisi, her şeyin ne kadar değerli olduğunu gösterir (değer ölçüsü). Üçüncüsü, saklayıp sonra kullanabilirsin (değer saklama)."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11419,6 +11893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จะชวนใคร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kimi davet etmek istiyorsunuz?"
           }
         },
         "vi" : {
@@ -11564,6 +12044,12 @@
             "value" : "จะจ่ายให้ใคร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kime ödeyeceksin?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11705,6 +12191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ใคร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kime?"
           }
         },
         "vi" : {
@@ -11850,6 +12342,12 @@
             "value" : "ถ้ากลิ้งก้อนหิมะจะเกิดอะไรขึ้น? ยิ่งกลิ้งก็ยิ่งใหญ่เร็วขึ้นใช่ไหม? ดอกเบี้ยทบต้นก็เป็นแบบนั้นแหละ\n\nถ้า 1,000 เหรียญได้ดอกเบี้ย 50 ก็จะเป็น 1,050 สัปดาห์ถัดไปดอกเบี้ยจะคิดจากทั้ง 1,050 เงินที่ดอกเบี้ยหามาได้ก็ออกดอกเบี้ยอีก! ตอนแรกอาจไม่เห็นผล แต่พอเวลาผ่านไป จะโตเหมือนก้อนหิมะ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kartopunu yuvarlayınca ne olur? Yuvarladıkça daha hızlı büyür, değil mi? Bileşik faiz tam olarak budur.\n\n1.000 madeni paraya 50 faiz eklenirse 1.050 olur. Gelecek hafta faiz 1.050’nin tamamı üzerinden hesaplanır. Faizin kazandırdığı paraya da yeniden faiz işler! Başta belli olmaz ama zamanla kartopu gibi büyür."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11991,6 +12489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถัดไป"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İleri"
           }
         },
         "vi" : {
@@ -12136,6 +12640,12 @@
             "value" : "ปิด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapat"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12277,6 +12787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินที่ยังไม่ใช้ ฝากเข้าบัญชีออมทรัพย์!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdi harcamayacağın parayı tasarruf hesabına!"
           }
         },
         "vi" : {
@@ -12422,6 +12938,12 @@
             "value" : "อ่านยอดเงินและประวัติได้ง่าย แม้เปิดเพิ่มคอนทราสต์หรือแยกสีได้ยาก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontrastı artırsanız ya da renkleri ayırt etmekte zorlansanız bile bakiyeleri ve geçmişi rahatça okuyun."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12563,6 +13085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ภาพรวม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Genel bakış"
           }
         },
         "vi" : {
@@ -12708,6 +13236,12 @@
             "value" : "ทำให้ใช้แอปได้ในอีกหลายภาษา"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uygulamayı daha fazla dilde kullanabilirsiniz."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12849,6 +13383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ภาษาเพิ่มเติม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daha fazla dil"
           }
         },
         "vi" : {
@@ -12994,6 +13534,12 @@
             "value" : "เงินเป็นเครื่องมือสำหรับแลก วัดค่า และเก็บไว้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para; değiştirmek, ölçmek ve saklamak için bir araçtır."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13135,6 +13681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทำไมเราถึงต้องมีเงิน?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para neden gerekli?"
           }
         },
         "vi" : {
@@ -13280,6 +13832,12 @@
             "value" : "สร้างนิสัยวางแผนและแบ่งใช้เงิน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parayı planlayıp paylaştırma alışkanlığı kazanmak"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13421,6 +13979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าเงินเกิดขึ้นมาทำไมและมีหน้าที่อะไร"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paranın neden ortaya çıktığını ve ne işe yaradığını anlamak"
           }
         },
         "vi" : {
@@ -13566,6 +14130,12 @@
             "value" : "PIN ที่ป้อนสองครั้งไม่ตรงกัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Girilen iki PIN birbirinden farklı."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13707,6 +14277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีสินค้า เพิ่มสินค้าลงร้านค้าก่อนด้วย “เพิ่มสินค้า”"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henüz ürün yok. Önce “Ürün ekle” ile dükkâna ürün ekleyin."
           }
         },
         "vi" : {
@@ -13852,6 +14428,12 @@
             "value" : "ยังไม่มีลูกที่ลงทะเบียน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kayıtlı çocuk yok"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13993,6 +14575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตัวต่อเลโก้เป็นเงินได้ไหม? จะผ่านการทดสอบห้าข้อหรือเปล่า?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir LEGO parçası para olabilir mi? Beş sınavı geçer mi?"
           }
         },
         "vi" : {
@@ -14138,6 +14726,12 @@
             "value" : "ถ้าโลกนี้ไม่มีเงิน จะเกิดอะไรขึ้นนะ?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünyada para olmasaydı ne olurdu?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14279,6 +14873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขาย"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sat"
           }
         },
         "vi" : {
@@ -14424,6 +15024,12 @@
             "value" : "ซื้อ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14565,6 +15171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกสัปดาห์ราคาสินค้าสูงขึ้น %@%% หมายความว่าเงินจำนวนเท่าเดิมซื้อของได้น้อยลงทีละนิด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyatlar her hafta %%%@ artıyor. Bu, aynı parayla her seferinde biraz daha az şey alınabileceği anlamına gelir."
           }
         },
         "vi" : {
@@ -14710,6 +15322,12 @@
             "value" : "ราคาสินค้าสูงขึ้นทุกสัปดาห์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyatlar her hafta artıyor"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14851,6 +15469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกสัปดาห์ดัชนีราคาของบ้านเราจะเพิ่มขึ้นเท่านี้ (ดัชนีปัจจุบัน %lld) ถ้าตั้งเป็น 0%% จะไม่มีเงินเฟ้อ ถ้าปรับราคาขนมและของเล่นจริงขึ้นเล็กน้อยตามไปด้วย ลูกจะได้เรียนรู้ว่ามูลค่าของเงินเปลี่ยนไปอย่างไร"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evimizin fiyat endeksi her hafta bu kadar artar (güncel endeks %lld). %%0 olursa enflasyon olmaz. Gerçek atıştırmalık ve oyuncak fiyatlarını da biraz yükseltirseniz çocuk paranın değerinin nasıl değiştiğini öğrenir."
           }
         },
         "vi" : {
@@ -14996,6 +15620,12 @@
             "value" : "บันทึก (เช่น ซื้อขนม)"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not (örn.: atıştırmalık al)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15137,6 +15767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บันทึก (เช่น ค่าขนมรายสัปดาห์)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not (örn.: haftalık harçlık)"
           }
         },
         "vi" : {
@@ -15282,6 +15918,12 @@
             "value" : "ราคาของสิ่งที่ทุกคนอยากขายจะเป็นอย่างไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herkesin satmak istediği bir şeyin fiyatına ne olur?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15423,6 +16065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สมาชิก ธุรกรรม และผลิตภัณฑ์ลงทุนทั้งหมดจะถูกลบ และกลับไปที่หน้าจอตั้งค่าเริ่มต้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tüm üyeler, işlemler ve yatırım ürünleri silinir ve ilk kurulum ekranına dönersiniz."
           }
         },
         "vi" : {
@@ -15568,6 +16216,12 @@
             "value" : "รีเซ็ตข้อมูลทั้งหมด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tüm verileri sıfırla"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15709,6 +16363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกการเลือกมีสิ่งที่สละไปซ่อนอยู่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her seçimin ardında vazgeçilen bir şey saklıdır."
           }
         },
         "vi" : {
@@ -15854,6 +16514,12 @@
             "value" : "ใช้ทำอะไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne için?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15995,6 +16661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อัตราราคาสินค้าเพิ่ม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyat artışı"
           }
         },
         "vi" : {
@@ -16140,6 +16812,12 @@
             "value" : "แนวโน้มราคา 📊"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyat seyri 📊"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16281,6 +16959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อราคาสูงขึ้น เงินเท่าเดิมซื้อของได้น้อยลง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyatlar artınca aynı parayla daha az şey alınır"
           }
         },
         "vi" : {
@@ -16426,6 +17110,12 @@
             "value" : "เมื่อราคาสูงขึ้น เงินจะมีพลังน้อยลง จึงต้องออมและลงทุน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyatlar artınca paranın gücü azalır. Bu yüzden tasarruf ve yatırım gerekir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16567,6 +17257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าเมื่อราคาสินค้าสูงขึ้น เงินจะมีพลังน้อยลง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyatlar artınca paranın gücünün azaldığını anlamak"
           }
         },
         "vi" : {
@@ -16712,6 +17408,12 @@
             "value" : "เมื่อราคาสินค้าสูงขึ้น การวางเงินทิ้งไว้ในกระเป๋าเฉยๆ เป็นเรื่องดีไหม?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyatlar artarken parayı cüzdanda öylece bırakmak iyi bir fikir mi?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16853,6 +17555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดัชนีราคา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyat endeksi"
           }
         },
         "vi" : {
@@ -16998,6 +17706,12 @@
             "value" : "สินค้าขายอยู่ %lld ชิ้น · ใช้อัตราแลกเปลี่ยนอัตโนมัติ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satışta %lld ürün · döviz kuru otomatik uygulanır"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17139,6 +17853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บาร์โค้ดสินค้า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürün barkodu"
           }
         },
         "vi" : {
@@ -17284,6 +18004,12 @@
             "value" : "จัดบาร์โค้ดของสินค้าให้อยู่ในกรอบ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürünün barkodunu çerçevenin içine getirin"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17425,6 +18151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชื่อสินค้า (เช่น น้ำอัดลม เล่นเกม 30 นาที)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürün adı (örn.: kola, 30 dk oyun)"
           }
         },
         "vi" : {
@@ -17570,6 +18302,12 @@
             "value" : "ข้อมูลสินค้า"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürün bilgileri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17711,6 +18449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มสินค้า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürün ekle"
           }
         },
         "vi" : {
@@ -17856,6 +18600,12 @@
             "value" : "บาร์โค้ด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barkod"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17997,6 +18747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ผู้รับ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alıcı"
           }
         },
         "vi" : {
@@ -18142,6 +18898,12 @@
             "value" : "เงินที่ได้รับ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alınan para"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18283,6 +19045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่มีผู้รับเงิน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ödemeyi alacak kimse yok"
           }
         },
         "vi" : {
@@ -18428,6 +19196,12 @@
             "value" : "เรียนรู้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öğren"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18569,6 +19343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สำรองและส่งออกข้อมูล"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yedekleme ve dışa aktarma"
           }
         },
         "vi" : {
@@ -18714,6 +19494,12 @@
             "value" : "สีและคอนทราสต์ที่อ่านง่าย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rahat renkler ve kontrast"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18855,6 +19641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มีหน่วยไม่พอ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yeterli adedin yok."
           }
         },
         "vi" : {
@@ -19000,6 +19792,12 @@
             "value" : "ผลิตภัณฑ์ลงทุนที่ถืออยู่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sahip olunan yatırım ürünleri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19141,6 +19939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปานกลาง 🐰"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dengeli 🐰"
           }
         },
         "vi" : {
@@ -19286,6 +20090,12 @@
             "value" : "มนตร์วิเศษของดอกเบี้ยทบต้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bileşik faizin sihri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19427,6 +20237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พ่อแม่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebeveyn"
           }
         },
         "vi" : {
@@ -19572,6 +20388,12 @@
             "value" : "คู่มือสำหรับพ่อแม่ 📖"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebeveyn rehberi 📖"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19713,6 +20535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "โหมดพ่อแม่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebeveyn modu"
           }
         },
         "vi" : {
@@ -19858,6 +20686,12 @@
             "value" : "ตั้งรหัส PIN ของโหมดพ่อแม่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebeveyn modu PIN’ini belirleyin"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19999,6 +20833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มผลิตภัณฑ์ได้ในโหมดพ่อแม่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürünleri ebeveyn modunda ekleyebilirsiniz"
           }
         },
         "vi" : {
@@ -20144,6 +20984,12 @@
             "value" : "ใช้ยืนยันว่าเป็นพ่อแม่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebeveyn onayı için kullanılır"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20285,6 +21131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ต้องให้พ่อแม่ยืนยัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir ebeveynin onayı gerekli"
           }
         },
         "vi" : {
@@ -20430,6 +21282,12 @@
             "value" : "พ่อแม่ 🏦"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebeveynler 🏦"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20571,6 +21429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พ่อแม่เป็นธนาคาร (ธนาคารกลาง) ส่วนลูกเป็นลูกค้า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebeveynler banka (merkez bankası) rolünde, çocuklar müşteridir."
           }
         },
         "vi" : {
@@ -20716,6 +21580,12 @@
             "value" : "ต้องให้พ่อแม่ยืนยัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir ebeveynin onayı gerekli"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20857,6 +21727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลงทะเบียนพ่อแม่อย่างน้อยหนึ่งคน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En az bir ebeveyn ekleyin."
           }
         },
         "vi" : {
@@ -21002,6 +21878,12 @@
             "value" : "ลองนึกถึงคนขายร่มในวันฝนตก คนอยากได้ร่มเยอะ แต่ร่มมีไม่กี่คัน? ต่อให้ขึ้นราคาก็ขายได้ ส่วนชุดว่ายน้ำตอนหมดหน้าร้อนล่ะ? ไม่มีใครอยากซื้อ ก็ต้องขายถูกๆ\n\nราคาจึงถูกกำหนดจากการดึงกันระหว่าง “ความอยากซื้อ” (อุปสงค์) กับ “ปริมาณที่ขาย” (อุปทาน) ราคาสินค้าลงทุนที่ขึ้นลงก็เป็นหลักการเดียวกัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yağmurlu bir günde şemsiye satan birini düşün. Çok kişi şemsiye istiyor ama birkaç tane var mı? Fiyatı artırsan da satılır. Peki yaz bitince mayolar? Kimse almak istemez, o yüzden ucuza satılmaları gerekir.\n\nFiyat böylece “almak isteme” (talep) ile “satılan miktar” (arz) arasındaki çekişmeyle belirlenir. Yatırım ürünlerinin fiyatları da aynı ilkeyle inip çıkar."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21143,6 +22025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ซื้อ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satın al"
           }
         },
         "vi" : {
@@ -21288,6 +22176,12 @@
             "value" : "ผลิตภัณฑ์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürün"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21429,6 +22323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชื่อผลิตภัณฑ์ (เช่น กองทุนแสงดาว)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürün adı (örn.: Yıldız Işığı Fonu)"
           }
         },
         "vi" : {
@@ -21574,6 +22474,12 @@
             "value" : "ข้อมูลผลิตภัณฑ์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürün bilgileri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21715,6 +22621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มผลิตภัณฑ์"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ürün ekle"
           }
         },
         "vi" : {
@@ -21860,6 +22772,12 @@
             "value" : "PIN ใหม่ 4 หลัก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yeni 4 haneli PIN"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22001,6 +22919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าเมื่อเลือกอย่างหนึ่ง ก็ต้องสละอีกอย่างหนึ่ง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir şeyi seçmenin başka bir şeyden vazgeçmek demek olduğunu anlamak"
           }
         },
         "vi" : {
@@ -22146,6 +23070,12 @@
             "value" : "คำอธิบาย (ไม่บังคับ)"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Açıklama (isteğe bağlı)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22287,6 +23217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การตอบสนองที่รู้สึกได้ด้วยปลายนิ้ว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parmak ucunda geri bildirim"
           }
         },
         "vi" : {
@@ -22432,6 +23368,12 @@
             "value" : "จำนวน: %lld หน่วย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adet: %lld"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22573,6 +23515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อุปสงค์และอุปทาน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arz ve talep"
           }
         },
         "vi" : {
@@ -22718,6 +23666,12 @@
             "value" : "ผลตอบแทนมากก็เสี่ยงมาก กระจายออกไป และเสี่ยงเท่าที่เสียได้เท่านั้น!"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kazanç büyükse risk de büyüktür. Böl, sadece kaybedebileceğin kadarını riske at!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22859,6 +23813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตัวเลข 4 หลัก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 haneli sayı"
           }
         },
         "vi" : {
@@ -23004,6 +23964,12 @@
             "value" : "ตอนเริ่ม = 100"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başlangıç = 100"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23145,6 +24111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคาเริ่มต้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başlangıç fiyatı"
           }
         },
         "vi" : {
@@ -23290,6 +24262,12 @@
             "value" : "+%@%% จากตอนเริ่ม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başlangıca göre +%%%@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23431,6 +24409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เริ่มเลย 🎉"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başlayalım 🎉"
           }
         },
         "vi" : {
@@ -23576,6 +24560,12 @@
             "value" : "ตลาด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pazar"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23717,6 +24707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไปที่แท็บ “ตลาด” แล้วดูป้ายราคาในร้านค้าด้วยกัน คุยกันว่าทำไมของแต่ละอย่างถึงราคาไม่เท่ากัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pazar sekmesinde dükkândaki fiyat etiketlerine birlikte bakın ve neden her şeyin fiyatının farklı olduğunu konuşun."
           }
         },
         "vi" : {
@@ -23862,6 +24858,12 @@
             "value" : "ดูดัชนีราคาและกราฟแนวโน้มราคาที่แท็บ “ตลาด” ด้วยกัน แล้วลองทดลองด้วย “ทดลองเงินเฟ้อ” ด้านล่าง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pazar sekmesinde fiyat endeksine ve fiyat seyri grafiğine birlikte bakın, sonra aşağıdaki “Enflasyon deneyi”ni deneyin."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24003,6 +25005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูราคาสินค้าลงทุนที่เปลี่ยนทุกวันในแท็บ “ตลาด” แล้วคุยกันว่า “ถ้าคนอยากซื้อเยอะ ราคาจะสูงขึ้น”"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pazar sekmesinde yatırım ürünlerinin fiyatlarının her gün değişmesini izleyin ve “çok kişi almak isterse fiyat yükselir” üzerine konuşun."
           }
         },
         "vi" : {
@@ -24148,6 +25156,12 @@
             "value" : "ราคาจริง %@ วอน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerçek fiyat: %@ won"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24289,6 +25303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคาจริง (วอน)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerçek fiyat (won)"
           }
         },
         "vi" : {
@@ -24434,6 +25454,12 @@
             "value" : "ราคาในโลกจริง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerçek dünyadaki fiyat"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24575,6 +25601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มูลค่าที่แท้จริง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerçek değer"
           }
         },
         "vi" : {
@@ -24720,6 +25752,12 @@
             "value" : "เริ่มใช้ซุกซุก ค่าขนม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Harçlık’a başla"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24861,6 +25899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยินดีต้อนรับสู่ซุกซุก ค่าขนม!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Harçlık’a hoş geldiniz!"
           }
         },
         "vi" : {
@@ -25006,6 +26050,12 @@
             "value" : "เคล็ดลับการใช้งาน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kullanım ipuçları"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25147,6 +26197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เขียนต่อจากที่ค้างไว้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaldığın yerden yazmaya devam et"
           }
         },
         "vi" : {
@@ -25292,6 +26348,12 @@
             "value" : "ใน “เครื่องคิดเลขดอกเบี้ยทบต้น” ด้านล่าง ลองเพิ่มระยะเวลาจาก 4 สัปดาห์เป็น 52 สัปดาห์ แล้วดูด้วยกันว่ากราฟชันขึ้นเรื่อยๆ!"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aşağıdaki “Bileşik faiz hesaplayıcısı”nda süreyi 4 haftadan 52 haftaya çıkarın. Grafiğin giderek dikleşmesini birlikte izleyin!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25433,6 +26495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าทำไมอะไรก็เป็นเงินไม่ได้ (คุณสมบัติของเงิน)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her şeyin neden para olamayacağını anlamak (paranın özellikleri)"
           }
         },
         "vi" : {
@@ -25578,6 +26646,12 @@
             "value" : "ลองย้ายเงินครึ่งหนึ่งในกระเป๋าของลูกเข้าบัญชีออมทรัพย์ แล้วหนึ่งสัปดาห์ต่อมาลองดูดอกเบี้ยด้วยกัน ได้ผลดีมาก!"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuğun cüzdanının yarısını tasarruf hesabına koyun. Bir hafta sonra faizi birlikte kontrol edin; etkisi harika olur!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25719,6 +26793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ก่อนที่ลูกจะจ่ายเงินที่ร้านค้า ให้ลูกบอก “อีกหนึ่งสิ่งที่ซื้อได้ด้วยเงินจำนวนนี้” ทุกครั้ง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuk dükkânda ödeme yapmadan önce, ondan mutlaka “bu parayla alınabilecek başka bir şey” söylemesini isteyin."
           }
         },
         "vi" : {
@@ -25864,6 +26944,12 @@
             "value" : "ลองพูดกับลูกแบบนี้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuğunuza şöyle söylemeyi deneyin"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26005,6 +27091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ค่อยๆ ไปทีละขั้นกับลูก เริ่มจากขั้นที่ 1 แต่ละขั้นทำตามลำดับ “อธิบาย → ถาม → ลองทำด้วยกัน” แค่ 10 นาทีก็พอ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuğunuzla 1. adımdan başlayarak adım adım ilerleyin. Her adım “anlat → sor → birlikte dene” sırasıyla ilerler ve 10 dakika yeter."
           }
         },
         "vi" : {
@@ -26150,6 +27242,12 @@
             "value" : "ลองแบ่งเงินจำนวนน้อยลงทุนใน 2 ผลิตภัณฑ์ร่วมกับลูก ดูราคาทุกวันเพื่อให้ชินกับการขึ้นลง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocukla birlikte az bir tutarı 2 ürüne bölün. İniş çıkışlara alışması için fiyatlara her gün birlikte bakın."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26291,6 +27389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประวัติราคายังไม่พอ พรุ่งนี้ลองมาดูอีกครั้ง!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyat geçmişi henüz yetersiz. Yarın tekrar bak!"
           }
         },
         "vi" : {
@@ -26436,6 +27540,12 @@
             "value" : "ยังไม่มีธุรกรรม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henüz işlem yok"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26577,6 +27687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีสินค้า\nลงทะเบียนสินค้าของบ้านเราในโหมดพ่อแม่ได้เลย!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henüz ürün yok.\nEbeveyn modunda ailenizin ürünlerini kaydedin!"
           }
         },
         "vi" : {
@@ -26722,6 +27838,12 @@
             "value" : "ยังไม่มีสินค้า · เพิ่มได้ที่แท็บการดำเนินการ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henüz ürün yok · Eylemler sekmesinden ekleyin"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26863,6 +27985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีที่ถืออยู่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henüz bir varlığın yok"
           }
         },
         "vi" : {
@@ -27008,6 +28136,12 @@
             "value" : "ปลอดภัย 🐢"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güvenli 🐢"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27149,6 +28283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แจ้งเตือน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildirim"
           }
         },
         "vi" : {
@@ -27294,6 +28434,12 @@
             "value" : "แนะนำฟังก์ชันที่ควรรู้อย่างเบามือในจังหวะที่เหมาะสม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İşe yarar özellikleri tam zamanında usulca hatırlatırız."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27435,6 +28581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การดำเนินการ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eylemler"
           }
         },
         "vi" : {
@@ -27580,6 +28732,12 @@
             "value" : "ลองทำด้วยกันในแอป"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uygulamada birlikte deneyin"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27721,6 +28879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูยอดเงินของลูกจากหน้าจอโฮมได้เลยโดยไม่ต้องเปิดแอป"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uygulamayı açmadan çocuğun bakiyesini doğrudan Ana Ekran’dan görün."
           }
         },
         "vi" : {
@@ -27866,6 +29030,12 @@
             "value" : "ใช้แอปเป็นภาษาอังกฤษได้ด้วย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uygulamayı İngilizce de kullanabilirsiniz."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28007,6 +29177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เท่าไร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne kadar?"
           }
         },
         "vi" : {
@@ -28152,6 +29328,12 @@
             "value" : "จะจ่ายเท่าไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne kadar ödeyeceksin?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28293,6 +29475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อเปิดแอปครั้งแรกหลังอัปเดต จะบอกว่ามีอะไรใหม่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güncellemeden sonra uygulamayı ilk açtığınızda nelerin yenilendiğini görürsünüz."
           }
         },
         "vi" : {
@@ -28438,6 +29626,12 @@
             "value" : "มีอะไรใหม่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yenilikler"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28579,6 +29773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บทบาท"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rol"
           }
         },
         "vi" : {
@@ -28724,6 +29924,12 @@
             "value" : "รองรับภาษาอังกฤษ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İngilizce desteği"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28865,6 +30071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เช่น ของที่ราคาจริง 1,000 วอน = %@ %@ ราคาสินค้าในร้านค้าเป็น %@ จะคำนวณอัตโนมัติด้วยอัตรานี้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Örn.: gerçekte 1.000 won olan bir ürün = %@ %@. Dükkândaki ürünlerin %@ cinsinden fiyatı bu kurla otomatik hesaplanır."
           }
         },
         "vi" : {
@@ -29010,6 +30222,12 @@
             "value" : "เช่น ถั่ว ดาว เหรียญ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Örn.: Fasulye, Yıldız, Madeni para"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29151,6 +30369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การวางแผนงบประมาณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bütçe yapmak"
           }
         },
         "vi" : {
@@ -29296,6 +30520,12 @@
             "value" : "สิ่งที่จะเรียนวันนี้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün öğrenecekler"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29437,6 +30667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เสร็จสิ้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitti"
           }
         },
         "vi" : {
@@ -29582,6 +30818,12 @@
             "value" : "ทำไมทรายข้างทางถึงเป็นเงินไม่ได้? ก็เพราะมีเยอะแยะไปหมดทุกที่น่ะสิ! การจะเป็นเงินที่ดีต้องผ่านการทดสอบห้าข้อ\n\n① ต้องคงทน (เน่าเสียไม่ได้!) ② ต้องพกง่าย (วัวหนักเกินไป ตกรอบ!) ③ ต้องแบ่งเป็นชิ้นเล็กๆ ได้ ④ ต้องไม่หาได้ง่ายเกินไป ⑤ ทุกคนต้องเชื่อว่า “นี่คือเงินจริงๆ”\n\nเหรียญของบ้านเรามีค่าเพราะพ่อกับแม่ไม่พิมพ์ออกมาตามใจ แต่รักษาสัญญา"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yoldaki kum neden para olamaz? Çünkü her yerde bol bol var! İyi bir para olmak için beş sınavı geçmek gerekir.\n\n① Dayanıklı olmalı (çürümemeli!) ② Taşıması kolay olmalı (inek çok ağır, elendi!) ③ Küçük parçalara bölünebilmeli ④ Çok yaygın olmamalı ⑤ Herkes “Bu gerçek para” diye inanmalı.\n\nEvimizin madeni paraları değerlidir çünkü annesi ve babası onları canları ne zaman isterse basmaz, verdikleri sözü tutar."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29723,6 +30965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ในสิ่งที่หนูอยากซื้อช่วงนี้ อะไรคือ “ความจำเป็น” และอะไรคือ “ความอยาก”?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Son zamanlarda almak istediklerinden hangisi ihtiyaç, hangisi istek?"
           }
         },
         "vi" : {
@@ -29868,6 +31116,12 @@
             "value" : "ค่าขนม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30009,6 +31263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แจ้งเตือนค่าขนม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık hatırlatıcıları"
           }
         },
         "vi" : {
@@ -30154,6 +31414,12 @@
             "value" : "ให้ค่าขนม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık ver"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30295,6 +31561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ / หักค่าขนม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık ver / düş"
           }
         },
         "vi" : {
@@ -30440,6 +31712,12 @@
             "value" : "ในวันให้ค่าขนม ให้ลูกกำหนดสัดส่วนการออม ลงทุน และใช้จ่ายด้วยตัวเอง แล้วทำตาม หนึ่งสัปดาห์ต่อมาดูแท็บ “ประวัติ” ย้อนหลังด้วยกัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık gününde çocuğun tasarruf, yatırım ve harcama oranlarını kendisinin belirleyip uygulamasını sağlayın. Bir hafta sonra Geçmiş sekmesine birlikte bakın."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30581,6 +31859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แจ้งเตือนในวันให้ค่าขนมหรือเมื่อดอกเบี้ยเข้า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık gününde ya da faiz eklendiğinde bildirim alın."
           }
         },
         "vi" : {
@@ -30726,6 +32010,12 @@
             "value" : "การให้ค่าขนมและการตั้งอัตราดอกเบี้ย\nทำได้เฉพาะคนที่รู้ PIN นี้เท่านั้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık vermek, faiz oranı ayarlamak gibi işlemleri\nyalnızca bu PIN’i bilenler yapabilir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30867,6 +32157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สั่นเบาๆ เมื่อได้รับค่าขนมหรือซื้อของ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık geldiğinde ya da bir şey alındığında hafif bir titreşimle haber verir."
           }
         },
         "vi" : {
@@ -31012,6 +32308,12 @@
             "value" : "ถ้าได้ค่าขนมมาแล้วใช้ทันทีโดยไม่วางแผน เงินจะหมดเร็ว จึงต้องวางแผนไว้ก่อน เรียกว่า “งบประมาณ”\n\nลองแบ่งแบบนี้ เก็บออม 30 ของจำเป็น 40 ของที่อยากได้ 20 ลองลงทุน 10 ไม่ต้องเป๊ะแบบนี้ก็ได้ สำคัญที่หนูตัดสินใจเอง!"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlığı alır almaz plansız harcarsan çabuk biter. O yüzden önceden plan yapılır. Buna “bütçe” denir.\n\nÖrneğin şöyle böl: tasarruf 30, gerekli şeyler 40, istediğin şeyler 20, yatırım denemesi 10. Tam böyle olmak zorunda değil. Önemli olan senin karar vermen!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31153,6 +32455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อให้ค่าขนมหรือจ่ายเงิน จะบันทึกไว้ที่นี่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık verince ya da ödeme yapınca burada görünür"
           }
         },
         "vi" : {
@@ -31298,6 +32606,12 @@
             "value" : "ให้ค่าขนม จ่ายเงิน รับดอกเบี้ยเงินออม\nและลองลงทุนด้วย — ระบบเศรษฐกิจเฉพาะครอบครัวของเรา"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harçlık verin, ödeme yapın, tasarruf faizi alın\nve hatta yatırım yapın; sadece ailenize özel bir ekonomi sistemi."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31439,6 +32753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ร้านค้าของบ้านเรา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ev dükkânı"
           }
         },
         "vi" : {
@@ -31584,6 +32904,12 @@
             "value" : "ดูสินค้าในร้านค้าของบ้านด้วยกัน แล้วแยกทีละชิ้นเป็น “ความจำเป็น” กับ “ความอยาก”"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evdeki dükkânın ürünlerine birlikte bakın ve tek tek “ihtiyaç” ile “istek” olarak ayırın."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31725,6 +33051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคาในบ้านเรา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evdeki fiyat"
           }
         },
         "vi" : {
@@ -31870,6 +33202,12 @@
             "value" : "ราคาของบ้านเรา"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evdeki fiyatlar"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32011,6 +33349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนนี้ดัชนีราคาของบ้านเราเป็นเท่าไร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evimizin fiyat endeksi şu anda kaç?"
           }
         },
         "vi" : {
@@ -32156,6 +33500,12 @@
             "value" : "บันทึกประวัติของธนาคารบ้านเราเป็นไฟล์ และนำกลับเข้ามาใหม่ได้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ev bankanızın kayıtlarını bir dosyaya kaydedin ve sonra geri yükleyin."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32297,6 +33647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เหรียญของบ้านเราแลกอะไรได้บ้าง?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evimizin madeni paralarıyla neler alabiliriz?"
           }
         },
         "vi" : {
@@ -32442,6 +33798,12 @@
             "value" : "ทำไมเหรียญของบ้านเราถึงมีค่า?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evimizin madeni paraları neden değerli?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32583,6 +33945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปริมาณเงินในบ้านเรา 💰"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evimizdeki para miktarı 💰"
           }
         },
         "vi" : {
@@ -32728,6 +34096,12 @@
             "value" : "เป็นผลิตภัณฑ์ลงทุนของบ้านเรา"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu, ailemizin yatırım ürünüdür."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32869,6 +34243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตั้งชื่อเงินของบ้านเรา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evinizin para birimine bir ad verin"
           }
         },
         "vi" : {
@@ -33014,6 +34394,12 @@
             "value" : "เงินที่หมุนเวียนในบ้านเรา"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evimizde dolaşan para"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33155,6 +34541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลดการเคลื่อนไหว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hareketi azalt"
           }
         },
         "vi" : {
@@ -33300,6 +34692,12 @@
             "value" : "เมื่อเปิด “ลดการเคลื่อนไหว” เอฟเฟกต์บนหน้าจอจะนุ่มนวลขึ้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“Hareketi Azalt” açıkken ekran efektleri daha sakin olur."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33441,6 +34839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วอน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "won"
           }
         },
         "vi" : {
@@ -33586,6 +34990,12 @@
             "value" : "ระดับความเสี่ยง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risk düzeyi"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33727,6 +35137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เสี่ยงสูง 🚀"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riskli 🚀"
           }
         },
         "vi" : {
@@ -33872,6 +35288,12 @@
             "value" : "ตั้งค่าธนาคาร"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Banka ayarları"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34013,6 +35435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อเอาเงินไปฝากธนาคาร ธนาคารจะบอกว่า “ขอบคุณที่ไว้ใจฝากเงิน!” แล้วให้ของแถมให้ ของแถมนั้นคือ “ดอกเบี้ย”\n\nเงินที่อยู่ในกระเป๋าเงินไม่เพิ่มขึ้นเลย ไม่ว่ารอนานแค่ไหน แต่ถ้าฝากเข้าบัญชีออมทรัพย์ จะมีดอกเบี้ยเพิ่มทุกสัปดาห์ เงินจึงงอกเงย เงินที่ยังไม่ใช้ตอนนี้ควรเก็บไว้ที่ไหนดี?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parayı bankaya bıraktığında banka “Bize güvendiğin için teşekkürler!” der ve sana biraz fazlasını verir. Bu fazlaya “faiz” denir.\n\nCüzdandaki para ne kadar beklesen de büyümez. Ama tasarruf hesabına koyarsan her hafta faiz eklenir ve para büyür. Şimdi harcamayacağın parayı nereye koymak iyi olur?"
           }
         },
         "vi" : {
@@ -34158,6 +35586,12 @@
             "value" : "ส่งเครื่องนี้ให้ลูก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu cihazı devret"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34299,6 +35733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เครื่องนี้จะเปลี่ยนเป็นหน้าจอเฉพาะของลูกที่เลือก ลูกจะเห็นเฉพาะกระเป๋าเงิน ร้านค้า การลงทุน ประวัติ และบทเรียนของตัวเอง เหมาะเวลาที่ส่งโทรศัพท์พ่อแม่ให้ลูกที่ไม่มีโทรศัพท์ หากต้องการกลับมา ให้แตะปุ่มกุญแจแล้วป้อน PIN ของพ่อแม่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu cihaz, seçilen çocuğa özel ekrana geçer. Çocuk yalnızca kendi cüzdanını, dükkânı, yatırımlarını, geçmişini ve derslerini görebilir. Telefonu olmayan bir çocuğa ebeveyn telefonunu verirken işe yarar. Geri dönmek için kilit düğmesine dokunup ebeveyn PIN’ini girin."
           }
         },
         "vi" : {
@@ -34444,6 +35884,12 @@
             "value" : "ให้เครื่องนี้เป็นโทรศัพท์ของ %@ %@ ไหม? ต้องใช้ PIN ของพ่อแม่เพื่อกลับมา"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu cihaz %@ %@ kişisinin telefonu yapılsın mı? Geri dönmek için ebeveyn PIN’i gerekir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34585,6 +36031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จะให้เครื่องนี้เป็นโทรศัพท์ของใคร? ต้องใช้ PIN ของพ่อแม่เพื่อกลับมา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu cihaz kimin telefonu olsun? Geri dönmek için ebeveyn PIN’i gerekir."
           }
         },
         "vi" : {
@@ -34730,6 +36182,12 @@
             "value" : "ถ้าวางไว้แบบนี้จะเป็นเท่าไร? (ประมาณการ 12 สัปดาห์ ดอกเบี้ยทบต้น)"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Böyle bırakırsan ne kadar olur? (bileşik faizle 12 haftalık tahmin)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34871,6 +36329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลองถามแบบนี้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şöyle sormayı deneyin"
           }
         },
         "vi" : {
@@ -35016,6 +36480,12 @@
             "value" : "ชื่อ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35157,6 +36627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อีโมจิ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
           }
         },
         "vi" : {
@@ -35302,6 +36778,12 @@
             "value" : "ค่าขนมสัปดาห์นี้ หนูอยากแบ่งอย่างไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu haftaki harçlığını nasıl bölmek istersin?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35443,6 +36925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เหตุผล"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neden"
           }
         },
         "vi" : {
@@ -35588,6 +37076,12 @@
             "value" : "ดอกเบี้ย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faiz"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35729,6 +37223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดอกเบี้ย · อัตราแลกเปลี่ยน · ราคา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faiz · Kur · Fiyatlar"
           }
         },
         "vi" : {
@@ -35874,6 +37374,12 @@
             "value" : "เมื่อดอกเบี้ยออกดอกเบี้ย เรียกว่า “ดอกเบี้ยทบต้น” ยิ่งออมนาน เงินก็ยิ่งโตเหมือนก้อนหิมะ! ⛄️"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faizin faiz kazanmasına “bileşik faiz” denir. Ne kadar uzun süre tasarruf edersen para o kadar kartopu gibi büyür! ⛄️"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36015,6 +37521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ได้เงิน %@ %@ จากดอกเบี้ยอย่างเดียว!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sadece faizden %@ %@ kazandın!"
           }
         },
         "vi" : {
@@ -36160,6 +37672,12 @@
             "value" : "เข้าใจว่าดอกเบี้ยที่ออกดอกเบี้ยจะใหญ่ขึ้นเหมือนก้อนหิมะ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faizin faizinin kartopu gibi büyüdüğünü anlamak"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36301,6 +37819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าอัตราดอกเบี้ยต่ำกว่าอัตราราคาสินค้าเพิ่ม แม้ออมไว้เงินก็ยังเสียพลัง ลองเพิ่มอัตราดอกเบี้ยดู!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faiz oranı fiyat artışından düşükse tasarruf etsen de paranın gücü azalır. Faiz oranını yükseltmeyi dene!"
           }
         },
         "vi" : {
@@ -36446,6 +37970,12 @@
             "value" : "ย้อนกลับ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36587,6 +38117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินเฟ้อ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enflasyon"
           }
         },
         "vi" : {
@@ -36732,6 +38268,12 @@
             "value" : "ไม่มีเงินเฟ้อ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enflasyon yok"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36873,6 +38415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gün"
           }
         },
         "vi" : {
@@ -37018,6 +38566,12 @@
             "value" : "เริ่มเร็ว ทำต่อเนื่อง — นี่คือความลับของดอกเบี้ยทบต้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erken başla, sürdür; bileşik faizin sırrı budur."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37159,6 +38713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เสียเงินได้ประมาณเท่าไรถึงจะไม่เป็นไร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne kadar parayı kaybetmek sorun olmaz?"
           }
         },
         "vi" : {
@@ -37304,6 +38864,12 @@
             "value" : "ฝาก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatır"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37445,6 +39011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฝาก / ถอน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatır / Çek"
           }
         },
         "vi" : {
@@ -37590,6 +39162,12 @@
             "value" : "ลูก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuk"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37731,6 +39309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สแกนด้วยกล้องของเครื่องลูกเพื่อดูคำเชิญ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daveti görmek için çocuğun cihazının kamerasıyla tarayın"
           }
         },
         "vi" : {
@@ -37876,6 +39460,12 @@
             "value" : "ชวนลูก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuğu davet et"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38017,6 +39607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "โหมดโทรศัพท์ของลูก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuk telefonu modu"
           }
         },
         "vi" : {
@@ -38162,6 +39758,12 @@
             "value" : "สลับเป็นโทรศัพท์ของลูก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuk telefonuna geç"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38303,6 +39905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลูก 👧"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuklar 👧"
           }
         },
         "vi" : {
@@ -38448,6 +40056,12 @@
             "value" : "เมื่อลูกสแกนบาร์โค้ดนี้ด้วย “สแกนเพื่อจ่าย”\nจะมี %@ หักออกจากกระเป๋าเงิน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuğunuz bu barkodu “Tara ve öde” ile okuttuğunda\ncüzdanından %@ düşülür."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38589,6 +40203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลงทะเบียนลูกอย่างน้อยหนึ่งคน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En az bir çocuk ekleyin."
           }
         },
         "vi" : {
@@ -38734,6 +40354,12 @@
             "value" : "ปีที่แล้วขนมราคา 1,000 ปีนี้ราคา 1,100 ทั้งที่ขนมไม่ได้ใหญ่ขึ้น! การที่ราคาของแพงขึ้นแบบนี้เรียกว่า “เงินเฟ้อ”\n\nตัวเลขบนเงินของเรายังเท่าเดิม แต่ซื้อของได้น้อยลง เหมือนลมที่รั่วออกจากลูกโป่ง พลังของเงินอ่อนลง ดังนั้นการวางเงินทิ้งไว้ในกระเป๋าเฉยๆ จะค่อยๆ เสียเปรียบ ต้องทำให้เงินเพิ่มเร็วกว่าราคาสินค้าด้วยดอกเบี้ยหรือการลงทุน จึงจะรักษาพลังของเงินไว้ได้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geçen yıl bir şekerleme 1.000’di. Bu yıl 1.100 oldu. Üstelik şekerleme büyümedi! Fiyatlar böyle arttığında buna “enflasyon” denir.\n\nParandaki sayı aynı kalır ama alabildiğin şey azalır. Balondan hava çıkar gibi paranın gücü zayıflar. O yüzden parayı cüzdanda hareketsiz bırakırsan yavaş yavaş kaybedersin. Gücünü korumak için parayı fiyatlardan daha hızlı büyütmen gerekir; faizle ya da yatırımla."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38875,6 +40501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยอดคงเหลือ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bakiye"
           }
         },
         "vi" : {
@@ -39020,6 +40652,12 @@
             "value" : "ล็อก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kilitle"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39161,6 +40799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บันทึก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaydet"
           }
         },
         "vi" : {
@@ -39306,6 +40950,12 @@
             "value" : "เงินออม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39447,6 +41097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดอกเบี้ยออม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf faizi"
           }
         },
         "vi" : {
@@ -39592,6 +41248,12 @@
             "value" : "ฝากเงินออม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarrufa yatırma"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39733,6 +41395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยอดเงินออม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf bakiyesi"
           }
         },
         "vi" : {
@@ -39878,6 +41546,12 @@
             "value" : "ถอนเงินออม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruftan çekme"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40019,6 +41693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินออม: %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf: %@"
           }
         },
         "vi" : {
@@ -40164,6 +41844,12 @@
             "value" : "การออมและดอกเบี้ย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf ve faiz"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40305,6 +41991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คนที่เริ่มออมเร็วกับคนที่เริ่มช้า ต่อไปใครจะรวยกว่ากัน?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biri erken, biri geç tasarrufa başlarsa sonunda kim daha zengin olur?"
           }
         },
         "vi" : {
@@ -40450,6 +42142,12 @@
             "value" : "ฝากเข้าบัญชีออมทรัพย์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf hesabına koy"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40591,6 +42289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในบัญชีออมทรัพย์ไม่พอ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf hesabında yeterli para yok."
           }
         },
         "vi" : {
@@ -40736,6 +42440,12 @@
             "value" : "ดอกเบี้ยทบต้นทุกสัปดาห์ในบัญชีออมทรัพย์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarruf hesabında haftalık bileşik faiz"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40877,6 +42587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจหลักการที่ทำให้เงินงอกเงยเมื่อออม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasarrufun parayı nasıl büyüttüğünü anlamak"
           }
         },
         "vi" : {
@@ -41022,6 +42738,12 @@
             "value" : "เงินที่ออม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biriktirilen para"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41163,6 +42885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แม้แอปปิดไประหว่างพิมพ์ สิ่งที่พิมพ์ไว้ก็ยังอยู่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yazarken uygulama kapansa bile yazdıkların kalır."
           }
         },
         "vi" : {
@@ -41308,6 +43036,12 @@
             "value" : "ลบทั้งหมด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hepsini sil"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41449,6 +43183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทั้งหมด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tümü"
           }
         },
         "vi" : {
@@ -41594,6 +43334,12 @@
             "value" : "ต้องการลบข้อมูลทั้งหมดจริงหรือไม่?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tüm veriler gerçekten silinsin mi?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41735,6 +43481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประเภท"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tür"
           }
         },
         "vi" : {
@@ -41880,6 +43632,12 @@
             "value" : "เงินที่ดีต้องเป็นอย่างไร"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İyi paranın şartları"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42021,6 +43779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สัปดาห์"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hf"
           }
         },
         "vi" : {
@@ -42166,6 +43930,12 @@
             "value" : "สัปดาห์ละ %@%%"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haftada %%%@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42307,6 +44077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคาสินค้าเพิ่มรายสัปดาห์: %@%%"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haftalık fiyat artışı: %%%@"
           }
         },
         "vi" : {
@@ -42452,6 +44228,12 @@
             "value" : "อัตราดอกเบี้ยรายสัปดาห์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haftalık faiz oranı"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42593,6 +44375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อัตราดอกเบี้ยรายสัปดาห์: %@%%"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haftalık faiz oranı: %%%@"
           }
         },
         "vi" : {
@@ -42738,6 +44526,12 @@
             "value" : "ดอกเบี้ยออมรายสัปดาห์ %@%% · ราคาสินค้าเพิ่มรายสัปดาห์ %@%%"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haftalık tasarruf faizi %%%@ · Haftalık fiyat artışı %%%@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42879,6 +44673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดอกเบี้ยออมรายสัปดาห์: %@%%"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haftalık tasarruf faizi: %%%@"
           }
         },
         "vi" : {
@@ -43024,6 +44824,12 @@
             "value" : "กระเป๋าเงิน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdan"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43165,6 +44971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยอดเงินในกระเป๋า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdan bakiyesi"
           }
         },
         "vi" : {
@@ -43310,6 +45122,12 @@
             "value" : "กระเป๋าเงิน: %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdan: %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43451,6 +45269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กระเป๋าเงิน: %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdan: %@ %@"
           }
         },
         "vi" : {
@@ -43596,6 +45420,12 @@
             "value" : "เงินที่วางไว้ในกระเป๋าเฉยๆ พลังลดลง แต่เงินที่ออมไว้รักษาพลังได้! 💪"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdanda duran paranın gücü azaldı, ama biriktirilen para gücünü korudu! 💪"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43737,6 +45567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในกระเป๋าไม่พอ! ยอดคงเหลือ: %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdanda yeterli para yok! Bakiye: %@ %@"
           }
         },
         "vi" : {
@@ -43882,6 +45718,12 @@
             "value" : "เงินในกระเป๋าไม่พอ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdanda yeterli para yok."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44023,6 +45865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในกระเป๋าไม่พอ ต้องใช้: %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdanda yeterli para yok. Gereken: %@ %@"
           }
         },
         "vi" : {
@@ -44168,6 +46016,12 @@
             "value" : "เงินในกระเป๋า"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdandaki para"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44309,6 +46163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในกระเป๋ากับเงินที่ออมไว้ต่างกันอย่างไร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdandaki para ile biriktirilen para arasında ne fark var?"
           }
         },
         "vi" : {
@@ -44454,6 +46314,12 @@
             "value" : "ถอนเข้ากระเป๋าเงิน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cüzdana çek"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44595,6 +46461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ · หัก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver · Düş"
           }
         },
         "vi" : {
@@ -44740,6 +46612,12 @@
             "value" : "ครั้งก่อนที่ซื้อของ หนูสละอะไรไป?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En son bir şey aldığında neden vazgeçtin?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44881,6 +46759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สัปดาห์ที่แล้วหนูใช้เงินไปกับอะไรมากที่สุด?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geçen hafta en çok neye para harcadın?"
           }
         },
         "vi" : {
@@ -45026,6 +46910,12 @@
             "value" : "ดัชนี %lld"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endeks %lld"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45167,6 +47057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ช่วยเหลือ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destek"
           }
         },
         "vi" : {
@@ -45312,6 +47208,12 @@
             "value" : "เลือกของในบ้าน 3 อย่าง แล้วเล่นเกม “สิ่งนี้เป็นเงินได้ไหม?” ให้ติ๊กถูกหรือผิดกับเงื่อนไขทั้งห้าข้อ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evden 3 eşya seçip “Bu para olabilir mi?” oyununu oynayın. Beş şartın her birine ✓ veya ✗ koyun."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45453,6 +47355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สแกนเพื่อจ่าย"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tara ve öde"
           }
         },
         "vi" : {
@@ -45598,6 +47506,12 @@
             "value" : "สแกนแล้วจ่ายทันที"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tara ve hemen öde"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45739,6 +47653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หักเงิน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Düşüm"
           }
         },
         "vi" : {
@@ -45884,6 +47804,12 @@
             "value" : "หัก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Düş"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46025,6 +47951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินตั้งต้น: %@ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başlangıç tutarı: %@ %@"
           }
         },
         "vi" : {
@@ -46170,6 +48102,12 @@
             "value" : "ราคาสินค้าสูงขึ้น %@%% จากตอนเริ่ม 1,000 %@ ในกระเป๋าตอนนี้มีพลังเท่ากับ %@ %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiyatlar başlangıca göre %%%@ arttı. Cüzdandaki 1.000 %@ artık %@ %@ değerinde güce sahip."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46311,6 +48249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คำเชิญ · QR"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Davetiye · QR"
           }
         },
         "vi" : {
@@ -46456,6 +48400,12 @@
             "value" : "ส่งคำเชิญ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Davetiye gönder"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46597,6 +48547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยอดรวม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toplam tutar"
           }
         },
         "vi" : {
@@ -46742,6 +48698,12 @@
             "value" : "สินทรัพย์รวม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toplam varlık"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46883,6 +48845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สินทรัพย์รวม · ประมาณ %@ วอนในเงินจริง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toplam varlık · gerçek parayla yaklaşık %@ won"
           }
         },
         "vi" : {
@@ -47028,6 +48996,12 @@
             "value" : "ธุรกรรมล่าสุด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Son işlemler"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47169,6 +49143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่ม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ekle"
           }
         },
         "vi" : {
@@ -47314,6 +49294,12 @@
             "value" : "ถอน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çek"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47455,6 +49441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยกเลิก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vazgeç"
           }
         },
         "vi" : {
@@ -47600,6 +49592,12 @@
             "value" : "ทำไมของเล่นยอดนิยมถึงแพงขึ้นช่วงคริสต์มาส?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popüler oyuncaklar Noel’de neden pahalanır?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47741,6 +49739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หน้าจอที่รองรับตัวอักษรใหญ่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Büyük yazıya uygun ekranlar"
           }
         },
         "vi" : {
@@ -47886,6 +49890,12 @@
             "value" : "ลงทุน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48027,6 +50037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขายการลงทุน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım satımı"
           }
         },
         "vi" : {
@@ -48172,6 +50188,12 @@
             "value" : "ซื้อการลงทุน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım alımı"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48313,6 +50335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ผลิตภัณฑ์ลงทุน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım ürünleri"
           }
         },
         "vi" : {
@@ -48458,6 +50486,12 @@
             "value" : "เพิ่มผลิตภัณฑ์ลงทุน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım ürünü ekle"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48599,6 +50633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตลาดลงทุน 📈"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım pazarı 📈"
           }
         },
         "vi" : {
@@ -48744,6 +50784,12 @@
             "value" : "มูลค่าการลงทุน: %@ %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım değeri: %@ %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48885,6 +50931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การลงทุนเหมือนการปลูกเงิน ถ้าเมล็ดเติบโตดีก็กลายเป็นต้นไม้ใหญ่ แต่ก็อาจเหี่ยวเฉาได้ ต่างจากการออม การลงทุนทำให้เงินเพิ่มขึ้นหรือลดลงก็ได้\n\nจำกฎนี้ไว้ ยิ่งได้กำไรมากเท่าไร ก็ยิ่งเสียได้มากเท่านั้น และถ้าใส่ไข่ทั้งหมดไว้ในตะกร้าใบเดียว พอตกก็แตกหมด ต้องกระจายใส่หลายตะกร้า (กระจายการลงทุน) ปลูกเท่าที่เสียได้เท่านั้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım yapmak, para ekmek gibidir. Tohum iyi büyürse koca bir ağaç olur ama solabilir de. Tasarruftan farklı olarak yatırımda para artabilir de azalabilir de.\n\nBu kuralı aklında tut: Ne kadar çok kazanabiliyorsan o kadar çok kaybedebilirsin. Üstelik bütün yumurtaları tek sepete koyarsan düşünce hepsi kırılır. Bölüştür (çeşitlendirme). Sadece kaybetmeyi göze alabileceğin kadarını ek."
           }
         },
         "vi" : {
@@ -49030,6 +51082,12 @@
             "value" : "การลงทุนและความเสี่ยง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım ve risk"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49171,6 +51229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ผู้ลงทุน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırımcı"
           }
         },
         "vi" : {
@@ -49316,6 +51380,12 @@
             "value" : "เลือกผู้ลงทุน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırımcı seç"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49457,6 +51527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หากต้องการลงทุน ให้ลงทะเบียนลูกที่หน้าแรกก่อน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatırım yapmak için önce Ana sayfadan bir çocuk ekleyin."
           }
         },
         "vi" : {
@@ -49602,6 +51678,12 @@
             "value" : "ไม่มีผลิตภัณฑ์ลงทุนที่ขายอยู่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satışta yatırım ürünü yok"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49743,6 +51825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หน้าจอสำหรับ iPhone แบบพับได้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katlanabilir iPhone ekranı"
           }
         },
         "vi" : {
@@ -49888,6 +51976,12 @@
             "value" : "ใช้หน้าจอกว้างของ iPhone แบบพับได้แบ่งเป็นสองฝั่ง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katlanabilir iPhone’un geniş ekranını iki bölme olarak kullanın."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50029,6 +52123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จำเป็นก่อน ความอยากทีหลัง!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Önce ihtiyaçlar, sonra istekler!"
           }
         },
         "vi" : {
@@ -50174,6 +52274,12 @@
             "value" : "ความจำเป็นกับความอยาก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İhtiyaçlar ve istekler"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50315,6 +52421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าไม่ซื้อสิ่งจำเป็นแต่ซื้อสิ่งที่อยากก่อน จะเกิดอะไรขึ้น?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İhtiyaçları almayıp önce istekleri alırsan ne olur?"
           }
         },
         "vi" : {
@@ -50460,6 +52572,12 @@
             "value" : "ตัวกรอง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtre"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50601,6 +52719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ล้างตัวกรอง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtreleri sıfırla"
           }
         },
         "vi" : {
@@ -50746,6 +52870,12 @@
             "value" : "ขยับแรงถึง ±15%% ต่อวัน! อาจได้กำไรมากหรือขาดทุนมาก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günde ±%%15’e kadar sert hareket eder! Çok kazanabilir ya da çok kaybedebilirsin."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50887,6 +53017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขยับขึ้นลงเล็กน้อยประมาณ ±2%% ต่อวัน มีโอกาสขาดทุนน้อย"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günde yaklaşık ±%%2 ile yavaş yavaş hareket eder. Kaybetme ihtimali düşük."
           }
         },
         "vi" : {
@@ -51032,6 +53168,12 @@
             "value" : "ขึ้นลงประมาณ ±6%% ต่อวัน เป็นความท้าทายระดับกลาง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günde yaklaşık ±%%6 inip çıkar. Ölçülü bir meydan okuma."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51173,6 +53315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ป้อนอีกครั้ง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir kez daha girin"
           }
         },
         "vi" : {
@@ -51318,6 +53466,12 @@
             "value" : "ทดลองด้วยกัน · เครื่องคิดเลขดอกเบี้ยทบต้น 🧮"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Birlikte deney yapalım · Bileşik faiz hesaplayıcısı 🧮"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51459,6 +53613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทดลองด้วยกัน · ทดลองเงินเฟ้อ 🎈"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Birlikte deney yapalım · Enflasyon deneyi 🎈"
           }
         },
         "vi" : {
@@ -51604,6 +53764,12 @@
             "value" : "ราคาปัจจุบัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güncel fiyat"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51745,6 +53911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กระเป๋าเงินตอนนี้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güncel cüzdan"
           }
         },
         "vi" : {
@@ -51890,6 +54062,12 @@
             "value" : "วิดเจ็ตหน้าจอโฮม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ana Ekran widget’ları"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52031,6 +54209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สกุลเงิน “%@” · ดอกเบี้ยรายสัปดาห์ %@%%"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para birimi “%@” · Haftalık faiz %%%@"
           }
         },
         "vi" : {
@@ -52176,6 +54360,12 @@
             "value" : "ชื่อสกุลเงิน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para birimi adı"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52317,6 +54507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตกลง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tamam"
           }
         },
         "vi" : {
@@ -52462,6 +54658,12 @@
             "value" : "อัตราแลกเปลี่ยน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Döviz kuru"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52603,6 +54805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คำนวณอัตโนมัติที่ 1 %@ = %@ วอน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ won kuruyla otomatik hesaplanır."
           }
         },
         "vi" : {
@@ -52748,6 +54956,12 @@
             "value" : "อัตราแลกเปลี่ยน: 1 %@ ="
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Döviz kuru: 1 %@ ="
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52889,6 +55103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ต้องหายากและทุกคนเชื่อถือ จึงจะเป็นเงินได้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para olmak için az bulunur olmalı ve herkes ona güvenmeli."
           }
         },
         "vi" : {
@@ -53034,6 +55254,12 @@
             "value" : "🌱 %@ ขอเชิญมาใช้ซุกซุก ค่าขนมด้วยกัน!\n\nมาใช้สกุลเงินของบ้านเรา “%@” ด้วยกัน:\n• เก็บค่าขนมและใช้จ่าย 💸\n• ถ้าออมจะได้ดอกเบี้ย %@%% ทุกสัปดาห์ 🏦\n• เรียนรู้เศรษฐกิจจากผลิตภัณฑ์ลงทุน 📈\n\nเปิดแอปซุกซุก ค่าขนมบนเครื่องที่ล็อกอิน iCloud บัญชีเดียวกับเครื่องของพ่อแม่ ก็เข้าร่วมได้ทันที!"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, SukSuk Harçlık’a davetlisin!\n\nEvimizin para birimi “%@” ile birlikte başlayalım:\n• Harçlığı biriktir ve onunla öde 💸\n• Tasarruf edersen her hafta %%%@ faiz alırsın 🏦\n• Yatırım ürünleriyle ekonomiyi öğren 📈\n\nEbeveynlerinin cihazıyla aynı iCloud hesabıyla oturum açılmış bir cihazda SukSuk Harçlık uygulamasını aç, hemen katılabilirsin!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53175,6 +55401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 เรียนรู้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Öğren"
           }
         },
         "vi" : {
@@ -53320,6 +55552,12 @@
             "value" : "🏛️ ตลาด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Pazar"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53461,6 +55699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 โหมดพ่อแม่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Ebeveyn modu"
           }
         },
         "vi" : {
@@ -53606,6 +55850,12 @@
             "value" : "🏦 เงินออม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Tasarruf"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53747,6 +55997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 บัญชีออมทรัพย์"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Tasarruf hesabı"
           }
         },
         "vi" : {
@@ -53892,6 +56148,12 @@
             "value" : "🏪 ร้านค้าของบ้านเรา"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Ev dükkânı"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -54033,6 +56295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ บาร์โค้ดสินค้า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Ürün barkodu"
           }
         },
         "vi" : {
@@ -54178,6 +56446,12 @@
             "value" : "👨‍👩‍👧‍👦 สมาชิกในครอบครัว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Aile üyeleri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -54319,6 +56593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 คำเชิญ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Davetiye"
           }
         },
         "vi" : {
@@ -54464,6 +56744,12 @@
             "value" : "💡 ถ้าวางเงินไว้เฉยๆ พลังจะลดลง รักษาไว้ด้วยการออม (ดอกเบี้ย) หรือการลงทุน!"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Para hareketsiz kalırsa gücü azalır. Tasarruf (faiz) veya yatırımla koruyun!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -54605,6 +56891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 ส่งคำเชิญทางข้อความหรือแอปแชตได้\nเครื่องที่ล็อกอิน iCloud บัญชีเดียวกันจะเห็นข้อมูลอัตโนมัติ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Daveti mesajla ya da bir sohbet uygulamasıyla gönderebilirsiniz.\nAynı iCloud hesabıyla oturum açılmış cihazlarda veriler otomatik görünür."
           }
         },
         "vi" : {
@@ -54750,6 +57042,12 @@
             "value" : "💡 ราคาเปลี่ยนวันละครั้ง ซื้อตอนถูกขายตอนแพงได้กำไร กลับกันขาดทุน!"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Fiyatlar günde bir kez değişir. Ucuza alıp pahalıya satmak kazandırır, tersi kaybettirir!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -54891,6 +57189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 จ่ายเงิน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Öde"
           }
         },
         "vi" : {
@@ -55036,6 +57340,12 @@
             "value" : "💵 กระเป๋าเงิน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Cüzdan"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55177,6 +57487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 จัดการเงิน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Parayı yönet"
           }
         },
         "vi" : {
@@ -55322,6 +57638,12 @@
             "value" : "💸 จัดการค่าขนม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Harçlık"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55463,6 +57785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 ลงทุน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Yatırım"
           }
         },
         "vi" : {
@@ -55608,6 +57936,12 @@
             "value" : "📈 ผลิตภัณฑ์ลงทุน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Yatırım ürünleri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55749,6 +58083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 โหมดโทรศัพท์ของลูก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Çocuk telefonu modu"
           }
         },
         "vi" : {
@@ -55894,6 +58234,12 @@
             "value" : "📷 สแกนเพื่อจ่าย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Tara ve öde"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -56037,6 +58383,12 @@
             "value" : "🔐 กลับไปโหมดพ่อแม่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Ebeveyn moduna dön"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -56178,6 +58530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 ประวัติธุรกรรม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 İşlem geçmişi"
           }
         },
         "vi" : {

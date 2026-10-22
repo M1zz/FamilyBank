@@ -123,6 +123,12 @@
             "value" : "ซุกซุก ค่าขนม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Harçlık"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -265,6 +271,12 @@
             "value" : "ต้องใช้กล้องเพื่อให้ลูกสแกนบาร์โค้ดสินค้าแล้วจ่ายเงิน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çocuğun bir ürünün barkodunu tarayıp ödeme yapabilmesi için kamera gereklidir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -405,6 +417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใช้ Face ID เพื่อยืนยันว่าเป็นพ่อแม่ตอนปลดล็อกการดำเนินการ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eylemlerin kilidini açarken ebeveyni doğrulamak için Face ID kullanılır."
           }
         },
         "vi" : {

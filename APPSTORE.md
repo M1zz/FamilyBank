@@ -1425,3 +1425,65 @@ Gör barnets telefon till en skärm bara för barnet. Barnet ser bara sin egen p
 
 iCloud-synkronisering
 Enheter som är inloggade med samma iCloud-konto håller familjens bok likadan.
+
+## tr
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Harçlık: Çocuklar
+
+### 부제
+
+Birikim ve yatırımı öğren
+
+### 키워드
+
+finansal eğitim,kumbara,banka,faiz,bileşik faiz,bütçe,aile,ekonomi,madeni para,hisse,çocuk bankası
+
+### 프로모션 텍스트
+
+Ebeveynler merkez bankası, çocuklar müşteri. Harçlığı evinizin kendi para birimiyle verin; çocuklar tasarruf faizini yaşasın, yatırım yapmayı denesin.
+
+### 설명
+
+Çocuklarınıza paranın nasıl işlediğini yalnızca size ait bir para birimiyle öğretin. Ebeveynler merkez bankası olup harçlığı çıkarır; çocuklar öder, biriktirir, yatırım yapar ve ekonomiyi yaşayarak öğrenir.
+Kendi yaşadığınız deneyim, sadece dinlediğinizden çok daha uzun akılda kalır.
+
+Evin para birimi
+Para biriminin adını siz seçersiniz: Fasulye, Yıldız, Madeni para gibi. Harçlık verme ve düşme işlemleri yalnızca PIN ile kilitli ebeveyn modunda yapılabilir.
+
+Ödeme ve ev dükkânı
+Ebeveynler evde kullanılan şeyleri, örneğin atıştırmalık, oyun süresi ya da TV süresini belirler ve fiyat koyar.
+Çocuk dükkândan seçip hemen öder ya da ebeveynin gösterdiği barkodu kamerayla tarayarak öder.
+
+Tasarruf ve faiz
+Tasarruf hesabındaki paraya her hafta bileşik faiz işler. Faiz oranını ebeveynler belirler ve paranın ne kadar büyüyeceği önceden görülebilir.
+
+Yatırım denemesi
+Fiyatı günde bir kez değişen üç alıştırma fonunu alıp satın ve getiri grafiklerini izleyin. Güvenli, dengeli ve riskli fonları karşılaştırarak risk ile kazanç arasındaki ilişkiyi öğrenin.
+
+Pazar ve geçmiş
+Pazar sekmesi evinizin fiyatlarını, döviz kurunu, faiz oranını, para miktarını ve yatırım fiyatlarını tek bakışta gösterir. Fiyatlar artınca aynı parayla daha az şey alınabildiğini de gösterir.
+Paranın her hareketi deftere işlenir; tarihe, üyeye ve türe göre geriye dönüp bakılabilir.
+
+Öğren
+“Para neden gerekli?” sorusundan başlayıp ihtiyaçlar ve istekler, fırsat maliyeti, tasarruf ve faiz, bileşik faiz, enflasyon, yatırım ve risk ile bütçe yapmaya uzanan 10 adımlık ebeveyn rehberi çocuğunuzla sohbet etmenizi sağlar.
+Bileşik faiz hesaplayıcısı ve enflasyon deneyinde sayıları kendiniz değiştirip deneyebilirsiniz.
+
+Çocuk telefonu modu
+Çocuğun telefonunu yalnızca ona özel bir ekrana çevirin. Çocuk sadece kendi cüzdanını, yatırımlarını, geçmişini ve derslerini görür; çıkmak için ebeveyn PIN’i gerekir. Çocuğu QR davetiyesiyle davet edebilirsiniz.
+
+iCloud senkronizasyonu
+Aynı iCloud hesabıyla oturum açılmış cihazlar aile defterini aynı tutar.
