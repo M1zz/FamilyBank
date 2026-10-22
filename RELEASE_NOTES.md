@@ -137,3 +137,10 @@ Kirim masukan dari mode orang tua.
 Baca balasan atas masukanmu di aplikasi.
 Buka privasi dan dukungan di aplikasi.
 Aplikasi berjalan lebih stabil.
+
+### 앱스토어 (norsk bokmål)
+
+Send tilbakemelding fra foreldremodus.
+Les svar på tilbakemeldingen i appen.
+Åpne personvern og støtte i appen.
+Appen går nå mer stabilt.

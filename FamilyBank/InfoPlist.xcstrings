@@ -81,6 +81,12 @@
             "value" : "쑥쑥용돈"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Lommepenger"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -199,6 +205,12 @@
             "value" : "자녀가 물품 바코드를 찍어서 결제하려면 카메라가 필요해요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kameraet trengs for at barnet kan skanne strekkoden på en vare og betale."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -315,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 확인(액션 잠금 해제)을 위해 Face ID를 사용해요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID brukes til å bekrefte en forelder når handlinger låses opp."
           }
         },
         "pt-BR" : {
