@@ -98,7 +98,7 @@ struct StoreListView: View {
 
     private var buyConfirmTitle: String {
         guard let item = buyTarget else { return "" }
-        return "\(item.emoji) \(item.name)을(를) \(settings.coinPrice(forWon: item.priceWon).comma) \(settings.currencyName)에 살까요?"
+        return String(localized: "\(item.emoji) \(item.name)을(를) \(settings.coinPrice(forWon: item.priceWon).comma) \(settings.currencyName)에 살까요?")
     }
 
     private func performBuy() {
@@ -110,8 +110,8 @@ struct StoreListView: View {
                                 memo: "\(item.emoji) \(item.name)",
                                 context: context)
         resultMessage = ok
-            ? "\(item.name)을(를) 샀어요! 🎉 남은 지갑: \(payer.balance.comma) \(settings.currencyName)"
-            : "지갑에 돈이 부족해요! 잔액: \(payer.balance.comma) \(settings.currencyName)"
+            ? String(localized: "\(item.name)을(를) 샀어요! 🎉 남은 지갑: \(payer.balance.comma) \(settings.currencyName)")
+            : String(localized: "지갑에 돈이 부족해요! 잔액: \(payer.balance.comma) \(settings.currencyName)")
         buyTarget = nil
         showResult = true
     }

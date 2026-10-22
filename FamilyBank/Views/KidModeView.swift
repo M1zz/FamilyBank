@@ -53,7 +53,7 @@ struct KidTabView: View {
         }
         .sheet(isPresented: $showUnlock) {
             NavigationStack {
-                PINEntryView(title: "부모님 확인이 필요해요", correctPIN: settings.parentPIN) {
+                PINEntryView(title: String(localized: "부모님 확인이 필요해요"), correctPIN: settings.parentPIN) {
                     showUnlock = false
                     kidModeUID = ""  // 자녀 폰 모드 해제 → 전체 화면으로 복귀
                 }

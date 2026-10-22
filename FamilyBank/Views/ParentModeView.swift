@@ -49,7 +49,7 @@ struct ParentDashboardView: View {
                         Text(member.emoji)
                         Text(member.name)
                         Spacer()
-                        Text(member.role.rawValue)
+                        Text(LocalizedStringKey(member.role.rawValue))
                             .font(.caption)
                             .foregroundStyle(.secondary)
                         if member.isChild {
@@ -294,7 +294,7 @@ struct ParentDashboardView: View {
 
     private var kidModeConfirmTitle: String {
         guard let child = kidModeCandidate else { return "" }
-        return "이 기기를 \(child.emoji) \(child.name)의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요."
+        return String(localized: "이 기기를 \(child.emoji) \(child.name)의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요.")
     }
 
     private func activateKidMode() {
@@ -374,12 +374,12 @@ struct GiveMoneyView: View {
             Section("얼마나?") {
                 Picker("종류", selection: $mode) {
                     ForEach(Mode.allCases, id: \.self) { m in
-                        Text(m.rawValue).tag(m)
+                        Text(LocalizedStringKey(m.rawValue)).tag(m)
                     }
                 }
                 .pickerStyle(.segmented)
 
-                AmountField(placeholder: "금액", text: $amountText)
+                AmountField(placeholder: String(localized: "금액"), text: $amountText)
 
                 HStack {
                     ForEach([500, 1000, 5000], id: \.self) { preset in
@@ -409,7 +409,7 @@ struct GiveMoneyView: View {
                 Button {
                     perform()
                 } label: {
-                    Label(mode == .give ? "\(amount.comma) \(settings.currencyName) 주기" : "\(amount.comma) \(settings.currencyName) 차감",
+                    Label(mode == .give ? String(localized: "\(amount.comma) \(settings.currencyName) 주기") : String(localized: "\(amount.comma) \(settings.currencyName) 차감"),
                           systemImage: mode == .give ? "gift.fill" : "minus.circle.fill")
                         .frame(maxWidth: .infinity)
                 }
@@ -429,13 +429,13 @@ struct GiveMoneyView: View {
         guard let target else { return }
         if mode == .give {
             BankEngine.give(to: target, amount: amount, memo: memo, context: context)
-            resultMessage = "\(target.name)에게 \(amount.comma) \(settings.currencyName)을(를) 줬어요! 🎁"
+            resultMessage = String(localized: "\(target.name)에게 \(amount.comma) \(settings.currencyName)을(를) 줬어요! 🎁")
             amountText = ""
         } else {
             let ok = BankEngine.deduct(from: target, amount: amount, memo: memo, context: context)
             resultMessage = ok
-                ? "\(target.name)의 지갑에서 \(amount.comma) \(settings.currencyName)을(를) 차감했어요."
-                : "\(target.name)의 지갑 잔액이 부족해요."
+                ? String(localized: "\(target.name)의 지갑에서 \(amount.comma) \(settings.currencyName)을(를) 차감했어요.")
+                : String(localized: "\(target.name)의 지갑 잔액이 부족해요.")
             if ok { amountText = "" }
         }
         showResult = true
@@ -501,7 +501,7 @@ struct AddMemberSheet: View {
             Section("역할") {
                 Picker("역할", selection: $role) {
                     ForEach(MemberRole.allCases) { r in
-                        Text(r.rawValue).tag(r)
+                        Text(LocalizedStringKey(r.rawValue)).tag(r)
                     }
                 }
                 .pickerStyle(.segmented)
@@ -570,7 +570,7 @@ struct AddStoreItemSheet: View {
                     }
                 }
                 Section("실제 가격 (원)") {
-                    AmountField(placeholder: "실제 세상 가격", text: $priceText)
+                    AmountField(placeholder: String(localized: "실제 세상 가격"), text: $priceText)
                     if priceWon > 0 {
                         HStack {
                             Text("우리집 가격")
@@ -665,12 +665,12 @@ struct AddProductSheet: View {
                     }
                 }
                 Section("시작 가격") {
-                    AmountField(placeholder: "1주 가격", text: $priceText)
+                    AmountField(placeholder: String(localized: "1주 가격"), text: $priceText)
                 }
                 Section("위험도") {
                     Picker("위험도", selection: $riskLevel) {
                         ForEach(RiskLevel.allCases, id: \.self) { r in
-                            Text(r.rawValue).tag(r)
+                            Text(LocalizedStringKey(r.rawValue)).tag(r)
                         }
                     }
                     .pickerStyle(.segmented)
@@ -693,7 +693,7 @@ struct AddProductSheet: View {
                         let product = InvestProduct(
                             name: trimmed,
                             emoji: emoji,
-                            detail: detail.isEmpty ? "우리집 투자 상품이에요." : detail,
+                            detail: detail.isEmpty ? String(localized: "우리집 투자 상품이에요.") : detail,
                             price: price,
                             volatility: riskLevel.volatility,
                             trend: riskLevel.trend
@@ -710,9 +710,9 @@ struct AddProductSheet: View {
 
     private var riskDescription: String {
         switch riskLevel {
-        case .low: return "하루 ±2% 정도로 조금씩 움직여요. 잃을 걱정이 적어요."
-        case .medium: return "하루 ±6% 정도로 오르내려요. 적당한 도전이에요."
-        case .high: return "하루 ±15%까지 크게 움직여요! 크게 벌 수도, 잃을 수도 있어요."
+        case .low: return String(localized: "하루 ±2% 정도로 조금씩 움직여요. 잃을 걱정이 적어요.")
+        case .medium: return String(localized: "하루 ±6% 정도로 오르내려요. 적당한 도전이에요.")
+        case .high: return String(localized: "하루 ±15%까지 크게 움직여요! 크게 벌 수도, 잃을 수도 있어요.")
         }
     }
 }

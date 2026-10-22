@@ -336,16 +336,16 @@ struct ProductDetailView: View {
     private func buy(_ investor: FamilyMember) {
         let ok = BankEngine.buy(member: investor, product: product, quantity: quantity, context: context)
         resultMessage = ok
-            ? "\(product.name) \(quantity)주를 샀어요! 📈"
-            : "지갑에 돈이 부족해요. 필요 금액: \((product.price * quantity).comma) \(settings.currencyName)"
+            ? String(localized: "\(product.name) \(quantity)주를 샀어요! 📈")
+            : String(localized: "지갑에 돈이 부족해요. 필요 금액: \((product.price * quantity).comma) \(settings.currencyName)")
         showResult = true
     }
 
     private func sell(_ investor: FamilyMember) {
         let ok = BankEngine.sell(member: investor, product: product, quantity: quantity, context: context)
         resultMessage = ok
-            ? "\(product.name) \(quantity)주를 팔았어요! \((product.price * quantity).comma) \(settings.currencyName)이 지갑에 들어왔어요."
-            : "보유 수량이 부족해요."
+            ? String(localized: "\(product.name) \(quantity)주를 팔았어요! \((product.price * quantity).comma) \(settings.currencyName)이 지갑에 들어왔어요.")
+            : String(localized: "보유 수량이 부족해요.")
         showResult = true
     }
 }

@@ -31,23 +31,23 @@ struct MarketView: View {
                 VStack(spacing: 16) {
                     // 핵심 지표
                     LazyVGrid(columns: columns, spacing: 12) {
-                        indicatorCard("🏷️", "물가지수",
+                        indicatorCard("🏷️", String(localized: "물가지수"),
                                       "\(Int(settings.priceIndex.rounded()))",
                                       settings.inflationSinceStart >= 0.5
-                                      ? "시작보다 +\(settings.inflationSinceStart.cleanPercent)%"
-                                      : "시작 100 기준",
+                                      ? String(localized: "시작보다 +\(settings.inflationSinceStart.cleanPercent)%")
+                                      : String(localized: "시작 100 기준"),
                                       .orange)
-                        indicatorCard("🎈", "물가 상승률",
-                                      "주 \(settings.weeklyInflationRate.cleanPercent)%",
-                                      settings.weeklyInflationRate > 0 ? "매주 물가가 올라요" : "인플레이션 없음",
+                        indicatorCard("🎈", String(localized: "물가 상승률"),
+                                      String(localized: "주 \(settings.weeklyInflationRate.cleanPercent)%"),
+                                      settings.weeklyInflationRate > 0 ? String(localized: "매주 물가가 올라요") : String(localized: "인플레이션 없음"),
                                       .red)
-                        indicatorCard("💱", "환율",
-                                      "1 = \(Int(settings.wonPerCoin).comma)원",
-                                      "1 \(settings.currencyName)의 실제 가치",
+                        indicatorCard("💱", String(localized: "환율"),
+                                      String(localized: "1 = \(Int(settings.wonPerCoin).comma)원"),
+                                      String(localized: "1 \(settings.currencyName)의 실제 가치"),
                                       .green)
-                        indicatorCard("🏦", "저축 이자율",
-                                      "주 \(settings.weeklyInterestRate.cleanPercent)%",
-                                      "저축통장에 매주 복리",
+                        indicatorCard("🏦", String(localized: "저축 이자율"),
+                                      String(localized: "주 \(settings.weeklyInterestRate.cleanPercent)%"),
+                                      String(localized: "저축통장에 매주 복리"),
                                       .blue)
                     }
 
@@ -96,9 +96,9 @@ struct MarketView: View {
                         }
                         MoneyText(amount: totalCirculation, currencyName: settings.currencyName, font: .title2)
                         HStack(spacing: 8) {
-                            supplyChip("지갑", totalWallet, .green)
-                            supplyChip("저축", totalSavings, .blue)
-                            supplyChip("투자", totalInvest, .indigo)
+                            supplyChip(String(localized: "지갑"), totalWallet, .green)
+                            supplyChip(String(localized: "저축"), totalSavings, .blue)
+                            supplyChip(String(localized: "투자"), totalInvest, .indigo)
                         }
                     }
                     .card()
@@ -116,8 +116,8 @@ struct MarketView: View {
                                 Text("우리집 가게")
                                     .font(.headline)
                                 Text(activeItemCount > 0
-                                     ? "물품 \(activeItemCount)개 판매 중 · 환율 자동 반영"
-                                     : "아직 물품이 없어요 · 액션 탭에서 추가")
+                                     ? String(localized: "물품 \(activeItemCount)개 판매 중 · 환율 자동 반영")
+                                     : String(localized: "아직 물품이 없어요 · 액션 탭에서 추가"))
                                     .font(.caption)
                                     .foregroundStyle(.secondary)
                             }

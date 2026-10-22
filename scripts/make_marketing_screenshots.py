@@ -18,7 +18,7 @@ W, H = 1242, 2688   # 이 계정의 iPhone 제출 규격
 
 # ── 앱마다 고치는 곳 ──────────────────────────────────────────────
 # 앱 언어 → App Store 로케일 (스토어 폴더 이름)
-STORE = {"ko": "ko"}
+STORE = {"ko": "ko", "en": "en-US"}
 # 바탕 · 포인트 색 (헤더·검색 결과 그림과 맞춘다)
 BG, ACCENT, INK, SUB = "#EEF5EC", "#2F9E4F", "#12281C", "#5E6B62"
 # 언어 → [(원본 파일, 레이아웃, 헤드라인, 서브카피)]
@@ -30,6 +30,14 @@ SHOTS = {
         ("04-market.png",    "flat-rotate", "물가와 환율까지<br>진짜 경제처럼", "돈의 가치가 변하는 걸 직접 봐요"),
         ("05-actions.png",   "hero-bleed",  "용돈 주기도<br>결제도 간단하게", "부모 PIN으로 잠그고, 바코드로 결제"),
         ("06-learn.png",     "dark",        "10단계로 배우는<br>돈 이야기", "아이와 함께 읽는 부모 가이드"),
+    ],
+    "en": [
+        ("01-dashboard.png", "hero-bleed",  "Your home becomes<br>a little bank", "Parents are the bank, kids are customers"),
+        ("02-child.png",     "left-text",   "Wallet, savings and<br>investing at a glance", "Every child gets their own account"),
+        ("03-savings.png",   "text-bottom", "Save it and watch<br>interest add up", "See weekly compounding on a graph"),
+        ("04-market.png",    "flat-rotate", "Prices and exchange<br>rates like the real thing", "See how money changes in value"),
+        ("05-actions.png",   "hero-bleed",  "Allowance and payments,<br>made simple", "Lock with a parent PIN, pay by barcode"),
+        ("06-learn.png",     "dark",        "10 steps to<br>learn about money", "A parent guide to read with your child"),
     ],
 }
 # ─────────────────────────────────────────────────────────────────

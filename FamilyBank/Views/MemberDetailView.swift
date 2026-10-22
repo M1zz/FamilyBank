@@ -37,9 +37,9 @@ struct MemberDetailView: View {
                         .foregroundStyle(.secondary)
 
                     HStack(spacing: 12) {
-                        summaryBox("💵 지갑", member.balance)
-                        summaryBox("🏦 저축", member.savings)
-                        summaryBox("📈 투자", member.investValue)
+                        summaryBox(String(localized: "💵 지갑"), member.balance)
+                        summaryBox(String(localized: "🏦 저축"), member.savings)
+                        summaryBox(String(localized: "📈 투자"), member.investValue)
                     }
                 }
                 .card()
@@ -98,7 +98,7 @@ struct MemberDetailView: View {
                             HStack {
                                 Text(holding.product?.emoji ?? "📈")
                                 VStack(alignment: .leading, spacing: 2) {
-                                    Text(holding.product?.name ?? "상품")
+                                    Text(holding.product?.name ?? String(localized: "상품"))
                                         .font(.subheadline.weight(.medium))
                                     Text("\(holding.quantity)주 · 평균 \(holding.avgPrice.comma)")
                                         .font(.caption)

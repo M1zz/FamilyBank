@@ -37,8 +37,8 @@ struct HistoryView: View {
     /// 날짜별 그룹
     private var grouped: [DayGroup] {
         let formatter = DateFormatter()
-        formatter.locale = Locale(identifier: "ko_KR")
-        formatter.dateFormat = "M월 d일 (E)"
+        formatter.locale = .current
+        formatter.setLocalizedDateFormatFromTemplate("MMMdEEE")
         var dict: [String: [MoneyTransaction]] = [:]
         var order: [String] = []
         for tx in filtered {
@@ -97,7 +97,7 @@ struct HistoryView: View {
                         Menu("거래 종류") {
                             Button("전체") { filterKind = nil }
                             ForEach(TxKind.allCases, id: \.self) { kind in
-                                Button(kind.rawValue) { filterKind = kind }
+                                Button(LocalizedStringKey(kind.rawValue)) { filterKind = kind }
                             }
                         }
                         if filterMemberName != nil || filterKind != nil {

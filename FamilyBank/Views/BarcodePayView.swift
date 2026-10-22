@@ -195,7 +195,7 @@ struct ScanPayView: View {
                 Button("결제하기") { performPay() }
                 Button("취소", role: .cancel) { scannedItem = nil }
             }
-            .alert(didSucceed ? "결제 완료! 🎉" : "결제 실패", isPresented: $showResult) {
+            .alert(didSucceed ? String(localized: "결제 완료! 🎉") : String(localized: "결제 실패"), isPresented: $showResult) {
                 Button("확인") {
                     if didSucceed { dismiss() }
                 }
@@ -207,7 +207,7 @@ struct ScanPayView: View {
 
     private var confirmTitle: String {
         guard let item = scannedItem else { return "" }
-        return "\(item.emoji) \(item.name) — \(settings.coinPrice(forWon: item.priceWon).comma) \(settings.currencyName)을(를) 낼까요?"
+        return String(localized: "\(item.emoji) \(item.name) — \(settings.coinPrice(forWon: item.priceWon).comma) \(settings.currencyName)을(를) 낼까요?")
     }
 
     private func handleScan(_ code: String) {
@@ -228,8 +228,8 @@ struct ScanPayView: View {
                                 context: context)
         didSucceed = ok
         resultMessage = ok
-            ? "\(item.name)을(를) 샀어요! 남은 지갑: \(payer.balance.comma) \(settings.currencyName)"
-            : "지갑에 돈이 부족해요! 잔액: \(payer.balance.comma) \(settings.currencyName)"
+            ? String(localized: "\(item.name)을(를) 샀어요! 남은 지갑: \(payer.balance.comma) \(settings.currencyName)")
+            : String(localized: "지갑에 돈이 부족해요! 잔액: \(payer.balance.comma) \(settings.currencyName)")
         scannedItem = nil
         showResult = true
     }

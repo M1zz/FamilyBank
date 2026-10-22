@@ -121,11 +121,11 @@ struct OnboardingView: View {
                     .controlSize(.large)
                 Button {
                     guard pin.count == 4 else {
-                        errorMessage = "PIN은 숫자 4자리여야 해요."
+                        errorMessage = String(localized: "PIN은 숫자 4자리여야 해요.")
                         return
                     }
                     guard pin == pinConfirm else {
-                        errorMessage = "두 번 입력한 PIN이 서로 달라요."
+                        errorMessage = String(localized: "두 번 입력한 PIN이 서로 달라요.")
                         return
                     }
                     errorMessage = nil
@@ -157,7 +157,7 @@ struct OnboardingView: View {
                         Text(m.emoji)
                         Text(m.name)
                         Spacer()
-                        Text(m.role.rawValue)
+                        Text(LocalizedStringKey(m.role.rawValue))
                             .font(.caption.weight(.semibold))
                             .padding(.horizontal, 8)
                             .padding(.vertical, 4)
@@ -196,11 +196,11 @@ struct OnboardingView: View {
 
     private func finishSetup() {
         guard draftMembers.contains(where: { $0.role == .parent }) else {
-            errorMessage = "부모를 한 명 이상 등록해 주세요."
+            errorMessage = String(localized: "부모를 한 명 이상 등록해 주세요.")
             return
         }
         guard draftMembers.contains(where: { $0.role == .child }) else {
-            errorMessage = "자녀를 한 명 이상 등록해 주세요."
+            errorMessage = String(localized: "자녀를 한 명 이상 등록해 주세요.")
             return
         }
 
@@ -256,7 +256,7 @@ struct MemberQuickAddRow: View {
 
             Picker("역할", selection: $role) {
                 ForEach(MemberRole.allCases) { r in
-                    Text(r.rawValue).tag(r)
+                    Text(LocalizedStringKey(r.rawValue)).tag(r)
                 }
             }
             .pickerStyle(.segmented)

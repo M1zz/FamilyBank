@@ -1,6 +1,669 @@
 {
   "sourceLanguage" : "ko",
   "strings" : {
+    "%@ %@ — %@ %@을(를) 낼까요?" : {
+      "comment" : "BarcodePayView.swift:210",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — pay %@ %@?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — %@ %@을(를) 낼까요?"
+          }
+        }
+      }
+    },
+    "%@ %@ 결제하기" : {
+      "comment" : "PayView.swift:89",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pay %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ 결제하기"
+          }
+        }
+      }
+    },
+    "%@ %@ 주기" : {
+      "comment" : "ParentModeView.swift:412",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ 주기"
+          }
+        }
+      }
+    },
+    "%@ %@ 차감" : {
+      "comment" : "ParentModeView.swift:412",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deduct %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ 차감"
+          }
+        }
+      }
+    },
+    "%@ %@을(를) %@ %@에 살까요?" : {
+      "comment" : "StoreView.swift:101",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy %@ %@ for %@ %@?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@을(를) %@ %@에 살까요?"
+          }
+        }
+      }
+    },
+    "%@ %@을(를) 저축했어요! 매주 이자가 붙어요. 💰" : {
+      "comment" : "SavingsView.swift:136",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You saved %@ %@! Interest is added every week. 💰"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@을(를) 저축했어요! 매주 이자가 붙어요. 💰"
+          }
+        }
+      }
+    },
+    "%@ %@을(를) 지갑으로 옮겼어요." : {
+      "comment" : "SavingsView.swift:141",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moved %@ %@ to your wallet."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@을(를) 지갑으로 옮겼어요."
+          }
+        }
+      }
+    },
+    "%@ %@의 보유 현황" : {
+      "comment" : "InvestView.swift:250",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@’s holdings"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@의 보유 현황"
+          }
+        }
+      }
+    },
+    "%@ %@의 은행" : {
+      "comment" : "KidModeView.swift:28",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@’s Bank"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@의 은행"
+          }
+        }
+      }
+    },
+    "%@ %@의 폰으로 만들기" : {
+      "comment" : "ParentModeView.swift:123",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make it %@ %@’s phone"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@의 폰으로 만들기"
+          }
+        }
+      }
+    },
+    "%@ %lld주를 샀어요! 📈" : {
+      "comment" : "InvestView.swift:339",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You bought %2$lld shares of %1$@! 📈"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %lld주를 샀어요! 📈"
+          }
+        }
+      }
+    },
+    "%@ %lld주를 팔았어요! %@ %@이 지갑에 들어왔어요." : {
+      "comment" : "InvestView.swift:347",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You sold %2$lld shares of %1$@! %3$@ %4$@ went into your wallet."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %lld주를 팔았어요! %@ %@이 지갑에 들어왔어요."
+          }
+        }
+      }
+    },
+    "%@%% (복리)" : {
+      "comment" : "SavingsView.swift:54",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (compounded)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (복리)"
+          }
+        }
+      }
+    },
+    "%@님을\n쑥쑥용돈에 초대해요!" : {
+      "comment" : "InviteView.swift:54",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inviting %@\nto SukSuk Allowance!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@님을\n쑥쑥용돈에 초대해요!"
+          }
+        }
+      }
+    },
+    "%@에게 %@ %@을(를) 결제했어요." : {
+      "comment" : "PayView.swift:117",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You paid %2$@ %3$@ to %1$@."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@에게 %@ %@을(를) 결제했어요."
+          }
+        }
+      }
+    },
+    "%@에게 %@ %@을(를) 줬어요! 🎁" : {
+      "comment" : "ParentModeView.swift:432",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You gave %2$@ %3$@ to %1$@! 🎁"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@에게 %@ %@을(를) 줬어요! 🎁"
+          }
+        }
+      }
+    },
+    "%@원 → %@ %@" : {
+      "comment" : "ParentModeView.swift:141",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "₩%@ → %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@원 → %@ %@"
+          }
+        }
+      }
+    },
+    "%@을(를) 샀어요! 남은 지갑: %@ %@" : {
+      "comment" : "BarcodePayView.swift:231",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You bought %@! Wallet left: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@을(를) 샀어요! 남은 지갑: %@ %@"
+          }
+        }
+      }
+    },
+    "%@을(를) 샀어요! 🎉 남은 지갑: %@ %@" : {
+      "comment" : "StoreView.swift:113",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You bought %@! 🎉 Wallet left: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@을(를) 샀어요! 🎉 남은 지갑: %@ %@"
+          }
+        }
+      }
+    },
+    "%@의 지갑 잔액이 부족해요." : {
+      "comment" : "ParentModeView.swift:438",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@’s wallet doesn’t have enough."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@의 지갑 잔액이 부족해요."
+          }
+        }
+      }
+    },
+    "%@의 지갑에서 %@ %@을(를) 차감했어요." : {
+      "comment" : "ParentModeView.swift:437",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deducted %2$@ %3$@ from %1$@’s wallet."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@의 지갑에서 %@ %@을(를) 차감했어요."
+          }
+        }
+      }
+    },
+    "%lld단계" : {
+      "comment" : "EducationView.swift:188",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Step %lld"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld단계"
+          }
+        }
+      }
+    },
+    "%lld단계 · %@" : {
+      "comment" : "EducationView.swift:145",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Step %lld · %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld단계 · %@"
+          }
+        }
+      }
+    },
+    "%lld주 · 평균 %@" : {
+      "comment" : "InvestView.swift:254, MemberDetailView.swift:103",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld shares · avg %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld주 · 평균 %@"
+          }
+        }
+      }
+    },
+    "%lld주 뒤 살 수 있는 것의 가치" : {
+      "comment" : "EducationView.swift:417",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What you can buy after %lld weeks"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld주 뒤 살 수 있는 것의 가치"
+          }
+        }
+      }
+    },
+    "%lld주 뒤: %@ %@" : {
+      "comment" : "EducationView.swift:324",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After %lld weeks: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld주 뒤: %@ %@"
+          }
+        }
+      }
+    },
+    "'필요'는 없으면 곤란한 것이야. 밥, 옷, 학용품 같은 거지. '욕구'는 있으면 신나지만 없어도 사는 데 문제없는 것이야. 장난감, 게임 아이템 같은 거란다.\n\n둘 다 소중해! 하지만 순서가 중요해. 필요한 걸 먼저 챙기고, 남는 돈으로 계획을 세워서 욕구를 채우는 거야." : {
+      "comment" : "EducationView.swift:55",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A “need” is something you’d be in trouble without – like food, clothes, and school supplies. A “want” is something that’s exciting to have but you can live without – like toys and game items.\n\nBoth matter! But the order matters too. Take care of needs first, then plan how to enjoy your wants with the money that’s left."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'필요'는 없으면 곤란한 것이야. 밥, 옷, 학용품 같은 거지. '욕구'는 있으면 신나지만 없어도 사는 데 문제없는 것이야. 장난감, 게임 아이템 같은 거란다.\n\n둘 다 소중해! 하지만 순서가 중요해. 필요한 걸 먼저 챙기고, 남는 돈으로 계획을 세워서 욕구를 채우는 거야."
+          }
+        }
+      }
+    },
+    "1 %@ = %@원" : {
+      "comment" : "StoreView.swift:38",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = ₩%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@원"
+          }
+        }
+      }
+    },
+    "1 %@의 실제 가치" : {
+      "comment" : "MarketView.swift:46",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real value of 1 %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@의 실제 가치"
+          }
+        }
+      }
+    },
+    "1 = %@원" : {
+      "comment" : "MarketView.swift:45",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = ₩%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@원"
+          }
+        }
+      }
+    },
+    "1,000 %@의 '진짜 힘'은 어떻게 변할까요?" : {
+      "comment" : "EducationView.swift:383",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How does the “real power” of 1,000 %@ change?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,000 %@의 '진짜 힘'은 어떻게 변할까요?"
+          }
+        }
+      }
+    },
+    "1,000코인을 이자 5%%로 맡기면 일주일 뒤 얼마가 될까?" : {
+      "comment" : "EducationView.swift:77",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you save 1,000 coins at 5%% interest, how much will you have after a week?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,000코인을 이자 5%%로 맡기면 일주일 뒤 얼마가 될까?"
+          }
+        }
+      }
+    },
+    "1,000코인이 있는데 과자도 사고 싶고 스티커도 사고 싶어. 그런데 돈은 한 번 쓸 만큼만 있어. 어떡하지? 하나를 고르면 다른 하나는 포기해야 해.\n\n이때 포기한 것을 '기회비용'이라고 불러. 돈뿐만 아니라 시간도 그래. 게임을 1시간 하면, 그 시간에 할 수 있었던 다른 일을 포기한 거야." : {
+      "comment" : "EducationView.swift:65",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Say you have 1,000 coins and you want both a snack and stickers. But you only have enough for one. What now? If you pick one, you give up the other.\n\nWhat you give up is called the “opportunity cost”. It works with time too. If you play games for an hour, you’ve given up everything else you could have done in that hour."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,000코인이 있는데 과자도 사고 싶고 스티커도 사고 싶어. 그런데 돈은 한 번 쓸 만큼만 있어. 어떡하지? 하나를 고르면 다른 하나는 포기해야 해.\n\n이때 포기한 것을 '기회비용'이라고 불러. 돈뿐만 아니라 시간도 그래. 게임을 1시간 하면, 그 시간에 할 수 있었던 다른 일을 포기한 거야."
+          }
+        }
+      }
+    },
+    "12주 뒤 예상: %@ %@ (+%@)" : {
+      "comment" : "SavingsView.swift:106",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After 12 weeks: %@ %@ (+%@)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12주 뒤 예상: %@ %@ (+%@)"
+          }
+        }
+      }
+    },
+    "1주 가격" : {
+      "comment" : "ParentModeView.swift:668",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price per share"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1주 가격"
+          }
+        }
+      }
+    },
+    "Face ID로 열기" : {
+      "comment" : "ParentActionsView.swift:23",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open with Face ID"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID로 열기"
+          }
+        }
+      }
+    },
+    "PIN 변경" : {
+      "comment" : "ParentModeView.swift:221",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change PIN"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN 변경"
+          }
+        }
+      }
+    },
+    "PIN 입력" : {
+      "comment" : "ParentActionsView.swift:59",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter PIN"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN 입력"
+          }
+        }
+      }
+    },
+    "PIN은 숫자 4자리여야 해요." : {
+      "comment" : "OnboardingView.swift:124",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The PIN must be 4 digits."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN은 숫자 4자리여야 해요."
+          }
+        }
+      }
+    },
     "Siri에게 물어 아이의 잔액을 바로 확인해요." : {
       "comment" : "Roadmap item detail: Siri and Shortcuts",
       "localizations" : {
@@ -31,6 +694,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siri와 단축어"
+          }
+        }
+      }
+    },
+    "Touch ID로 열기" : {
+      "comment" : "ParentActionsView.swift:23",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open with Touch ID"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch ID로 열기"
           }
         }
       }
@@ -69,6 +749,414 @@
         }
       }
     },
+    "≈ %@원" : {
+      "comment" : "MarketView.swift:93",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ ₩%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@원"
+          }
+        }
+      }
+    },
+    "⚙️ 은행 설정" : {
+      "comment" : "ParentModeView.swift:167",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Bank Settings"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ 은행 설정"
+          }
+        }
+      }
+    },
+    "⚡️ 액션" : {
+      "comment" : "ParentActionsView.swift:44, ParentActionsView.swift:148",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Actions"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ 액션"
+          }
+        }
+      }
+    },
+    "가게" : {
+      "comment" : "MemberDetailView.swift:67",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shop"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가게"
+          }
+        }
+      }
+    },
+    "가게에 등록" : {
+      "comment" : "ParentActionsView.swift:113",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "List in the shop"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가게에 등록"
+          }
+        }
+      }
+    },
+    "가격" : {
+      "comment" : "InvestView.swift:157, InvestView.swift:232",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가격"
+          }
+        }
+      }
+    },
+    "가격은 사려는 마음과 팔려는 양이 만나서 정해져요." : {
+      "comment" : "EducationView.swift:110",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prices are set where buyers’ wishes meet sellers’ supply."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가격은 사려는 마음과 팔려는 양이 만나서 정해져요."
+          }
+        }
+      }
+    },
+    "가격이 어떻게 정해지는지 알기" : {
+      "comment" : "EducationView.swift:103",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understand how prices are set"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가격이 어떻게 정해지는지 알기"
+          }
+        }
+      }
+    },
+    "가격표 🏷️" : {
+      "comment" : "StoreView.swift:51",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price tags 🏷️"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가격표 🏷️"
+          }
+        }
+      }
+    },
+    "가족 구성원을 등록해 주세요" : {
+      "comment" : "OnboardingView.swift:148",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add your family members"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가족 구성원을 등록해 주세요"
+          }
+        }
+      }
+    },
+    "가족 등록" : {
+      "comment" : "ParentActionsView.swift:134",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Register family"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가족 등록"
+          }
+        }
+      }
+    },
+    "거래 기록이 없어요" : {
+      "comment" : "HistoryView.swift:62",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No transactions"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "거래 기록이 없어요"
+          }
+        }
+      }
+    },
+    "거래 종류" : {
+      "comment" : "HistoryView.swift:97",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transaction type"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "거래 종류"
+          }
+        }
+      }
+    },
+    "거북이 펀드와 로켓 펀드, 어떤 게 더 위험할까? 왜?" : {
+      "comment" : "EducationView.swift:116",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Which is riskier, the Turtle Fund or the Rocket Fund? Why?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "거북이 펀드와 로켓 펀드, 어떤 게 더 위험할까? 왜?"
+          }
+        }
+      }
+    },
+    "게임 1시간의 기회비용은 뭘까?" : {
+      "comment" : "EducationView.swift:68",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is the opportunity cost of one hour of gaming?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "게임 1시간의 기회비용은 뭘까?"
+          }
+        }
+      }
+    },
+    "결제" : {
+      "comment" : "MemberDetailView.swift:76",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payment"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결제"
+          }
+        }
+      }
+    },
+    "결제 실패" : {
+      "comment" : "BarcodePayView.swift:198, PayView.swift:102",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payment failed"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결제 실패"
+          }
+        }
+      }
+    },
+    "결제 완료! 🎉" : {
+      "comment" : "BarcodePayView.swift:198, PayView.swift:102",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payment complete! 🎉"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결제 완료! 🎉"
+          }
+        }
+      }
+    },
+    "결제하기" : {
+      "comment" : "BarcodePayView.swift:195, StoreView.swift:89",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pay"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결제하기"
+          }
+        }
+      }
+    },
+    "계획이 있는 돈이 오래 가요." : {
+      "comment" : "EducationView.swift:130",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money with a plan lasts longer."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계획이 있는 돈이 오래 가요."
+          }
+        }
+      }
+    },
+    "고수익에는 고위험이 따른다는 것 알기" : {
+      "comment" : "EducationView.swift:113",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understand that bigger rewards come with bigger risks"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고수익에는 고위험이 따른다는 것 알기"
+          }
+        }
+      }
+    },
+    "구분" : {
+      "comment" : "EducationView.swift:407",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구분"
+          }
+        }
+      }
+    },
+    "구성원" : {
+      "comment" : "HistoryView.swift:89",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Member"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구성원"
+          }
+        }
+      }
+    },
+    "구성원 추가" : {
+      "comment" : "ParentActionsView.swift:134, ParentModeView.swift:76",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Member"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구성원 추가"
+          }
+        }
+      }
+    },
     "글자 크기를 키워도 잘리지 않고 보기 좋게 다시 배치돼요." : {
       "comment" : "Roadmap item detail: layouts for larger text",
       "localizations" : {
@@ -86,6 +1174,295 @@
         }
       }
     },
+    "금액" : {
+      "comment" : "EducationView.swift:309, EducationView.swift:316",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amount"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "금액"
+          }
+        }
+      }
+    },
+    "기간: %lld주" : {
+      "comment" : "EducationView.swift:301, EducationView.swift:397",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Period: %lld weeks"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기간: %lld주"
+          }
+        }
+      }
+    },
+    "기록" : {
+      "comment" : "RootView.swift:68",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기록"
+          }
+        }
+      }
+    },
+    "기회비용" : {
+      "comment" : "EducationView.swift:63",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opportunity cost"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기회비용"
+          }
+        }
+      }
+    },
+    "꼭 필요한 것과 갖고 싶은 것 구분하기" : {
+      "comment" : "EducationView.swift:54",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tell what you must have apart from what you’d like to have"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "꼭 필요한 것과 갖고 싶은 것 구분하기"
+          }
+        }
+      }
+    },
+    "내 기록" : {
+      "comment" : "KidModeView.swift:49",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My History"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내 기록"
+          }
+        }
+      }
+    },
+    "내 저축통장" : {
+      "comment" : "SavingsView.swift:45",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My savings account"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내 저축통장"
+          }
+        }
+      }
+    },
+    "내 지갑" : {
+      "comment" : "KidModeView.swift:40, PayView.swift:37",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Wallet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내 지갑"
+          }
+        }
+      }
+    },
+    "내 지갑: %@ %@" : {
+      "comment" : "BarcodePayView.swift:175",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My wallet: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내 지갑: %@ %@"
+          }
+        }
+      }
+    },
+    "네가 물고기를 갖고 있는데 신발이 필요하다고 해 보자. 신발 가게 아저씨가 물고기를 싫어하면 바꿀 수가 없겠지? 옛날 사람들도 이게 너무 불편했어. 그래서 누구나 좋아하는 '돈'을 만들었단다.\n\n돈은 세 가지 일을 해. 첫째, 뭐든지 바꿀 수 있어(교환). 둘째, 물건마다 얼마짜리인지 잴 수 있어(가치 재기). 셋째, 모아 뒀다가 나중에 쓸 수 있어(저장)." : {
+      "comment" : "EducationView.swift:35",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imagine you have a fish and you need shoes. But what if the shoe seller doesn’t like fish? You can’t trade! People long ago found that really annoying. So they invented something everybody likes: money.\n\nMoney does three jobs. First, you can trade it for almost anything (exchange). Second, it tells you how much each thing is worth (measuring value). Third, you can save it and use it later (storing)."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "네가 물고기를 갖고 있는데 신발이 필요하다고 해 보자. 신발 가게 아저씨가 물고기를 싫어하면 바꿀 수가 없겠지? 옛날 사람들도 이게 너무 불편했어. 그래서 누구나 좋아하는 '돈'을 만들었단다.\n\n돈은 세 가지 일을 해. 첫째, 뭐든지 바꿀 수 있어(교환). 둘째, 물건마다 얼마짜리인지 잴 수 있어(가치 재기). 셋째, 모아 뒀다가 나중에 쓸 수 있어(저장)."
+          }
+        }
+      }
+    },
+    "누구를 초대할까요?" : {
+      "comment" : "ParentActionsView.swift:171",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Who do you want to invite?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "누구를 초대할까요?"
+          }
+        }
+      }
+    },
+    "누구에게 낼까요?" : {
+      "comment" : "PayView.swift:71",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pay whom?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "누구에게 낼까요?"
+          }
+        }
+      }
+    },
+    "누구에게?" : {
+      "comment" : "ParentModeView.swift:352",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To whom?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "누구에게?"
+          }
+        }
+      }
+    },
+    "눈덩이를 굴리면 어떻게 되지? 구를수록 점점 빨리 커지지? 복리가 딱 그거야.\n\n1,000코인에 이자 50이 붙으면 1,050이 돼. 다음 주에는 1,050 전체에 이자가 붙어. 이자가 벌어 온 돈에도 또 이자가 붙는 거야! 처음엔 티가 안 나지만 시간이 지날수록 눈덩이처럼 불어나." : {
+      "comment" : "EducationView.swift:85",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What happens when you roll a snowball? The more it rolls, the faster it grows! Compound interest is exactly that.\n\nIf 1,000 coins earn 50 in interest, you have 1,050. Next week, interest is added to all 1,050. The money your interest earned earns interest too! It’s hard to notice at first, but over time it swells like a snowball."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "눈덩이를 굴리면 어떻게 되지? 구를수록 점점 빨리 커지지? 복리가 딱 그거야.\n\n1,000코인에 이자 50이 붙으면 1,050이 돼. 다음 주에는 1,050 전체에 이자가 붙어. 이자가 벌어 온 돈에도 또 이자가 붙는 거야! 처음엔 티가 안 나지만 시간이 지날수록 눈덩이처럼 불어나."
+          }
+        }
+      }
+    },
+    "다음" : {
+      "comment" : "OnboardingView.swift:76, OnboardingView.swift:134",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다음"
+          }
+        }
+      }
+    },
+    "닫기" : {
+      "comment" : "BarcodePayView.swift:68, BarcodePayView.swift:188",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "닫기"
+          }
+        }
+      }
+    },
+    "당장 안 쓸 돈은 저축통장으로!" : {
+      "comment" : "EducationView.swift:81",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money you won’t spend now goes in savings!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "당장 안 쓸 돈은 저축통장으로!"
+          }
+        }
+      }
+    },
     "대비를 높이거나 색을 구별하기 어려워도 잔액과 기록을 알아볼 수 있어요." : {
       "comment" : "Roadmap item detail: better colors and contrast",
       "localizations" : {
@@ -99,6 +1476,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "대비를 높이거나 색을 구별하기 어려워도 잔액과 기록을 알아볼 수 있어요."
+          }
+        }
+      }
+    },
+    "대시보드" : {
+      "comment" : "RootView.swift:59",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dashboard"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대시보드"
           }
         }
       }
@@ -137,6 +1531,669 @@
         }
       }
     },
+    "돈은 바꾸고, 재고, 모아 두는 도구예요." : {
+      "comment" : "EducationView.swift:41",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money is a tool for trading, measuring, and saving."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "돈은 바꾸고, 재고, 모아 두는 도구예요."
+          }
+        }
+      }
+    },
+    "돈은 왜 필요할까?" : {
+      "comment" : "EducationView.swift:33",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Why do we need money?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "돈은 왜 필요할까?"
+          }
+        }
+      }
+    },
+    "돈을 계획해서 나눠 쓰는 습관 만들기" : {
+      "comment" : "EducationView.swift:123",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Build the habit of planning how you spend money"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "돈을 계획해서 나눠 쓰는 습관 만들기"
+          }
+        }
+      }
+    },
+    "돈이 왜 생겨났고 어떤 일을 하는지 알기" : {
+      "comment" : "EducationView.swift:34",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understand why money was invented and what it does"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "돈이 왜 생겨났고 어떤 일을 하는지 알기"
+          }
+        }
+      }
+    },
+    "두 번 입력한 PIN이 서로 달라요." : {
+      "comment" : "OnboardingView.swift:128",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The two PINs don’t match."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "두 번 입력한 PIN이 서로 달라요."
+          }
+        }
+      }
+    },
+    "등록된 물품이 없어요. 먼저 '물품 추가'로 가게에 물품을 등록해 주세요." : {
+      "comment" : "BarcodePayView.swift:41",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No items yet. Add some to the shop first with “Add Item”."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "등록된 물품이 없어요. 먼저 '물품 추가'로 가게에 물품을 등록해 주세요."
+          }
+        }
+      }
+    },
+    "등록된 자녀가 없어요" : {
+      "comment" : "ParentModeView.swift:116, ParentModeView.swift:354",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No children yet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "등록된 자녀가 없어요"
+          }
+        }
+      }
+    },
+    "레고 블록은 돈이 될 수 있을까? 다섯 가지 시험을 통과할까?" : {
+      "comment" : "EducationView.swift:47",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could a LEGO brick be money? Would it pass the five tests?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "레고 블록은 돈이 될 수 있을까? 다섯 가지 시험을 통과할까?"
+          }
+        }
+      }
+    },
+    "만약 세상에 돈이 없다면 어떤 일이 생길까?" : {
+      "comment" : "EducationView.swift:37",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What would happen if there were no money in the world?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "만약 세상에 돈이 없다면 어떤 일이 생길까?"
+          }
+        }
+      }
+    },
+    "매도" : {
+      "comment" : "InvestView.swift:302",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sell"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매도"
+          }
+        }
+      }
+    },
+    "매수" : {
+      "comment" : "InvestView.swift:293",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매수"
+          }
+        }
+      }
+    },
+    "매주 물가가 %@%%씩 올라요. 같은 돈으로 살 수 있는 게 조금씩 줄어든다는 뜻이에요." : {
+      "comment" : "HomeView.swift:102",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prices rise %@%% every week. That means the same money buys a little less each time."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매주 물가가 %@%%씩 올라요. 같은 돈으로 살 수 있는 게 조금씩 줄어든다는 뜻이에요."
+          }
+        }
+      }
+    },
+    "매주 물가가 올라요" : {
+      "comment" : "MarketView.swift:42",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prices rise every week"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매주 물가가 올라요"
+          }
+        }
+      }
+    },
+    "매주 우리집 물가지수가 이만큼 올라요 (현재 지수 %lld). 0%%로 두면 인플레이션이 없어요. 물가에 맞춰 실제 간식·장난감 가격도 조금씩 올려 주면 아이가 돈의 가치 변화를 몸으로 배워요." : {
+      "comment" : "ParentModeView.swift:215",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prices in our home rise this much each week (current index %lld). Set it to 0%% for no inflation. If you raise real snack and toy prices a little with it, your child learns how the value of money changes."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매주 우리집 물가지수가 이만큼 올라요 (현재 지수 %lld). 0%%로 두면 인플레이션이 없어요. 물가에 맞춰 실제 간식·장난감 가격도 조금씩 올려 주면 아이가 돈의 가치 변화를 몸으로 배워요."
+          }
+        }
+      }
+    },
+    "메모 (예: 간식 사기)" : {
+      "comment" : "PayView.swift:59",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note (e.g. buy a snack)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모 (예: 간식 사기)"
+          }
+        }
+      }
+    },
+    "메모 (예: 주간 용돈)" : {
+      "comment" : "ParentModeView.swift:396",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note (e.g. weekly allowance)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모 (예: 주간 용돈)"
+          }
+        }
+      }
+    },
+    "모두가 팔고 싶어 하는 물건의 가격은 어떻게 될까?" : {
+      "comment" : "EducationView.swift:107",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What happens to the price of something everybody wants to sell?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모두가 팔고 싶어 하는 물건의 가격은 어떻게 될까?"
+          }
+        }
+      }
+    },
+    "모든 구성원, 거래 기록, 투자 상품이 삭제되고 처음 설정 화면으로 돌아갑니다." : {
+      "comment" : "ParentModeView.swift:256",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All members, transactions and investment products will be deleted and you’ll return to the setup screen."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 구성원, 거래 기록, 투자 상품이 삭제되고 처음 설정 화면으로 돌아갑니다."
+          }
+        }
+      }
+    },
+    "모든 데이터 초기화" : {
+      "comment" : "ParentModeView.swift:253",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset all data"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 데이터 초기화"
+          }
+        }
+      }
+    },
+    "모든 선택에는 포기한 것이 숨어 있어요." : {
+      "comment" : "EducationView.swift:71",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behind every choice is something you gave up."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 선택에는 포기한 것이 숨어 있어요."
+          }
+        }
+      }
+    },
+    "무엇에 쓰나요?" : {
+      "comment" : "PayView.swift:58",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is it for?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무엇에 쓰나요?"
+          }
+        }
+      }
+    },
+    "물가 상승률" : {
+      "comment" : "MarketView.swift:40",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflation rate"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물가 상승률"
+          }
+        }
+      }
+    },
+    "물가 추이 📊" : {
+      "comment" : "MarketView.swift:57",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price trend 📊"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물가 추이 📊"
+          }
+        }
+      }
+    },
+    "물가가 오르면 같은 돈으로 살 수 있는 게 줄어들어요" : {
+      "comment" : "MarketView.swift:75",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When prices rise, the same money buys less"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물가가 오르면 같은 돈으로 살 수 있는 게 줄어들어요"
+          }
+        }
+      }
+    },
+    "물가가 오르면 돈의 힘은 줄어요. 그래서 저축과 투자가 필요해요." : {
+      "comment" : "EducationView.swift:100",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When prices rise, money loses power. That’s why saving and investing matter."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물가가 오르면 돈의 힘은 줄어요. 그래서 저축과 투자가 필요해요."
+          }
+        }
+      }
+    },
+    "물가가 오르면 돈의 힘이 줄어든다는 것 알기" : {
+      "comment" : "EducationView.swift:93",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understand that when prices rise, money loses power"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물가가 오르면 돈의 힘이 줄어든다는 것 알기"
+          }
+        }
+      }
+    },
+    "물가가 오르면 지갑에 돈을 그냥 두는 게 좋을까?" : {
+      "comment" : "EducationView.swift:96",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When prices rise, is it a good idea to just leave money in your wallet?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물가가 오르면 지갑에 돈을 그냥 두는 게 좋을까?"
+          }
+        }
+      }
+    },
+    "물가지수" : {
+      "comment" : "MarketView.swift:34, MarketView.swift:62",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price index"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물가지수"
+          }
+        }
+      }
+    },
+    "물품 %lld개 판매 중 · 환율 자동 반영" : {
+      "comment" : "MarketView.swift:119",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld items for sale · rate applied automatically"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물품 %lld개 판매 중 · 환율 자동 반영"
+          }
+        }
+      }
+    },
+    "물품 바코드" : {
+      "comment" : "ParentActionsView.swift:106",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Item Barcode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물품 바코드"
+          }
+        }
+      }
+    },
+    "물품 바코드를 네모 안에 맞춰 주세요" : {
+      "comment" : "BarcodePayView.swift:167",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Line the item’s barcode up inside the box"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물품 바코드를 네모 안에 맞춰 주세요"
+          }
+        }
+      }
+    },
+    "물품 이름 (예: 콜라, 게임 30분)" : {
+      "comment" : "ParentModeView.swift:554",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Item name (e.g. Soda, 30 min gaming)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물품 이름 (예: 콜라, 게임 30분)"
+          }
+        }
+      }
+    },
+    "물품 정보" : {
+      "comment" : "ParentModeView.swift:553",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Item details"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물품 정보"
+          }
+        }
+      }
+    },
+    "물품 추가" : {
+      "comment" : "ParentActionsView.swift:113, ParentModeView.swift:162",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Item"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물품 추가"
+          }
+        }
+      }
+    },
+    "바코드" : {
+      "comment" : "BarcodePayView.swift:127",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barcode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "바코드"
+          }
+        }
+      }
+    },
+    "받는 사람" : {
+      "comment" : "PayView.swift:76",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recipient"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "받는 사람"
+          }
+        }
+      }
+    },
+    "받은 돈" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Received"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "받은 돈"
+          }
+        }
+      }
+    },
+    "받을 사람이 없어요" : {
+      "comment" : "PayView.swift:73",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There is nobody to receive it"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "받을 사람이 없어요"
+          }
+        }
+      }
+    },
+    "배우기" : {
+      "comment" : "KidModeView.swift:52, RootView.swift:71",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배우기"
+          }
+        }
+      }
+    },
     "백업과 내보내기" : {
       "comment" : "Roadmap item: backup and export",
       "localizations" : {
@@ -171,6 +2228,414 @@
         }
       }
     },
+    "보유 수량이 부족해요." : {
+      "comment" : "InvestView.swift:348",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You don’t own enough shares."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보유 수량이 부족해요."
+          }
+        }
+      }
+    },
+    "보유 투자 상품" : {
+      "comment" : "MemberDetailView.swift:95",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investments held"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보유 투자 상품"
+          }
+        }
+      }
+    },
+    "보통형 🐰" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balanced 🐰"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보통형 🐰"
+          }
+        }
+      }
+    },
+    "복리의 마법" : {
+      "comment" : "EducationView.swift:83",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The magic of compound interest"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복리의 마법"
+          }
+        }
+      }
+    },
+    "부모" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parent"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모"
+          }
+        }
+      }
+    },
+    "부모 가이드 📖" : {
+      "comment" : "EducationView.swift:156",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parent Guide 📖"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모 가이드 📖"
+          }
+        }
+      }
+    },
+    "부모 모드" : {
+      "comment" : "KidModeView.swift:35",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parent Mode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모 모드"
+          }
+        }
+      }
+    },
+    "부모 모드 비밀번호(PIN)를 정해 주세요" : {
+      "comment" : "OnboardingView.swift:91",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a Parent Mode PIN"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모 모드 비밀번호(PIN)를 정해 주세요"
+          }
+        }
+      }
+    },
+    "부모 모드에서 상품을 추가할 수 있어요" : {
+      "comment" : "InvestView.swift:94",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can add products in Parent Mode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모 모드에서 상품을 추가할 수 있어요"
+          }
+        }
+      }
+    },
+    "부모 확인을 위해 사용해요" : {
+      "comment" : "ParentActionsView.swift:62",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Used to confirm you’re a parent"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모 확인을 위해 사용해요"
+          }
+        }
+      }
+    },
+    "부모 확인이 필요해요" : {
+      "comment" : "ParentActionsView.swift:32",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A parent needs to confirm"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모 확인이 필요해요"
+          }
+        }
+      }
+    },
+    "부모 🏦" : {
+      "comment" : "HomeView.swift:48",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parents 🏦"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모 🏦"
+          }
+        }
+      }
+    },
+    "부모는 은행(중앙은행) 역할, 자녀는 고객이 돼요." : {
+      "comment" : "OnboardingView.swift:150",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parents act as the bank (central bank); kids are the customers."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모는 은행(중앙은행) 역할, 자녀는 고객이 돼요."
+          }
+        }
+      }
+    },
+    "부모님 확인이 필요해요" : {
+      "comment" : "KidModeView.swift:56",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A parent needs to confirm"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모님 확인이 필요해요"
+          }
+        }
+      }
+    },
+    "부모를 한 명 이상 등록해 주세요." : {
+      "comment" : "OnboardingView.swift:199",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add at least one parent."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모를 한 명 이상 등록해 주세요."
+          }
+        }
+      }
+    },
+    "비 오는 날 우산 장수를 생각해 봐. 우산을 사려는 사람은 많은데 우산이 몇 개 없으면? 값을 올려도 팔려. 반대로 여름이 끝난 수영복은? 사려는 사람이 없어서 싸게 팔아야 해.\n\n이렇게 가격은 '사려는 마음(수요)'과 '팔려는 양(공급)'이 밀고 당기면서 정해져. 투자 상품 가격이 오르내리는 것도 같은 원리야." : {
+      "comment" : "EducationView.swift:104",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Think of an umbrella seller on a rainy day. Lots of people want umbrellas but there are only a few? Even at a higher price, they sell. And swimsuits when summer is over? Nobody wants them, so they have to be cheap.\n\nPrices are set by a tug of war between “how much people want to buy” (demand) and “how much is for sale” (supply). Investment prices rise and fall by the same rule."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비 오는 날 우산 장수를 생각해 봐. 우산을 사려는 사람은 많은데 우산이 몇 개 없으면? 값을 올려도 팔려. 반대로 여름이 끝난 수영복은? 사려는 사람이 없어서 싸게 팔아야 해.\n\n이렇게 가격은 '사려는 마음(수요)'과 '팔려는 양(공급)'이 밀고 당기면서 정해져. 투자 상품 가격이 오르내리는 것도 같은 원리야."
+          }
+        }
+      }
+    },
+    "사기" : {
+      "comment" : "StoreView.swift:74",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사기"
+          }
+        }
+      }
+    },
+    "상품" : {
+      "comment" : "MemberDetailView.swift:101",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상품"
+          }
+        }
+      }
+    },
+    "상품 이름 (예: 별빛 펀드)" : {
+      "comment" : "ParentModeView.swift:648",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product name (e.g. Starlight Fund)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상품 이름 (예: 별빛 펀드)"
+          }
+        }
+      }
+    },
+    "상품 정보" : {
+      "comment" : "ParentModeView.swift:647",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product details"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상품 정보"
+          }
+        }
+      }
+    },
+    "상품 추가" : {
+      "comment" : "ParentModeView.swift:109",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add product"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상품 추가"
+          }
+        }
+      }
+    },
+    "새 PIN 4자리" : {
+      "comment" : "ParentModeView.swift:223",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New 4-digit PIN"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새 PIN 4자리"
+          }
+        }
+      }
+    },
+    "선택하면 포기하는 것이 생긴다는 것 알기" : {
+      "comment" : "EducationView.swift:64",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understand that every choice means giving something up"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택하면 포기하는 것이 생긴다는 것 알기"
+          }
+        }
+      }
+    },
+    "설명 (선택)" : {
+      "comment" : "ParentModeView.swift:649",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Description (optional)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설명 (선택)"
+          }
+        }
+      }
+    },
     "손끝으로 느끼는 반응" : {
       "comment" : "Roadmap item: haptic feedback",
       "localizations" : {
@@ -184,6 +2649,312 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "손끝으로 느끼는 반응"
+          }
+        }
+      }
+    },
+    "수량: %lld주" : {
+      "comment" : "InvestView.swift:279",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quantity: %lld"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수량: %lld주"
+          }
+        }
+      }
+    },
+    "수요와 공급" : {
+      "comment" : "EducationView.swift:102",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supply and demand"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수요와 공급"
+          }
+        }
+      }
+    },
+    "수익이 크면 위험도 커요. 나눠 담고, 잃어도 되는 만큼만!" : {
+      "comment" : "EducationView.swift:120",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bigger rewards mean bigger risks. Spread it out, and only risk what you can lose!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수익이 크면 위험도 커요. 나눠 담고, 잃어도 되는 만큼만!"
+          }
+        }
+      }
+    },
+    "숫자 4자리" : {
+      "comment" : "OnboardingView.swift:100",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 digits"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "숫자 4자리"
+          }
+        }
+      }
+    },
+    "시작 100 기준" : {
+      "comment" : "MarketView.swift:38",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starts at 100"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시작 100 기준"
+          }
+        }
+      }
+    },
+    "시작 가격" : {
+      "comment" : "ParentModeView.swift:667",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting price"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시작 가격"
+          }
+        }
+      }
+    },
+    "시작보다 +%@%%" : {
+      "comment" : "MarketView.swift:37",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% since the start"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시작보다 +%@%%"
+          }
+        }
+      }
+    },
+    "시작하기 🎉" : {
+      "comment" : "OnboardingView.swift:189",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get started 🎉"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시작하기 🎉"
+          }
+        }
+      }
+    },
+    "시장" : {
+      "comment" : "KidModeView.swift:43, RootView.swift:65",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Market"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시장"
+          }
+        }
+      }
+    },
+    "시장 탭 → 우리집 가게 가격표를 함께 보면서, 물건마다 가격이 다른 이유를 이야기해 보세요." : {
+      "comment" : "EducationView.swift:40",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open the Market tab and look at the shop price tags together. Talk about why different things cost different amounts."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시장 탭 → 우리집 가게 가격표를 함께 보면서, 물건마다 가격이 다른 이유를 이야기해 보세요."
+          }
+        }
+      }
+    },
+    "시장 탭에서 물가지수와 물가 추이 그래프를 함께 보고, 아래 '인플레이션 체험'으로 실험해 보세요." : {
+      "comment" : "EducationView.swift:99",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look at the price index and price trend graph in the Market tab together, then experiment with the “Inflation Experiment” below."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시장 탭에서 물가지수와 물가 추이 그래프를 함께 보고, 아래 '인플레이션 체험'으로 실험해 보세요."
+          }
+        }
+      }
+    },
+    "시장 탭에서 투자 상품 가격이 매일 변하는 걸 보며 '사려는 사람이 많으면 오른다'를 이야기해 보세요." : {
+      "comment" : "EducationView.swift:109",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch the investment prices change every day in the Market tab and talk about “when lots of people want to buy, the price goes up”."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시장 탭에서 투자 상품 가격이 매일 변하는 걸 보며 '사려는 사람이 많으면 오른다'를 이야기해 보세요."
+          }
+        }
+      }
+    },
+    "실제 가격 %@원" : {
+      "comment" : "BarcodePayView.swift:102, StoreView.swift:64",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real price: ₩%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실제 가격 %@원"
+          }
+        }
+      }
+    },
+    "실제 가격 (원)" : {
+      "comment" : "ParentModeView.swift:572",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real price (₩)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실제 가격 (원)"
+          }
+        }
+      }
+    },
+    "실제 세상 가격" : {
+      "comment" : "ParentModeView.swift:573",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real-world price"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실제 세상 가격"
+          }
+        }
+      }
+    },
+    "실질 가치" : {
+      "comment" : "EducationView.swift:405",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real value"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실질 가치"
+          }
+        }
+      }
+    },
+    "쑥쑥용돈 시작하기" : {
+      "comment" : "OnboardingView.swift:38",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get started with SukSuk Allowance"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쑥쑥용돈 시작하기"
+          }
+        }
+      }
+    },
+    "쑥쑥용돈에 오신 걸 환영해요!" : {
+      "comment" : "OnboardingView.swift:50",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to SukSuk Allowance!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쑥쑥용돈에 오신 걸 환영해요!"
           }
         }
       }
@@ -222,6 +2993,244 @@
         }
       }
     },
+    "아래 '복리 계산기'에서 기간을 4주에서 52주로 늘려 보세요. 그래프가 점점 가팔라지는 걸 함께 관찰!" : {
+      "comment" : "EducationView.swift:89",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In the “Compound Calculator” below, stretch the period from 4 to 52 weeks. Watch the graph get steeper together!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아래 '복리 계산기'에서 기간을 4주에서 52주로 늘려 보세요. 그래프가 점점 가팔라지는 걸 함께 관찰!"
+          }
+        }
+      }
+    },
+    "아무거나 돈이 될 수 없는 이유(화폐의 속성) 알기" : {
+      "comment" : "EducationView.swift:44",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understand why just anything can’t be money (the traits of currency)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아무거나 돈이 될 수 없는 이유(화폐의 속성) 알기"
+          }
+        }
+      }
+    },
+    "아이 지갑의 절반을 저축통장에 넣어 보세요. 일주일 뒤 이자가 붙은 걸 함께 확인하면 효과 만점!" : {
+      "comment" : "EducationView.swift:80",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Put half of your child’s wallet into savings. A week later, check the interest together – it works wonders!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이 지갑의 절반을 저축통장에 넣어 보세요. 일주일 뒤 이자가 붙은 걸 함께 확인하면 효과 만점!"
+          }
+        }
+      }
+    },
+    "아이가 가게에서 결제하기 전에, \"이 돈으로 살 수 있는 다른 것 한 가지\"를 꼭 말해 보게 하세요." : {
+      "comment" : "EducationView.swift:70",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Before your child pays at the shop, have them say “one other thing I could buy with this money”."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이가 가게에서 결제하기 전에, \"이 돈으로 살 수 있는 다른 것 한 가지\"를 꼭 말해 보게 하세요."
+          }
+        }
+      }
+    },
+    "아이에게 이렇게 말해 보세요" : {
+      "comment" : "EducationView.swift:203",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try saying this to your child"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이에게 이렇게 말해 보세요"
+          }
+        }
+      }
+    },
+    "아이와 함께 1단계부터 차근차근. 각 단계는 '설명해 주기 → 물어보기 → 함께 해보기' 순서로 10분이면 충분해요." : {
+      "comment" : "EducationView.swift:158",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go step by step from Step 1 with your child. Each step takes about 10 minutes: explain, ask, then try it together."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이와 함께 1단계부터 차근차근. 각 단계는 '설명해 주기 → 물어보기 → 함께 해보기' 순서로 10분이면 충분해요."
+          }
+        }
+      }
+    },
+    "아이와 함께 적은 돈으로 상품 2개에 나눠 투자해 보세요. 매일 가격을 같이 확인하면서 오르내림에 익숙해지게 해 주세요." : {
+      "comment" : "EducationView.swift:119",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Together with your child, split a small amount between 2 products. Check the prices every day so they get used to the ups and downs."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이와 함께 적은 돈으로 상품 2개에 나눠 투자해 보세요. 매일 가격을 같이 확인하면서 오르내림에 익숙해지게 해 주세요."
+          }
+        }
+      }
+    },
+    "아직 가격 기록이 부족해요. 내일 다시 확인해 보세요!" : {
+      "comment" : "InvestView.swift:240",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough price history yet. Check again tomorrow!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아직 가격 기록이 부족해요. 내일 다시 확인해 보세요!"
+          }
+        }
+      }
+    },
+    "아직 거래가 없어요" : {
+      "comment" : "MemberDetailView.swift:128",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No transactions yet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아직 거래가 없어요"
+          }
+        }
+      }
+    },
+    "아직 등록된 물품이 없어요.\n부모 모드에서 우리집 물품을 등록해 보세요!" : {
+      "comment" : "StoreView.swift:53",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No items yet.\nAdd your family’s items in Parent Mode!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아직 등록된 물품이 없어요.\n부모 모드에서 우리집 물품을 등록해 보세요!"
+          }
+        }
+      }
+    },
+    "아직 물품이 없어요 · 액션 탭에서 추가" : {
+      "comment" : "MarketView.swift:120",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No items yet · add some in the Actions tab"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아직 물품이 없어요 · 액션 탭에서 추가"
+          }
+        }
+      }
+    },
+    "아직 보유하고 있지 않아요" : {
+      "comment" : "InvestView.swift:262",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No holdings yet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아직 보유하고 있지 않아요"
+          }
+        }
+      }
+    },
+    "안정형 🐢" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steady 🐢"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "안정형 🐢"
+          }
+        }
+      }
+    },
+    "알림" : {
+      "comment" : "InvestView.swift:328, ParentModeView.swift:421",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notice"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림"
+          }
+        }
+      }
+    },
     "알아 두면 편한 기능을 알맞은 때에 살짝 알려 줘요." : {
       "comment" : "Roadmap item detail: in-app tips",
       "localizations" : {
@@ -235,6 +3244,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알아 두면 편한 기능을 알맞은 때에 살짝 알려 줘요."
+          }
+        }
+      }
+    },
+    "액션" : {
+      "comment" : "RootView.swift:62",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actions"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "액션"
+          }
+        }
+      }
+    },
+    "앱으로 함께 해보기" : {
+      "comment" : "EducationView.swift:225",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try it together in the app"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱으로 함께 해보기"
           }
         }
       }
@@ -273,6 +3316,40 @@
         }
       }
     },
+    "얼마나?" : {
+      "comment" : "ParentModeView.swift:374",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How much?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "얼마나?"
+          }
+        }
+      }
+    },
+    "얼마를 낼까요?" : {
+      "comment" : "PayView.swift:45",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How much will you pay?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "얼마를 낼까요?"
+          }
+        }
+      }
+    },
     "업데이트 뒤 처음 열 때 무엇이 새로 생겼는지 알려 줘요." : {
       "comment" : "Roadmap item detail: what's new after an update",
       "localizations" : {
@@ -307,6 +3384,23 @@
         }
       }
     },
+    "역할" : {
+      "comment" : "OnboardingView.swift:257, ParentModeView.swift:501",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Role"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "역할"
+          }
+        }
+      }
+    },
     "영어 지원" : {
       "comment" : "Roadmap item: English language",
       "localizations" : {
@@ -320,6 +3414,142 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "영어 지원"
+          }
+        }
+      }
+    },
+    "예: 실제 1,000원짜리 물건 = %@ %@. 가게 물품의 %@ 가격이 이 환율로 자동 계산돼요." : {
+      "comment" : "ParentModeView.swift:186",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Example: an item that really costs ₩1,000 = %@ %@. Shop prices in %@ are calculated automatically at this rate."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예: 실제 1,000원짜리 물건 = %@ %@. 가게 물품의 %@ 가격이 이 환율로 자동 계산돼요."
+          }
+        }
+      }
+    },
+    "예: 콩, 별, 코인" : {
+      "comment" : "OnboardingView.swift:61",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e.g. Bean, Star, Coin"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예: 콩, 별, 코인"
+          }
+        }
+      }
+    },
+    "예산 세우기" : {
+      "comment" : "EducationView.swift:122",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Making a budget"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예산 세우기"
+          }
+        }
+      }
+    },
+    "오늘 배울 것" : {
+      "comment" : "EducationView.swift:197",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What we’ll learn today"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오늘 배울 것"
+          }
+        }
+      }
+    },
+    "완료" : {
+      "comment" : "ParentModeView.swift:469",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "완료"
+          }
+        }
+      }
+    },
+    "왜 길가의 모래는 돈이 될 수 없을까? 아무 데나 잔뜩 있으니까! 좋은 돈이 되려면 다섯 가지 시험을 통과해야 해.\n\n① 오래 가야 해(썩으면 안 돼) ② 갖고 다니기 쉬워야 해(소는 무거워서 탈락!) ③ 잘게 나눌 수 있어야 해 ④ 흔하지 않아야 해 ⑤ 모두가 '이건 진짜 돈이야'라고 믿어야 해.\n\n우리집 코인도 엄마 아빠가 아무 때나 마구 찍어내지 않고 약속을 지키니까 가치가 있는 거야." : {
+      "comment" : "EducationView.swift:45",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Why can’t sand from the road be money? Because there’s tons of it everywhere! To be good money, something has to pass five tests.\n\n① It has to last (no rotting!) ② It has to be easy to carry (a cow is too heavy – out!) ③ It has to split into small pieces ④ It can’t be too common ⑤ Everybody has to believe, “Yes, this is real money.”\n\nOur family coins are worth something because Mom and Dad don’t print them whenever they feel like it – they keep their promise."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "왜 길가의 모래는 돈이 될 수 없을까? 아무 데나 잔뜩 있으니까! 좋은 돈이 되려면 다섯 가지 시험을 통과해야 해.\n\n① 오래 가야 해(썩으면 안 돼) ② 갖고 다니기 쉬워야 해(소는 무거워서 탈락!) ③ 잘게 나눌 수 있어야 해 ④ 흔하지 않아야 해 ⑤ 모두가 '이건 진짜 돈이야'라고 믿어야 해.\n\n우리집 코인도 엄마 아빠가 아무 때나 마구 찍어내지 않고 약속을 지키니까 가치가 있는 거야."
+          }
+        }
+      }
+    },
+    "요즘 사고 싶은 것들 중에 '필요'는 뭐고 '욕구'는 뭘까?" : {
+      "comment" : "EducationView.swift:57",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Of the things you want to buy lately, which are needs and which are wants?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "요즘 사고 싶은 것들 중에 '필요'는 뭐고 '욕구'는 뭘까?"
+          }
+        }
+      }
+    },
+    "용돈" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allowance"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용돈"
           }
         }
       }
@@ -341,6 +3571,57 @@
         }
       }
     },
+    "용돈 주기" : {
+      "comment" : "ParentActionsView.swift:99",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give Allowance"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용돈 주기"
+          }
+        }
+      }
+    },
+    "용돈 주기 / 차감하기" : {
+      "comment" : "ParentModeView.swift:41",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give / Deduct allowance"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용돈 주기 / 차감하기"
+          }
+        }
+      }
+    },
+    "용돈 주는 날, 아이가 직접 저축·투자·소비 비율을 정해서 실행하게 하세요. 일주일 뒤 기록 탭을 함께 보며 돌아봅니다." : {
+      "comment" : "EducationView.swift:129",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On allowance day, let your child decide their own saving, investing, and spending split and follow it. A week later, review the History tab together."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용돈 주는 날, 아이가 직접 저축·투자·소비 비율을 정해서 실행하게 하세요. 일주일 뒤 기록 탭을 함께 보며 돌아봅니다."
+          }
+        }
+      }
+    },
     "용돈 주는 날이나 이자가 붙을 때 알림으로 알려 줘요." : {
       "comment" : "Roadmap item detail: notifications",
       "localizations" : {
@@ -354,6 +3635,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈 주는 날이나 이자가 붙을 때 알림으로 알려 줘요."
+          }
+        }
+      }
+    },
+    "용돈 지급, 이자율 설정 등은\n이 PIN을 아는 사람만 할 수 있어요." : {
+      "comment" : "OnboardingView.swift:94",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only people who know this PIN can\ngive allowance or set interest rates."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용돈 지급, 이자율 설정 등은\n이 PIN을 아는 사람만 할 수 있어요."
           }
         }
       }
@@ -375,6 +3673,142 @@
         }
       }
     },
+    "용돈을 받자마자 계획 없이 쓰면 금방 사라져 버려. 그래서 미리 계획을 세우는 거야. 이걸 '예산'이라고 해.\n\n예를 들면 이렇게 나눠 봐. 저축 30, 필요한 것 40, 하고 싶은 것 20, 투자 도전 10. 꼭 이대로가 아니어도 돼. 네가 직접 정하는 게 중요해!" : {
+      "comment" : "EducationView.swift:124",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you spend your allowance the moment you get it, it’s gone in no time. So you make a plan first. That’s called a “budget”.\n\nFor example, split it like this: saving 30, needs 40, wants 20, investing 10. It doesn’t have to be exactly this. What matters is that you decide it yourself!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용돈을 받자마자 계획 없이 쓰면 금방 사라져 버려. 그래서 미리 계획을 세우는 거야. 이걸 '예산'이라고 해.\n\n예를 들면 이렇게 나눠 봐. 저축 30, 필요한 것 40, 하고 싶은 것 20, 투자 도전 10. 꼭 이대로가 아니어도 돼. 네가 직접 정하는 게 중요해!"
+          }
+        }
+      }
+    },
+    "용돈을 주거나 결제하면 여기에 기록돼요" : {
+      "comment" : "HistoryView.swift:64",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giving allowance or paying will show up here"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용돈을 주거나 결제하면 여기에 기록돼요"
+          }
+        }
+      }
+    },
+    "용돈을 주고, 결제하고, 저축 이자를 받고,\n투자도 해 보는 우리 가족만의 경제 시스템이에요." : {
+      "comment" : "OnboardingView.swift:53",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give allowance, pay, earn savings interest,\nand even invest – your family’s very own economy."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용돈을 주고, 결제하고, 저축 이자를 받고,\n투자도 해 보는 우리 가족만의 경제 시스템이에요."
+          }
+        }
+      }
+    },
+    "우리집 가게" : {
+      "comment" : "MarketView.swift:116",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Family Shop"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 가게"
+          }
+        }
+      }
+    },
+    "우리집 가게 물품을 함께 보면서 하나씩 '필요'와 '욕구'로 나눠 보세요." : {
+      "comment" : "EducationView.swift:60",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go through the shop items together and sort them one by one into “needs” and “wants”."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 가게 물품을 함께 보면서 하나씩 '필요'와 '욕구'로 나눠 보세요."
+          }
+        }
+      }
+    },
+    "우리집 가격" : {
+      "comment" : "ParentModeView.swift:576",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Family price"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 가격"
+          }
+        }
+      }
+    },
+    "우리집 물가" : {
+      "comment" : "HomeView.swift:84",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Our home prices"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 물가"
+          }
+        }
+      }
+    },
+    "우리집 물가지수는 지금 얼마일까?" : {
+      "comment" : "EducationView.swift:97",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is our family price index right now?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 물가지수는 지금 얼마일까?"
+          }
+        }
+      }
+    },
     "우리집 은행 기록을 파일로 저장하고 다시 불러올 수 있어요." : {
       "comment" : "Roadmap item detail: backup and export",
       "localizations" : {
@@ -388,6 +3822,108 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 은행 기록을 파일로 저장하고 다시 불러올 수 있어요."
+          }
+        }
+      }
+    },
+    "우리집 코인으로는 뭘 바꿀 수 있을까?" : {
+      "comment" : "EducationView.swift:38",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What can we swap for our family coins?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 코인으로는 뭘 바꿀 수 있을까?"
+          }
+        }
+      }
+    },
+    "우리집 코인은 왜 가치가 있을까?" : {
+      "comment" : "EducationView.swift:48",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Why are our family coins worth something?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 코인은 왜 가치가 있을까?"
+          }
+        }
+      }
+    },
+    "우리집 통화량 💰" : {
+      "comment" : "MarketView.swift:90",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money supply 💰"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 통화량 💰"
+          }
+        }
+      }
+    },
+    "우리집 투자 상품이에요." : {
+      "comment" : "ParentModeView.swift:696",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Our family’s investment product."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 투자 상품이에요."
+          }
+        }
+      }
+    },
+    "우리집 화폐 이름을 정해 주세요" : {
+      "comment" : "OnboardingView.swift:59",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name your family currency"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집 화폐 이름을 정해 주세요"
+          }
+        }
+      }
+    },
+    "우리집에 도는 돈" : {
+      "comment" : "HomeView.swift:25",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money in our home"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "우리집에 도는 돈"
           }
         }
       }
@@ -426,6 +3962,924 @@
         }
       }
     },
+    "원" : {
+      "comment" : "ParentModeView.swift:184",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KRW"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원"
+          }
+        }
+      }
+    },
+    "위험도" : {
+      "comment" : "ParentModeView.swift:670, ParentModeView.swift:671",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risk level"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "위험도"
+          }
+        }
+      }
+    },
+    "위험형 🚀" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risky 🚀"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "위험형 🚀"
+          }
+        }
+      }
+    },
+    "은행 설정" : {
+      "comment" : "ParentActionsView.swift:141",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bank Settings"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "은행 설정"
+          }
+        }
+      }
+    },
+    "은행에 돈을 맡기면 은행이 '맡겨 줘서 고마워!' 하면서 덤을 줘. 그 덤이 '이자'야.\n\n지갑에 넣어 둔 돈은 아무리 기다려도 안 늘어나. 그런데 저축통장에 넣으면 매주 이자가 붙어서 돈이 자라나. 당장 쓰지 않을 돈을 어디에 두면 좋을까?" : {
+      "comment" : "EducationView.swift:75",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When you leave money at a bank, the bank says “Thanks for trusting us!” and gives you a little extra. That extra is called “interest”.\n\nMoney in your wallet never grows, no matter how long you wait. But put it in a savings account and interest is added every week, so it grows. Where should you keep money you won’t spend right now?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "은행에 돈을 맡기면 은행이 '맡겨 줘서 고마워!' 하면서 덤을 줘. 그 덤이 '이자'야.\n\n지갑에 넣어 둔 돈은 아무리 기다려도 안 늘어나. 그런데 저축통장에 넣으면 매주 이자가 붙어서 돈이 자라나. 당장 쓰지 않을 돈을 어디에 두면 좋을까?"
+          }
+        }
+      }
+    },
+    "이 기기 건네주기" : {
+      "comment" : "ParentActionsView.swift:127",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hand over this device"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 기기 건네주기"
+          }
+        }
+      }
+    },
+    "이 기기가 선택한 자녀의 전용 화면으로 바뀌어요. 자녀는 자기 지갑·가게·투자·기록·배우기만 볼 수 있어요. 폰이 없는 자녀에게 부모 폰을 건네줄 때 좋아요. 되돌아오려면 자물쇠 버튼을 누르고 부모 PIN을 입력하면 돼요." : {
+      "comment" : "ParentModeView.swift:130",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This device switches to the selected child’s own screen. They can only see their wallet, shop, investing, history, and lessons. Handy when you hand your phone to a child without one. To come back, tap the lock button and enter the parent PIN."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 기기가 선택한 자녀의 전용 화면으로 바뀌어요. 자녀는 자기 지갑·가게·투자·기록·배우기만 볼 수 있어요. 폰이 없는 자녀에게 부모 폰을 건네줄 때 좋아요. 되돌아오려면 자물쇠 버튼을 누르고 부모 PIN을 입력하면 돼요."
+          }
+        }
+      }
+    },
+    "이 기기를 %@ %@의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요." : {
+      "comment" : "ParentModeView.swift:297",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make this device %@ %@’s phone? A parent PIN is needed to switch back."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 기기를 %@ %@의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요."
+          }
+        }
+      }
+    },
+    "이 기기를 누구의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요." : {
+      "comment" : "ParentActionsView.swift:177",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whose phone should this device become? A parent PIN is needed to switch back."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 기기를 누구의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요."
+          }
+        }
+      }
+    },
+    "이대로 두면 얼마가 될까? (12주 복리 예상)" : {
+      "comment" : "SavingsView.swift:87",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How much by leaving it? (12-week compound estimate)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이대로 두면 얼마가 될까? (12주 복리 예상)"
+          }
+        }
+      }
+    },
+    "이렇게 물어보세요" : {
+      "comment" : "EducationView.swift:210",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try asking these"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이렇게 물어보세요"
+          }
+        }
+      }
+    },
+    "이름" : {
+      "comment" : "OnboardingView.swift:237, ParentModeView.swift:480",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이름"
+          }
+        }
+      }
+    },
+    "이모지" : {
+      "comment" : "ParentModeView.swift:483",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이모지"
+          }
+        }
+      }
+    },
+    "이번 주 용돈을 어떻게 나누고 싶어?" : {
+      "comment" : "EducationView.swift:126",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How would you like to split this week’s allowance?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이번 주 용돈을 어떻게 나누고 싶어?"
+          }
+        }
+      }
+    },
+    "이유" : {
+      "comment" : "ParentModeView.swift:395",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reason"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이유"
+          }
+        }
+      }
+    },
+    "이자" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interest"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이자"
+          }
+        }
+      }
+    },
+    "이자 · 환율 · 물가" : {
+      "comment" : "ParentActionsView.swift:141",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interest · Rate · Prices"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이자 · 환율 · 물가"
+          }
+        }
+      }
+    },
+    "이자가 이자를 낳는 것을 '복리'라고 해요. 오래 저축할수록 돈이 눈덩이처럼 불어나요! ⛄️" : {
+      "comment" : "SavingsView.swift:110",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When interest earns interest, it’s called compound interest. The longer you save, the more your money snowballs! ⛄️"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이자가 이자를 낳는 것을 '복리'라고 해요. 오래 저축할수록 돈이 눈덩이처럼 불어나요! ⛄️"
+          }
+        }
+      }
+    },
+    "이자로만 %@ %@을(를) 벌었어요!" : {
+      "comment" : "EducationView.swift:327",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You earned %@ %@ from interest alone!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이자로만 %@ %@을(를) 벌었어요!"
+          }
+        }
+      }
+    },
+    "이자에 이자가 붙으면 눈덩이처럼 커진다는 것 알기" : {
+      "comment" : "EducationView.swift:84",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understand that interest on interest grows like a snowball"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이자에 이자가 붙으면 눈덩이처럼 커진다는 것 알기"
+          }
+        }
+      }
+    },
+    "이자율이 물가 상승률보다 낮으면 저축해도 돈의 힘이 줄어요. 이자율을 올려 보세요!" : {
+      "comment" : "EducationView.swift:430",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If the interest rate is lower than inflation, saving still loses buying power. Try raising the interest rate!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이자율이 물가 상승률보다 낮으면 저축해도 돈의 힘이 줄어요. 이자율을 올려 보세요!"
+          }
+        }
+      }
+    },
+    "이전" : {
+      "comment" : "OnboardingView.swift:119, OnboardingView.swift:183",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이전"
+          }
+        }
+      }
+    },
+    "인플레이션" : {
+      "comment" : "EducationView.swift:92",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflation"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인플레이션"
+          }
+        }
+      }
+    },
+    "인플레이션 없음" : {
+      "comment" : "MarketView.swift:42",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No inflation"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인플레이션 없음"
+          }
+        }
+      }
+    },
+    "일" : {
+      "comment" : "InvestView.swift:156, InvestView.swift:231",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Day"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일"
+          }
+        }
+      }
+    },
+    "일찍, 꾸준히 — 이게 복리의 비밀이에요." : {
+      "comment" : "EducationView.swift:90",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start early, keep going – that’s the secret of compound interest."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일찍, 꾸준히 — 이게 복리의 비밀이에요."
+          }
+        }
+      }
+    },
+    "잃어도 괜찮은 돈은 얼마일까?" : {
+      "comment" : "EducationView.swift:117",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How much money is okay to lose?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잃어도 괜찮은 돈은 얼마일까?"
+          }
+        }
+      }
+    },
+    "입금" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deposit"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "입금"
+          }
+        }
+      }
+    },
+    "입금 / 출금" : {
+      "comment" : "SavingsView.swift:66",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deposit / Withdraw"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "입금 / 출금"
+          }
+        }
+      }
+    },
+    "자녀" : {
+      "comment" : "ParentModeView.swift:357",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Child"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀"
+          }
+        }
+      }
+    },
+    "자녀 기기의 카메라로 스캔하면 초대장이 보여요" : {
+      "comment" : "InviteView.swift:81",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan with your child’s device camera to see the invitation"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 기기의 카메라로 스캔하면 초대장이 보여요"
+          }
+        }
+      }
+    },
+    "자녀 초대" : {
+      "comment" : "ParentActionsView.swift:120",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invite Child"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 초대"
+          }
+        }
+      }
+    },
+    "자녀 폰 모드" : {
+      "comment" : "ParentActionsView.swift:127",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Child Phone Mode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 폰 모드"
+          }
+        }
+      }
+    },
+    "자녀 폰으로 전환" : {
+      "comment" : "ParentModeView.swift:290",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switch to child phone"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 폰으로 전환"
+          }
+        }
+      }
+    },
+    "자녀 👧" : {
+      "comment" : "HomeView.swift:36",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kids 👧"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 👧"
+          }
+        }
+      }
+    },
+    "자녀가 '찍어서 결제'로 이 바코드를 찍으면\n지갑에서 %@이 빠져나가요" : {
+      "comment" : "BarcodePayView.swift:119",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When your child scans this barcode with “Scan to Pay”,\n%@ comes out of their wallet."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀가 '찍어서 결제'로 이 바코드를 찍으면\n지갑에서 %@이 빠져나가요"
+          }
+        }
+      }
+    },
+    "자녀를 한 명 이상 등록해 주세요." : {
+      "comment" : "OnboardingView.swift:203",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add at least one child."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀를 한 명 이상 등록해 주세요."
+          }
+        }
+      }
+    },
+    "작년에 1,000원이던 과자가 올해 1,100원이 됐어. 과자가 커진 것도 아닌데! 이렇게 물건값이 오르는 걸 '인플레이션'이라고 해.\n\n내 돈의 숫자는 그대로인데 살 수 있는 게 줄어들어. 풍선에서 바람이 빠지듯 돈의 힘이 약해지는 거야. 그래서 돈을 지갑에 가만히 두면 조금씩 손해란다. 이자를 받거나 투자해서 물가보다 빨리 불려야 돈의 힘을 지킬 수 있어." : {
+      "comment" : "EducationView.swift:94",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last year a snack cost 1,000. This year it costs 1,100. The snack didn’t get bigger! When prices go up like this, it’s called “inflation”.\n\nThe number on your money stays the same, but you can buy less with it. Like air leaking out of a balloon, your money gets weaker. So just leaving money in your wallet slowly loses value. To protect its power, you need to grow it faster than prices rise – with interest or investing."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작년에 1,000원이던 과자가 올해 1,100원이 됐어. 과자가 커진 것도 아닌데! 이렇게 물건값이 오르는 걸 '인플레이션'이라고 해.\n\n내 돈의 숫자는 그대로인데 살 수 있는 게 줄어들어. 풍선에서 바람이 빠지듯 돈의 힘이 약해지는 거야. 그래서 돈을 지갑에 가만히 두면 조금씩 손해란다. 이자를 받거나 투자해서 물가보다 빨리 불려야 돈의 힘을 지킬 수 있어."
+          }
+        }
+      }
+    },
+    "잔액" : {
+      "comment" : "PayView.swift:39",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balance"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잔액"
+          }
+        }
+      }
+    },
+    "잠그기" : {
+      "comment" : "ParentActionsView.swift:155, ParentModeView.swift:266",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lock"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잠그기"
+          }
+        }
+      }
+    },
+    "저장" : {
+      "comment" : "ParentModeView.swift:230",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장"
+          }
+        }
+      }
+    },
+    "저축" : {
+      "comment" : "HomeView.swift:140, MarketView.swift:100",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Savings"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축"
+          }
+        }
+      }
+    },
+    "저축 이자율" : {
+      "comment" : "MarketView.swift:48",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Savings interest rate"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축 이자율"
+          }
+        }
+      }
+    },
+    "저축 입금" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Savings deposit"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축 입금"
+          }
+        }
+      }
+    },
+    "저축 잔액" : {
+      "comment" : "SavingsView.swift:47",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Savings balance"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축 잔액"
+          }
+        }
+      }
+    },
+    "저축 출금" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Savings withdrawal"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축 출금"
+          }
+        }
+      }
+    },
+    "저축: %@" : {
+      "comment" : "EducationView.swift:424",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Savings: %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축: %@"
+          }
+        }
+      }
+    },
+    "저축과 이자" : {
+      "comment" : "EducationView.swift:73",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving and interest"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축과 이자"
+          }
+        }
+      }
+    },
+    "저축을 일찍 시작한 사람과 늦게 시작한 사람, 나중에 누가 더 부자가 될까?" : {
+      "comment" : "EducationView.swift:87",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If one person starts saving early and another starts late, who ends up richer?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축을 일찍 시작한 사람과 늦게 시작한 사람, 나중에 누가 더 부자가 될까?"
+          }
+        }
+      }
+    },
+    "저축통장에 넣기" : {
+      "comment" : "SavingsView.swift:79",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move to savings"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축통장에 넣기"
+          }
+        }
+      }
+    },
+    "저축통장에 돈이 부족해요." : {
+      "comment" : "SavingsView.swift:142",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough in your savings."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축통장에 돈이 부족해요."
+          }
+        }
+      }
+    },
+    "저축통장에 매주 복리" : {
+      "comment" : "MarketView.swift:50",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compounded weekly in savings"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축통장에 매주 복리"
+          }
+        }
+      }
+    },
+    "저축하면 돈이 늘어나는 원리 알기" : {
+      "comment" : "EducationView.swift:74",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understand how saving makes money grow"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축하면 돈이 늘어나는 원리 알기"
+          }
+        }
+      }
+    },
+    "저축한 돈" : {
+      "comment" : "EducationView.swift:369, EducationView.swift:412",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money saved"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저축한 돈"
+          }
+        }
+      }
+    },
     "적다가 앱이 꺼져도 쓰던 내용이 남아 있어요." : {
       "comment" : "Roadmap item detail: keep unsaved drafts",
       "localizations" : {
@@ -443,6 +4897,771 @@
         }
       }
     },
+    "전부 삭제" : {
+      "comment" : "ParentModeView.swift:283",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete everything"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전부 삭제"
+          }
+        }
+      }
+    },
+    "전체" : {
+      "comment" : "HistoryView.swift:90, HistoryView.swift:98",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체"
+          }
+        }
+      }
+    },
+    "정말 모든 데이터를 삭제할까요?" : {
+      "comment" : "ParentModeView.swift:282",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Really delete all data?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정말 모든 데이터를 삭제할까요?"
+          }
+        }
+      }
+    },
+    "종류" : {
+      "comment" : "ParentModeView.swift:375, SavingsView.swift:67",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "종류"
+          }
+        }
+      }
+    },
+    "좋은 돈의 조건" : {
+      "comment" : "EducationView.swift:43",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What makes good money"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "좋은 돈의 조건"
+          }
+        }
+      }
+    },
+    "주" : {
+      "comment" : "EducationView.swift:308, EducationView.swift:315",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wk"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주"
+          }
+        }
+      }
+    },
+    "주 %@%%" : {
+      "comment" : "MarketView.swift:41, MarketView.swift:49",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% per week"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주 %@%%"
+          }
+        }
+      }
+    },
+    "주간 물가 상승률: %@%%" : {
+      "comment" : "EducationView.swift:387, ParentModeView.swift:210",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly inflation rate: %@%%"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주간 물가 상승률: %@%%"
+          }
+        }
+      }
+    },
+    "주간 이자율" : {
+      "comment" : "SavingsView.swift:52",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly interest rate"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주간 이자율"
+          }
+        }
+      }
+    },
+    "주간 이자율: %@%%" : {
+      "comment" : "EducationView.swift:296",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly interest rate: %@%%"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주간 이자율: %@%%"
+          }
+        }
+      }
+    },
+    "주간 저축 이자율 %@%% · 주간 물가 상승률 %@%%" : {
+      "comment" : "HomeView.swift:29",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly savings interest %@%% · Weekly inflation %@%%"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주간 저축 이자율 %@%% · 주간 물가 상승률 %@%%"
+          }
+        }
+      }
+    },
+    "주간 저축 이자율: %@%%" : {
+      "comment" : "EducationView.swift:392, ParentModeView.swift:202",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly savings interest rate: %@%%"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주간 저축 이자율: %@%%"
+          }
+        }
+      }
+    },
+    "지갑" : {
+      "comment" : "HomeView.swift:139, MarketView.swift:99",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wallet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑"
+          }
+        }
+      }
+    },
+    "지갑 잔액" : {
+      "comment" : "InvestView.swift:267, SavingsView.swift:59",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wallet balance"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑 잔액"
+          }
+        }
+      }
+    },
+    "지갑: %@" : {
+      "comment" : "EducationView.swift:421",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wallet: %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑: %@"
+          }
+        }
+      }
+    },
+    "지갑: %@ %@" : {
+      "comment" : "InvestView.swift:54, InvestView.swift:75",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wallet: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑: %@ %@"
+          }
+        }
+      }
+    },
+    "지갑에 그냥 둔 돈은 힘이 줄었지만, 저축한 돈은 지켜냈어요! 💪" : {
+      "comment" : "EducationView.swift:429",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money left in the wallet lost power, but the money you saved held its value! 💪"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑에 그냥 둔 돈은 힘이 줄었지만, 저축한 돈은 지켜냈어요! 💪"
+          }
+        }
+      }
+    },
+    "지갑에 돈이 부족해요! 잔액: %@ %@" : {
+      "comment" : "BarcodePayView.swift:232, PayView.swift:119",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough in your wallet! Balance: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑에 돈이 부족해요! 잔액: %@ %@"
+          }
+        }
+      }
+    },
+    "지갑에 돈이 부족해요." : {
+      "comment" : "SavingsView.swift:137",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough in your wallet."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑에 돈이 부족해요."
+          }
+        }
+      }
+    },
+    "지갑에 돈이 부족해요. 필요 금액: %@ %@" : {
+      "comment" : "InvestView.swift:340",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough in your wallet. Needed: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑에 돈이 부족해요. 필요 금액: %@ %@"
+          }
+        }
+      }
+    },
+    "지갑에 둔 돈" : {
+      "comment" : "EducationView.swift:368, EducationView.swift:411",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money in wallet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑에 둔 돈"
+          }
+        }
+      }
+    },
+    "지갑에 둔 돈과 저축한 돈, 뭐가 다를까?" : {
+      "comment" : "EducationView.swift:78",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What’s the difference between money in your wallet and money you’ve saved?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑에 둔 돈과 저축한 돈, 뭐가 다를까?"
+          }
+        }
+      }
+    },
+    "지갑으로 꺼내기" : {
+      "comment" : "SavingsView.swift:79",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move to wallet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지갑으로 꺼내기"
+          }
+        }
+      }
+    },
+    "지급 · 차감" : {
+      "comment" : "ParentActionsView.swift:99",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give · Deduct"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지급 · 차감"
+          }
+        }
+      }
+    },
+    "지난번에 뭘 사느라 뭘 포기했었지?" : {
+      "comment" : "EducationView.swift:67",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What did you give up the last time you bought something?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지난번에 뭘 사느라 뭘 포기했었지?"
+          }
+        }
+      }
+    },
+    "지난주에는 어디에 돈을 제일 많이 썼을까?" : {
+      "comment" : "EducationView.swift:127",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Where did you spend the most money last week?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지난주에는 어디에 돈을 제일 많이 썼을까?"
+          }
+        }
+      }
+    },
+    "지수 %lld" : {
+      "comment" : "HomeView.swift:88",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Index %lld"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지수 %lld"
+          }
+        }
+      }
+    },
+    "지원" : {
+      "comment" : "ParentModeView.swift:245",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지원"
+          }
+        }
+      }
+    },
+    "집에 있는 물건 3개를 골라 '돈이 될 수 있을까?' 게임을 해 보세요. 다섯 조건에 O/X를 매겨 봅니다." : {
+      "comment" : "EducationView.swift:50",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick 3 things around the house and play “Could it be money?” Mark each of the five tests with a check or a cross."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "집에 있는 물건 3개를 골라 '돈이 될 수 있을까?' 게임을 해 보세요. 다섯 조건에 O/X를 매겨 봅니다."
+          }
+        }
+      }
+    },
+    "찍어서 결제" : {
+      "comment" : "MemberDetailView.swift:52",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan to Pay"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "찍어서 결제"
+          }
+        }
+      }
+    },
+    "찍으면 바로 결제" : {
+      "comment" : "ParentActionsView.swift:106",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan to pay instantly"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "찍으면 바로 결제"
+          }
+        }
+      }
+    },
+    "차감" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deduction"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "차감"
+          }
+        }
+      }
+    },
+    "차감하기" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deduct"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "차감하기"
+          }
+        }
+      }
+    },
+    "처음 금액: %@ %@" : {
+      "comment" : "EducationView.swift:291",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting amount: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "처음 금액: %@ %@"
+          }
+        }
+      }
+    },
+    "처음보다 물가가 %@%% 올랐어요. 지갑 속 1,000 %@의 힘은 이제 %@ %@만큼이에요." : {
+      "comment" : "HomeView.swift:95",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prices are up %@%% since the start. 1,000 %@ in your wallet now has the power of %@ %@."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "처음보다 물가가 %@%% 올랐어요. 지갑 속 1,000 %@의 힘은 이제 %@ %@만큼이에요."
+          }
+        }
+      }
+    },
+    "초대장 · QR" : {
+      "comment" : "ParentActionsView.swift:120",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invitation · QR"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "초대장 · QR"
+          }
+        }
+      }
+    },
+    "초대장 보내기" : {
+      "comment" : "InviteView.swift:88",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send invitation"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "초대장 보내기"
+          }
+        }
+      }
+    },
+    "총 금액" : {
+      "comment" : "InvestView.swift:281",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "총 금액"
+          }
+        }
+      }
+    },
+    "총자산" : {
+      "comment" : "HomeView.swift:131",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total assets"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "총자산"
+          }
+        }
+      }
+    },
+    "총자산 · 실제 돈으로 약 %@원" : {
+      "comment" : "MemberDetailView.swift:35",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total assets · about ₩%@ in real money"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "총자산 · 실제 돈으로 약 %@원"
+          }
+        }
+      }
+    },
+    "최근 거래" : {
+      "comment" : "MemberDetailView.swift:125",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recent transactions"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최근 거래"
+          }
+        }
+      }
+    },
+    "추가" : {
+      "comment" : "OnboardingView.swift:271, ParentModeView.swift:517",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가"
+          }
+        }
+      }
+    },
+    "출금" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Withdraw"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출금"
+          }
+        }
+      }
+    },
+    "취소" : {
+      "comment" : "BarcodePayView.swift:196, KidModeView.swift:64",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소"
+          }
+        }
+      }
+    },
+    "크리스마스에 인기 장난감이 비싸지는 이유는 뭘까?" : {
+      "comment" : "EducationView.swift:106",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Why do popular toys get expensive at Christmas?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "크리스마스에 인기 장난감이 비싸지는 이유는 뭘까?"
+          }
+        }
+      }
+    },
     "큰 글씨에 맞춘 화면" : {
       "comment" : "Roadmap item: layouts for larger text",
       "localizations" : {
@@ -456,6 +5675,227 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "큰 글씨에 맞춘 화면"
+          }
+        }
+      }
+    },
+    "투자" : {
+      "comment" : "HomeView.swift:141, KidModeView.swift:46",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invested"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자"
+          }
+        }
+      }
+    },
+    "투자 매도" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sell"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자 매도"
+          }
+        }
+      }
+    },
+    "투자 매수" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자 매수"
+          }
+        }
+      }
+    },
+    "투자 상품" : {
+      "comment" : "InvestView.swift:321",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investment Products"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자 상품"
+          }
+        }
+      }
+    },
+    "투자 상품 추가" : {
+      "comment" : "ParentModeView.swift:682",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Investment Product"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자 상품 추가"
+          }
+        }
+      }
+    },
+    "투자 시장 📈" : {
+      "comment" : "MarketView.swift:136",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investment market 📈"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자 시장 📈"
+          }
+        }
+      }
+    },
+    "투자 평가액: %@ %@" : {
+      "comment" : "InvestView.swift:56, InvestView.swift:77",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investment value: %@ %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자 평가액: %@ %@"
+          }
+        }
+      }
+    },
+    "투자는 돈을 심는 거야. 씨앗이 잘 자라면 큰 나무가 되지만, 시들 수도 있어. 저축과 달리 투자는 돈이 늘 수도, 줄 수도 있단다.\n\n꼭 기억할 규칙: 크게 벌 수 있는 것일수록 크게 잃을 수도 있어. 그리고 계란을 한 바구니에 다 담으면 떨어뜨렸을 때 전부 깨져. 나눠 담아야 해(분산투자). 잃어도 괜찮은 만큼만 심는 거야." : {
+      "comment" : "EducationView.swift:114",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investing is like planting money. If the seed grows well, it becomes a big tree – but it can wither too. Unlike saving, investing can make your money grow or shrink.\n\nRemember this rule: the more you could win, the more you could lose. And if you put all your eggs in one basket, they all break when you drop it. Spread them out (diversify). Only plant what you can afford to lose."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자는 돈을 심는 거야. 씨앗이 잘 자라면 큰 나무가 되지만, 시들 수도 있어. 저축과 달리 투자는 돈이 늘 수도, 줄 수도 있단다.\n\n꼭 기억할 규칙: 크게 벌 수 있는 것일수록 크게 잃을 수도 있어. 그리고 계란을 한 바구니에 다 담으면 떨어뜨렸을 때 전부 깨져. 나눠 담아야 해(분산투자). 잃어도 괜찮은 만큼만 심는 거야."
+          }
+        }
+      }
+    },
+    "투자와 위험" : {
+      "comment" : "EducationView.swift:112",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investing and risk"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자와 위험"
+          }
+        }
+      }
+    },
+    "투자자" : {
+      "comment" : "InvestView.swift:66",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investor"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자자"
+          }
+        }
+      }
+    },
+    "투자자 선택" : {
+      "comment" : "InvestView.swift:63",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose an investor"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자자 선택"
+          }
+        }
+      }
+    },
+    "투자하려면 먼저 홈에서 자녀를 등록해 주세요." : {
+      "comment" : "InvestView.swift:312",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To invest, first add a child on the Home tab."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "투자하려면 먼저 홈에서 자녀를 등록해 주세요."
+          }
+        }
+      }
+    },
+    "판매 중인 투자 상품이 없어요" : {
+      "comment" : "InvestView.swift:91",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No investment products for sale"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "판매 중인 투자 상품이 없어요"
           }
         }
       }
@@ -494,6 +5934,227 @@
         }
       }
     },
+    "필요 먼저, 욕구는 그다음!" : {
+      "comment" : "EducationView.swift:61",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Needs first, wants next!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "필요 먼저, 욕구는 그다음!"
+          }
+        }
+      }
+    },
+    "필요와 욕구" : {
+      "comment" : "EducationView.swift:53",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Needs and wants"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "필요와 욕구"
+          }
+        }
+      }
+    },
+    "필요한 걸 안 사고 욕구부터 채우면 어떤 일이 생길까?" : {
+      "comment" : "EducationView.swift:58",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What happens if you buy wants first and skip the needs?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "필요한 걸 안 사고 욕구부터 채우면 어떤 일이 생길까?"
+          }
+        }
+      }
+    },
+    "필터" : {
+      "comment" : "HistoryView.swift:110",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "필터"
+          }
+        }
+      }
+    },
+    "필터 초기화" : {
+      "comment" : "HistoryView.swift:104",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear filters"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "필터 초기화"
+          }
+        }
+      }
+    },
+    "하루 ±15%%까지 크게 움직여요! 크게 벌 수도, 잃을 수도 있어요." : {
+      "comment" : "ParentModeView.swift:715",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moves up to ±15%% a day! You could win big or lose big."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "하루 ±15%%까지 크게 움직여요! 크게 벌 수도, 잃을 수도 있어요."
+          }
+        }
+      }
+    },
+    "하루 ±2%% 정도로 조금씩 움직여요. 잃을 걱정이 적어요." : {
+      "comment" : "ParentModeView.swift:713",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moves about ±2%% a day. Little risk of losing."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "하루 ±2%% 정도로 조금씩 움직여요. 잃을 걱정이 적어요."
+          }
+        }
+      }
+    },
+    "하루 ±6%% 정도로 오르내려요. 적당한 도전이에요." : {
+      "comment" : "ParentModeView.swift:714",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moves up and down about ±6%% a day. A fair challenge."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "하루 ±6%% 정도로 오르내려요. 적당한 도전이에요."
+          }
+        }
+      }
+    },
+    "한 번 더 입력" : {
+      "comment" : "OnboardingView.swift:104",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter it again"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "한 번 더 입력"
+          }
+        }
+      }
+    },
+    "함께 실험하기 · 복리 계산기 🧮" : {
+      "comment" : "EducationView.swift:161",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try it together · Compound Calculator 🧮"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "함께 실험하기 · 복리 계산기 🧮"
+          }
+        }
+      }
+    },
+    "함께 실험하기 · 인플레이션 체험 🎈" : {
+      "comment" : "EducationView.swift:165",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try it together · Inflation Experiment 🎈"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "함께 실험하기 · 인플레이션 체험 🎈"
+          }
+        }
+      }
+    },
+    "현재 가격" : {
+      "comment" : "InvestView.swift:216",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current price"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현재 가격"
+          }
+        }
+      }
+    },
+    "현재 지갑" : {
+      "comment" : "ParentModeView.swift:365",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current wallet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현재 지갑"
+          }
+        }
+      }
+    },
     "홈 화면 위젯" : {
       "comment" : "Roadmap item: home screen widgets",
       "localizations" : {
@@ -507,6 +6168,516 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "홈 화면 위젯"
+          }
+        }
+      }
+    },
+    "화폐 '%@' · 주간 이자 %@%%" : {
+      "comment" : "InviteView.swift:57",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Currency “%@” · Weekly interest %@%%"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화폐 '%@' · 주간 이자 %@%%"
+          }
+        }
+      }
+    },
+    "화폐 이름" : {
+      "comment" : "ParentModeView.swift:191, ParentModeView.swift:193",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Currency name"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화폐 이름"
+          }
+        }
+      }
+    },
+    "확인" : {
+      "comment" : "BarcodePayView.swift:199, InvestView.swift:329",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인"
+          }
+        }
+      }
+    },
+    "환율" : {
+      "comment" : "MarketView.swift:44, StoreView.swift:36",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exchange rate"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "환율"
+          }
+        }
+      }
+    },
+    "환율 1 %@ = %@원 기준으로 자동 계산돼요." : {
+      "comment" : "ParentModeView.swift:582",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calculated automatically at 1 %@ = ₩%@."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "환율 1 %@ = %@원 기준으로 자동 계산돼요."
+          }
+        }
+      }
+    },
+    "환율: 1 %@ =" : {
+      "comment" : "ParentModeView.swift:170",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exchange rate: 1 %@ ="
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "환율: 1 %@ ="
+          }
+        }
+      }
+    },
+    "희소하고 모두가 믿어야 돈이 돼요." : {
+      "comment" : "EducationView.swift:51",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money has to be scarce, and everyone has to trust it."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "희소하고 모두가 믿어야 돈이 돼요."
+          }
+        }
+      }
+    },
+    "🌱 %@님, 쑥쑥용돈에 초대해요!\n\n우리집 화폐 '%@'(으)로 함께해요:\n• 용돈을 모으고 결제해요 💸\n• 저축하면 매주 이자 %@%%를 받아요 🏦\n• 투자 상품으로 경제를 배워요 📈\n\n부모님 기기와 같은 iCloud 계정으로 로그인한 기기에서 쑥쑥용돈 앱을 열면 바로 함께할 수 있어요!" : {
+      "comment" : "model/enum label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, you’re invited to SukSuk Allowance!\n\nLet’s use our family currency “%@” together:\n• Save up and pay with allowance 💸\n• Earn %@%% interest every week on savings 🏦\n• Learn about money by investing 📈\n\nJust open the SukSuk Allowance app on a device signed in to the same iCloud account as your parent’s device to join in!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@님, 쑥쑥용돈에 초대해요!\n\n우리집 화폐 '%@'(으)로 함께해요:\n• 용돈을 모으고 결제해요 💸\n• 저축하면 매주 이자 %@%%를 받아요 🏦\n• 투자 상품으로 경제를 배워요 📈\n\n부모님 기기와 같은 iCloud 계정으로 로그인한 기기에서 쑥쑥용돈 앱을 열면 바로 함께할 수 있어요!"
+          }
+        }
+      }
+    },
+    "🎓 배우기" : {
+      "comment" : "EducationView.swift:169",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Learn"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 배우기"
+          }
+        }
+      }
+    },
+    "🏛️ 시장" : {
+      "comment" : "MarketView.swift:146",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Market"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ 시장"
+          }
+        }
+      }
+    },
+    "🏦 부모 모드" : {
+      "comment" : "ParentModeView.swift:259",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Parent Mode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 부모 모드"
+          }
+        }
+      }
+    },
+    "🏦 저축" : {
+      "comment" : "MemberDetailView.swift:41",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Savings"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 저축"
+          }
+        }
+      }
+    },
+    "🏦 저축통장" : {
+      "comment" : "SavingsView.swift:116",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Savings"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 저축통장"
+          }
+        }
+      }
+    },
+    "🏪 우리집 가게" : {
+      "comment" : "MarketView.swift:109, ParentModeView.swift:134",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Family Shop"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 우리집 가게"
+          }
+        }
+      }
+    },
+    "🏷️ 물품 바코드" : {
+      "comment" : "BarcodePayView.swift:64",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Item Barcode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ 물품 바코드"
+          }
+        }
+      }
+    },
+    "👨‍👩‍👧‍👦 가족 구성원" : {
+      "comment" : "ParentModeView.swift:46",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Family members"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 가족 구성원"
+          }
+        }
+      }
+    },
+    "💌 초대장" : {
+      "comment" : "InviteView.swift:115, ParentModeView.swift:465",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Invitation"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 초대장"
+          }
+        }
+      }
+    },
+    "💡 돈을 그냥 두면 힘이 줄어요. 저축(이자)이나 투자로 지켜 보세요!" : {
+      "comment" : "HomeView.swift:98",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Money left alone loses power. Protect it with savings (interest) or investing!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 돈을 그냥 두면 힘이 줄어요. 저축(이자)이나 투자로 지켜 보세요!"
+          }
+        }
+      }
+    },
+    "💡 메시지, 카카오톡 등으로 초대장을 보낼 수 있어요.\n같은 iCloud 계정으로 로그인한 기기라면 데이터가 자동으로 함께 보여요." : {
+      "comment" : "InviteView.swift:95",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 You can send the invitation by message or any chat app.\nOn devices signed in to the same iCloud account, the data shows up automatically."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 메시지, 카카오톡 등으로 초대장을 보낼 수 있어요.\n같은 iCloud 계정으로 로그인한 기기라면 데이터가 자동으로 함께 보여요."
+          }
+        }
+      }
+    },
+    "💡 시세는 하루에 한 번 바뀌어요. 값이 쌀 때 사서 비쌀 때 팔면 이익, 반대면 손해예요!" : {
+      "comment" : "InvestView.swift:111",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Prices change once a day. Buy low and sell high to make a profit – the other way round is a loss!"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 시세는 하루에 한 번 바뀌어요. 값이 쌀 때 사서 비쌀 때 팔면 이익, 반대면 손해예요!"
+          }
+        }
+      }
+    },
+    "💳 결제하기" : {
+      "comment" : "PayView.swift:95",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Pay"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 결제하기"
+          }
+        }
+      }
+    },
+    "💵 지갑" : {
+      "comment" : "MemberDetailView.swift:40",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Wallet"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 지갑"
+          }
+        }
+      }
+    },
+    "💸 돈 관리" : {
+      "comment" : "ParentModeView.swift:37",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Manage money"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 돈 관리"
+          }
+        }
+      }
+    },
+    "💸 용돈 관리" : {
+      "comment" : "ParentModeView.swift:419",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Allowance"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 용돈 관리"
+          }
+        }
+      }
+    },
+    "📈 투자" : {
+      "comment" : "InvestView.swift:24, MemberDetailView.swift:42",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Invest"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 투자"
+          }
+        }
+      }
+    },
+    "📈 투자 상품" : {
+      "comment" : "ParentModeView.swift:81",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Investment products"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 투자 상품"
+          }
+        }
+      }
+    },
+    "📱 자녀 폰 모드" : {
+      "comment" : "ParentModeView.swift:128",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Child Phone Mode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 자녀 폰 모드"
+          }
+        }
+      }
+    },
+    "📷 찍어서 결제" : {
+      "comment" : "BarcodePayView.swift:184",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Scan to Pay"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 찍어서 결제"
+          }
+        }
+      }
+    },
+    "🔐 부모 모드로 돌아가기" : {
+      "comment" : "KidModeView.swift:60",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Back to Parent Mode"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 부모 모드로 돌아가기"
+          }
+        }
+      }
+    },
+    "🧾 거래 기록" : {
+      "comment" : "HistoryView.swift:82",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 History"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 거래 기록"
           }
         }
       }

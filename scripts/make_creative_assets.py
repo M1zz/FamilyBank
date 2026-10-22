@@ -33,11 +33,13 @@ SPEC = {
 # 기기 화면은 아이 한 명의 통장 - 지갑 · 저축 · 투자와 최근 거래.
 SEARCH = {
     "ko": ("용돈 관리", "우리 집 은행에서<br>용돈이 쑥쑥", "저축하면 이자가 붙고 투자도 해 봐요"),
+    "en": ("kids allowance", "Allowance grows<br>at your family bank", "Earn interest on savings and try investing"),
 }
 
 # 헤더: 처음 온 사람에게 한 가지 약속. 용돈으로 돈 쓰는 법을 몸으로 배운다.
 HEADER = {
     "ko": ("우리 집 경제 교육", "용돈으로 배우는<br>저축과 투자"),
+    "en": ("Money lessons at home", "Learn saving and<br>investing with allowance"),
 }
 
 # 기기 화면(시뮬레이터 캡처, 가상의 가족 데이터로 채움)

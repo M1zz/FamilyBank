@@ -43,7 +43,7 @@ struct PayView: View {
                 }
 
                 Section("얼마를 낼까요?") {
-                    AmountField(placeholder: "금액", text: $amountText)
+                    AmountField(placeholder: String(localized: "금액"), text: $amountText)
                     HStack {
                         ForEach([100, 500, 1000], id: \.self) { preset in
                             Button("+\(preset.comma)") {
@@ -99,7 +99,7 @@ struct PayView: View {
                     Button("닫기") { dismiss() }
                 }
             }
-            .alert(didSucceed ? "결제 완료! 🎉" : "결제 실패", isPresented: $showResult) {
+            .alert(didSucceed ? String(localized: "결제 완료! 🎉") : String(localized: "결제 실패"), isPresented: $showResult) {
                 Button("확인") {
                     if didSucceed { dismiss() }
                 }
@@ -114,9 +114,9 @@ struct PayView: View {
         let ok = BankEngine.pay(from: payer, to: receiver, amount: amount, memo: memo, context: context)
         didSucceed = ok
         if ok {
-            resultMessage = "\(receiver?.name ?? "")에게 \(amount.comma) \(settings.currencyName)을(를) 결제했어요."
+            resultMessage = String(localized: "\(receiver?.name ?? "")에게 \(amount.comma) \(settings.currencyName)을(를) 결제했어요.")
         } else {
-            resultMessage = "지갑에 돈이 부족해요! 잔액: \(payer.balance.comma) \(settings.currencyName)"
+            resultMessage = String(localized: "지갑에 돈이 부족해요! 잔액: \(payer.balance.comma) \(settings.currencyName)")
         }
         showResult = true
     }

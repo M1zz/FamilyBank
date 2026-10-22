@@ -11,3 +11,10 @@ App Store 의 "이 버전의 새로운 기능" 에 그대로 올라가는 글이
 보낸 의견에 온 답장도 앱에서 읽을 수 있어요.
 개인정보처리방침과 지원 페이지를 앱에서 열 수 있어요.
 앱이 더 안정적으로 동작하도록 다듬었어요.
+
+### 앱스토어 (English)
+
+Send feedback to us from Parent Mode.
+Read replies to your feedback in-app.
+Open privacy and support in the app.
+Smoother and more stable performance.

@@ -33,7 +33,7 @@ struct HomeView: View {
                     .card()
 
                     if !children.isEmpty {
-                        sectionHeader("자녀 👧")
+                        sectionHeader(String(localized: "자녀 👧"))
                         ForEach(children) { member in
                             NavigationLink {
                                 MemberDetailView(member: member, settings: settings)
@@ -45,7 +45,7 @@ struct HomeView: View {
                     }
 
                     if !parents.isEmpty {
-                        sectionHeader("부모 🏦")
+                        sectionHeader(String(localized: "부모 🏦"))
                         ForEach(parents) { member in
                             NavigationLink {
                                 MemberDetailView(member: member, settings: settings)
@@ -122,7 +122,7 @@ struct MemberCard: View {
                 VStack(alignment: .leading, spacing: 2) {
                     Text(member.name)
                         .font(.headline)
-                    Text(member.role.rawValue)
+                    Text(LocalizedStringKey(member.role.rawValue))
                         .font(.caption)
                         .foregroundStyle(.secondary)
                 }
@@ -136,9 +136,9 @@ struct MemberCard: View {
             }
 
             HStack(spacing: 8) {
-                assetChip("지갑", member.balance, .green)
-                assetChip("저축", member.savings, .blue)
-                assetChip("투자", member.investValue, .indigo)
+                assetChip(String(localized: "지갑"), member.balance, .green)
+                assetChip(String(localized: "저축"), member.savings, .blue)
+                assetChip(String(localized: "투자"), member.investValue, .indigo)
             }
         }
         .card()

@@ -62,3 +62,64 @@ https://m1zz.github.io/FamilyBank/
 iCloud 동기화
 같은 iCloud 계정으로 로그인한 기기끼리 가족의 장부가 맞춰집니다.
 
+## en
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Allowance: Kids Money
+
+### 부제
+
+Learn saving and investing
+
+### 키워드
+
+pocket,chore chart,piggy bank,interest,compound,stocks,finance,budget,child,family,coins,bank game
+
+### 프로모션 텍스트
+
+Parents are the central bank; kids are the customers. Give allowance in your own family currency and let kids try savings interest and practice investing.
+
+### 설명
+
+Teach your kids how money works with a currency of your very own. Parents act as the central bank and issue allowance; kids pay, save, and invest, and learn about the economy by doing.
+Hands-on experience sticks far longer than being told.
+
+Family currency
+Pick your own currency name, like Beans, Stars, or Coins. Giving or deducting allowance can only be done in Parent Mode, which is locked with a PIN.
+
+Payments and the Family Shop
+Parents set up the things your family spends on, like snacks, game time, or TV time, and put a price tag on each.
+Kids can pick from the shop and pay right away, or scan a barcode that a parent shows on screen with the camera.
+
+Savings and interest
+Money in the savings account earns compound interest every week. Parents set the interest rate, and kids can preview how much it will grow.
+
+Investing practice
+Buy and sell three practice funds whose prices change once a day, and watch the return charts. Compare steady, balanced, and risky funds to see how risk and reward are connected.
+
+Market and history
+The Market tab shows your family's prices, exchange rate, interest rate, money supply, and investment prices at a glance. It even shows how rising prices mean the same money buys less.
+Every movement of money is recorded in the ledger, so you can look back by date, by member, or by type.
+
+Learn
+A 10-step parent guide starts with why we need money and moves through needs and wants, opportunity cost, saving and interest, compound interest, inflation, investing and risk, and making a budget, so you can talk it through with your child.
+Try the compound calculator and the price experiment calculator, changing the numbers yourself.
+
+Child Phone Mode
+Turn your child's phone into a screen made just for them. They only see their own wallet, investing, history, and lessons, and a parent PIN is needed to leave it. Invite your child with a QR invitation.
+
+iCloud sync
+Devices signed in to the same iCloud account keep the family ledger in sync.

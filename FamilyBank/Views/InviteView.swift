@@ -32,7 +32,7 @@ struct InviteCardView: View {
     let settings: FamilySettings
 
     private var inviteMessage: String {
-        """
+        String(localized: """
         🌱 \(member.name)님, 쑥쑥용돈에 초대해요!
 
         우리집 화폐 '\(settings.currencyName)'(으)로 함께해요:
@@ -41,7 +41,7 @@ struct InviteCardView: View {
         • 투자 상품으로 경제를 배워요 📈
 
         부모님 기기와 같은 iCloud 계정으로 로그인한 기기에서 쑥쑥용돈 앱을 열면 바로 함께할 수 있어요!
-        """
+        """)
     }
 
     var body: some View {

@@ -66,17 +66,17 @@ struct SavingsView: View {
                 Section("입금 / 출금") {
                     Picker("종류", selection: $mode) {
                         ForEach(Mode.allCases, id: \.self) { m in
-                            Text(m.rawValue).tag(m)
+                            Text(LocalizedStringKey(m.rawValue)).tag(m)
                         }
                     }
                     .pickerStyle(.segmented)
 
-                    AmountField(placeholder: "금액", text: $amountText)
+                    AmountField(placeholder: String(localized: "금액"), text: $amountText)
 
                     Button {
                         perform()
                     } label: {
-                        Label(mode == .deposit ? "저축통장에 넣기" : "지갑으로 꺼내기",
+                        Label(mode == .deposit ? String(localized: "저축통장에 넣기") : String(localized: "지갑으로 꺼내기"),
                               systemImage: mode == .deposit ? "tray.and.arrow.down.fill" : "tray.and.arrow.up.fill")
                             .frame(maxWidth: .infinity)
                     }
@@ -133,13 +133,13 @@ struct SavingsView: View {
         if mode == .deposit {
             ok = BankEngine.depositSavings(member: member, amount: amount, context: context)
             resultMessage = ok
-                ? "\(amount.comma) \(settings.currencyName)을(를) 저축했어요! 매주 이자가 붙어요. 💰"
-                : "지갑에 돈이 부족해요."
+                ? String(localized: "\(amount.comma) \(settings.currencyName)을(를) 저축했어요! 매주 이자가 붙어요. 💰")
+                : String(localized: "지갑에 돈이 부족해요.")
         } else {
             ok = BankEngine.withdrawSavings(member: member, amount: amount, context: context)
             resultMessage = ok
-                ? "\(amount.comma) \(settings.currencyName)을(를) 지갑으로 옮겼어요."
-                : "저축통장에 돈이 부족해요."
+                ? String(localized: "\(amount.comma) \(settings.currencyName)을(를) 지갑으로 옮겼어요.")
+                : String(localized: "저축통장에 돈이 부족해요.")
         }
         if ok { amountText = "" }
         showResult = true

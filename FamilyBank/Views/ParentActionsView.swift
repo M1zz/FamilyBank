@@ -20,7 +20,7 @@ struct ParentActionsView: View {
     }
 
     private var biometryLabel: String {
-        LAContext().biometryType == .touchID ? "Touch ID로 열기" : "Face ID로 열기"
+        LAContext().biometryType == .touchID ? String(localized: "Touch ID로 열기") : String(localized: "Face ID로 열기")
     }
 
     var body: some View {
@@ -29,7 +29,7 @@ struct ParentActionsView: View {
                 ActionGridView(settings: settings, onLock: { unlocked = false; didAutoPrompt = false })
             } else {
                 VStack(spacing: 16) {
-                    PINEntryView(title: "부모 확인이 필요해요", correctPIN: settings.parentPIN) {
+                    PINEntryView(title: String(localized: "부모 확인이 필요해요"), correctPIN: settings.parentPIN) {
                         unlocked = true
                     }
                     if biometryAvailable {
@@ -56,10 +56,10 @@ struct ParentActionsView: View {
     /// 기기 암호가 아닌 생체 인증만 사용 — 실패하면 앱의 부모 PIN으로 폴백
     private func authenticateWithBiometrics() {
         let context = LAContext()
-        context.localizedCancelTitle = "PIN 입력"
+        context.localizedCancelTitle = String(localized: "PIN 입력")
         guard context.canEvaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, error: nil) else { return }
         context.evaluatePolicy(.deviceOwnerAuthenticationWithBiometrics,
-                               localizedReason: "부모 확인을 위해 사용해요") { success, _ in
+                               localizedReason: String(localized: "부모 확인을 위해 사용해요")) { success, _ in
             if success {
                 DispatchQueue.main.async { unlocked = true }
             }
@@ -96,49 +96,49 @@ struct ActionGridView: View {
                 NavigationLink {
                     GiveMoneyView(settings: settings)
                 } label: {
-                    actionCard("💸", "용돈 주기", "지급 · 차감", .pink)
+                    actionCard("💸", String(localized: "용돈 주기"), String(localized: "지급 · 차감"), .pink)
                 }
                 .buttonStyle(.plain)
 
                 Button {
                     showBarcodeList = true
                 } label: {
-                    actionCard("🏷️", "물품 바코드", "찍으면 바로 결제", .orange)
+                    actionCard("🏷️", String(localized: "물품 바코드"), String(localized: "찍으면 바로 결제"), .orange)
                 }
                 .buttonStyle(.plain)
 
                 Button {
                     showAddItem = true
                 } label: {
-                    actionCard("🏪", "물품 추가", "가게에 등록", .green)
+                    actionCard("🏪", String(localized: "물품 추가"), String(localized: "가게에 등록"), .green)
                 }
                 .buttonStyle(.plain)
 
                 Button {
                     showInvitePicker = true
                 } label: {
-                    actionCard("💌", "자녀 초대", "초대장 · QR", .blue)
+                    actionCard("💌", String(localized: "자녀 초대"), String(localized: "초대장 · QR"), .blue)
                 }
                 .buttonStyle(.plain)
 
                 Button {
                     showKidModePicker = true
                 } label: {
-                    actionCard("📱", "자녀 폰 모드", "이 기기 건네주기", .purple)
+                    actionCard("📱", String(localized: "자녀 폰 모드"), String(localized: "이 기기 건네주기"), .purple)
                 }
                 .buttonStyle(.plain)
 
                 Button {
                     showAddMember = true
                 } label: {
-                    actionCard("👨‍👩‍👧‍👦", "구성원 추가", "가족 등록", .teal)
+                    actionCard("👨‍👩‍👧‍👦", String(localized: "구성원 추가"), String(localized: "가족 등록"), .teal)
                 }
                 .buttonStyle(.plain)
 
                 NavigationLink {
                     ParentDashboardView(settings: settings, onLock: onLock)
                 } label: {
-                    actionCard("⚙️", "은행 설정", "이자 · 환율 · 물가", .gray)
+                    actionCard("⚙️", String(localized: "은행 설정"), String(localized: "이자 · 환율 · 물가"), .gray)
                 }
                 .buttonStyle(.plain)
             }
