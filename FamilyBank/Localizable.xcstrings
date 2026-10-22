@@ -22,6 +22,12 @@
             "value" : "%@ %@ — für %@ %@ kaufen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — να πληρώσεις %@ %@;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -121,6 +127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@ bezahlen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πλήρωσε %@ %@"
           }
         },
         "en" : {
@@ -224,6 +236,12 @@
             "value" : "%@ %@ geben"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δώσε %@ %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -323,6 +341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@ abziehen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αφαίρεσε %@ %@"
           }
         },
         "en" : {
@@ -426,6 +450,12 @@
             "value" : "%1$@ %2$@ für %3$@ %4$@ kaufen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να αγοράσεις %1$@ %2$@ με %3$@ %4$@;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -525,6 +555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du hast %@ %@ gespart! Jede Woche kommen Zinsen dazu. 💰"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποταμίευσες %@ %@! Κάθε εβδομάδα προστίθενται τόκοι. 💰"
           }
         },
         "en" : {
@@ -628,6 +664,12 @@
             "value" : "%@ %@ in die Geldbörse umgebucht."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μεταφέρθηκαν %@ %@ στο πορτοφόλι."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -727,6 +769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bestand von %@ %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χαρτοφυλάκιο: %@ %@"
           }
         },
         "en" : {
@@ -830,6 +878,12 @@
             "value" : "Bank von %@ %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η τράπεζα του/της %@ %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -929,6 +983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zum Handy von %@ %@ machen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάν’ το κινητό του/της %@ %@"
           }
         },
         "en" : {
@@ -1032,6 +1092,12 @@
             "value" : "Du hast %2$lld Anteile von %1$@ gekauft! 📈"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγόρασες %2$lld μερίδια του προϊόντος %1$@! 📈"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1131,6 +1197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du hast %2$lld Anteile von %1$@ verkauft! %3$@ %4$@ sind in die Geldbörse gekommen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πούλησες %2$lld μερίδια του προϊόντος %1$@! Μπήκαν στο πορτοφόλι %3$@ %4$@."
           }
         },
         "en" : {
@@ -1234,6 +1306,12 @@
             "value" : "%@%% (Zinseszins)"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (ανατοκισμός)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1333,6 +1411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ zu\nSukSuk Taschengeld einladen!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσκάλεσε %@\nστο SukSuk Χαρτζιλίκι!"
           }
         },
         "en" : {
@@ -1436,6 +1520,12 @@
             "value" : "Du hast %2$@ %3$@ an %1$@ bezahlt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πλήρωσες %2$@ %3$@ στον/στην %1$@."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1535,6 +1625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du hast %1$@ %2$@ %3$@ gegeben! 🎁"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έδωσες %2$@ %3$@ στον/στην %1$@! 🎁"
           }
         },
         "en" : {
@@ -1638,6 +1734,12 @@
             "value" : "%@ Won → %@ %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ γουόν → %@ %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1737,6 +1839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du hast %@ gekauft! In der Geldbörse bleiben: %@ %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγόρασες %@! Έμειναν στο πορτοφόλι: %@ %@"
           }
         },
         "en" : {
@@ -1840,6 +1948,12 @@
             "value" : "Du hast %@ gekauft! 🎉 In der Geldbörse bleiben: %@ %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγόρασες %@! 🎉 Έμειναν στο πορτοφόλι: %@ %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1939,6 +2053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "In der Geldbörse von %@ ist nicht genug Geld."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πορτοφόλι του/της %@ δεν έχει αρκετά χρήματα."
           }
         },
         "en" : {
@@ -2042,6 +2162,12 @@
             "value" : "%2$@ %3$@ wurden aus der Geldbörse von %1$@ abgezogen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αφαιρέθηκαν %2$@ %3$@ από το πορτοφόλι του/της %1$@."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2141,6 +2267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schritt %lld"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βήμα %lld"
           }
         },
         "en" : {
@@ -2244,6 +2376,12 @@
             "value" : "Schritt %lld · %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βήμα %lld · %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2343,6 +2481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld Anteile · Ø %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld μερίδια · μέση τιμή %@"
           }
         },
         "en" : {
@@ -2446,6 +2590,12 @@
             "value" : "Wert dessen, was du nach %lld Wochen kaufen kannst"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αξία όσων μπορείς να αγοράσεις μετά από %lld εβδομάδες"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2545,6 +2695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nach %lld Wochen: %@ %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μετά από %lld εβδομάδες: %@ %@"
           }
         },
         "en" : {
@@ -2648,6 +2804,12 @@
             "value" : "Ein „Bedürfnis“ ist etwas, ohne das es schwierig wird – wie Essen, Kleidung und Schulsachen. Ein „Wunsch“ ist etwas, das Freude macht, aber ohne das man gut leben kann – wie Spielzeug und Spielgegenstände.\n\nBeides ist wichtig! Aber die Reihenfolge zählt. Kümmere dich zuerst um die Bedürfnisse und erfülle dir dann mit dem übrigen Geld nach einem Plan deine Wünsche."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η «ανάγκη» είναι κάτι που, αν λείπει, δυσκολεύεσαι: φαγητό, ρούχα, σχολικά είδη. Η «επιθυμία» είναι κάτι που χαίρεσαι να έχεις, αλλά μπορείς να ζήσεις και χωρίς αυτό: παιχνίδια, αντικείμενα παιχνιδιών.\n\nΚαι τα δύο μετράνε! Όμως η σειρά έχει σημασία. Φρόντισε πρώτα τις ανάγκες και μετά, με τα χρήματα που περισσεύουν, φτιάξε σχέδιο για να εκπληρώσεις επιθυμίες."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2747,6 +2909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ Won"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ γουόν"
           }
         },
         "en" : {
@@ -2850,6 +3018,12 @@
             "value" : "Echter Wert von 1 %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πραγματική αξία 1 %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2949,6 +3123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ Won"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ γουόν"
           }
         },
         "en" : {
@@ -3052,6 +3232,12 @@
             "value" : "Wie verändert sich die „echte Kraft“ von 1.000 %@?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πώς αλλάζει η «πραγματική δύναμη» των 1.000 %@;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3151,6 +3337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wenn du 1.000 Münzen mit 5 %% Zinsen anlegst, wie viel hast du nach einer Woche?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν βάλεις 1.000 νομίσματα με τόκο 5 %%, πόσα θα έχεις μετά από μία εβδομάδα;"
           }
         },
         "en" : {
@@ -3254,6 +3446,12 @@
             "value" : "Du hast 1.000 Münzen und möchtest Süßigkeiten und Sticker kaufen. Aber das Geld reicht nur für eins. Was nun? Wählst du eins, musst du auf das andere verzichten.\n\nDas, worauf du verzichtest, nennt man „Opportunitätskosten“. Das gilt nicht nur für Geld, sondern auch für Zeit. Wenn du eine Stunde spielst, hast du auf alles verzichtet, was du in dieser Stunde sonst hättest tun können."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έχεις 1.000 νομίσματα και θέλεις να αγοράσεις και γλυκά και αυτοκόλλητα. Όμως τα χρήματα φτάνουν μόνο για ένα. Τι κάνεις; Αν διαλέξεις το ένα, πρέπει να παραιτηθείς από το άλλο.\n\nΑυτό από το οποίο παραιτείσαι λέγεται «κόστος ευκαιρίας». Ισχύει και για τον χρόνο. Αν παίξεις μία ώρα, παραιτήθηκες από ό,τι άλλο θα μπορούσες να κάνεις αυτή την ώρα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3353,6 +3551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "In 12 Wochen voraussichtlich: %@ %@ (+%@)"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εκτίμηση σε 12 εβδομάδες: %@ %@ (+%@)"
           }
         },
         "en" : {
@@ -3456,6 +3660,12 @@
             "value" : "Preis pro Anteil"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τιμή ανά μερίδιο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3555,6 +3765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mit Face ID öffnen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άνοιγμα με Face ID"
           }
         },
         "en" : {
@@ -3658,6 +3874,12 @@
             "value" : "PIN ändern"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αλλαγή PIN"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3757,6 +3979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PIN eingeben"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εισαγωγή PIN"
           }
         },
         "en" : {
@@ -3860,6 +4088,12 @@
             "value" : "Die PIN muss aus 4 Ziffern bestehen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το PIN πρέπει να έχει 4 ψηφία."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3959,6 +4193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frag Siri und sieh sofort das Guthaben deines Kindes."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρώτα τη Siri και δες αμέσως το υπόλοιπο του παιδιού."
           }
         },
         "en" : {
@@ -4062,6 +4302,12 @@
             "value" : "Siri und Kurzbefehle"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri και Συντομεύσεις"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4161,6 +4407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mit Touch ID öffnen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άνοιγμα με Touch ID"
           }
         },
         "en" : {
@@ -4264,6 +4516,12 @@
             "value" : "VoiceOver liest alle Guthaben und Schaltflächen vollständig und in der richtigen Reihenfolge vor."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το VoiceOver διαβάζει όλα τα υπόλοιπα και τα κουμπιά, με τη σωστή σειρά."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4363,6 +4621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VoiceOver noch besser nutzen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πιο άνετο VoiceOver"
           }
         },
         "en" : {
@@ -4466,6 +4730,12 @@
             "value" : "≈ %@ Won"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ γουόν"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4565,6 +4835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ Bank-Einstellungen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Ρυθμίσεις τράπεζας"
           }
         },
         "en" : {
@@ -4668,6 +4944,12 @@
             "value" : "⚡️ Aktionen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Ενέργειες"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4767,6 +5049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Laden"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μαγαζί"
           }
         },
         "en" : {
@@ -4870,6 +5158,12 @@
             "value" : "Im Laden eintragen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Καταχώριση στο μαγαζί"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4969,6 +5263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preis"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τιμή"
           }
         },
         "en" : {
@@ -5072,6 +5372,12 @@
             "value" : "Der Preis entsteht dort, wo Kaufwunsch und Verkaufsmenge aufeinandertreffen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η τιμή διαμορφώνεται εκεί όπου συναντιούνται η επιθυμία αγοράς και η ποσότητα προς πώληση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5171,6 +5477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verstehen, wie Preise zustande kommen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να καταλάβεις πώς διαμορφώνονται οι τιμές"
           }
         },
         "en" : {
@@ -5274,6 +5586,12 @@
             "value" : "Preisschilder 🏷️"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ταμπέλες τιμών 🏷️"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5373,6 +5691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registriere die Familienmitglieder"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρόσθεσε τα μέλη της οικογένειας"
           }
         },
         "en" : {
@@ -5476,6 +5800,12 @@
             "value" : "Familie registrieren"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Καταχώριση οικογένειας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5575,6 +5905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keine Buchungen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν συναλλαγές"
           }
         },
         "en" : {
@@ -5678,6 +6014,12 @@
             "value" : "Buchungsart"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είδος συναλλαγής"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5777,6 +6119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Was ist riskanter, der Schildkrötenfonds oder der Raketenfonds? Warum?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιο είναι πιο επικίνδυνο, το Αμοιβαίο Κεφάλαιο Χελώνα ή το Αμοιβαίο Κεφάλαιο Πύραυλος; Γιατί;"
           }
         },
         "en" : {
@@ -5880,6 +6228,12 @@
             "value" : "Was sind die Opportunitätskosten einer Stunde Spielen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιο είναι το κόστος ευκαιρίας μιας ώρας παιχνιδιού;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5979,6 +6333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zahlung"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πληρωμή"
           }
         },
         "en" : {
@@ -6082,6 +6442,12 @@
             "value" : "Bezahlung fehlgeschlagen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η πληρωμή απέτυχε"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6181,6 +6547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bezahlt! 🎉"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η πληρωμή ολοκληρώθηκε! 🎉"
           }
         },
         "en" : {
@@ -6284,6 +6656,12 @@
             "value" : "Bezahlen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πληρωμή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6383,6 +6761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geld mit Plan hält länger."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα χρήματα με σχέδιο κρατάνε περισσότερο."
           }
         },
         "en" : {
@@ -6486,6 +6870,12 @@
             "value" : "Verstehen, dass hohe Gewinnchancen mit hohem Risiko einhergehen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να καταλάβεις ότι το μεγάλο κέρδος συνοδεύεται από μεγάλο κίνδυνο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6585,6 +6975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kategorie"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κατηγορία"
           }
         },
         "en" : {
@@ -6688,6 +7084,12 @@
             "value" : "Mitglied"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μέλος"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6787,6 +7189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mitglied hinzufügen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσθήκη μέλους"
           }
         },
         "en" : {
@@ -6890,6 +7298,12 @@
             "value" : "Bei größerer Schrift werden die Ansichten sauber neu angeordnet, statt abgeschnitten zu werden."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν μεγαλώνεις τα γράμματα, οι οθόνες αναδιατάσσονται ωραία χωρίς να κόβονται."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6989,6 +7403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Betrag"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποσό"
           }
         },
         "en" : {
@@ -7092,6 +7512,12 @@
             "value" : "Zeitraum: %lld Wochen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διάρκεια: %lld εβδομάδες"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7191,6 +7617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verlauf"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ιστορικό"
           }
         },
         "en" : {
@@ -7294,6 +7726,12 @@
             "value" : "Opportunitätskosten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κόστος ευκαιρίας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7393,6 +7831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unterscheiden, was man wirklich braucht und was man sich nur wünscht"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να ξεχωρίζεις αυτό που πραγματικά χρειάζεσαι από αυτό που απλώς θέλεις"
           }
         },
         "en" : {
@@ -7496,6 +7940,12 @@
             "value" : "Mein Verlauf"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το ιστορικό μου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7595,6 +8045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mein Sparkonto"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο λογαριασμός αποταμίευσής μου"
           }
         },
         "en" : {
@@ -7698,6 +8154,12 @@
             "value" : "Meine Geldbörse"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πορτοφόλι μου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7797,6 +8259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Meine Geldbörse: %@ %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πορτοφόλι μου: %@ %@"
           }
         },
         "en" : {
@@ -7900,6 +8368,12 @@
             "value" : "Stell dir vor, du hast einen Fisch und brauchst Schuhe. Wenn der Schuhverkäufer aber keinen Fisch mag, kannst du nicht tauschen, oder? Den Menschen früher war das auch viel zu umständlich. Deshalb erfanden sie etwas, das jeder mag: das „Geld“.\n\nGeld hat drei Aufgaben. Erstens: Man kann damit fast alles eintauschen (Tauschmittel). Zweitens: Man kann messen, wie viel etwas wert ist (Wertmaßstab). Drittens: Man kann es aufheben und später ausgeben (Wertaufbewahrung)."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φαντάσου ότι έχεις ένα ψάρι και χρειάζεσαι παπούτσια. Αν όμως ο υποδηματοποιός δεν συμπαθεί το ψάρι, δεν μπορείτε να ανταλλάξετε, σωστά; Και οι άνθρωποι παλιά το έβρισκαν πολύ άβολο. Έτσι επινόησαν κάτι που αρέσει σε όλους: τα «χρήματα».\n\nΤα χρήματα κάνουν τρεις δουλειές. Πρώτον, ανταλλάσσονται με σχεδόν τα πάντα (ανταλλαγή). Δεύτερον, δείχνουν πόσο αξίζει το καθετί (μέτρο αξίας). Τρίτον, μπορείς να τα φυλάξεις για αργότερα (αποθήκευση)."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7999,6 +8473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wen möchtest du einladen?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιον θέλεις να προσκαλέσεις;"
           }
         },
         "en" : {
@@ -8102,6 +8582,12 @@
             "value" : "An wen zahlst du?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε ποιον θα πληρώσεις;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8201,6 +8687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "An wen?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε ποιον;"
           }
         },
         "en" : {
@@ -8304,6 +8796,12 @@
             "value" : "Was passiert, wenn du einen Schneeball rollst? Je weiter er rollt, desto schneller wird er größer, oder? Genau das ist der Zinseszins.\n\nWenn zu 1.000 Münzen 50 Zinsen kommen, sind es 1.050. In der nächsten Woche werden die Zinsen auf alle 1.050 berechnet. Das Geld, das die Zinsen verdient haben, bekommt auch wieder Zinsen! Anfangs merkt man es kaum, aber mit der Zeit wächst es wie ein Schneeball."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι γίνεται όταν κυλάς μια χιονόμπαλα; Όσο κυλάει, τόσο πιο γρήγορα μεγαλώνει, σωστά; Ο ανατοκισμός είναι ακριβώς αυτό.\n\nΑν στα 1.000 νομίσματα προστεθούν τόκοι 50, γίνονται 1.050. Την επόμενη εβδομάδα ο τόκος υπολογίζεται πάνω σε ολόκληρα τα 1.050. Και τα χρήματα που κέρδισαν οι τόκοι κερδίζουν κι αυτά τόκους! Στην αρχή δεν φαίνεται, αλλά με τον καιρό μεγαλώνει σαν χιονόμπαλα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8403,6 +8901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weiter"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επόμενο"
           }
         },
         "en" : {
@@ -8506,6 +9010,12 @@
             "value" : "Schließen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κλείσιμο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8605,6 +9115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geld, das du gerade nicht brauchst, gehört aufs Sparkonto!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα χρήματα που δεν θα ξοδέψεις τώρα, στον λογαριασμό αποταμίευσης!"
           }
         },
         "en" : {
@@ -8708,6 +9224,12 @@
             "value" : "Guthaben und Verlauf bleiben lesbar, auch mit erhöhtem Kontrast oder bei Farbschwäche."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διάβασε εύκολα υπόλοιπα και ιστορικό, ακόμη και με αυξημένη αντίθεση ή αν δυσκολεύεσαι να ξεχωρίσεις χρώματα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8807,6 +9329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Übersicht"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επισκόπηση"
           }
         },
         "en" : {
@@ -8910,6 +9438,12 @@
             "value" : "Die App wird in weiteren Sprachen nutzbar."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η εφαρμογή θα είναι διαθέσιμη σε περισσότερες γλώσσες."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9009,6 +9543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mehr Sprachen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Περισσότερες γλώσσες"
           }
         },
         "en" : {
@@ -9112,6 +9652,12 @@
             "value" : "Geld ist ein Werkzeug zum Tauschen, Messen und Aufbewahren."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα χρήματα είναι ένα εργαλείο για ανταλλαγή, μέτρηση και αποταμίευση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9211,6 +9757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wozu braucht man Geld?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γιατί χρειαζόμαστε χρήματα;"
           }
         },
         "en" : {
@@ -9314,6 +9866,12 @@
             "value" : "Die Gewohnheit entwickeln, Geld zu planen und aufzuteilen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να αποκτήσεις τη συνήθεια να σχεδιάζεις και να μοιράζεις τα χρήματά σου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9413,6 +9971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verstehen, warum es Geld gibt und was es leistet"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να καταλάβεις γιατί υπάρχουν τα χρήματα και τι κάνουν"
           }
         },
         "en" : {
@@ -9516,6 +10080,12 @@
             "value" : "Die beiden PINs stimmen nicht überein."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα δύο PIN δεν ταιριάζουν."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9615,6 +10185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Es sind noch keine Artikel eingetragen. Füge zuerst über „Artikel hinzufügen“ Artikel zum Laden hinzu."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν ακόμη προϊόντα. Πρόσθεσε πρώτα προϊόντα στο μαγαζί με το «Προσθήκη προϊόντος»."
           }
         },
         "en" : {
@@ -9718,6 +10294,12 @@
             "value" : "Keine Kinder registriert"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν καταχωρισμένα παιδιά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9817,6 +10399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Könnte ein LEGO-Stein Geld sein? Würde er die fünf Prüfungen bestehen?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα μπορούσε ένα τουβλάκι LEGO να είναι χρήμα; Θα περνούσε τις πέντε δοκιμασίες;"
           }
         },
         "en" : {
@@ -9920,6 +10508,12 @@
             "value" : "Was würde passieren, wenn es auf der Welt kein Geld gäbe?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι θα γινόταν αν δεν υπήρχαν χρήματα στον κόσμο;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10019,6 +10613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verkaufen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πώληση"
           }
         },
         "en" : {
@@ -10122,6 +10722,12 @@
             "value" : "Kaufen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγορά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10221,6 +10827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jede Woche steigen die Preise um %@%%. Das heißt, für dasselbe Geld bekommt man nach und nach etwas weniger."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε εβδομάδα οι τιμές ανεβαίνουν κατά %@%%. Αυτό σημαίνει ότι με τα ίδια χρήματα αγοράζεις λίγο λιγότερα κάθε φορά."
           }
         },
         "en" : {
@@ -10324,6 +10936,12 @@
             "value" : "Die Preise steigen jede Woche"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι τιμές ανεβαίνουν κάθε εβδομάδα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10423,6 +11041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Der Preisindex bei uns zu Hause steigt jede Woche um diesen Wert (aktueller Index %lld). Bei 0 %% gibt es keine Inflation. Wenn du dazu die echten Preise für Snacks und Spielzeug etwas anhebst, erlebt dein Kind, wie sich der Wert von Geld verändert."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε εβδομάδα ο δείκτης τιμών του σπιτιού μας ανεβαίνει τόσο (τρέχων δείκτης %lld). Με 0 %% δεν υπάρχει πληθωρισμός. Αν ανεβάσεις λίγο και τις πραγματικές τιμές σε σνακ και παιχνίδια, το παιδί μαθαίνει πώς αλλάζει η αξία του χρήματος."
           }
         },
         "en" : {
@@ -10526,6 +11150,12 @@
             "value" : "Notiz (z. B. Snack kaufen)"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σημείωση (π.χ.: αγορά σνακ)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10625,6 +11255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notiz (z. B. Wochentaschengeld)"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σημείωση (π.χ.: εβδομαδιαίο χαρτζιλίκι)"
           }
         },
         "en" : {
@@ -10728,6 +11364,12 @@
             "value" : "Was passiert mit dem Preis von etwas, das alle verkaufen wollen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι γίνεται με την τιμή ενός πράγματος που όλοι θέλουν να πουλήσουν;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10827,6 +11469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle Mitglieder, Buchungen und Geldanlagen werden gelöscht und du kehrst zum Einrichtungsbildschirm zurück."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όλα τα μέλη, οι συναλλαγές και τα επενδυτικά προϊόντα θα διαγραφούν και θα επιστρέψεις στην αρχική οθόνη ρύθμισης."
           }
         },
         "en" : {
@@ -10930,6 +11578,12 @@
             "value" : "Alle Daten zurücksetzen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επαναφορά όλων των δεδομένων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11029,6 +11683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hinter jeder Entscheidung steckt etwas, worauf man verzichtet hat."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πίσω από κάθε επιλογή κρύβεται κάτι από το οποίο παραιτήθηκες."
           }
         },
         "en" : {
@@ -11132,6 +11792,12 @@
             "value" : "Wofür ist es?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Για τι είναι;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11231,6 +11897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preissteigerung"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άνοδος τιμών"
           }
         },
         "en" : {
@@ -11334,6 +12006,12 @@
             "value" : "Preisentwicklung 📊"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πορεία τιμών 📊"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11433,6 +12111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wenn die Preise steigen, kauft man mit demselben Geld weniger"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν ανεβαίνουν οι τιμές, με τα ίδια χρήματα αγοράζεις λιγότερα"
           }
         },
         "en" : {
@@ -11536,6 +12220,12 @@
             "value" : "Wenn die Preise steigen, verliert Geld an Kraft. Deshalb sind Sparen und Geldanlage wichtig."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν ανεβαίνουν οι τιμές, τα χρήματα χάνουν δύναμη. Γι’ αυτό χρειάζονται αποταμίευση και επένδυση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11635,6 +12325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verstehen, dass Geld an Kraft verliert, wenn die Preise steigen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να καταλάβεις ότι όταν ανεβαίνουν οι τιμές, τα χρήματα χάνουν δύναμη"
           }
         },
         "en" : {
@@ -11738,6 +12434,12 @@
             "value" : "Ist es eine gute Idee, Geld einfach in der Geldbörse liegen zu lassen, wenn die Preise steigen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν ανεβαίνουν οι τιμές, είναι καλό να αφήνεις τα χρήματα ακίνητα στο πορτοφόλι;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11837,6 +12539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preisindex"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δείκτης τιμών"
           }
         },
         "en" : {
@@ -11940,6 +12648,12 @@
             "value" : "%lld Artikel im Angebot · Wechselkurs automatisch angewendet"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld προϊόντα προς πώληση · η ισοτιμία εφαρμόζεται αυτόματα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12039,6 +12753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Artikel-Barcode"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γραμμωτός κώδικας προϊόντος"
           }
         },
         "en" : {
@@ -12142,6 +12862,12 @@
             "value" : "Richte den Barcode des Artikels im Rahmen aus"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τοποθέτησε τον γραμμωτό κώδικα του προϊόντος μέσα στο πλαίσιο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12241,6 +12967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Artikelname (z. B. Limo, 30 Min. Spielen)"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όνομα προϊόντος (π.χ.: αναψυκτικό, 30 λεπτά παιχνίδι)"
           }
         },
         "en" : {
@@ -12344,6 +13076,12 @@
             "value" : "Artikeldaten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στοιχεία προϊόντος"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12443,6 +13181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Artikel hinzufügen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσθήκη προϊόντος"
           }
         },
         "en" : {
@@ -12546,6 +13290,12 @@
             "value" : "Barcode"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γραμμωτός κώδικας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12645,6 +13395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Empfänger"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποδέκτης"
           }
         },
         "en" : {
@@ -12748,6 +13504,12 @@
             "value" : "Erhalten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εισπραγμένα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12847,6 +13609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Es gibt niemanden, der zahlen kann"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχει κανείς να λάβει την πληρωμή"
           }
         },
         "en" : {
@@ -12950,6 +13718,12 @@
             "value" : "Lernen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μάθε"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13049,6 +13823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sicherung und Export"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αντίγραφο ασφαλείας και εξαγωγή"
           }
         },
         "en" : {
@@ -13152,6 +13932,12 @@
             "value" : "Angenehmere Farben und Kontraste"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πιο άνετα χρώματα και αντίθεση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13251,6 +14037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du besitzt nicht genug Anteile."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν έχεις αρκετά μερίδια."
           }
         },
         "en" : {
@@ -13354,6 +14146,12 @@
             "value" : "Gehaltene Geldanlagen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επενδυτικά προϊόντα που κατέχεις"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13453,6 +14251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausgewogen 🐰"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μέτριο 🐰"
           }
         },
         "en" : {
@@ -13556,6 +14360,12 @@
             "value" : "Die Magie des Zinseszinses"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η μαγεία του ανατοκισμού"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13655,6 +14465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elternteil"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γονέας"
           }
         },
         "en" : {
@@ -13758,6 +14574,12 @@
             "value" : "Elternratgeber 📖"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οδηγός για γονείς 📖"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13857,6 +14679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elternmodus"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λειτουργία γονέα"
           }
         },
         "en" : {
@@ -13960,6 +14788,12 @@
             "value" : "Lege die PIN für den Elternmodus fest"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όρισε τον κωδικό PIN της λειτουργίας γονέα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14059,6 +14893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Im Elternmodus kannst du Produkte hinzufügen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπορείς να προσθέσεις προϊόντα στη λειτουργία γονέα"
           }
         },
         "en" : {
@@ -14162,6 +15002,12 @@
             "value" : "Wird zur Bestätigung eines Elternteils verwendet"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χρησιμοποιείται για την επιβεβαίωση γονέα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14261,6 +15107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ein Elternteil muss bestätigen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χρειάζεται επιβεβαίωση από γονέα"
           }
         },
         "en" : {
@@ -14364,6 +15216,12 @@
             "value" : "Eltern 🏦"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γονείς 🏦"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14463,6 +15321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eltern sind die Bank (Zentralbank), Kinder sind die Kunden."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι γονείς παίζουν τον ρόλο της τράπεζας (κεντρική τράπεζα) και τα παιδιά είναι οι πελάτες."
           }
         },
         "en" : {
@@ -14566,6 +15430,12 @@
             "value" : "Ein Elternteil muss bestätigen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χρειάζεται επιβεβαίωση από γονέα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14665,6 +15535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registriere mindestens ein Elternteil."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρόσθεσε τουλάχιστον έναν γονέα."
           }
         },
         "en" : {
@@ -14768,6 +15644,12 @@
             "value" : "Denk an einen Regenschirmverkäufer an einem Regentag. Viele Leute wollen einen Schirm, aber es gibt nur wenige? Selbst zu einem höheren Preis werden sie verkauft. Und Badesachen am Ende des Sommers? Niemand will sie kaufen, also müssen sie billig sein.\n\nSo entstehen Preise im Zusammenspiel von „Kaufwunsch“ (Nachfrage) und „Verkaufsmenge“ (Angebot). Auch die Preise von Geldanlagen steigen und fallen nach demselben Prinzip."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σκέψου έναν πωλητή ομπρελών μια βροχερή μέρα. Πολλοί θέλουν ομπρέλα, αλλά υπάρχουν λίγες; Ακόμη και με ψηλότερη τιμή, πουλιούνται. Και τα μαγιό όταν τελειώνει το καλοκαίρι; Κανείς δεν θέλει να τα αγοράσει, οπότε πρέπει να πουληθούν φθηνά.\n\nΕτσι η τιμή διαμορφώνεται από το τράβηγμα ανάμεσα στην «επιθυμία αγοράς» (ζήτηση) και στην «ποσότητα προς πώληση» (προσφορά). Και οι τιμές των επενδύσεων ανεβοκατεβαίνουν με την ίδια αρχή."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14867,6 +15749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kaufen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγορά"
           }
         },
         "en" : {
@@ -14970,6 +15858,12 @@
             "value" : "Produkt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προϊόν"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15069,6 +15963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Produktname (z. B. Sternenlicht-Fonds)"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όνομα προϊόντος (π.χ.: Κεφάλαιο Αστρικό Φως)"
           }
         },
         "en" : {
@@ -15172,6 +16072,12 @@
             "value" : "Produktdaten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στοιχεία προϊόντος"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15271,6 +16177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Produkt hinzufügen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσθήκη προϊόντος"
           }
         },
         "en" : {
@@ -15374,6 +16286,12 @@
             "value" : "Neue 4-stellige PIN"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Νέο PIN 4 ψηφίων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15473,6 +16391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verstehen, dass man mit jeder Wahl auf etwas verzichtet"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να καταλάβεις ότι κάθε επιλογή σημαίνει ότι εγκαταλείπεις κάτι άλλο"
           }
         },
         "en" : {
@@ -15576,6 +16500,12 @@
             "value" : "Beschreibung (optional)"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Περιγραφή (προαιρετικό)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15675,6 +16605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Haptisches Feedback"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Απτική ανάδραση"
           }
         },
         "en" : {
@@ -15778,6 +16714,12 @@
             "value" : "Menge: %lld Anteile"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποσότητα: %lld μερίδια"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15877,6 +16819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Angebot und Nachfrage"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσφορά και ζήτηση"
           }
         },
         "en" : {
@@ -15980,6 +16928,12 @@
             "value" : "Hoher Gewinn bedeutet hohes Risiko. Verteile und setze nur ein, was du verlieren kannst!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μεγάλο κέρδος σημαίνει μεγάλο κίνδυνο. Μοίρασε και ρίσκαρε μόνο όσα αντέχεις να χάσεις!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16079,6 +17033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "4 Ziffern"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 ψηφία"
           }
         },
         "en" : {
@@ -16182,6 +17142,12 @@
             "value" : "Start = 100"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βάση 100 στην αρχή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16281,6 +17247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Startpreis"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αρχική τιμή"
           }
         },
         "en" : {
@@ -16384,6 +17356,12 @@
             "value" : "+%@%% seit dem Start"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% από την αρχή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16483,6 +17461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Los geht’s 🎉"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξεκινάμε 🎉"
           }
         },
         "en" : {
@@ -16586,6 +17570,12 @@
             "value" : "Markt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγορά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16685,6 +17675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schaut euch im Tab „Markt“ gemeinsam die Preisschilder des Ladens an und sprecht darüber, warum Dinge unterschiedlich viel kosten."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στην καρτέλα Αγορά, δείτε μαζί τις ταμπέλες τιμών του μαγαζιού και συζητήστε γιατί τα πράγματα έχουν διαφορετικές τιμές."
           }
         },
         "en" : {
@@ -16788,6 +17784,12 @@
             "value" : "Schaut euch im Tab „Markt“ gemeinsam den Preisindex und die Preisentwicklung an und probiert unten das „Inflations-Experiment“ aus."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στην καρτέλα Αγορά δείτε μαζί τον δείκτη τιμών και το γράφημα της πορείας των τιμών και μετά δοκιμάστε το «Πείραμα πληθωρισμού» παρακάτω."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16887,6 +17889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beobachtet im Tab „Markt“, wie sich die Preise der Geldanlagen täglich ändern, und sprecht darüber: „Wollen viele kaufen, steigt der Preis.“"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στην καρτέλα Αγορά παρακολουθήστε πώς αλλάζουν κάθε μέρα οι τιμές των επενδύσεων και συζητήστε ότι «όταν πολλοί θέλουν να αγοράσουν, η τιμή ανεβαίνει»."
           }
         },
         "en" : {
@@ -16990,6 +17998,12 @@
             "value" : "Echter Preis: %@ Won"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πραγματική τιμή: %@ γουόν"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17089,6 +18103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echter Preis (Won)"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πραγματική τιμή (γουόν)"
           }
         },
         "en" : {
@@ -17192,6 +18212,12 @@
             "value" : "Preis in der echten Welt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τιμή στον πραγματικό κόσμο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17291,6 +18317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Realer Wert"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πραγματική αξία"
           }
         },
         "en" : {
@@ -17394,6 +18426,12 @@
             "value" : "Los geht’s mit SukSuk Taschengeld"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξεκίνα με το SukSuk Χαρτζιλίκι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17493,6 +18531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Willkommen bei SukSuk Taschengeld!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Καλώς ήρθατε στο SukSuk Χαρτζιλίκι!"
           }
         },
         "en" : {
@@ -17596,6 +18640,12 @@
             "value" : "Tipps zur Nutzung"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συμβουλές χρήσης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17695,6 +18745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eingaben fortsetzen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνέχεια από εκεί που σταμάτησες"
           }
         },
         "en" : {
@@ -17798,6 +18854,12 @@
             "value" : "Verlängere im „Zinseszins-Rechner“ unten den Zeitraum von 4 auf 52 Wochen. Beobachtet gemeinsam, wie die Kurve immer steiler wird!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στον «Υπολογιστή ανατοκισμού» παρακάτω, αύξησε τη διάρκεια από 4 σε 52 εβδομάδες. Δείτε μαζί πώς το γράφημα γίνεται όλο και πιο απότομο!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17897,6 +18959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verstehen, warum nicht alles Geld sein kann (die Eigenschaften von Geld)"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να καταλάβεις γιατί δεν μπορεί οτιδήποτε να είναι χρήμα (τα χαρακτηριστικά του χρήματος)"
           }
         },
         "en" : {
@@ -18000,6 +19068,12 @@
             "value" : "Legt die Hälfte der Geldbörse deines Kindes auf das Sparkonto. Schaut eine Woche später gemeinsam nach den Zinsen – das wirkt Wunder!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βάλτε το μισό από το πορτοφόλι του παιδιού στον λογαριασμό αποταμίευσης. Μετά από μία εβδομάδα δείτε μαζί τους τόκους – το αποτέλεσμα είναι εξαιρετικό!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18099,6 +19173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bevor dein Kind im Laden bezahlt, lasst es immer „eine andere Sache, die man mit diesem Geld kaufen könnte“ nennen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν το παιδί πληρώσει στο μαγαζί, ζητήστε του πάντα να πει «ένα άλλο πράγμα που θα μπορούσε να αγοράσει με αυτά τα χρήματα»."
           }
         },
         "en" : {
@@ -18202,6 +19282,12 @@
             "value" : "So kannst du es deinem Kind sagen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δοκίμασε να το πεις στο παιδί έτσι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18301,6 +19387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geht mit eurem Kind Schritt für Schritt vor, ab Schritt 1. Jeder Schritt dauert 10 Minuten: erklären, fragen, gemeinsam ausprobieren."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προχωρήστε βήμα βήμα με το παιδί, ξεκινώντας από το βήμα 1. Κάθε βήμα ακολουθεί τη σειρά «εξηγώ → ρωτάω → δοκιμάζουμε μαζί» και αρκούν 10 λεπτά."
           }
         },
         "en" : {
@@ -18404,6 +19496,12 @@
             "value" : "Verteilt mit eurem Kind einen kleinen Betrag auf 2 Produkte. Schaut jeden Tag gemeinsam auf die Preise, damit es sich an das Auf und Ab gewöhnt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μαζί με το παιδί μοιράστε ένα μικρό ποσό σε 2 προϊόντα. Κοιτάτε τις τιμές κάθε μέρα για να συνηθίσει τα πάνω και τα κάτω."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18503,6 +19601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Es gibt noch nicht genug Preisdaten. Schau morgen noch einmal nach!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχει ακόμη αρκετό ιστορικό τιμών. Έλα ξανά αύριο!"
           }
         },
         "en" : {
@@ -18606,6 +19710,12 @@
             "value" : "Noch keine Buchungen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν ακόμη συναλλαγές"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18705,6 +19815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Noch keine Artikel eingetragen.\nTrage im Elternmodus die Artikel eurer Familie ein!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν ακόμη προϊόντα.\nΚαταχώρισε τα προϊόντα της οικογένειάς σου στη λειτουργία γονέα!"
           }
         },
         "en" : {
@@ -18808,6 +19924,12 @@
             "value" : "Noch keine Artikel · im Tab „Aktionen“ hinzufügen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν ακόμη προϊόντα · πρόσθεσέ τα στην καρτέλα Ενέργειες"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18907,6 +20029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Noch nichts im Bestand"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν έχεις ακόμη τίποτα"
           }
         },
         "en" : {
@@ -19010,6 +20138,12 @@
             "value" : "Sicher 🐢"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ασφαλές 🐢"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19109,6 +20243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hinweis"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ειδοποίηση"
           }
         },
         "en" : {
@@ -19212,6 +20352,12 @@
             "value" : "Praktische Funktionen werden dir zur passenden Zeit dezent vorgestellt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διακριτικές υποδείξεις για χρήσιμες λειτουργίες την κατάλληλη στιγμή."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19311,6 +20457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktionen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ενέργειες"
           }
         },
         "en" : {
@@ -19414,6 +20566,12 @@
             "value" : "Gemeinsam in der App ausprobieren"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δοκιμάστε μαζί στην εφαρμογή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19513,6 +20671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sieh das Guthaben deines Kindes direkt auf dem Home-Bildschirm, ohne die App zu öffnen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δες το υπόλοιπο του παιδιού κατευθείαν από την αρχική οθόνη, χωρίς να ανοίξεις την εφαρμογή."
           }
         },
         "en" : {
@@ -19616,6 +20780,12 @@
             "value" : "Die App lässt sich auch auf Englisch nutzen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα μπορείς να χρησιμοποιείς την εφαρμογή και στα αγγλικά."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19715,6 +20885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie viel?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πόσο;"
           }
         },
         "en" : {
@@ -19818,6 +20994,12 @@
             "value" : "Wie viel zahlst du?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πόσο θα πληρώσεις;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19917,6 +21099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beim ersten Öffnen nach einem Update zeigen wir, was neu ist."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Την πρώτη φορά που ανοίγεις την εφαρμογή μετά από ενημέρωση, θα βλέπεις τι άλλαξε."
           }
         },
         "en" : {
@@ -20020,6 +21208,12 @@
             "value" : "Neuigkeiten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι νέο υπάρχει"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20119,6 +21313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rolle"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρόλος"
           }
         },
         "en" : {
@@ -20222,6 +21422,12 @@
             "value" : "Englisch-Unterstützung"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υποστήριξη αγγλικών"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20321,6 +21527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beispiel: ein Artikel, der in echt 1.000 Won kostet = %@ %@. Die Preise der Laden-Artikel in %@ werden mit diesem Kurs automatisch berechnet."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Π.χ.: ένα πράγμα που στην πραγματικότητα κοστίζει 1.000 γουόν = %@ %@. Οι τιμές των προϊόντων του μαγαζιού σε %@ υπολογίζονται αυτόματα με αυτή την ισοτιμία."
           }
         },
         "en" : {
@@ -20424,6 +21636,12 @@
             "value" : "z. B. Bohne, Stern, Münze"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Π.χ.: Φασόλι, Αστέρι, Νόμισμα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20523,6 +21741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ein Budget aufstellen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φτιάχνουμε προϋπολογισμό"
           }
         },
         "en" : {
@@ -20626,6 +21850,12 @@
             "value" : "Das lernen wir heute"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι θα μάθουμε σήμερα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20725,6 +21955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fertig"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τέλος"
           }
         },
         "en" : {
@@ -20828,6 +22064,12 @@
             "value" : "Warum kann Sand vom Wegrand kein Geld sein? Weil es ihn überall massenhaft gibt! Gutes Geld muss fünf Prüfungen bestehen.\n\n① Es muss lange halten (nicht verfaulen!) ② Es muss leicht zu tragen sein (eine Kuh ist zu schwer – durchgefallen!) ③ Man muss es in kleine Stücke teilen können ④ Es darf nicht zu häufig sein ⑤ Alle müssen glauben: „Das ist echtes Geld.“\n\nUnsere Familienmünzen haben einen Wert, weil Mama und Papa sie nicht einfach nach Lust und Laune drucken, sondern ihr Versprechen halten."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γιατί η άμμος του δρόμου δεν μπορεί να είναι χρήμα; Γιατί υπάρχει παντού άφθονη! Για να είναι κάτι καλό χρήμα, πρέπει να περάσει πέντε δοκιμασίες.\n\n① Να αντέχει στον χρόνο (να μην σαπίζει!) ② Να μεταφέρεται εύκολα (η αγελάδα είναι πολύ βαριά – αποκλείεται!) ③ Να χωρίζεται σε μικρά κομμάτια ④ Να μην είναι πολύ συνηθισμένο ⑤ Όλοι να πιστεύουν «αυτό είναι πραγματικό χρήμα».\n\nΤα νομίσματα του σπιτιού μας έχουν αξία γιατί η μαμά και ο μπαμπάς δεν τα τυπώνουν όποτε τους καπνίσει, αλλά τηρούν την υπόσχεσή τους."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20927,6 +22169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Welche der Sachen, die du dir gerade kaufen möchtest, sind Bedürfnisse und welche Wünsche?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Από αυτά που θέλεις να αγοράσεις τώρα τελευταία, ποια είναι ανάγκες και ποια επιθυμίες;"
           }
         },
         "en" : {
@@ -21030,6 +22278,12 @@
             "value" : "Taschengeld"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χαρτζιλίκι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21129,6 +22383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taschengeld-Erinnerungen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υπενθυμίσεις χαρτζιλικιού"
           }
         },
         "en" : {
@@ -21232,6 +22492,12 @@
             "value" : "Taschengeld geben"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δώσε χαρτζιλίκι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21331,6 +22597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taschengeld geben / abziehen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δώσε / αφαίρεσε χαρτζιλίκι"
           }
         },
         "en" : {
@@ -21434,6 +22706,12 @@
             "value" : "Lasst euer Kind am Taschengeldtag selbst entscheiden, wie viel es spart, anlegt und ausgibt, und das umsetzen. Eine Woche später schaut ihr euch gemeinsam den Tab „Verlauf“ an."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Την ημέρα του χαρτζιλικιού, αφήστε το παιδί να αποφασίσει μόνο του τα ποσοστά αποταμίευσης, επένδυσης και δαπάνης και να τα εφαρμόσει. Μετά από μία εβδομάδα δείτε μαζί την καρτέλα Ιστορικό."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21533,6 +22811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eine Mitteilung am Taschengeldtag oder wenn Zinsen gutgeschrieben werden."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ειδοποίηση την ημέρα του χαρτζιλικιού ή όταν πιστώνονται τόκοι."
           }
         },
         "en" : {
@@ -21636,6 +22920,12 @@
             "value" : "Taschengeld geben, Zinssätze festlegen und mehr\nkönnen nur Personen, die diese PIN kennen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το χαρτζιλίκι, η ρύθμιση των επιτοκίων και άλλα\nμπορούν να γίνουν μόνο από όσους ξέρουν αυτό το PIN."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21735,6 +23025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ein leichtes Vibrieren meldet dir, wenn Taschengeld eintrifft oder etwas gekauft wird."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μια ελαφριά δόνηση σε ειδοποιεί όταν έρχεται χαρτζιλίκι ή γίνεται αγορά."
           }
         },
         "en" : {
@@ -21838,6 +23134,12 @@
             "value" : "Wenn du dein Taschengeld gleich nach dem Erhalten ohne Plan ausgibst, ist es schnell weg. Deshalb macht man vorher einen Plan. Das nennt man „Budget“.\n\nTeile es zum Beispiel so auf: Sparen 30, Notwendiges 40, Wünsche 20, Geldanlage ausprobieren 10. Es muss nicht genau so sein. Wichtig ist, dass du selbst entscheidest!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν ξοδέψεις το χαρτζιλίκι μόλις το πάρεις, χωρίς σχέδιο, θα εξαφανιστεί γρήγορα. Γι’ αυτό φτιάχνεις πρώτα ένα σχέδιο. Αυτό λέγεται «προϋπολογισμός».\n\nΓια παράδειγμα, μοίρασέ το έτσι: αποταμίευση 30, απαραίτητα 40, πράγματα που θέλεις 20, δοκιμή επένδυσης 10. Δεν χρειάζεται να είναι ακριβώς έτσι. Το σημαντικό είναι να αποφασίσεις εσύ!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21937,6 +23239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wenn du Taschengeld gibst oder bezahlst, erscheint es hier"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν δώσεις χαρτζιλίκι ή πληρώσεις, θα εμφανιστεί εδώ"
           }
         },
         "en" : {
@@ -22040,6 +23348,12 @@
             "value" : "Taschengeld geben, bezahlen, Sparzinsen bekommen\nund sogar anlegen – das Wirtschaftssystem nur für eure Familie."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δώστε χαρτζιλίκι, πληρώστε, πάρτε τόκους αποταμίευσης\nκαι επενδύστε – ένα οικονομικό σύστημα μόνο για την οικογένειά σας."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22139,6 +23453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Familienladen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το μαγαζί του σπιτιού"
           }
         },
         "en" : {
@@ -22242,6 +23562,12 @@
             "value" : "Geht die Artikel im Familienladen gemeinsam durch und ordnet sie einzeln den „Bedürfnissen“ und den „Wünschen“ zu."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δείτε μαζί τα προϊόντα του μαγαζιού του σπιτιού και χωρίστε τα ένα ένα σε «ανάγκες» και «επιθυμίες»."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22341,6 +23667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preis bei uns zu Hause"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τιμή στο σπίτι μας"
           }
         },
         "en" : {
@@ -22444,6 +23776,12 @@
             "value" : "Preise zu Hause"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι τιμές του σπιτιού"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22543,6 +23881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie hoch ist der Preisindex bei uns zu Hause gerade?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιος είναι τώρα ο δείκτης τιμών του σπιτιού μας;"
           }
         },
         "en" : {
@@ -22646,6 +23990,12 @@
             "value" : "Speichere die Aufzeichnungen deiner Familienbank in einer Datei und lade sie später wieder."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποθήκευσε τα αρχεία της τράπεζας του σπιτιού σε ένα αρχείο και φόρτωσέ τα ξανά αργότερα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22745,6 +24095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Was können wir gegen unsere Familienmünzen eintauschen?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με τι μπορούμε να ανταλλάξουμε τα νομίσματα του σπιτιού μας;"
           }
         },
         "en" : {
@@ -22848,6 +24204,12 @@
             "value" : "Warum haben unsere Familienmünzen einen Wert?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γιατί τα νομίσματα του σπιτιού μας έχουν αξία;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22947,6 +24309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geldmenge bei uns zu Hause 💰"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ποσότητα χρήματος στο σπίτι μας 💰"
           }
         },
         "en" : {
@@ -23050,6 +24418,12 @@
             "value" : "Das ist die Geldanlage unserer Familie."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είναι το επενδυτικό προϊόν της οικογένειάς μας."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23149,6 +24523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gib der Währung deiner Familie einen Namen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διάλεξε όνομα για το νόμισμα του σπιτιού"
           }
         },
         "en" : {
@@ -23252,6 +24632,12 @@
             "value" : "Geld im Umlauf bei uns zu Hause"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα χρήματα που κυκλοφορούν στο σπίτι μας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23351,6 +24737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bewegung reduzieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μείωση κίνησης"
           }
         },
         "en" : {
@@ -23454,6 +24846,12 @@
             "value" : "Mit „Bewegung reduzieren“ werden die Bildschirmeffekte ruhiger."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν ενεργοποιήσεις τη «Μείωση κίνησης», τα εφέ της οθόνης γίνονται πιο ήρεμα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23553,6 +24951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Won"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "γουόν"
           }
         },
         "en" : {
@@ -23656,6 +25060,12 @@
             "value" : "Risikostufe"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επίπεδο κινδύνου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23755,6 +25165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Riskant 🚀"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επικίνδυνο 🚀"
           }
         },
         "en" : {
@@ -23858,6 +25274,12 @@
             "value" : "Bank-Einstellungen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρυθμίσεις τράπεζας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23957,6 +25379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wenn du Geld zur Bank bringst, sagt die Bank: „Danke, dass du uns dein Geld anvertraust!“ und gibt dir etwas obendrauf. Dieses Extra heißt „Zinsen“.\n\nGeld in der Geldbörse wird nie mehr, egal wie lange du wartest. Legst du es aber auf das Sparkonto, kommen jede Woche Zinsen dazu und das Geld wächst. Wohin legst du Geld, das du gerade nicht ausgibst?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν αφήνεις χρήματα στην τράπεζα, η τράπεζα λέει «Ευχαριστούμε που μας εμπιστεύεσαι!» και σου δίνει κάτι παραπάνω. Αυτό το παραπάνω λέγεται «τόκος».\n\nΤα χρήματα στο πορτοφόλι δεν μεγαλώνουν ποτέ, όσο κι αν περιμένεις. Αν όμως τα βάλεις στον λογαριασμό αποταμίευσης, κάθε εβδομάδα προστίθενται τόκοι και τα χρήματα μεγαλώνουν. Πού να βάλεις τα χρήματα που δεν θα ξοδέψεις τώρα;"
           }
         },
         "en" : {
@@ -24060,6 +25488,12 @@
             "value" : "Dieses Gerät weitergeben"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δώσε αυτή τη συσκευή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24159,6 +25593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dieses Gerät wechselt zur eigenen Ansicht des ausgewählten Kindes. Das Kind sieht nur seine Geldbörse, den Laden, Geldanlagen, den Verlauf und das Lernen. Praktisch, wenn du dein Handy an ein Kind ohne eigenes Handy weitergibst. Zum Zurückkehren tippe auf das Schloss und gib die Eltern-PIN ein."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αυτή η συσκευή αλλάζει στη δική του οθόνη του παιδιού που επέλεξες. Το παιδί βλέπει μόνο το πορτοφόλι, το μαγαζί, τις επενδύσεις, το ιστορικό και τα μαθήματά του. Είναι χρήσιμο όταν δίνεις το κινητό σου σε παιδί που δεν έχει δικό του. Για να γυρίσεις πίσω, πάτα το κουμπί με το λουκέτο και πληκτρολόγησε το PIN του γονέα."
           }
         },
         "en" : {
@@ -24262,6 +25702,12 @@
             "value" : "Dieses Gerät zum Handy von %@ %@ machen? Zum Zurückwechseln wird die Eltern-PIN benötigt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να γίνει αυτή η συσκευή το κινητό του/της %@ %@; Για να γυρίσεις πίσω χρειάζεται το PIN του γονέα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24361,6 +25807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wessen Handy soll dieses Gerät werden? Zum Zurückwechseln wird die Eltern-PIN benötigt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιανού κινητό να γίνει αυτή η συσκευή; Για να γυρίσεις πίσω χρειάζεται το PIN του γονέα."
           }
         },
         "en" : {
@@ -24464,6 +25916,12 @@
             "value" : "Wie viel wird es, wenn du es so lässt? (Schätzung für 12 Wochen mit Zinseszins)"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πόσο θα γίνει αν το αφήσεις έτσι; (εκτίμηση 12 εβδομάδων με ανατοκισμό)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24563,6 +26021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "So kannst du fragen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δοκίμασε να ρωτήσεις έτσι"
           }
         },
         "en" : {
@@ -24666,6 +26130,12 @@
             "value" : "Name"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όνομα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24762,6 +26232,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
+          }
+        },
+        "el" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji"
@@ -24868,6 +26344,12 @@
             "value" : "Wie möchtest du dein Taschengeld diese Woche aufteilen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πώς θα ήθελες να μοιράσεις το χαρτζιλίκι αυτής της εβδομάδας;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24967,6 +26449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grund"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αιτία"
           }
         },
         "en" : {
@@ -25070,6 +26558,12 @@
             "value" : "Zinsen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τόκος"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25169,6 +26663,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zinsen · Wechselkurs · Preise"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τόκοι · Ισοτιμία · Τιμές"
           }
         },
         "en" : {
@@ -25272,6 +26772,12 @@
             "value" : "Wenn Zinsen wieder Zinsen bringen, nennt man das „Zinseszins“. Je länger du sparst, desto mehr wächst dein Geld wie ein Schneeball! ⛄️"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν οι τόκοι κάνουν νέους τόκους, λέγεται «ανατοκισμός». Όσο περισσότερο αποταμιεύεις, τόσο τα χρήματα μεγαλώνουν σαν χιονόμπαλα! ⛄️"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25371,6 +26877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allein durch Zinsen hast du %@ %@ verdient!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κέρδισες %@ %@ μόνο από τόκους!"
           }
         },
         "en" : {
@@ -25474,6 +26986,12 @@
             "value" : "Verstehen, dass Zinsen auf Zinsen wie ein Schneeball wachsen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να καταλάβεις ότι οι τόκοι πάνω σε τόκους μεγαλώνουν σαν χιονόμπαλα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25573,6 +27091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Liegt der Zins unter der Preissteigerung, verliert das Geld auch beim Sparen an Kraft. Probiere einen höheren Zins aus!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν το επιτόκιο είναι χαμηλότερο από την άνοδο των τιμών, τα χρήματα χάνουν δύναμη ακόμη και με αποταμίευση. Δοκίμασε να αυξήσεις το επιτόκιο!"
           }
         },
         "en" : {
@@ -25676,6 +27200,12 @@
             "value" : "Zurück"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πίσω"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25775,6 +27305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inflation"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πληθωρισμός"
           }
         },
         "en" : {
@@ -25878,6 +27414,12 @@
             "value" : "Keine Inflation"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χωρίς πληθωρισμό"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25977,6 +27519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tag"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ημέρα"
           }
         },
         "en" : {
@@ -26080,6 +27628,12 @@
             "value" : "Früh anfangen, dranbleiben – das ist das Geheimnis des Zinseszinses."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξεκίνα νωρίς, συνέχισε σταθερά – αυτό είναι το μυστικό του ανατοκισμού."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26179,6 +27733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie viel Geld ist okay zu verlieren?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πόσα χρήματα δεν πειράζει να χάσεις;"
           }
         },
         "en" : {
@@ -26282,6 +27842,12 @@
             "value" : "Einzahlen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κατάθεση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26381,6 +27947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einzahlen / Auszahlen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κατάθεση / Ανάληψη"
           }
         },
         "en" : {
@@ -26484,6 +28056,12 @@
             "value" : "Kind"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Παιδί"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26583,6 +28161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scanne mit der Kamera des Kindergeräts, um die Einladung zu sehen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σκανάρισε με την κάμερα της συσκευής του παιδιού για να δεις την πρόσκληση"
           }
         },
         "en" : {
@@ -26686,6 +28270,12 @@
             "value" : "Kind einladen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρόσκληση παιδιού"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26785,6 +28375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kinderhandy-Modus"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λειτουργία κινητού παιδιού"
           }
         },
         "en" : {
@@ -26888,6 +28484,12 @@
             "value" : "Zum Kinderhandy wechseln"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εναλλαγή σε κινητό παιδιού"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26987,6 +28589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kinder 👧"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Παιδιά 👧"
           }
         },
         "en" : {
@@ -27090,6 +28698,12 @@
             "value" : "Wenn dein Kind diesen Barcode mit „Scannen & Bezahlen“ scannt,\nwerden %@ aus der Geldbörse abgebucht."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν το παιδί σκανάρει αυτόν τον γραμμωτό κώδικα με το «Σάρωση και πληρωμή»,\nθα αφαιρεθούν %@ από το πορτοφόλι του."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27189,6 +28803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registriere mindestens ein Kind."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρόσθεσε τουλάχιστον ένα παιδί."
           }
         },
         "en" : {
@@ -27292,6 +28912,12 @@
             "value" : "Letztes Jahr hat ein Snack 1.000 gekostet. Dieses Jahr kostet er 1.100. Und der Snack ist nicht einmal größer geworden! Wenn Preise so steigen, nennt man das „Inflation“.\n\nDie Zahl auf deinem Geld bleibt gleich, aber du kannst weniger davon kaufen. Wie Luft, die aus einem Ballon entweicht, wird das Geld schwächer. Wenn du Geld einfach im Portemonnaie liegen lässt, verlierst du deshalb nach und nach. Um seine Kraft zu erhalten, musst du es mit Zinsen oder Geldanlage schneller vermehren, als die Preise steigen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πέρσι ένα γλυκό κόστιζε 1.000. Φέτος κοστίζει 1.100. Και το γλυκό δεν έγινε μεγαλύτερο! Όταν οι τιμές ανεβαίνουν έτσι, λέγεται «πληθωρισμός».\n\nΟ αριθμός στα χρήματά σου μένει ίδιος, αλλά αγοράζεις λιγότερα. Όπως ο αέρας που φεύγει από ένα μπαλόνι, η δύναμη των χρημάτων εξασθενεί. Γι’ αυτό, αν αφήνεις τα χρήματα ακίνητα στο πορτοφόλι, χάνεις σιγά σιγά. Για να διατηρήσεις τη δύναμή τους, πρέπει να τα μεγαλώνεις πιο γρήγορα από τις τιμές – με τόκους ή επένδυση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27391,6 +29017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guthaben"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υπόλοιπο"
           }
         },
         "en" : {
@@ -27494,6 +29126,12 @@
             "value" : "Sperren"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κλείδωμα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27593,6 +29231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Speichern"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποθήκευση"
           }
         },
         "en" : {
@@ -27696,6 +29340,12 @@
             "value" : "Gespart"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποταμίευση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27795,6 +29445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sparzins"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επιτόκιο αποταμίευσης"
           }
         },
         "en" : {
@@ -27898,6 +29554,12 @@
             "value" : "Spareinzahlung"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κατάθεση αποταμίευσης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27997,6 +29659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sparguthaben"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υπόλοιπο αποταμίευσης"
           }
         },
         "en" : {
@@ -28100,6 +29768,12 @@
             "value" : "Sparauszahlung"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ανάληψη αποταμίευσης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28199,6 +29873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gespart: %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποταμίευση: %@"
           }
         },
         "en" : {
@@ -28302,6 +29982,12 @@
             "value" : "Sparen und Zinsen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποταμίευση και τόκοι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28401,6 +30087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wenn einer früh mit dem Sparen anfängt und ein anderer spät, wer ist später reicher?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν κάποιος αρχίσει νωρίς να αποταμιεύει και κάποιος άλλος αργά, ποιος θα γίνει πιο πλούσιος αργότερα;"
           }
         },
         "en" : {
@@ -28504,6 +30196,12 @@
             "value" : "Aufs Sparkonto legen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μεταφορά στην αποταμίευση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28603,6 +30301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nicht genug Geld auf dem Sparkonto."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν αρκετά χρήματα στον λογαριασμό αποταμίευσης."
           }
         },
         "en" : {
@@ -28706,6 +30410,12 @@
             "value" : "Wöchentlicher Zinseszins auf dem Sparkonto"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εβδομαδιαίος ανατοκισμός στον λογαριασμό αποταμίευσης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28805,6 +30515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verstehen, wie Sparen Geld wachsen lässt"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να καταλάβεις πώς η αποταμίευση μεγαλώνει τα χρήματα"
           }
         },
         "en" : {
@@ -28908,6 +30624,12 @@
             "value" : "Gespartes Geld"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποταμιευμένα χρήματα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29007,6 +30729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auch wenn die App beim Tippen geschlossen wird, bleibt dein Text erhalten."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακόμη κι αν η εφαρμογή κλείσει ενώ γράφεις, αυτό που έγραφες παραμένει."
           }
         },
         "en" : {
@@ -29110,6 +30838,12 @@
             "value" : "Alles löschen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διαγραφή όλων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29209,6 +30943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όλα"
           }
         },
         "en" : {
@@ -29312,6 +31052,12 @@
             "value" : "Wirklich alle Daten löschen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θέλεις σίγουρα να διαγράψεις όλα τα δεδομένα;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29411,6 +31157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Art"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είδος"
           }
         },
         "en" : {
@@ -29514,6 +31266,12 @@
             "value" : "Was gutes Geld ausmacht"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι κάνει τα χρήματα καλά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29613,6 +31371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wo."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "εβδ."
           }
         },
         "en" : {
@@ -29716,6 +31480,12 @@
             "value" : "%@%% pro Woche"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% την εβδομάδα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29815,6 +31585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wöchentliche Preissteigerung: %@%%"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εβδομαδιαία άνοδος τιμών: %@%%"
           }
         },
         "en" : {
@@ -29918,6 +31694,12 @@
             "value" : "Wöchentlicher Zinssatz"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εβδομαδιαίο επιτόκιο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30017,6 +31799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wöchentlicher Zinssatz: %@%%"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εβδομαδιαίο επιτόκιο: %@%%"
           }
         },
         "en" : {
@@ -30120,6 +31908,12 @@
             "value" : "Wöchentlicher Sparzins %@%% · Wöchentliche Preissteigerung %@%%"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εβδομαδιαίο επιτόκιο αποταμίευσης %@%% · Εβδομαδιαία άνοδος τιμών %@%%"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30219,6 +32013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wöchentlicher Sparzins: %@%%"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εβδομαδιαίο επιτόκιο αποταμίευσης: %@%%"
           }
         },
         "en" : {
@@ -30322,6 +32122,12 @@
             "value" : "Geldbörse"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πορτοφόλι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30421,6 +32227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guthaben der Geldbörse"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υπόλοιπο πορτοφολιού"
           }
         },
         "en" : {
@@ -30524,6 +32336,12 @@
             "value" : "Geldbörse: %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πορτοφόλι: %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30623,6 +32441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geldbörse: %@ %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πορτοφόλι: %@ %@"
           }
         },
         "en" : {
@@ -30726,6 +32550,12 @@
             "value" : "Das Geld in der Geldbörse hat an Kraft verloren, aber das gesparte Geld hat sie behalten! 💪"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα χρήματα που έμειναν στο πορτοφόλι έχασαν δύναμη, ενώ τα αποταμιευμένα τη διατήρησαν! 💪"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30825,6 +32655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nicht genug Geld in der Geldbörse! Guthaben: %@ %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν αρκετά χρήματα στο πορτοφόλι! Υπόλοιπο: %@ %@"
           }
         },
         "en" : {
@@ -30928,6 +32764,12 @@
             "value" : "Nicht genug Geld in der Geldbörse."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν αρκετά χρήματα στο πορτοφόλι."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31027,6 +32869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nicht genug Geld in der Geldbörse. Benötigt: %@ %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν αρκετά χρήματα στο πορτοφόλι. Χρειάζονται: %@ %@"
           }
         },
         "en" : {
@@ -31130,6 +32978,12 @@
             "value" : "Geld in der Geldbörse"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χρήματα στο πορτοφόλι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31229,6 +33083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Was ist der Unterschied zwischen Geld in der Geldbörse und gespartem Geld?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποια η διαφορά ανάμεσα στα χρήματα του πορτοφολιού και στα χρήματα που αποταμίευσες;"
           }
         },
         "en" : {
@@ -31332,6 +33192,12 @@
             "value" : "In die Geldbörse nehmen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μεταφορά στο πορτοφόλι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31431,6 +33297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geben · Abziehen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δώσε · Αφαίρεσε"
           }
         },
         "en" : {
@@ -31534,6 +33406,12 @@
             "value" : "Worauf hast du verzichtet, als du das letzte Mal etwas gekauft hast?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Την τελευταία φορά που αγόρασες κάτι, από τι παραιτήθηκες;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31633,6 +33511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wofür hast du letzte Woche am meisten Geld ausgegeben?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πού ξόδεψες τα περισσότερα χρήματα την περασμένη εβδομάδα;"
           }
         },
         "en" : {
@@ -31736,6 +33620,12 @@
             "value" : "Index %lld"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δείκτης %lld"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31835,6 +33725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υποστήριξη"
           }
         },
         "en" : {
@@ -31938,6 +33834,12 @@
             "value" : "Sucht 3 Dinge im Haus aus und spielt „Könnte das Geld sein?“. Bewertet jede der fünf Bedingungen mit ✓ oder ✗."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διάλεξε 3 αντικείμενα του σπιτιού και παίξε το «Θα μπορούσε να είναι χρήμα;». Βάλε ✓ ή ✗ σε κάθε μία από τις πέντε προϋποθέσεις."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32037,6 +33939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scannen & Bezahlen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σάρωση και πληρωμή"
           }
         },
         "en" : {
@@ -32140,6 +34048,12 @@
             "value" : "Scannen und sofort bezahlen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σκανάρισε και πλήρωσε αμέσως"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32239,6 +34153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abzug"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αφαίρεση"
           }
         },
         "en" : {
@@ -32342,6 +34262,12 @@
             "value" : "Abziehen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αφαίρεσε"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32441,6 +34367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Startbetrag: %@ %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αρχικό ποσό: %@ %@"
           }
         },
         "en" : {
@@ -32544,6 +34476,12 @@
             "value" : "Die Preise sind seit dem Start um %@%% gestiegen. 1.000 %@ in der Geldbörse haben jetzt nur noch die Kraft von %@ %@."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι τιμές ανέβηκαν κατά %@%% από την αρχή. Τα 1.000 %@ στο πορτοφόλι έχουν τώρα δύναμη %@ %@."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32643,6 +34581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einladung · QR"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρόσκληση · QR"
           }
         },
         "en" : {
@@ -32746,6 +34690,12 @@
             "value" : "Einladung senden"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποστολή πρόσκλησης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32845,6 +34795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gesamtbetrag"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνολικό ποσό"
           }
         },
         "en" : {
@@ -32948,6 +34904,12 @@
             "value" : "Gesamtvermögen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνολική περιουσία"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33047,6 +35009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gesamtvermögen · etwa %@ Won in echtem Geld"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνολική περιουσία · περίπου %@ γουόν σε πραγματικά χρήματα"
           }
         },
         "en" : {
@@ -33150,6 +35118,12 @@
             "value" : "Letzte Buchungen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρόσφατες συναλλαγές"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33249,6 +35223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hinzufügen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσθήκη"
           }
         },
         "en" : {
@@ -33352,6 +35332,12 @@
             "value" : "Auszahlen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ανάληψη"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33451,6 +35437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abbrechen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακύρωση"
           }
         },
         "en" : {
@@ -33554,6 +35546,12 @@
             "value" : "Warum werden beliebte Spielsachen an Weihnachten teurer?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γιατί τα δημοφιλή παιχνίδια ακριβαίνουν τα Χριστούγεννα;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33653,6 +35651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bildschirme für große Schrift"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οθόνες για μεγάλα γράμματα"
           }
         },
         "en" : {
@@ -33756,6 +35760,12 @@
             "value" : "Angelegt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επενδύσεις"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33855,6 +35865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anlageverkauf"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πώληση επένδυσης"
           }
         },
         "en" : {
@@ -33958,6 +35974,12 @@
             "value" : "Anlagekauf"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγορά επένδυσης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34057,6 +36079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geldanlagen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επενδυτικά προϊόντα"
           }
         },
         "en" : {
@@ -34160,6 +36188,12 @@
             "value" : "Geldanlage hinzufügen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσθήκη επενδυτικού προϊόντος"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34259,6 +36293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anlagemarkt 📈"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επενδυτική αγορά 📈"
           }
         },
         "en" : {
@@ -34362,6 +36402,12 @@
             "value" : "Wert der Geldanlagen: %@ %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αξία επενδύσεων: %@ %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34461,6 +36507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geld anzulegen ist, als würdest du Geld pflanzen. Wächst der Samen gut, wird ein großer Baum daraus – er kann aber auch verwelken. Anders als beim Sparen kann dein Geld bei der Geldanlage mehr oder weniger werden.\n\nMerk dir diese Regel: Wer viel gewinnen kann, kann auch viel verlieren. Und wenn du alle Eier in einen Korb legst, sind sie alle kaputt, sobald er fällt. Verteile sie (Streuung). Pflanze nur so viel, wie du verlieren kannst."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το να επενδύεις είναι σαν να φυτεύεις χρήματα. Αν ο σπόρος μεγαλώσει καλά, γίνεται μεγάλο δέντρο, αλλά μπορεί και να μαραθεί. Σε αντίθεση με την αποταμίευση, στην επένδυση τα χρήματα μπορεί να αυξηθούν ή να μειωθούν.\n\nΘυμήσου τον κανόνα: όσο περισσότερα μπορείς να κερδίσεις, τόσο περισσότερα μπορείς και να χάσεις. Και αν βάλεις όλα τα αυγά σε ένα καλάθι, όταν πέσει σπάνε όλα. Μοίρασέ τα (διαφοροποίηση). Φύτεψε μόνο όσα αντέχεις να χάσεις."
           }
         },
         "en" : {
@@ -34564,6 +36616,12 @@
             "value" : "Geldanlage und Risiko"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επένδυση και κίνδυνος"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34663,6 +36721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anleger"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επενδυτής"
           }
         },
         "en" : {
@@ -34766,6 +36830,12 @@
             "value" : "Anleger wählen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επιλογή επενδυτή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34865,6 +36935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um anzulegen, registriere zuerst auf der Startseite ein Kind."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Για να επενδύσεις, πρόσθεσε πρώτα ένα παιδί στην Αρχική."
           }
         },
         "en" : {
@@ -34968,6 +37044,12 @@
             "value" : "Keine Geldanlagen im Angebot"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν υπάρχουν επενδυτικά προϊόντα προς πώληση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35067,6 +37149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ansicht für faltbare iPhones"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οθόνη για αναδιπλούμενο iPhone"
           }
         },
         "en" : {
@@ -35170,6 +37258,12 @@
             "value" : "Nutze den breiten Bildschirm eines faltbaren iPhones in zwei Spalten."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χρησιμοποίησε την πλατιά οθόνη ενός αναδιπλούμενου iPhone χωρισμένη σε δύο πάνελ."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35269,6 +37363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erst die Bedürfnisse, dann die Wünsche!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρώτα οι ανάγκες, μετά οι επιθυμίες!"
           }
         },
         "en" : {
@@ -35372,6 +37472,12 @@
             "value" : "Bedürfnisse und Wünsche"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ανάγκες και επιθυμίες"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35471,6 +37577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Was passiert, wenn man Wünsche erfüllt und die Bedürfnisse nicht kauft?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι γίνεται αν αγοράζεις επιθυμίες και δεν αγοράζεις ανάγκες;"
           }
         },
         "en" : {
@@ -35574,6 +37686,12 @@
             "value" : "Filter"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φίλτρο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35673,6 +37791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Filter zurücksetzen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επαναφορά φίλτρων"
           }
         },
         "en" : {
@@ -35776,6 +37900,12 @@
             "value" : "Bewegt sich stark, bis zu ±15 %% am Tag! Du kannst viel gewinnen oder viel verlieren."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κινείται πολύ, έως ±15 %% την ημέρα! Μπορείς να κερδίσεις πολλά ή να χάσεις πολλά."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35875,6 +38005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bewegt sich nur wenig, etwa ±2 %% am Tag. Geringes Verlustrisiko."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κινείται σιγά σιγά, περίπου ±2 %% την ημέρα. Μικρός κίνδυνος απώλειας."
           }
         },
         "en" : {
@@ -35978,6 +38114,12 @@
             "value" : "Schwankt etwa ±6 %% am Tag. Eine ordentliche Herausforderung."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ανεβοκατεβαίνει περίπου ±6 %% την ημέρα. Μια μέτρια πρόκληση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36077,6 +38219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Noch einmal eingeben"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πληκτρολόγησέ το ξανά"
           }
         },
         "en" : {
@@ -36180,6 +38328,12 @@
             "value" : "Gemeinsam ausprobieren · Zinseszins-Rechner 🧮"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πειραματιζόμαστε μαζί · Υπολογιστής ανατοκισμού 🧮"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36279,6 +38433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gemeinsam ausprobieren · Inflations-Experiment 🎈"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πειραματιζόμαστε μαζί · Πείραμα πληθωρισμού 🎈"
           }
         },
         "en" : {
@@ -36382,6 +38542,12 @@
             "value" : "Aktueller Preis"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τρέχουσα τιμή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36481,6 +38647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktuelle Geldbörse"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τρέχον πορτοφόλι"
           }
         },
         "en" : {
@@ -36584,6 +38756,12 @@
             "value" : "Widgets für den Home-Bildschirm"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γραφικά στοιχεία αρχικής οθόνης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36683,6 +38861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Währung „%@“ · Wöchentliche Zinsen %@%%"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Νόμισμα «%@» · Εβδομαδιαίος τόκος %@%%"
           }
         },
         "en" : {
@@ -36786,6 +38970,12 @@
             "value" : "Name der Währung"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όνομα νομίσματος"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36882,6 +39072,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "el" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -36988,6 +39184,12 @@
             "value" : "Wechselkurs"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ισοτιμία"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37087,6 +39289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wird automatisch mit 1 %@ = %@ Won berechnet."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υπολογίζεται αυτόματα με 1 %@ = %@ γουόν."
           }
         },
         "en" : {
@@ -37190,6 +39398,12 @@
             "value" : "Wechselkurs: 1 %@ ="
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ισοτιμία: 1 %@ ="
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37289,6 +39503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geld muss knapp sein, und alle müssen ihm vertrauen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Για να γίνει κάτι χρήμα, πρέπει να είναι σπάνιο και όλοι να το εμπιστεύονται."
           }
         },
         "en" : {
@@ -37392,6 +39612,12 @@
             "value" : "🌱 %@, du bist zu SukSuk Taschengeld eingeladen!\n\nLass uns gemeinsam mit unserer Familienwährung „%@“ loslegen:\n• Taschengeld sparen und damit bezahlen 💸\n• Beim Sparen gibt es jede Woche %@%% Zinsen 🏦\n• Mit Geldanlagen die Wirtschaft kennenlernen 📈\n\nÖffne die App SukSuk Taschengeld auf einem Gerät, das mit demselben iCloud-Account wie das Gerät deiner Eltern angemeldet ist, und schon bist du dabei!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, σε προσκαλούμε στο SukSuk Χαρτζιλίκι!\n\nΑς χρησιμοποιήσουμε μαζί το νόμισμα του σπιτιού μας, «%@»:\n• Μάζεψε το χαρτζιλίκι και πλήρωσε με αυτό 💸\n• Αν αποταμιεύεις, παίρνεις %@%% τόκο κάθε εβδομάδα 🏦\n• Μάθε οικονομικά με επενδυτικά προϊόντα 📈\n\nΆνοιξε την εφαρμογή SukSuk Χαρτζιλίκι σε μια συσκευή με τον ίδιο λογαριασμό iCloud με τη συσκευή των γονιών σου και μπορείς να συμμετέχεις αμέσως!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37491,6 +39717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Lernen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Μάθε"
           }
         },
         "en" : {
@@ -37594,6 +39826,12 @@
             "value" : "🏛️ Markt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Αγορά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37693,6 +39931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Elternmodus"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Λειτουργία γονέα"
           }
         },
         "en" : {
@@ -37796,6 +40040,12 @@
             "value" : "🏦 Gespart"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Αποταμίευση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37895,6 +40145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Sparkonto"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Λογαριασμός αποταμίευσης"
           }
         },
         "en" : {
@@ -37998,6 +40254,12 @@
             "value" : "🏪 Familienladen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Το μαγαζί του σπιτιού"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38097,6 +40359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Artikel-Barcode"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Γραμμωτός κώδικας προϊόντος"
           }
         },
         "en" : {
@@ -38200,6 +40468,12 @@
             "value" : "👨‍👩‍👧‍👦 Familienmitglieder"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Μέλη της οικογένειας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38299,6 +40573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Einladung"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Πρόσκληση"
           }
         },
         "en" : {
@@ -38402,6 +40682,12 @@
             "value" : "💡 Geld, das nur herumliegt, verliert an Kraft. Schütze es durch Sparen (Zinsen) oder Geldanlage!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Τα χρήματα που μένουν ακίνητα χάνουν δύναμη. Προστάτεψέ τα με αποταμίευση (τόκους) ή επένδυση!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38501,6 +40787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 Du kannst die Einladung per Nachricht oder Chat-App senden.\nAuf Geräten mit derselben iCloud-Anmeldung erscheinen die Daten automatisch."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Μπορείς να στείλεις την πρόσκληση με μήνυμα ή με εφαρμογή συνομιλίας.\nΣτις συσκευές με τον ίδιο λογαριασμό iCloud, τα δεδομένα εμφανίζονται αυτόματα."
           }
         },
         "en" : {
@@ -38604,6 +40896,12 @@
             "value" : "💡 Die Kurse ändern sich einmal am Tag. Günstig kaufen und teuer verkaufen bringt Gewinn, umgekehrt Verlust!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Οι τιμές αλλάζουν μία φορά την ημέρα. Αγορά φθηνά και πώληση ακριβά φέρνει κέρδος, το αντίθετο ζημιά!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38703,6 +41001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Bezahlen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Πληρωμή"
           }
         },
         "en" : {
@@ -38806,6 +41110,12 @@
             "value" : "💵 Geldbörse"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Πορτοφόλι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38905,6 +41215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Geld verwalten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Διαχείριση χρημάτων"
           }
         },
         "en" : {
@@ -39008,6 +41324,12 @@
             "value" : "💸 Taschengeld"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Χαρτζιλίκι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39107,6 +41429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Anlegen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Επένδυση"
           }
         },
         "en" : {
@@ -39210,6 +41538,12 @@
             "value" : "📈 Geldanlagen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Επενδυτικά προϊόντα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39309,6 +41643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Kinderhandy-Modus"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Λειτουργία κινητού παιδιού"
           }
         },
         "en" : {
@@ -39412,6 +41752,12 @@
             "value" : "📷 Scannen & Bezahlen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Σάρωση και πληρωμή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39513,6 +41859,12 @@
             "value" : "🔐 Zurück zum Elternmodus"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Επιστροφή στη λειτουργία γονέα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39612,6 +41964,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 Buchungen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Ιστορικό συναλλαγών"
           }
         },
         "en" : {

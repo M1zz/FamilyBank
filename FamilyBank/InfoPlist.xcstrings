@@ -21,6 +21,12 @@
             "value" : "SukSuk Taschengeld"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Χαρτζιλίκι"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -121,6 +127,12 @@
             "value" : "Die Kamera wird benötigt, damit dein Kind den Barcode eines Artikels scannen und bezahlen kann."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η κάμερα χρειάζεται για να σκανάρει το παιδί τον γραμμωτό κώδικα ενός προϊόντος και να πληρώσει."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -219,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID wird verwendet, um ein Elternteil zu bestätigen und die Aktionen zu entsperren."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το Face ID χρησιμοποιείται για την επιβεβαίωση γονέα κατά το ξεκλείδωμα των ενεργειών."
           }
         },
         "en" : {

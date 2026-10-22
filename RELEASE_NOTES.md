@@ -116,3 +116,10 @@ Send feedback fra forældretilstand.
 Læs svar på din feedback i appen.
 Åbn privatliv og support i appen.
 Appen kører nu mere stabilt.
+
+### 앱스토어 (ελληνικά)
+
+Στείλε σχόλια από τη λειτουργία γονέα.
+Διάβασε τις απαντήσεις στην εφαρμογή.
+Άνοιξε απόρρητο και υποστήριξη.
+Η εφαρμογή λειτουργεί πιο σταθερά.
