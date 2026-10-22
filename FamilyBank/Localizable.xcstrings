@@ -16,6 +16,12 @@
             "value" : "%@ %@ — pay %@ %@?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — %@ %@で買いますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +43,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pay %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@を支払う"
           }
         },
         "ko" : {
@@ -62,6 +74,12 @@
             "value" : "Give %@ %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@を渡す"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83,6 +101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deduct %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@を引く"
           }
         },
         "ko" : {
@@ -108,6 +132,12 @@
             "value" : "Buy %@ %@ for %@ %@?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@を%3$@ %4$@で買いますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You saved %@ %@! Interest is added every week. 💰"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@を貯金しました！毎週利子がつきます。💰"
           }
         },
         "ko" : {
@@ -154,6 +190,12 @@
             "value" : "Moved %@ %@ to your wallet."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@をおさいふに移しました。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -175,6 +217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@’s holdings"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@の保有状況"
           }
         },
         "ko" : {
@@ -200,6 +248,12 @@
             "value" : "%@ %@’s Bank"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@の銀行"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -221,6 +275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Make it %@ %@’s phone"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@のスマホにする"
           }
         },
         "ko" : {
@@ -246,6 +306,12 @@
             "value" : "You bought %2$lld shares of %1$@! 📈"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@を%2$lld株買いました！📈"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -267,6 +333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You sold %2$lld shares of %1$@! %3$@ %4$@ went into your wallet."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@を%2$lld株売りました！%3$@ %4$@がおさいふに入りました。"
           }
         },
         "ko" : {
@@ -292,6 +364,12 @@
             "value" : "%@%% (compounded)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%（複利）"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -313,6 +391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inviting %@\nto SukSuk Pocket Money!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@さんを\nスクスクお小遣いに招待します！"
           }
         },
         "ko" : {
@@ -338,6 +422,12 @@
             "value" : "You paid %2$@ %3$@ to %1$@."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@に%2$@ %3$@を支払いました。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -359,6 +449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You gave %2$@ %3$@ to %1$@! 🎁"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@に%2$@ %3$@を渡しました！🎁"
           }
         },
         "ko" : {
@@ -384,6 +480,12 @@
             "value" : "₩%@ → %@ %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ウォン → %@ %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -405,6 +507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You bought %@! Wallet left: %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@を買いました！おさいふの残り: %@ %@"
           }
         },
         "ko" : {
@@ -430,6 +538,12 @@
             "value" : "You bought %@! 🎉 Wallet left: %@ %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@を買いました！🎉 おさいふの残り: %@ %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -451,6 +565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@’s wallet doesn’t have enough."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@のおさいふの残高が足りません。"
           }
         },
         "ko" : {
@@ -476,6 +596,12 @@
             "value" : "Deducted %2$@ %3$@ from %1$@’s wallet."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@のおさいふから%2$@ %3$@を引きました。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -497,6 +623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Step %lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ステップ%lld"
           }
         },
         "ko" : {
@@ -522,6 +654,12 @@
             "value" : "Step %lld · %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ステップ%lld · %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -543,6 +681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld shares · avg %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld株 · 平均 %@"
           }
         },
         "ko" : {
@@ -568,6 +712,12 @@
             "value" : "What you can buy after %lld weeks"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld週後に買えるものの価値"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -589,6 +739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "After %lld weeks: %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld週後: %@ %@"
           }
         },
         "ko" : {
@@ -614,6 +770,12 @@
             "value" : "A “need” is something you’d be in trouble without – like food, clothes, and school supplies. A “want” is something that’s exciting to have but you can live without – like toys and game items.\n\nBoth matter! But the order matters too. Take care of needs first, then plan how to enjoy your wants with the money that’s left."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「必要」は、なくて困るもの。ごはん、服、文房具のようなものだよ。「ほしい」は、あるとうれしいけど、なくても暮らせるもの。おもちゃやゲームのアイテムのようなものだね。\n\nどっちも大切！ でも順番が大事。必要なものを先に用意して、のこったお金で計画を立てて、ほしいものを手に入れるんだ。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -635,6 +797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = ₩%@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ウォン"
           }
         },
         "ko" : {
@@ -660,6 +828,12 @@
             "value" : "Real value of 1 %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@の実際の価値"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -681,6 +855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = ₩%@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ウォン"
           }
         },
         "ko" : {
@@ -706,6 +886,12 @@
             "value" : "How does the “real power” of 1,000 %@ change?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,000 %@の「本当の力」はどう変わるでしょう？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -727,6 +913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If you save 1,000 coins at 5%% interest, how much will you have after a week?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,000コインを利子5%%であずけたら、1週間後にいくらになるかな？"
           }
         },
         "ko" : {
@@ -752,6 +944,12 @@
             "value" : "Say you have 1,000 coins and you want both a snack and stickers. But you only have enough for one. What now? If you pick one, you give up the other.\n\nWhat you give up is called the “opportunity cost”. It works with time too. If you play games for an hour, you’ve given up everything else you could have done in that hour."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,000コインあって、おかしもシールも買いたいとするよ。でもお金は1つ分しかない。どうしよう？ 1つ選ぶと、もう1つはあきらめることになるよね。\n\nこのあきらめたものを「機会費用」というんだ。お金だけじゃなく、時間も同じ。ゲームを1時間したら、その時間にできたほかのことをあきらめたことになるよ。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -773,6 +971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "After 12 weeks: %@ %@ (+%@)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12週後の予想: %@ %@（+%@）"
           }
         },
         "ko" : {
@@ -798,6 +1002,12 @@
             "value" : "Price per share"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1株の価格"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -819,6 +1029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open with Face ID"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face IDで開く"
           }
         },
         "ko" : {
@@ -844,6 +1060,12 @@
             "value" : "Change PIN"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PINを変更"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -865,6 +1087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enter PIN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PINを入力"
           }
         },
         "ko" : {
@@ -890,6 +1118,12 @@
             "value" : "The PIN must be 4 digits."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PINは数字4けたにしてください。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -911,6 +1145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ask Siri for your child’s balance."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siriにたずねて、お子さまの残高をすぐ確認できます。"
           }
         },
         "ko" : {
@@ -936,6 +1176,12 @@
             "value" : "Siri and Shortcuts"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siriとショートカット"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -957,6 +1203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open with Touch ID"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch IDで開く"
           }
         },
         "ko" : {
@@ -982,6 +1234,12 @@
             "value" : "VoiceOver reads every balance and button, in the right order."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOverが残高やボタンを漏れなく、正しい順序で読み上げます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1003,6 +1261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Better VoiceOver support"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOverをもっと使いやすく"
           }
         },
         "ko" : {
@@ -1028,6 +1292,12 @@
             "value" : "≈ ₩%@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ウォン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1049,6 +1319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ Bank Settings"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ 銀行の設定"
           }
         },
         "ko" : {
@@ -1074,6 +1350,12 @@
             "value" : "⚡️ Actions"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ アクション"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1095,6 +1377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Shop"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おみせ"
           }
         },
         "ko" : {
@@ -1120,6 +1408,12 @@
             "value" : "List in the shop"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おみせに登録"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1141,6 +1435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Price"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "価格"
           }
         },
         "ko" : {
@@ -1166,6 +1466,12 @@
             "value" : "Prices are set where buyers’ wishes meet sellers’ supply."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "値段は、買いたい気持ちと売りたい量が出会って決まります。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1187,6 +1493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Understand how prices are set"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "値段がどう決まるかを知る"
           }
         },
         "ko" : {
@@ -1212,6 +1524,12 @@
             "value" : "Price tags 🏷️"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "値札 🏷️"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1233,6 +1551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add your family members"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家族のメンバーを登録してください"
           }
         },
         "ko" : {
@@ -1258,6 +1582,12 @@
             "value" : "Register family"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家族を登録"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1279,6 +1609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No transactions"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取引の記録がありません"
           }
         },
         "ko" : {
@@ -1304,6 +1640,12 @@
             "value" : "Transaction type"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取引の種類"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1325,6 +1667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Which is riskier, the Turtle Fund or the Rocket Fund? Why?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメさんファンドとロケットファンド、どちらがより危ないかな？ どうして？"
           }
         },
         "ko" : {
@@ -1350,6 +1698,12 @@
             "value" : "What is the opportunity cost of one hour of gaming?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゲーム1時間の機会費用は何かな？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1371,6 +1725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Payment"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支払い"
           }
         },
         "ko" : {
@@ -1396,6 +1756,12 @@
             "value" : "Payment failed"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支払いできませんでした"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1417,6 +1783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Payment complete! 🎉"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支払い完了！🎉"
           }
         },
         "ko" : {
@@ -1442,6 +1814,12 @@
             "value" : "Pay"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支払う"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1463,6 +1841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Money with a plan lasts longer."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計画のあるお金は長持ちします。"
           }
         },
         "ko" : {
@@ -1488,6 +1872,12 @@
             "value" : "Understand that bigger rewards come with bigger risks"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大きくもうかるものは大きく損するおそれもあることを知る"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1509,6 +1899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Type"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "区分"
           }
         },
         "ko" : {
@@ -1534,6 +1930,12 @@
             "value" : "Member"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メンバー"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1555,6 +1957,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add Member"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メンバーを追加"
           }
         },
         "ko" : {
@@ -1580,6 +1988,12 @@
             "value" : "Screens rearrange neatly instead of getting cut off when you enlarge text."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字サイズを大きくしても、切れずに見やすくレイアウトされます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1601,6 +2015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Amount"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "金額"
           }
         },
         "ko" : {
@@ -1626,6 +2046,12 @@
             "value" : "Period: %lld weeks"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "期間: %lld週"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1647,6 +2073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "History"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "きろく"
           }
         },
         "ko" : {
@@ -1672,6 +2104,12 @@
             "value" : "Opportunity cost"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "機会費用"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1693,6 +2131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tell what you must have apart from what you’d like to have"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "どうしても必要なものと、ほしいものを分けられるようになる"
           }
         },
         "ko" : {
@@ -1718,6 +2162,12 @@
             "value" : "My History"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わたしの記録"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1739,6 +2189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "My savings account"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わたしの貯金口座"
           }
         },
         "ko" : {
@@ -1764,6 +2220,12 @@
             "value" : "My Wallet"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わたしのおさいふ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1785,6 +2247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "My wallet: %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わたしのおさいふ: %@ %@"
           }
         },
         "ko" : {
@@ -1810,6 +2278,12 @@
             "value" : "Imagine you have a fish and you need shoes. But what if the shoe seller doesn’t like fish? You can’t trade! People long ago found that really annoying. So they invented something everybody likes: money.\n\nMoney does three jobs. First, you can trade it for almost anything (exchange). Second, it tells you how much each thing is worth (measuring value). Third, you can save it and use it later (storing)."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "魚を持っている君が、靴がほしくなったとしよう。靴屋さんが魚ぎらいだったら、取りかえられないよね？ 昔の人もこれにとても困っていたんだ。そこで、だれもが好きな「お金」をつくったんだよ。\n\nお金には3つの働きがあるよ。1つめ、なんとでも交換できる（交換）。2つめ、ものの値打ちをはかれる（価値をはかる）。3つめ、ためておいて後で使える（ためる）。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1831,6 +2305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Who do you want to invite?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "だれを招待しますか？"
           }
         },
         "ko" : {
@@ -1856,6 +2336,12 @@
             "value" : "Pay whom?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "だれに払いますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1877,6 +2363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To whom?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "だれに？"
           }
         },
         "ko" : {
@@ -1902,6 +2394,12 @@
             "value" : "What happens when you roll a snowball? The more it rolls, the faster it grows! Compound interest is exactly that.\n\nIf 1,000 coins earn 50 in interest, you have 1,050. Next week, interest is added to all 1,050. The money your interest earned earns interest too! It’s hard to notice at first, but over time it swells like a snowball."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雪だるまを転がすとどうなる？ 転がすほど、どんどん大きくなるよね。複利はまさにそれなんだ。\n\n1,000コインに利子50がつくと1,050になる。次の週は1,050ぜんぶに利子がつくんだ。利子がかせいだお金にも、また利子がつくんだよ！ はじめは目立たないけれど、時間がたつほど雪だるまのようにふくらんでいくよ。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1923,6 +2421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Next"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "次へ"
           }
         },
         "ko" : {
@@ -1948,6 +2452,12 @@
             "value" : "Close"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "閉じる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1969,6 +2479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Money you won’t spend now goes in savings!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今使わないお金は貯金口座へ！"
           }
         },
         "ko" : {
@@ -1994,6 +2510,12 @@
             "value" : "Read balances and history easily, even with Increase Contrast on or if colors are hard to tell apart."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コントラストを上げたり色の区別がつきにくくても、残高や記録を見分けられます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2015,6 +2537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dashboard"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダッシュボード"
           }
         },
         "ko" : {
@@ -2040,6 +2568,12 @@
             "value" : "Use the app in more languages."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もっと多くの国の言葉でアプリを使えるようにします。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2061,6 +2595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "More languages"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もっと多くの言語"
           }
         },
         "ko" : {
@@ -2086,6 +2626,12 @@
             "value" : "Money is a tool for trading, measuring, and saving."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お金は、交換して、はかって、ためておく道具です。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2107,6 +2653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Why do we need money?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お金はなぜ必要なの？"
           }
         },
         "ko" : {
@@ -2132,6 +2684,12 @@
             "value" : "Build the habit of planning how you spend money"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お金を計画して使い分ける習慣をつくる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2153,6 +2711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Understand why money was invented and what it does"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お金がなぜ生まれ、どんな働きをするかを知る"
           }
         },
         "ko" : {
@@ -2178,6 +2742,12 @@
             "value" : "The two PINs don’t match."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2回入力したPINが一致しません。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2199,6 +2769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No items yet. Add some to the shop first with “Add Item”."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登録された商品がありません。先に「商品を追加」でおみせに商品を登録してください。"
           }
         },
         "ko" : {
@@ -2224,6 +2800,12 @@
             "value" : "No children yet"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登録された子どもがいません"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2245,6 +2827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Could a LEGO brick be money? Would it pass the five tests?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レゴのブロックはお金になれるかな？ 5つのテストに合格するかな？"
           }
         },
         "ko" : {
@@ -2270,6 +2858,12 @@
             "value" : "What would happen if there were no money in the world?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もし世の中にお金がなかったら、どうなるかな？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2291,6 +2885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sell"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "売る"
           }
         },
         "ko" : {
@@ -2316,6 +2916,12 @@
             "value" : "Buy"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "買う"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2337,6 +2943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prices rise %@%% every week. That means the same money buys a little less each time."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎週、物価が%@%%ずつ上がります。同じお金で買えるものが少しずつ減るという意味です。"
           }
         },
         "ko" : {
@@ -2362,6 +2974,12 @@
             "value" : "Prices rise every week"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎週、物価が上がります"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2383,6 +3001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prices in our home rise this much each week (current index %lld). Set it to 0%% for no inflation. If you raise real snack and toy prices a little with it, your child learns how the value of money changes."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎週、わが家の物価指数がこれだけ上がります（現在の指数 %lld）。0%%にするとインフレはありません。物価に合わせて実際のおかしやおもちゃの値段も少しずつ上げると、お金の価値が変わることを体で学べます。"
           }
         },
         "ko" : {
@@ -2408,6 +3032,12 @@
             "value" : "Note (e.g. buy a snack)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メモ（例: おやつを買う）"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2429,6 +3059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Note (e.g. weekly pocket money)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メモ（例: 週のおこづかい）"
           }
         },
         "ko" : {
@@ -2454,6 +3090,12 @@
             "value" : "What happens to the price of something everybody wants to sell?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "みんなが売りたがっているものの値段は、どうなるかな？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2475,6 +3117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "All members, transactions and investment products will be deleted and you’ll return to the setup screen."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてのメンバー、取引の記録、投資商品が削除され、最初の設定画面にもどります。"
           }
         },
         "ko" : {
@@ -2500,6 +3148,12 @@
             "value" : "Reset all data"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてのデータを初期化"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2521,6 +3175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Behind every choice is something you gave up."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "どんな選択にも、あきらめたものがかくれています。"
           }
         },
         "ko" : {
@@ -2546,6 +3206,12 @@
             "value" : "What is it for?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "何に使いますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2567,6 +3233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inflation rate"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物価上昇率"
           }
         },
         "ko" : {
@@ -2592,6 +3264,12 @@
             "value" : "Price trend 📊"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物価の推移 📊"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2613,6 +3291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "When prices rise, the same money buys less"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物価が上がると、同じお金で買えるものが減ります"
           }
         },
         "ko" : {
@@ -2638,6 +3322,12 @@
             "value" : "When prices rise, money loses power. That’s why saving and investing matter."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物価が上がるとお金の力は弱まります。だから貯金と投資が大切です。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2659,6 +3349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Understand that when prices rise, money loses power"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物の値段が上がるとお金の力が弱まることを知る"
           }
         },
         "ko" : {
@@ -2684,6 +3380,12 @@
             "value" : "When prices rise, is it a good idea to just leave money in your wallet?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物の値段が上がるとき、お金をおさいふにそのまま置いておくのはいいことかな？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2705,6 +3407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Price index"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物価指数"
           }
         },
         "ko" : {
@@ -2730,6 +3438,12 @@
             "value" : "%lld items for sale · rate applied automatically"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品%lld個を販売中 · 為替レートを自動反映"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2751,6 +3465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Item Barcode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品バーコード"
           }
         },
         "ko" : {
@@ -2776,6 +3496,12 @@
             "value" : "Line the item’s barcode up inside the box"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品のバーコードを枠の中に合わせてください"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2797,6 +3523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Item name (e.g. Fizzy drink, 30 min gaming)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品名（例: ジュース、ゲーム30分）"
           }
         },
         "ko" : {
@@ -2822,6 +3554,12 @@
             "value" : "Item details"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品の情報"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2843,6 +3581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add Item"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品を追加"
           }
         },
         "ko" : {
@@ -2868,6 +3612,12 @@
             "value" : "Barcode"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バーコード"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2889,6 +3639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recipient"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "受け取る人"
           }
         },
         "ko" : {
@@ -2914,6 +3670,12 @@
             "value" : "Received"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "受け取り"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2935,6 +3697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "There is nobody to receive it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "受け取る人がいません"
           }
         },
         "ko" : {
@@ -2960,6 +3728,12 @@
             "value" : "Learn"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まなぶ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2981,6 +3755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Backup and export"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バックアップと書き出し"
           }
         },
         "ko" : {
@@ -3006,6 +3786,12 @@
             "value" : "Easier colors and contrast"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見やすい色とコントラスト"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3027,6 +3813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You don’t own enough shares."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "持っている株数が足りません。"
           }
         },
         "ko" : {
@@ -3052,6 +3844,12 @@
             "value" : "Investments held"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "持っている投資商品"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3073,6 +3871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Balanced 🐰"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ふつう型 🐰"
           }
         },
         "ko" : {
@@ -3098,6 +3902,12 @@
             "value" : "The magic of compound interest"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複利のまほう"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3119,6 +3929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parent"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者"
           }
         },
         "ko" : {
@@ -3144,6 +3960,12 @@
             "value" : "Parent Guide 📖"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者ガイド 📖"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3165,6 +3987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parent Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者モード"
           }
         },
         "ko" : {
@@ -3190,6 +4018,12 @@
             "value" : "Set a Parent Mode PIN"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者モードの暗証番号（PIN）を決めてください"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3211,6 +4045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You can add products in Parent Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者モードで商品を追加できます"
           }
         },
         "ko" : {
@@ -3236,6 +4076,12 @@
             "value" : "Used to confirm you’re a parent"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者の確認に使います"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3257,6 +4103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A parent needs to confirm"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者の確認が必要です"
           }
         },
         "ko" : {
@@ -3282,6 +4134,12 @@
             "value" : "Parents 🏦"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者 🏦"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3303,6 +4161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parents act as the bank (central bank); kids are the customers."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者は銀行（中央銀行）の役、子どもはお客さまです。"
           }
         },
         "ko" : {
@@ -3328,6 +4192,12 @@
             "value" : "A parent needs to confirm"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者の確認が必要です"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3349,6 +4219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add at least one parent."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者を1人以上登録してください。"
           }
         },
         "ko" : {
@@ -3374,6 +4250,12 @@
             "value" : "Think of an umbrella seller on a rainy day. Lots of people want umbrellas but there are only a few? Even at a higher price, they sell. And swimming costumes when summer is over? Nobody wants them, so they have to be cheap.\n\nPrices are set by a tug of war between “how much people want to buy” (demand) and “how much is for sale” (supply). Investment prices rise and fall by the same rule."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雨の日の傘屋さんを考えてみて。傘を買いたい人はたくさんいるのに、傘が少ししかなかったら？ 値段を上げても売れるよね。反対に、夏が終わった水着は？ 買いたい人がいないから、安くしないと売れない。\n\nこのように値段は、「買いたい気持ち（需要）」と「売りたい量（供給）」の引っぱり合いで決まるんだ。投資商品の値段が上がったり下がったりするのも、同じしくみだよ。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3395,6 +4277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buy"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "買う"
           }
         },
         "ko" : {
@@ -3420,6 +4308,12 @@
             "value" : "Product"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3441,6 +4335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Product name (e.g. Starlight Fund)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品名（例: ほしあかりファンド）"
           }
         },
         "ko" : {
@@ -3466,6 +4366,12 @@
             "value" : "Product details"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品の情報"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3487,6 +4393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add product"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品を追加"
           }
         },
         "ko" : {
@@ -3512,6 +4424,12 @@
             "value" : "New 4-digit PIN"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しいPIN 4けた"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3533,6 +4451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Understand that every choice means giving something up"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選ぶと、あきらめるものができることを知る"
           }
         },
         "ko" : {
@@ -3558,6 +4482,12 @@
             "value" : "Description (optional)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "説明（任意）"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3579,6 +4509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Haptic feedback"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指先で感じる反応"
           }
         },
         "ko" : {
@@ -3604,6 +4540,12 @@
             "value" : "Quantity: %lld"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数量: %lld株"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3625,6 +4567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supply and demand"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要と供給"
           }
         },
         "ko" : {
@@ -3650,6 +4598,12 @@
             "value" : "Bigger rewards mean bigger risks. Spread it out, and only risk what you can lose!"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もうけが大きいとリスクも大きい。わけて入れて、なくなってもよい分だけ！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3671,6 +4625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "4 digits"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数字4けた"
           }
         },
         "ko" : {
@@ -3696,6 +4656,12 @@
             "value" : "Starts at 100"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "はじめを100とする"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3717,6 +4683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Starting price"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開始価格"
           }
         },
         "ko" : {
@@ -3742,6 +4714,12 @@
             "value" : "+%@%% since the start"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "はじめより +%@%%"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3763,6 +4741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Get started 🎉"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "はじめる 🎉"
           }
         },
         "ko" : {
@@ -3788,6 +4772,12 @@
             "value" : "Market"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マーケット"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3809,6 +4799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open the Market tab and look at the shop price tags together. Talk about why different things cost different amounts."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「マーケット」タブでおみせの値札をいっしょに見ながら、ものによって値段がちがう理由を話してみましょう。"
           }
         },
         "ko" : {
@@ -3834,6 +4830,12 @@
             "value" : "Look at the price index and price trend graph in the Market tab together, then experiment with the “Inflation Experiment” below."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「マーケット」タブで物価指数と物価のグラフをいっしょに見て、下の「インフレ体験」で試してみましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3855,6 +4857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Watch the investment prices change every day in the Market tab and talk about “when lots of people want to buy, the price goes up”."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「マーケット」タブで投資商品の値段が毎日変わるのを見ながら、「買いたい人が多いと上がる」という話をしてみましょう。"
           }
         },
         "ko" : {
@@ -3880,6 +4888,12 @@
             "value" : "Real price: ₩%@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実際の価格 %@ウォン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3901,6 +4915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Real price (₩)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実際の価格（ウォン）"
           }
         },
         "ko" : {
@@ -3926,6 +4946,12 @@
             "value" : "Real-world price"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実際の世の中の値段"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3947,6 +4973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Real value"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実質の価値"
           }
         },
         "ko" : {
@@ -3972,6 +5004,12 @@
             "value" : "Get started with SukSuk Pocket Money"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクスクお小遣いをはじめる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3993,6 +5031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Welcome to SukSuk Pocket Money!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクスクお小遣いへようこそ！"
           }
         },
         "ko" : {
@@ -4018,6 +5062,12 @@
             "value" : "Handy tips"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使い方のヒント"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4039,6 +5089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pick up where you left off"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入力途中の内容を続けて書く"
           }
         },
         "ko" : {
@@ -4064,6 +5120,12 @@
             "value" : "In the “Compound Calculator” below, stretch the period from 4 to 52 weeks. Watch the graph get steeper together!"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下の「複利計算機」で、期間を4週から52週にのばしてみましょう。グラフがだんだん急になるのをいっしょに観察！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4085,6 +5147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Understand why just anything can’t be money (the traits of currency)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なんでもお金になれるわけではない理由（お金の性質）を知る"
           }
         },
         "ko" : {
@@ -4110,6 +5178,12 @@
             "value" : "Put half of your child’s wallet into savings. A week later, check the interest together – it works wonders!"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お子さまのおさいふの半分を貯金口座に入れてみましょう。1週間後に利子がついたのをいっしょに確かめると効果ばつぐん！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4131,6 +5205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Before your child pays at the shop, have them say “one other thing I could buy with this money”."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お子さまがおみせで支払う前に、「このお金で買える、ほかのもの」をひとつ必ず言ってもらいましょう。"
           }
         },
         "ko" : {
@@ -4156,6 +5236,12 @@
             "value" : "Try saying this to your child"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お子さまにこう話してみましょう"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4177,6 +5263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Go step by step from Step 1 with your child. Each step takes about 10 minutes: explain, ask, then try it together."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お子さまといっしょに、ステップ1から順番に。各ステップは「説明する → たずねる → いっしょにやってみる」の順で、10分あれば十分です。"
           }
         },
         "ko" : {
@@ -4202,6 +5294,12 @@
             "value" : "Together with your child, split a small amount between 2 products. Check the prices every day so they get used to the ups and downs."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お子さまといっしょに、少ないお金を2つの商品に分けて投資してみましょう。毎日いっしょに値段を確かめて、上がり下がりに慣れさせてあげてください。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4223,6 +5321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Not enough price history yet. Check again tomorrow!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "価格の記録がまだ足りません。明日もう一度見てみましょう！"
           }
         },
         "ko" : {
@@ -4248,6 +5352,12 @@
             "value" : "No transactions yet"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ取引がありません"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4269,6 +5379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No items yet.\nAdd your family’s items in Parent Mode!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ商品が登録されていません。\n保護者モードでわが家の商品を登録してみましょう！"
           }
         },
         "ko" : {
@@ -4294,6 +5410,12 @@
             "value" : "No items yet · add some in the Actions tab"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ商品がありません · アクションタブで追加"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4315,6 +5437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No holdings yet"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ持っていません"
           }
         },
         "ko" : {
@@ -4340,6 +5468,12 @@
             "value" : "Steady 🐢"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安定型 🐢"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4361,6 +5495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notice"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お知らせ"
           }
         },
         "ko" : {
@@ -4386,6 +5526,12 @@
             "value" : "Gentle hints about useful features, right when you need them."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "知っておくと便利な機能を、ちょうどよいタイミングでそっとお知らせします。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4407,6 +5553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Actions"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクション"
           }
         },
         "ko" : {
@@ -4432,6 +5584,12 @@
             "value" : "Try it together in the app"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリでいっしょにやってみよう"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4453,6 +5611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Check your child’s balance right on the Home Screen, without opening the app."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを開かずに、ホーム画面でお子さまの残高をすぐ確認できます。"
           }
         },
         "ko" : {
@@ -4478,6 +5642,12 @@
             "value" : "Use the whole app in English."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを英語でも使えます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4499,6 +5669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "How much?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いくら？"
           }
         },
         "ko" : {
@@ -4524,6 +5700,12 @@
             "value" : "How much will you pay?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いくら払いますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4545,6 +5727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The first time you open the app after an update, see what’s new."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデート後に初めて開いたとき、何が新しくなったかをお知らせします。"
           }
         },
         "ko" : {
@@ -4570,6 +5758,12 @@
             "value" : "What’s new"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデートのお知らせ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4591,6 +5785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Role"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "役割"
           }
         },
         "ko" : {
@@ -4616,6 +5816,12 @@
             "value" : "Full English support"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "英語に対応"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4637,6 +5843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Example: an item that really costs ₩1,000 = %@ %@. Shop prices in %@ are calculated automatically at this rate."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例: 実際に1,000ウォンのもの = %@ %@。おみせの商品の%@での値段は、このレートで自動計算されます。"
           }
         },
         "ko" : {
@@ -4662,6 +5874,12 @@
             "value" : "e.g. Bean, Star, Coin"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例: まめ、ほし、コイン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4683,6 +5901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Making a budget"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "予算を立てる"
           }
         },
         "ko" : {
@@ -4708,6 +5932,12 @@
             "value" : "What we’ll learn today"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日まなぶこと"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4729,6 +5959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Done"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完了"
           }
         },
         "ko" : {
@@ -4754,6 +5990,12 @@
             "value" : "Why can’t sand from the road be money? Because there’s tons of it everywhere! To be good money, something has to pass five tests.\n\n① It has to last (no rotting!) ② It has to be easy to carry (a cow is too heavy – out!) ③ It has to split into small pieces ④ It can’t be too common ⑤ Everybody has to believe, “Yes, this is real money.”\n\nOur family coins are worth something because Mum and Dad don’t print them whenever they feel like it – they keep their promise."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "道ばたの砂はどうしてお金になれないのかな？ どこにでもたくさんあるからだよ！ よいお金になるには、5つのテストに合格しなきゃいけないんだ。\n\n① 長持ちする（くさったらダメ） ② 持ち運びやすい（牛は重すぎて不合格！） ③ 細かく分けられる ④ ありふれていない ⑤ みんなが「これは本物のお金だ」と信じている。\n\nわが家のコインも、パパとママがいつでも好きなだけ作ったりせず、約束を守るから価値があるんだよ。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4775,6 +6017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Of the things you want to buy lately, which are needs and which are wants?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近買いたいものの中で、「必要」はどれで、「ほしい」はどれかな？"
           }
         },
         "ko" : {
@@ -4800,6 +6048,12 @@
             "value" : "Pocket money"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかい"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4821,6 +6075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pocket money reminders"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいの通知"
           }
         },
         "ko" : {
@@ -4846,6 +6106,12 @@
             "value" : "Give Pocket Money"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいを渡す"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4867,6 +6133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Give / Deduct pocket money"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいを渡す / 引く"
           }
         },
         "ko" : {
@@ -4892,6 +6164,12 @@
             "value" : "On pocket money day, let your child decide their own saving, investing, and spending split and follow it. A week later, review the History tab together."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいの日に、お子さま自身に貯金・投資・消費の割合を決めて実行してもらいましょう。1週間後に「きろく」タブをいっしょに見て振り返ります。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4913,6 +6191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Get a notification on pocket money day or when interest is paid."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいの日や利子がついたときに、通知でお知らせします。"
           }
         },
         "ko" : {
@@ -4938,6 +6222,12 @@
             "value" : "Only people who know this PIN can\ngive pocket money or set interest rates."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいを渡したり利率を決めたりするのは、\nこのPINを知っている人だけができます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4959,6 +6249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A gentle tap when pocket money comes in or something is bought."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいを受け取ったり買い物をしたりしたとき、軽い振動でお知らせします。"
           }
         },
         "ko" : {
@@ -4984,6 +6280,12 @@
             "value" : "If you spend your pocket money the moment you get it, it’s gone in no time. So you make a plan first. That’s called a “budget”.\n\nFor example, split it like this: saving 30, needs 40, wants 20, investing 10. It doesn’t have to be exactly this. What matters is that you decide it yourself!"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいをもらってすぐ、計画なしに使うと、あっという間になくなっちゃう。だから先に計画を立てるんだ。これを「予算」というよ。\n\nたとえばこんなふうに分けてみて。貯金30、必要なもの40、ほしいもの20、投資にチャレンジ10。ぴったりこの通りでなくていいよ。自分で決めることが大事！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5005,6 +6307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giving pocket money or paying will show up here"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいを渡したり支払いをしたりすると、ここに記録されます"
           }
         },
         "ko" : {
@@ -5030,6 +6338,12 @@
             "value" : "Give pocket money, pay, earn savings interest,\nand even invest – your family’s very own economy."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おこづかいを渡して、支払って、貯金の利子をもらって、\n投資にもチャレンジする、わが家だけの経済のしくみです。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5051,6 +6365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Family Shop"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家のおみせ"
           }
         },
         "ko" : {
@@ -5076,6 +6396,12 @@
             "value" : "Go through the shop items together and sort them one by one into “needs” and “wants”."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家のおみせの商品をいっしょに見ながら、ひとつずつ「必要」と「ほしい」に分けてみましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5097,6 +6423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Family price"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家の値段"
           }
         },
         "ko" : {
@@ -5122,6 +6454,12 @@
             "value" : "Our home prices"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家の物価"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5143,6 +6481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What is our family price index right now?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家の物価指数は、今いくつかな？"
           }
         },
         "ko" : {
@@ -5168,6 +6512,12 @@
             "value" : "Save your family bank’s records to a file and bring them back later."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家の銀行の記録をファイルに保存して、あとで読み込めます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5189,6 +6539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What can we swap for our family coins?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家のコインで、何と交換できるかな？"
           }
         },
         "ko" : {
@@ -5214,6 +6570,12 @@
             "value" : "Why are our family coins worth something?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家のコインには、どうして価値があるのかな？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5235,6 +6597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Money supply 💰"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家のお金の量 💰"
           }
         },
         "ko" : {
@@ -5260,6 +6628,12 @@
             "value" : "Our family’s investment product."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家の投資商品です。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5281,6 +6655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Name your family currency"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家のお金の名前を決めましょう"
           }
         },
         "ko" : {
@@ -5306,6 +6686,12 @@
             "value" : "Money in our home"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わが家にあるお金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5327,6 +6713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reduce Motion"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "視差効果を減らす"
           }
         },
         "ko" : {
@@ -5352,6 +6744,12 @@
             "value" : "With Reduce Motion on, screen effects calm down."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「視差効果を減らす」をオンにすると、画面の動きが落ち着きます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5373,6 +6771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "KRW"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウォン"
           }
         },
         "ko" : {
@@ -5398,6 +6802,12 @@
             "value" : "Risk level"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リスクの大きさ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5419,6 +6829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Risky 🚀"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハイリスク型 🚀"
           }
         },
         "ko" : {
@@ -5444,6 +6860,12 @@
             "value" : "Bank Settings"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "銀行の設定"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5465,6 +6887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "When you leave money at a bank, the bank says “Thanks for trusting us!” and gives you a little extra. That extra is called “interest”.\n\nMoney in your wallet never grows, no matter how long you wait. But put it in a savings account and interest is added every week, so it grows. Where should you keep money you won’t spend right now?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "銀行にお金をあずけると、銀行が「あずけてくれてありがとう！」とおまけをくれるよ。そのおまけが「利子」なんだ。\n\nおさいふに入れたお金は、いくら待ってもふえない。でも貯金口座に入れると、毎週利子がついてお金が育つよ。今すぐ使わないお金は、どこに置くといいかな？"
           }
         },
         "ko" : {
@@ -5490,6 +6918,12 @@
             "value" : "Hand over this device"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この端末を渡す"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5511,6 +6945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "This device switches to the selected child’s own screen. They can only see their wallet, shop, investing, history, and lessons. Handy when you hand your phone to a child without one. To come back, tap the lock button and enter the parent PIN."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この端末が、選んだ子ども専用の画面に切りかわります。子どもは自分のおさいふ・おみせ・投資・きろく・まなぶだけを見られます。スマホを持っていない子どもに保護者のスマホを渡すときに便利です。もどるには、かぎのボタンを押して保護者のPINを入力します。"
           }
         },
         "ko" : {
@@ -5536,6 +6976,12 @@
             "value" : "Make this device %@ %@’s phone? A parent PIN is needed to switch back."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この端末を%@ %@のスマホにしますか？もとにもどすには保護者のPINが必要です。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5557,6 +7003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Whose phone should this device become? A parent PIN is needed to switch back."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この端末をだれのスマホにしますか？もとにもどすには保護者のPINが必要です。"
           }
         },
         "ko" : {
@@ -5582,6 +7034,12 @@
             "value" : "How much by leaving it? (12-week compound estimate)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このままだといくらになる？（12週の複利予想）"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5603,6 +7061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Try asking these"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "こうたずねてみましょう"
           }
         },
         "ko" : {
@@ -5628,6 +7092,12 @@
             "value" : "Name"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5649,6 +7119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "絵文字"
           }
         },
         "ko" : {
@@ -5674,6 +7150,12 @@
             "value" : "How would you like to split this week’s pocket money?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今週のおこづかいを、どうやって分けたい？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5695,6 +7177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reason"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "理由"
           }
         },
         "ko" : {
@@ -5720,6 +7208,12 @@
             "value" : "Interest"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利子"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5741,6 +7235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interest · Rate · Prices"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利子 · 為替 · 物価"
           }
         },
         "ko" : {
@@ -5766,6 +7266,12 @@
             "value" : "When interest earns interest, it’s called compound interest. The longer you save, the more your money snowballs! ⛄️"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利子が利子を生むことを「複利」といいます。長く貯金するほど、お金は雪だるまのようにふえます！⛄️"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5787,6 +7293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You earned %@ %@ from interest alone!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利子だけで%@ %@をかせぎました！"
           }
         },
         "ko" : {
@@ -5812,6 +7324,12 @@
             "value" : "Understand that interest on interest grows like a snowball"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利子に利子がつくと雪だるまのように大きくなることを知る"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5833,6 +7351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If the interest rate is lower than inflation, saving still loses buying power. Try raising the interest rate!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利率が物価上昇率より低いと、貯金してもお金の力は弱まります。利率を上げてみましょう！"
           }
         },
         "ko" : {
@@ -5858,6 +7382,12 @@
             "value" : "Back"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もどる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5879,6 +7409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inflation"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インフレーション"
           }
         },
         "ko" : {
@@ -5904,6 +7440,12 @@
             "value" : "No inflation"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インフレなし"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5925,6 +7467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Day"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日"
           }
         },
         "ko" : {
@@ -5950,6 +7498,12 @@
             "value" : "Start early, keep going – that’s the secret of compound interest."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早く、こつこつ — これが複利のひみつです。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5971,6 +7525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "How much money is okay to lose?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なくなってもだいじょうぶなお金は、いくらくらいかな？"
           }
         },
         "ko" : {
@@ -5996,6 +7556,12 @@
             "value" : "Deposit"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6017,6 +7583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deposit / Withdraw"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入金 / 出金"
           }
         },
         "ko" : {
@@ -6042,6 +7614,12 @@
             "value" : "Child"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子ども"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6063,6 +7641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scan with your child’s device camera to see the invitation"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お子さまの端末のカメラで読み取ると、招待状が表示されます"
           }
         },
         "ko" : {
@@ -6088,6 +7672,12 @@
             "value" : "Invite Child"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子どもを招待"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6109,6 +7699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Child Phone Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子どものスマホモード"
           }
         },
         "ko" : {
@@ -6134,6 +7730,12 @@
             "value" : "Switch to child phone"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子どものスマホに切りかえ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6155,6 +7757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kids 👧"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子ども 👧"
           }
         },
         "ko" : {
@@ -6180,6 +7788,12 @@
             "value" : "When your child scans this barcode with “Scan to Pay”,\n%@ comes out of their wallet."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お子さまが「撮って支払い」でこのバーコードを読み取ると\nおさいふから%@が減ります"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6201,6 +7815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add at least one child."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子どもを1人以上登録してください。"
           }
         },
         "ko" : {
@@ -6226,6 +7846,12 @@
             "value" : "Last year a snack cost 1,000. This year it costs 1,100. The snack didn’t get bigger! When prices go up like this, it’s called “inflation”.\n\nThe number on your money stays the same, but you can buy less with it. Like air leaking out of a balloon, your money gets weaker. So just leaving money in your wallet slowly loses value. To protect its power, you need to grow it faster than prices rise – with interest or investing."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "去年1,000円だったおかしが、今年は1,100円になったよ。おかしが大きくなったわけでもないのに！ このように物の値段が上がることを「インフレーション」というんだ。\n\nお金の数字は同じなのに、買えるものは減ってしまう。風船から空気がぬけるように、お金の力が弱くなるんだ。だからお金をおさいふにそのまま置いておくと、少しずつ損をするよ。利子をもらったり投資したりして、物価より早くふやせば、お金の力を守れるんだ。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6247,6 +7873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Balance"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "残高"
           }
         },
         "ko" : {
@@ -6272,6 +7904,12 @@
             "value" : "Lock"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ロック"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6293,6 +7931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Save"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
           }
         },
         "ko" : {
@@ -6318,6 +7962,12 @@
             "value" : "Savings"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6339,6 +7989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Savings interest rate"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金の利率"
           }
         },
         "ko" : {
@@ -6364,6 +8020,12 @@
             "value" : "Savings deposit"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金に入金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6385,6 +8047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Savings balance"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金の残高"
           }
         },
         "ko" : {
@@ -6410,6 +8078,12 @@
             "value" : "Savings withdrawal"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金から出金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6431,6 +8105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Savings: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金: %@"
           }
         },
         "ko" : {
@@ -6456,6 +8136,12 @@
             "value" : "Saving and interest"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金と利子"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6477,6 +8163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If one person starts saving early and another starts late, who ends up richer?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早く貯金を始めた人と遅く始めた人、あとでどちらがお金持ちになるかな？"
           }
         },
         "ko" : {
@@ -6502,6 +8194,12 @@
             "value" : "Move to savings"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金口座に入れる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6523,6 +8221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Not enough in your savings."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金口座のお金が足りません。"
           }
         },
         "ko" : {
@@ -6548,6 +8252,12 @@
             "value" : "Compounded weekly in savings"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金口座に毎週複利"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6569,6 +8279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Understand how saving makes money grow"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金するとお金がふえるしくみを知る"
           }
         },
         "ko" : {
@@ -6594,6 +8310,12 @@
             "value" : "Money saved"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貯金したお金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6615,6 +8337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What you were typing stays put, even if the app closes mid-way."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入力中にアプリが閉じても、書いていた内容が残っています。"
           }
         },
         "ko" : {
@@ -6640,6 +8368,12 @@
             "value" : "Delete everything"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべて削除"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6661,6 +8395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "All"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべて"
           }
         },
         "ko" : {
@@ -6686,6 +8426,12 @@
             "value" : "Really delete all data?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本当にすべてのデータを削除しますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6707,6 +8453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Type"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "種類"
           }
         },
         "ko" : {
@@ -6732,6 +8484,12 @@
             "value" : "What makes good money"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "よいお金の条件"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6753,6 +8511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "wk"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "週"
           }
         },
         "ko" : {
@@ -6778,6 +8542,12 @@
             "value" : "%@%% per week"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "週 %@%%"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6799,6 +8569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weekly inflation rate: %@%%"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "週の物価上昇率: %@%%"
           }
         },
         "ko" : {
@@ -6824,6 +8600,12 @@
             "value" : "Weekly interest rate"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "週の利率"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6845,6 +8627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weekly interest rate: %@%%"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "週の利率: %@%%"
           }
         },
         "ko" : {
@@ -6870,6 +8658,12 @@
             "value" : "Weekly savings interest %@%% · Weekly inflation %@%%"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "週の貯金利率 %@%% · 週の物価上昇率 %@%%"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6891,6 +8685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weekly savings interest rate: %@%%"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "週の貯金利率: %@%%"
           }
         },
         "ko" : {
@@ -6916,6 +8716,12 @@
             "value" : "Wallet"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6937,6 +8743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wallet balance"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふの残高"
           }
         },
         "ko" : {
@@ -6962,6 +8774,12 @@
             "value" : "Wallet: %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふ: %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6983,6 +8801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wallet: %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふ: %@ %@"
           }
         },
         "ko" : {
@@ -7008,6 +8832,12 @@
             "value" : "Money left in the wallet lost power, but the money you saved held its value! 💪"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふにそのまま置いたお金は力が弱まりましたが、貯金したお金は守れました！💪"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7029,6 +8859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Not enough in your wallet! Balance: %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふのお金が足りません！残高: %@ %@"
           }
         },
         "ko" : {
@@ -7054,6 +8890,12 @@
             "value" : "Not enough in your wallet."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふのお金が足りません。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7075,6 +8917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Not enough in your wallet. Needed: %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふのお金が足りません。必要な金額: %@ %@"
           }
         },
         "ko" : {
@@ -7100,6 +8948,12 @@
             "value" : "Money in wallet"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふのお金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7121,6 +8975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What’s the difference between money in your wallet and money you’ve saved?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふに置いたお金と貯金したお金は、何がちがうかな？"
           }
         },
         "ko" : {
@@ -7146,6 +9006,12 @@
             "value" : "Move to wallet"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おさいふに出す"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7167,6 +9033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Give · Deduct"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "渡す · 引く"
           }
         },
         "ko" : {
@@ -7192,6 +9064,12 @@
             "value" : "What did you give up the last time you bought something?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前に何かを買ったとき、何をあきらめたかな？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7213,6 +9091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Where did you spend the most money last week?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先週は、どこにいちばんお金を使ったかな？"
           }
         },
         "ko" : {
@@ -7238,6 +9122,12 @@
             "value" : "Index %lld"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指数 %lld"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7259,6 +9149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポート"
           }
         },
         "ko" : {
@@ -7284,6 +9180,12 @@
             "value" : "Pick 3 things around the house and play “Could it be money?” Mark each of the five tests with a tick or a cross."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家にあるものを3つ選んで「お金になれるかな？」ゲームをしてみましょう。5つの条件に○×をつけます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7305,6 +9207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scan to Pay"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撮って支払い"
           }
         },
         "ko" : {
@@ -7330,6 +9238,12 @@
             "value" : "Scan to pay instantly"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み取ってすぐ支払い"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7351,6 +9265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deduction"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "差し引き"
           }
         },
         "ko" : {
@@ -7376,6 +9296,12 @@
             "value" : "Deduct"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "引く"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7397,6 +9323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Starting amount: %@ %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最初の金額: %@ %@"
           }
         },
         "ko" : {
@@ -7422,6 +9354,12 @@
             "value" : "Prices are up %@%% since the start. 1,000 %@ in your wallet now has the power of %@ %@."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "はじめより物価が%@%%上がりました。おさいふの1,000 %@の力は、今は%@ %@ぶんです。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7443,6 +9381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Invitation · QR"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "招待状 · QR"
           }
         },
         "ko" : {
@@ -7468,6 +9412,12 @@
             "value" : "Send invitation"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "招待状を送る"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7489,6 +9439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "合計金額"
           }
         },
         "ko" : {
@@ -7514,6 +9470,12 @@
             "value" : "Total assets"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "総資産"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7535,6 +9497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total assets · about ₩%@ in real money"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "総資産 · 実際のお金で約%@ウォン"
           }
         },
         "ko" : {
@@ -7560,6 +9528,12 @@
             "value" : "Recent transactions"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近の取引"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7581,6 +9555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加"
           }
         },
         "ko" : {
@@ -7606,6 +9586,12 @@
             "value" : "Withdraw"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7627,6 +9613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "ko" : {
@@ -7652,6 +9644,12 @@
             "value" : "Why do popular toys get expensive at Christmas?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クリスマスに人気のおもちゃが高くなるのはどうしてかな？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7673,6 +9671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Layouts for larger text"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大きな文字に合わせた画面"
           }
         },
         "ko" : {
@@ -7698,6 +9702,12 @@
             "value" : "Invested"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7719,6 +9729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sell"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資の売却"
           }
         },
         "ko" : {
@@ -7744,6 +9760,12 @@
             "value" : "Buy"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資の購入"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7765,6 +9787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investment Products"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資商品"
           }
         },
         "ko" : {
@@ -7790,6 +9818,12 @@
             "value" : "Add Investment Product"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資商品を追加"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7811,6 +9845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investment market 📈"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資マーケット 📈"
           }
         },
         "ko" : {
@@ -7836,6 +9876,12 @@
             "value" : "Investment value: %@ %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資の評価額: %@ %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7857,6 +9903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investing is like planting money. If the seed grows well, it becomes a big tree – but it can wither too. Unlike saving, investing can make your money grow or shrink.\n\nRemember this rule: the more you could win, the more you could lose. And if you put all your eggs in one basket, they all break when you drop it. Spread them out (diversify). Only plant what you can afford to lose."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資は、お金を植えるようなものだよ。種がうまく育てば大きな木になるけれど、かれてしまうこともある。貯金とちがって、投資はお金がふえることも、へることもあるんだ。\n\nぜったいに覚えておきたいルール。大きくもうかるものほど、大きく損するかもしれない。そして、たまごを1つのかごに全部入れると、落としたときにぜんぶ割れてしまう。わけて入れよう（分散投資）。なくなってもだいじょうぶな分だけ植えるんだよ。"
           }
         },
         "ko" : {
@@ -7882,6 +9934,12 @@
             "value" : "Investing and risk"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資とリスク"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7903,6 +9961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Investor"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資する人"
           }
         },
         "ko" : {
@@ -7928,6 +9992,12 @@
             "value" : "Choose an investor"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資する人を選ぶ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7949,6 +10019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To invest, first add a child on the Home tab."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投資するには、先にホームで子どもを登録してください。"
           }
         },
         "ko" : {
@@ -7974,6 +10050,12 @@
             "value" : "No investment products for sale"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "販売中の投資商品がありません"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7995,6 +10077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Foldable iPhone layout"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "折りたたみiPhoneの画面"
           }
         },
         "ko" : {
@@ -8020,6 +10108,12 @@
             "value" : "Use the wide screen of a foldable iPhone as two side-by-side panes."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "折りたたみiPhoneの広い画面を、2つに分けて使えます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8041,6 +10135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Needs first, wants next!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まず必要、ほしいはそのあと！"
           }
         },
         "ko" : {
@@ -8066,6 +10166,12 @@
             "value" : "Needs and wants"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "必要とほしい"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8087,6 +10193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What happens if you buy wants first and skip the needs?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "必要なものを買わずに、ほしいものから買ったらどうなるかな？"
           }
         },
         "ko" : {
@@ -8112,6 +10224,12 @@
             "value" : "Filter"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "絞り込み"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8133,6 +10251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clear filters"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "絞り込みをリセット"
           }
         },
         "ko" : {
@@ -8158,6 +10282,12 @@
             "value" : "Moves up to ±15%% a day! You could win big or lose big."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1日に最大±15%%と大きく動きます！大きくもうかることも、損することもあります。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8179,6 +10309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moves about ±2%% a day. Little risk of losing."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1日に±2%%くらいで少しずつ動きます。損する心配が少なめです。"
           }
         },
         "ko" : {
@@ -8204,6 +10340,12 @@
             "value" : "Moves up and down about ±6%% a day. A fair challenge."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1日に±6%%くらい上がり下がりします。ほどよいチャレンジです。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8225,6 +10367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enter it again"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もう一度入力"
           }
         },
         "ko" : {
@@ -8250,6 +10398,12 @@
             "value" : "Try it together · Compound Calculator 🧮"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いっしょに実験 · 複利計算機 🧮"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8271,6 +10425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Try it together · Inflation Experiment 🎈"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いっしょに実験 · インフレ体験 🎈"
           }
         },
         "ko" : {
@@ -8296,6 +10456,12 @@
             "value" : "Current price"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在の価格"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8317,6 +10483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Current wallet"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今のおさいふ"
           }
         },
         "ko" : {
@@ -8342,6 +10514,12 @@
             "value" : "Home Screen widgets"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホーム画面ウィジェット"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8363,6 +10541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Currency “%@” · Weekly interest %@%%"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通貨「%@」 · 週の利子 %@%%"
           }
         },
         "ko" : {
@@ -8388,6 +10572,12 @@
             "value" : "Currency name"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お金の名前"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8406,6 +10596,12 @@
           }
         },
         "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -8434,6 +10630,12 @@
             "value" : "Exchange rate"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "為替レート"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8455,6 +10657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Calculated automatically at 1 %@ = ₩%@."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "為替レート 1 %@ = %@ウォンで自動計算されます。"
           }
         },
         "ko" : {
@@ -8480,6 +10688,12 @@
             "value" : "Exchange rate: 1 %@ ="
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "為替レート: 1 %@ ="
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8501,6 +10715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Money has to be scarce, and everyone has to trust it."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数が限られていて、みんなが信じるからお金になります。"
           }
         },
         "ko" : {
@@ -8526,6 +10746,12 @@
             "value" : "🌱 %@, you’re invited to SukSuk Pocket Money!\n\nLet’s use our family currency “%@” together:\n• Save up and pay with pocket money 💸\n• Earn %@%% interest every week on savings 🏦\n• Learn about money by investing 📈\n\nJust open the SukSuk Pocket Money app on a device signed in to the same iCloud account as your parent’s device to join in!"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@さん、スクスクお小遣いに招待します！\n\nわが家のお金「%@」でいっしょにやってみよう：\n• おこづかいをためて、支払いに使おう 💸\n• 貯金すると毎週%@%%の利子がもらえるよ 🏦\n• 投資商品で経済を学ぼう 📈\n\n保護者の端末と同じiCloudアカウントでログインした端末でスクスクお小遣いを開けば、すぐにいっしょに使えます！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8547,6 +10773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Learn"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 まなぶ"
           }
         },
         "ko" : {
@@ -8572,6 +10804,12 @@
             "value" : "🏛️ Market"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ マーケット"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8593,6 +10831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Parent Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 保護者モード"
           }
         },
         "ko" : {
@@ -8618,6 +10862,12 @@
             "value" : "🏦 Savings"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 貯金"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8639,6 +10889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Savings"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 貯金口座"
           }
         },
         "ko" : {
@@ -8664,6 +10920,12 @@
             "value" : "🏪 Family Shop"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 わが家のおみせ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8685,6 +10947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Item Barcode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ 商品バーコード"
           }
         },
         "ko" : {
@@ -8710,6 +10978,12 @@
             "value" : "👨‍👩‍👧‍👦 Family members"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 家族のメンバー"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8731,6 +11005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Invitation"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 招待状"
           }
         },
         "ko" : {
@@ -8756,6 +11036,12 @@
             "value" : "💡 Money left alone loses power. Protect it with savings (interest) or investing!"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 お金をそのままにしておくと力が弱まります。貯金（利子）や投資で守りましょう！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8777,6 +11063,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 You can send the invitation by message or any chat app.\nOn devices signed in to the same iCloud account, the data shows up automatically."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 メッセージなどで招待状を送れます。\n同じiCloudアカウントでログインした端末なら、データは自動で共有されます。"
           }
         },
         "ko" : {
@@ -8802,6 +11094,12 @@
             "value" : "💡 Prices change once a day. Buy low and sell high to make a profit – the other way round is a loss!"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 値段は1日1回変わります。安いときに買って高いときに売ると得、反対だと損です！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8823,6 +11121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Pay"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 支払う"
           }
         },
         "ko" : {
@@ -8848,6 +11152,12 @@
             "value" : "💵 Wallet"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 おさいふ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8869,6 +11179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Manage money"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 お金の管理"
           }
         },
         "ko" : {
@@ -8894,6 +11210,12 @@
             "value" : "💸 Pocket money"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 おこづかい"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8915,6 +11237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Invest"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 投資"
           }
         },
         "ko" : {
@@ -8940,6 +11268,12 @@
             "value" : "📈 Investment products"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 投資商品"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8961,6 +11295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Child Phone Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 子どものスマホモード"
           }
         },
         "ko" : {
@@ -8986,6 +11326,12 @@
             "value" : "📷 Scan to Pay"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 撮って支払い"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9009,6 +11355,12 @@
             "value" : "🔐 Back to Parent Mode"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 保護者モードにもどる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9030,6 +11382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 History"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 取引の記録"
           }
         },
         "ko" : {

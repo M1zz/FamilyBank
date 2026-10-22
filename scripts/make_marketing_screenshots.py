@@ -18,7 +18,7 @@ W, H = 1242, 2688   # 이 계정의 iPhone 제출 규격
 
 # ── 앱마다 고치는 곳 ──────────────────────────────────────────────
 # 앱 언어 → App Store 로케일 (스토어 폴더 이름)
-STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB"}
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja"}
 # 바탕 · 포인트 색 (헤더·검색 결과 그림과 맞춘다)
 BG, ACCENT, INK, SUB = "#EEF5EC", "#2F9E4F", "#12281C", "#5E6B62"
 # 언어 → [(원본 파일, 레이아웃, 헤드라인, 서브카피)]
@@ -30,6 +30,14 @@ SHOTS = {
         ("04-market.png",    "flat-rotate", "물가와 환율까지<br>진짜 경제처럼", "돈의 가치가 변하는 걸 직접 봐요"),
         ("05-actions.png",   "hero-bleed",  "용돈 주기도<br>결제도 간단하게", "부모 PIN으로 잠그고, 바코드로 결제"),
         ("06-learn.png",     "dark",        "10단계로 배우는<br>돈 이야기", "아이와 함께 읽는 부모 가이드"),
+    ],
+    "ja": [
+        ("01-dashboard.png", "hero-bleed"  , "わが家が<br>小さな銀行に", "親は中央銀行、子どもはお客さま"),
+        ("02-child.png", "left-text"   , "おさいふ、貯金、投資が<br>ひと目で", "子どもの名前の口座ができます"),
+        ("03-savings.png", "text-bottom" , "ためると利子が<br>ついてふえる", "毎週の複利をグラフで確認"),
+        ("04-market.png", "flat-rotate" , "物価や為替まで<br>本物の経済みたいに", "お金の価値の変化を体験"),
+        ("05-actions.png", "hero-bleed"  , "お小遣いも支払いも<br>かんたん", "保護者PINでロック、バーコードで支払い"),
+        ("06-learn.png", "dark"        , "10ステップで学ぶ<br>お金のお話", "お子さまと読む保護者ガイド"),
     ],
     "en": [
         ("01-dashboard.png", "hero-bleed",  "Your home becomes<br>a little bank", "Parents are the bank, kids are customers"),

@@ -15,6 +15,12 @@
             "value" : "SukSuk Pocket Money"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクスクお小遣い"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +43,12 @@
             "value" : "The camera is needed so your child can scan an item’s barcode to pay."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お子さまが商品のバーコードを読み取って支払うために、カメラが必要です。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -57,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID is used to confirm a parent when unlocking Actions."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者の確認（アクションのロック解除）のためにFace IDを使います。"
           }
         },
         "ko" : {

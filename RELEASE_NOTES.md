@@ -25,3 +25,10 @@ Send feedback to us from Parent Mode.
 Read replies to your feedback in-app.
 Open privacy and support in the app.
 Smoother and more stable performance.
+
+### 앱스토어 (日本語)
+
+保護者モードから開発者へ意見を送れます。
+送った意見への返事をアプリで読めます。
+プライバシーポリシーとサポートを開けます。
+アプリがより安定して動くよう整えました。
