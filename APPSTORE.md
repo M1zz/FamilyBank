@@ -805,3 +805,65 @@ https://m1zz.github.io/FamilyBank/
 
 ซิงก์ iCloud
 เครื่องที่ล็อกอิน iCloud บัญชีเดียวกันจะมีสมุดบัญชีครอบครัวตรงกัน
+
+## vi
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Tiền Tiêu Vặt: Cho bé
+
+### 부제
+
+Học tiết kiệm và đầu tư
+
+### 키워드
+
+giáo dục tài chính,heo đất,ngân hàng,lãi suất,lãi kép,ngân sách,gia đình,kinh tế,xu,trẻ em,cổ phiếu
+
+### 프로모션 텍스트
+
+Bố mẹ là ngân hàng trung ương, con là khách hàng. Phát tiền tiêu vặt bằng đồng tiền của nhà, để con tự trải nghiệm lãi tiết kiệm và tập đầu tư.
+
+### 설명
+
+Hãy dạy con nguyên lý của đồng tiền bằng chính đồng tiền riêng của nhà mình. Bố mẹ làm ngân hàng trung ương, phát tiền tiêu vặt; con thanh toán, tiết kiệm, đầu tư và học kinh tế bằng trải nghiệm thật.
+Điều tự mình làm và trải nghiệm sẽ nhớ lâu hơn nhiều so với chỉ nghe giải thích.
+
+Đồng tiền của nhà
+Tự đặt tên đồng tiền, như Đậu, Sao hay Xu. Việc phát hoặc trừ tiền tiêu vặt chỉ làm được trong chế độ bố mẹ, được khóa bằng PIN.
+
+Thanh toán và cửa hàng của nhà
+Bố mẹ đặt sẵn các món dùng trong nhà như đồ ăn vặt, giờ chơi game, giờ xem TV, kèm bảng giá.
+Con chọn ở cửa hàng rồi thanh toán ngay, hoặc dùng camera quét mã vạch do bố mẹ hiển thị để thanh toán.
+
+Tiết kiệm và lãi suất
+Tiền trong tài khoản tiết kiệm được cộng lãi kép mỗi tuần. Bố mẹ đặt lãi suất, và có thể xem trước tiền sẽ lớn lên bao nhiêu.
+
+Tập đầu tư
+Mua bán ba quỹ luyện tập có giá thay đổi mỗi ngày một lần và xem biểu đồ lợi suất. So sánh quỹ an toàn, trung bình và rủi ro cao để hiểu mối quan hệ giữa rủi ro và lợi nhuận.
+
+Thị trường và lịch sử
+Thẻ Thị trường cho thấy trong một cái nhìn giá cả trong nhà, tỷ giá, lãi suất, lượng tiền và giá đầu tư. Cũng cho thấy khi giá tăng thì cùng số tiền mua được ít hơn.
+Mọi dòng tiền đều được ghi vào sổ cái, có thể xem lại theo ngày, thành viên và loại giao dịch.
+
+Học
+Hướng dẫn cho cha mẹ gồm 10 bước, từ “Tại sao cần có tiền?” qua cần và muốn, chi phí cơ hội, tiết kiệm và lãi suất, lãi kép, lạm phát, đầu tư và rủi ro, đến lập ngân sách, giúp bạn trò chuyện cùng con.
+Với máy tính lãi kép và thí nghiệm lạm phát, bạn có thể tự đổi số để thử nghiệm.
+
+Chế độ điện thoại của con
+Biến điện thoại của con thành màn hình riêng của con. Con chỉ thấy ví, đầu tư, lịch sử và bài học của mình, muốn thoát phải có mã PIN của bố mẹ. Có thể mời con bằng lời mời mã QR.
+
+Đồng bộ iCloud
+Các thiết bị đăng nhập cùng tài khoản iCloud sẽ giữ sổ cái gia đình luôn khớp nhau.

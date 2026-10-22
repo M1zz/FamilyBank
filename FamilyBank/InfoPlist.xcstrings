@@ -69,6 +69,12 @@
             "value" : "ซุกซุก ค่าขนม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Tiền Tiêu Vặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +157,12 @@
             "value" : "ต้องใช้กล้องเพื่อให้ลูกสแกนบาร์โค้ดสินค้าแล้วจ่ายเงิน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần camera để con quét mã vạch món hàng và thanh toán."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -231,6 +243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใช้ Face ID เพื่อยืนยันว่าเป็นพ่อแม่ตอนปลดล็อกการดำเนินการ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dùng Face ID để xác nhận bố mẹ khi mở khóa Thao tác."
           }
         },
         "zh-Hans" : {

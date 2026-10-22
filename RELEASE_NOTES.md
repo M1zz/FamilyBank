@@ -95,3 +95,10 @@ O app funciona de forma mais estável.
 อ่านคำตอบของความเห็นที่ส่งได้ในแอป
 เปิดความเป็นส่วนตัวและช่วยเหลือในแอป
 ปรับให้แอปทำงานเสถียรขึ้น
+
+### 앱스토어 (Tiếng Việt)
+
+Gửi góp ý từ chế độ bố mẹ.
+Đọc phản hồi cho góp ý ngay trong app.
+Mở chính sách và hỗ trợ ngay trong app.
+App chạy ổn định hơn.

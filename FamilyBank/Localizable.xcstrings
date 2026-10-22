@@ -70,6 +70,12 @@
             "value" : "%@ %@ — จ่าย %@ %@ ไหม?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — thanh toán %@ %@ nhé?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จ่าย %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanh toán %@ %@"
           }
         },
         "zh-Hans" : {
@@ -236,6 +248,12 @@
             "value" : "ให้ %@ %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phát %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -317,6 +335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หัก %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trừ %@ %@"
           }
         },
         "zh-Hans" : {
@@ -402,6 +426,12 @@
             "value" : "ซื้อ %1$@ %2$@ ในราคา %3$@ %4$@ ไหม?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mua %1$@ %2$@ với giá %3$@ %4$@ nhé?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -483,6 +513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ออม %@ %@ แล้ว! ดอกเบี้ยจะเพิ่มทุกสัปดาห์ 💰"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã tiết kiệm %@ %@! Mỗi tuần sẽ được cộng lãi. 💰"
           }
         },
         "zh-Hans" : {
@@ -568,6 +604,12 @@
             "value" : "ย้าย %@ %@ เข้ากระเป๋าเงินแล้ว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã chuyển %@ %@ về ví."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -649,6 +691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่ถืออยู่ของ %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Danh mục của %@ %@"
           }
         },
         "zh-Hans" : {
@@ -734,6 +782,12 @@
             "value" : "ธนาคารของ %@ %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngân hàng của %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -815,6 +869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้เป็นโทรศัพท์ของ %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biến thành điện thoại của %@ %@"
           }
         },
         "zh-Hans" : {
@@ -900,6 +960,12 @@
             "value" : "ซื้อ %1$@ จำนวน %2$lld หน่วยแล้ว! 📈"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con đã mua %2$lld đơn vị %1$@! 📈"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -981,6 +1047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขาย %1$@ จำนวน %2$lld หน่วยแล้ว! %3$@ %4$@ เข้ากระเป๋าเงินแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con đã bán %2$lld đơn vị %1$@! %3$@ %4$@ đã vào ví."
           }
         },
         "zh-Hans" : {
@@ -1066,6 +1138,12 @@
             "value" : "%@%% (ทบต้น)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (lãi kép)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1147,6 +1225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชวน %@\nมาใช้ซุกซุก ค่าขนม!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mời %@\ntham gia SukSuk Tiền Tiêu Vặt!"
           }
         },
         "zh-Hans" : {
@@ -1232,6 +1316,12 @@
             "value" : "จ่าย %2$@ %3$@ ให้ %1$@ แล้ว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã thanh toán %2$@ %3$@ cho %1$@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1313,6 +1403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ %1$@ ไป %2$@ %3$@ แล้ว! 🎁"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã phát %2$@ %3$@ cho %1$@! 🎁"
           }
         },
         "zh-Hans" : {
@@ -1398,6 +1494,12 @@
             "value" : "%@ วอน → %@ %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ won → %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1479,6 +1581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ซื้อ %@ แล้ว! เหลือในกระเป๋าเงิน: %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con đã mua %@! Trong ví còn: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -1564,6 +1672,12 @@
             "value" : "ซื้อ %@ แล้ว! 🎉 เหลือในกระเป๋าเงิน: %@ %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã mua %@! 🎉 Trong ví còn: %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1645,6 +1759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในกระเป๋าของ %@ ไม่พอ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví của %@ không đủ số dư."
           }
         },
         "zh-Hans" : {
@@ -1730,6 +1850,12 @@
             "value" : "หัก %2$@ %3$@ จากกระเป๋าเงินของ %1$@ แล้ว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã trừ %2$@ %3$@ từ ví của %1$@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1811,6 +1937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขั้นที่ %lld"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bước %lld"
           }
         },
         "zh-Hans" : {
@@ -1896,6 +2028,12 @@
             "value" : "ขั้นที่ %lld · %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bước %lld · %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1977,6 +2115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld หน่วย · เฉลี่ย %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld đơn vị · trung bình %@"
           }
         },
         "zh-Hans" : {
@@ -2062,6 +2206,12 @@
             "value" : "มูลค่าของสิ่งที่ซื้อได้หลัง %lld สัปดาห์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá trị của thứ mua được sau %lld tuần"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2143,6 +2293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หลัง %lld สัปดาห์: %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sau %lld tuần: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -2228,6 +2384,12 @@
             "value" : "“ความจำเป็น” คือสิ่งที่ถ้าไม่มีจะลำบาก เช่น อาหาร เสื้อผ้า อุปกรณ์การเรียน ส่วน “ความอยาก” คือสิ่งที่มีแล้วสนุก แต่ไม่มีก็อยู่ได้ เช่น ของเล่น ไอเทมในเกม\n\nสำคัญทั้งสองอย่าง! แต่ลำดับสำคัญ ดูแลสิ่งจำเป็นก่อน แล้วค่อยวางแผนเอาเงินที่เหลือไปทำให้ความอยากเป็นจริง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“Cần” là thứ nếu thiếu sẽ khó khăn, như cơm ăn, quần áo, đồ dùng học tập. “Muốn” là thứ có thì vui nhưng không có cũng sống được, như đồ chơi, vật phẩm trong trò chơi.\n\nCả hai đều quan trọng! Nhưng thứ tự mới quan trọng. Lo thứ cần trước, rồi dùng số tiền còn lại lên kế hoạch để thực hiện thứ muốn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2309,6 +2471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ วอน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ won"
           }
         },
         "zh-Hans" : {
@@ -2394,6 +2562,12 @@
             "value" : "มูลค่าจริงของ 1 %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá trị thật của 1 %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2475,6 +2649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ วอน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ won"
           }
         },
         "zh-Hans" : {
@@ -2560,6 +2740,12 @@
             "value" : "“พลังที่แท้จริง” ของ 1,000 %@ จะเปลี่ยนไปอย่างไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“Sức mạnh thật” của 1.000 %@ thay đổi thế nào?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2641,6 +2827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าฝากเงิน 1,000 เหรียญที่ดอกเบี้ย 5%% อีกหนึ่งสัปดาห์จะเป็นเท่าไร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu gửi 1.000 xu với lãi 5%% thì một tuần sau được bao nhiêu?"
           }
         },
         "zh-Hans" : {
@@ -2726,6 +2918,12 @@
             "value" : "หนูมี 1,000 เหรียญ อยากซื้อทั้งขนมและสติกเกอร์ แต่เงินพอซื้อได้อย่างเดียว ทำไงดี? ถ้าเลือกอย่างหนึ่ง ก็ต้องสละอีกอย่าง\n\nสิ่งที่สละไปเรียกว่า “ต้นทุนค่าเสียโอกาส” ไม่ใช่แค่เงินเท่านั้น เวลาก็เหมือนกัน ถ้าเล่นเกมหนึ่งชั่วโมง ก็เท่ากับสละทุกอย่างที่ทำได้ในชั่วโมงนั้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con có 1.000 xu, muốn mua cả kẹo lẫn hình dán. Nhưng tiền chỉ đủ mua một thứ. Làm sao đây? Chọn một thì phải bỏ thứ còn lại.\n\nThứ bị bỏ đi gọi là “chi phí cơ hội”. Không chỉ tiền mà thời gian cũng vậy. Chơi game một giờ nghĩa là con đã bỏ mọi việc khác có thể làm trong giờ đó."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2807,6 +3005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประมาณการหลัง 12 สัปดาห์: %@ %@ (+%@)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dự kiến sau 12 tuần: %@ %@ (+%@)"
           }
         },
         "zh-Hans" : {
@@ -2892,6 +3096,12 @@
             "value" : "ราคาต่อหน่วย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá mỗi đơn vị"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2973,6 +3183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เปิดด้วย Face ID"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở bằng Face ID"
           }
         },
         "zh-Hans" : {
@@ -3058,6 +3274,12 @@
             "value" : "เปลี่ยน PIN"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đổi PIN"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3139,6 +3361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ป้อน PIN"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhập mã PIN"
           }
         },
         "zh-Hans" : {
@@ -3224,6 +3452,12 @@
             "value" : "PIN ต้องเป็นตัวเลข 4 หลัก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN phải gồm 4 chữ số."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3305,6 +3539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถาม Siri เพื่อดูยอดเงินของลูกได้ทันที"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hỏi Siri để xem ngay số dư của con."
           }
         },
         "zh-Hans" : {
@@ -3390,6 +3630,12 @@
             "value" : "Siri และคำสั่งลัด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri và Phím tắt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3471,6 +3717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เปิดด้วย Touch ID"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở bằng Touch ID"
           }
         },
         "zh-Hans" : {
@@ -3556,6 +3808,12 @@
             "value" : "VoiceOver อ่านยอดเงินและปุ่มทุกอย่างครบถ้วนตามลำดับที่เหมาะสม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver đọc đầy đủ số dư và các nút theo đúng thứ tự."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3637,6 +3895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใช้ VoiceOver ได้สะดวกขึ้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dùng VoiceOver tiện hơn"
           }
         },
         "zh-Hans" : {
@@ -3722,6 +3986,12 @@
             "value" : "≈ %@ วอน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ won"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3803,6 +4073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ ตั้งค่าธนาคาร"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Cài đặt ngân hàng"
           }
         },
         "zh-Hans" : {
@@ -3888,6 +4164,12 @@
             "value" : "⚡️ การดำเนินการ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Thao tác"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3969,6 +4251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ร้านค้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cửa hàng"
           }
         },
         "zh-Hans" : {
@@ -4054,6 +4342,12 @@
             "value" : "ลงทะเบียนในร้านค้า"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đăng ký vào cửa hàng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4135,6 +4429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá"
           }
         },
         "zh-Hans" : {
@@ -4220,6 +4520,12 @@
             "value" : "ราคาถูกกำหนดตรงจุดที่ความอยากซื้อกับปริมาณที่ขายมาเจอกัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá được định ra ở chỗ nhu cầu mua và lượng bán gặp nhau."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4301,6 +4607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าราคาถูกกำหนดอย่างไร"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiểu giá cả được định ra như thế nào"
           }
         },
         "zh-Hans" : {
@@ -4386,6 +4698,12 @@
             "value" : "ป้ายราคา 🏷️"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bảng giá 🏷️"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4467,6 +4785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลงทะเบียนสมาชิกในครอบครัว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy thêm các thành viên trong gia đình"
           }
         },
         "zh-Hans" : {
@@ -4552,6 +4876,12 @@
             "value" : "ลงทะเบียนครอบครัว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đăng ký gia đình"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4633,6 +4963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่มีรายการธุรกรรม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có giao dịch"
           }
         },
         "zh-Hans" : {
@@ -4718,6 +5054,12 @@
             "value" : "ประเภทธุรกรรม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại giao dịch"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4799,6 +5141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กองทุนเต่ากับกองทุนจรวด อันไหนเสี่ยงกว่ากัน? เพราะอะไร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quỹ Rùa và Quỹ Tên lửa, quỹ nào rủi ro hơn? Vì sao?"
           }
         },
         "zh-Hans" : {
@@ -4884,6 +5232,12 @@
             "value" : "ต้นทุนค่าเสียโอกาสของการเล่นเกมหนึ่งชั่วโมงคืออะไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi phí cơ hội của một giờ chơi game là gì?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4965,6 +5319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จ่ายเงิน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanh toán"
           }
         },
         "zh-Hans" : {
@@ -5050,6 +5410,12 @@
             "value" : "จ่ายเงินไม่สำเร็จ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanh toán thất bại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5131,6 +5497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จ่ายเงินสำเร็จ! 🎉"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanh toán xong! 🎉"
           }
         },
         "zh-Hans" : {
@@ -5216,6 +5588,12 @@
             "value" : "จ่ายเงิน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanh toán"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5297,6 +5675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินที่มีแผนอยู่ได้นานกว่า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền có kế hoạch sẽ dùng được lâu hơn."
           }
         },
         "zh-Hans" : {
@@ -5382,6 +5766,12 @@
             "value" : "เข้าใจว่าผลตอบแทนสูงมาพร้อมความเสี่ยงสูง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiểu rằng lợi nhuận cao đi kèm rủi ro cao"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5463,6 +5853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประเภท"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phân loại"
           }
         },
         "zh-Hans" : {
@@ -5548,6 +5944,12 @@
             "value" : "สมาชิก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thành viên"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5629,6 +6031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มสมาชิก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm thành viên"
           }
         },
         "zh-Hans" : {
@@ -5714,6 +6122,12 @@
             "value" : "เมื่อขยายขนาดตัวอักษร หน้าจอจะจัดวางใหม่ให้อ่านง่ายโดยไม่ถูกตัด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi phóng to chữ, màn hình sắp xếp lại gọn gàng thay vì bị cắt."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5795,6 +6209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จำนวนเงิน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số tiền"
           }
         },
         "zh-Hans" : {
@@ -5880,6 +6300,12 @@
             "value" : "ระยะเวลา: %lld สัปดาห์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kỳ hạn: %lld tuần"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5961,6 +6387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประวัติ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lịch sử"
           }
         },
         "zh-Hans" : {
@@ -6046,6 +6478,12 @@
             "value" : "ต้นทุนค่าเสียโอกาส"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi phí cơ hội"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6127,6 +6565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แยกให้ออกระหว่างสิ่งที่จำเป็นจริงๆ กับสิ่งที่แค่อยากได้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phân biệt thứ thật sự cần với thứ chỉ là muốn"
           }
         },
         "zh-Hans" : {
@@ -6212,6 +6656,12 @@
             "value" : "ประวัติของฉัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lịch sử của tôi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6293,6 +6743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บัญชีออมทรัพย์ของฉัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tài khoản tiết kiệm của tôi"
           }
         },
         "zh-Hans" : {
@@ -6378,6 +6834,12 @@
             "value" : "กระเป๋าเงินของฉัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví của tôi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6459,6 +6921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กระเป๋าเงินของฉัน: %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví của tôi: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -6544,6 +7012,12 @@
             "value" : "ลองนึกว่าหนูมีปลาอยู่ แต่อยากได้รองเท้า ถ้าคนขายรองเท้าไม่ชอบปลา ก็แลกกันไม่ได้ใช่ไหม? คนสมัยก่อนก็รู้สึกว่ามันไม่สะดวกมาก เลยคิด “เงิน” ที่ทุกคนชอบขึ้นมา\n\nเงินมีหน้าที่สามอย่าง อย่างแรก แลกได้ทุกอย่าง (การแลกเปลี่ยน) อย่างที่สอง วัดได้ว่าของแต่ละอย่างมีค่าเท่าไร (การวัดมูลค่า) อย่างที่สาม เก็บไว้ใช้ทีหลังได้ (การเก็บรักษา)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giả sử con có một con cá và cần một đôi giày. Nhưng nếu chú bán giày không thích cá thì không đổi được, đúng không? Người xưa cũng thấy chuyện này rất bất tiện. Thế là họ nghĩ ra thứ ai cũng thích: “tiền”.\n\nTiền có ba việc. Thứ nhất, đổi được mọi thứ (trao đổi). Thứ hai, đo được mỗi món đáng giá bao nhiêu (thước đo giá trị). Thứ ba, cất đi để dùng sau (tích trữ)."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6625,6 +7099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จะชวนใคร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mời ai?"
           }
         },
         "zh-Hans" : {
@@ -6710,6 +7190,12 @@
             "value" : "จะจ่ายให้ใคร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trả cho ai?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6791,6 +7277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ใคร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho ai?"
           }
         },
         "zh-Hans" : {
@@ -6876,6 +7368,12 @@
             "value" : "ถ้ากลิ้งก้อนหิมะจะเกิดอะไรขึ้น? ยิ่งกลิ้งก็ยิ่งใหญ่เร็วขึ้นใช่ไหม? ดอกเบี้ยทบต้นก็เป็นแบบนั้นแหละ\n\nถ้า 1,000 เหรียญได้ดอกเบี้ย 50 ก็จะเป็น 1,050 สัปดาห์ถัดไปดอกเบี้ยจะคิดจากทั้ง 1,050 เงินที่ดอกเบี้ยหามาได้ก็ออกดอกเบี้ยอีก! ตอนแรกอาจไม่เห็นผล แต่พอเวลาผ่านไป จะโตเหมือนก้อนหิมะ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lăn quả cầu tuyết thì sao? Càng lăn càng lớn nhanh, đúng không? Lãi kép chính là như vậy.\n\n1.000 xu cộng thêm 50 tiền lãi thành 1.050. Tuần sau, lãi được tính trên cả 1.050. Tiền mà lãi kiếm được cũng sinh thêm lãi! Lúc đầu chưa thấy rõ, nhưng thời gian trôi qua sẽ lớn như quả cầu tuyết."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6957,6 +7455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถัดไป"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếp"
           }
         },
         "zh-Hans" : {
@@ -7042,6 +7546,12 @@
             "value" : "ปิด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đóng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7123,6 +7633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินที่ยังไม่ใช้ ฝากเข้าบัญชีออมทรัพย์!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền chưa dùng ngay thì gửi vào tài khoản tiết kiệm!"
           }
         },
         "zh-Hans" : {
@@ -7208,6 +7724,12 @@
             "value" : "อ่านยอดเงินและประวัติได้ง่าย แม้เปิดเพิ่มคอนทราสต์หรือแยกสีได้ยาก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vẫn đọc rõ số dư và lịch sử dù bật tăng độ tương phản hoặc khó phân biệt màu."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7289,6 +7811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ภาพรวม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng quan"
           }
         },
         "zh-Hans" : {
@@ -7374,6 +7902,12 @@
             "value" : "ทำให้ใช้แอปได้ในอีกหลายภาษา"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho phép dùng ứng dụng bằng nhiều thứ tiếng hơn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7455,6 +7989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ภาษาเพิ่มเติม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm nhiều ngôn ngữ"
           }
         },
         "zh-Hans" : {
@@ -7540,6 +8080,12 @@
             "value" : "เงินเป็นเครื่องมือสำหรับแลก วัดค่า และเก็บไว้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền là công cụ để trao đổi, đo giá trị và cất giữ."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7621,6 +8167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทำไมเราถึงต้องมีเงิน?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tại sao cần có tiền?"
           }
         },
         "zh-Hans" : {
@@ -7706,6 +8258,12 @@
             "value" : "สร้างนิสัยวางแผนและแบ่งใช้เงิน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tạo thói quen lên kế hoạch và chia tiền để dùng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7787,6 +8345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าเงินเกิดขึ้นมาทำไมและมีหน้าที่อะไร"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiểu tiền ra đời để làm gì và có tác dụng gì"
           }
         },
         "zh-Hans" : {
@@ -7872,6 +8436,12 @@
             "value" : "PIN ที่ป้อนสองครั้งไม่ตรงกัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai mã PIN đã nhập không khớp."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7953,6 +8523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีสินค้า เพิ่มสินค้าลงร้านค้าก่อนด้วย “เพิ่มสินค้า”"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có món hàng nào. Hãy thêm món hàng vào cửa hàng trước bằng “Thêm món hàng”."
           }
         },
         "zh-Hans" : {
@@ -8038,6 +8614,12 @@
             "value" : "ยังไม่มีลูกที่ลงทะเบียน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có con nào được thêm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8119,6 +8701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตัวต่อเลโก้เป็นเงินได้ไหม? จะผ่านการทดสอบห้าข้อหรือเปล่า?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một viên LEGO có làm tiền được không? Nó có vượt qua năm bài kiểm tra không?"
           }
         },
         "zh-Hans" : {
@@ -8204,6 +8792,12 @@
             "value" : "ถ้าโลกนี้ไม่มีเงิน จะเกิดอะไรขึ้นนะ?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu trên đời không có tiền thì sẽ ra sao nhỉ?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8285,6 +8879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขาย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bán"
           }
         },
         "zh-Hans" : {
@@ -8370,6 +8970,12 @@
             "value" : "ซื้อ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mua"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8451,6 +9057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกสัปดาห์ราคาสินค้าสูงขึ้น %@%% หมายความว่าเงินจำนวนเท่าเดิมซื้อของได้น้อยลงทีละนิด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi tuần giá tăng %@%%. Nghĩa là với cùng số tiền, mua được ít hơn một chút mỗi lần."
           }
         },
         "zh-Hans" : {
@@ -8536,6 +9148,12 @@
             "value" : "ราคาสินค้าสูงขึ้นทุกสัปดาห์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá tăng mỗi tuần"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8617,6 +9235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกสัปดาห์ดัชนีราคาของบ้านเราจะเพิ่มขึ้นเท่านี้ (ดัชนีปัจจุบัน %lld) ถ้าตั้งเป็น 0%% จะไม่มีเงินเฟ้อ ถ้าปรับราคาขนมและของเล่นจริงขึ้นเล็กน้อยตามไปด้วย ลูกจะได้เรียนรู้ว่ามูลค่าของเงินเปลี่ยนไปอย่างไร"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi tuần chỉ số giá nhà mình tăng chừng này (chỉ số hiện tại %lld). Đặt 0%% thì không có lạm phát. Nếu bạn tăng nhẹ cả giá bánh kẹo, đồ chơi thật theo đó, con sẽ học được giá trị đồng tiền thay đổi ra sao."
           }
         },
         "zh-Hans" : {
@@ -8702,6 +9326,12 @@
             "value" : "บันทึก (เช่น ซื้อขนม)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghi chú (ví dụ: mua đồ ăn vặt)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8783,6 +9413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บันทึก (เช่น ค่าขนมรายสัปดาห์)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghi chú (ví dụ: tiền tiêu vặt tuần)"
           }
         },
         "zh-Hans" : {
@@ -8868,6 +9504,12 @@
             "value" : "ราคาของสิ่งที่ทุกคนอยากขายจะเป็นอย่างไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá của thứ ai cũng muốn bán sẽ ra sao?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8949,6 +9591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สมาชิก ธุรกรรม และผลิตภัณฑ์ลงทุนทั้งหมดจะถูกลบ และกลับไปที่หน้าจอตั้งค่าเริ่มต้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tất cả thành viên, giao dịch và sản phẩm đầu tư sẽ bị xóa và quay về màn hình cài đặt ban đầu."
           }
         },
         "zh-Hans" : {
@@ -9034,6 +9682,12 @@
             "value" : "รีเซ็ตข้อมูลทั้งหมด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt lại toàn bộ dữ liệu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9115,6 +9769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกการเลือกมีสิ่งที่สละไปซ่อนอยู่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đằng sau mỗi lựa chọn là thứ đã bị bỏ đi."
           }
         },
         "zh-Hans" : {
@@ -9200,6 +9860,12 @@
             "value" : "ใช้ทำอะไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dùng để làm gì?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9281,6 +9947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อัตราราคาสินค้าเพิ่ม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mức tăng giá"
           }
         },
         "zh-Hans" : {
@@ -9366,6 +10038,12 @@
             "value" : "แนวโน้มราคา 📊"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diễn biến giá 📊"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9447,6 +10125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อราคาสูงขึ้น เงินเท่าเดิมซื้อของได้น้อยลง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi giá tăng, cùng số tiền mua được ít hơn"
           }
         },
         "zh-Hans" : {
@@ -9532,6 +10216,12 @@
             "value" : "เมื่อราคาสูงขึ้น เงินจะมีพลังน้อยลง จึงต้องออมและลงทุน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi giá tăng, tiền yếu đi. Vì vậy cần tiết kiệm và đầu tư."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9613,6 +10303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าเมื่อราคาสินค้าสูงขึ้น เงินจะมีพลังน้อยลง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiểu rằng khi giá tăng thì đồng tiền yếu đi"
           }
         },
         "zh-Hans" : {
@@ -9698,6 +10394,12 @@
             "value" : "เมื่อราคาสินค้าสูงขึ้น การวางเงินทิ้งไว้ในกระเป๋าเฉยๆ เป็นเรื่องดีไหม?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi giá tăng, cứ để tiền nằm yên trong ví có tốt không?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9779,6 +10481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดัชนีราคา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ số giá"
           }
         },
         "zh-Hans" : {
@@ -9864,6 +10572,12 @@
             "value" : "สินค้าขายอยู่ %lld ชิ้น · ใช้อัตราแลกเปลี่ยนอัตโนมัติ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang bán %lld món · tự động áp dụng tỷ giá"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9945,6 +10659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บาร์โค้ดสินค้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mã vạch món hàng"
           }
         },
         "zh-Hans" : {
@@ -10030,6 +10750,12 @@
             "value" : "จัดบาร์โค้ดของสินค้าให้อยู่ในกรอบ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt mã vạch của món hàng vào trong khung"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10111,6 +10837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชื่อสินค้า (เช่น น้ำอัดลม เล่นเกม 30 นาที)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên món hàng (ví dụ: nước ngọt, chơi game 30 phút)"
           }
         },
         "zh-Hans" : {
@@ -10196,6 +10928,12 @@
             "value" : "ข้อมูลสินค้า"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông tin món hàng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10277,6 +11015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มสินค้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm món hàng"
           }
         },
         "zh-Hans" : {
@@ -10362,6 +11106,12 @@
             "value" : "บาร์โค้ด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mã vạch"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10443,6 +11193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ผู้รับ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người nhận"
           }
         },
         "zh-Hans" : {
@@ -10528,6 +11284,12 @@
             "value" : "เงินที่ได้รับ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền nhận"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10609,6 +11371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่มีผู้รับเงิน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có người nhận"
           }
         },
         "zh-Hans" : {
@@ -10694,6 +11462,12 @@
             "value" : "เรียนรู้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Học"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10775,6 +11549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สำรองและส่งออกข้อมูล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sao lưu và xuất dữ liệu"
           }
         },
         "zh-Hans" : {
@@ -10860,6 +11640,12 @@
             "value" : "สีและคอนทราสต์ที่อ่านง่าย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Màu sắc và độ tương phản dễ nhìn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10941,6 +11727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มีหน่วยไม่พอ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không đủ số đơn vị đang nắm giữ."
           }
         },
         "zh-Hans" : {
@@ -11026,6 +11818,12 @@
             "value" : "ผลิตภัณฑ์ลงทุนที่ถืออยู่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sản phẩm đầu tư đang nắm giữ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11107,6 +11905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปานกลาง 🐰"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trung bình 🐰"
           }
         },
         "zh-Hans" : {
@@ -11192,6 +11996,12 @@
             "value" : "มนตร์วิเศษของดอกเบี้ยทบต้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phép màu của lãi kép"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11273,6 +12083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พ่อแม่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bố mẹ"
           }
         },
         "zh-Hans" : {
@@ -11358,6 +12174,12 @@
             "value" : "คู่มือสำหรับพ่อแม่ 📖"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hướng dẫn cho cha mẹ 📖"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11439,6 +12261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "โหมดพ่อแม่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chế độ bố mẹ"
           }
         },
         "zh-Hans" : {
@@ -11524,6 +12352,12 @@
             "value" : "ตั้งรหัส PIN ของโหมดพ่อแม่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt mã PIN cho chế độ bố mẹ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11605,6 +12439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มผลิตภัณฑ์ได้ในโหมดพ่อแม่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có thể thêm sản phẩm ở chế độ bố mẹ"
           }
         },
         "zh-Hans" : {
@@ -11690,6 +12530,12 @@
             "value" : "ใช้ยืนยันว่าเป็นพ่อแม่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dùng để xác nhận bố mẹ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11771,6 +12617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ต้องให้พ่อแม่ยืนยัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần bố mẹ xác nhận"
           }
         },
         "zh-Hans" : {
@@ -11856,6 +12708,12 @@
             "value" : "พ่อแม่ 🏦"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bố mẹ 🏦"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11937,6 +12795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พ่อแม่เป็นธนาคาร (ธนาคารกลาง) ส่วนลูกเป็นลูกค้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bố mẹ đóng vai ngân hàng (ngân hàng trung ương), con là khách hàng."
           }
         },
         "zh-Hans" : {
@@ -12022,6 +12886,12 @@
             "value" : "ต้องให้พ่อแม่ยืนยัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần bố mẹ xác nhận"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12103,6 +12973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลงทะเบียนพ่อแม่อย่างน้อยหนึ่งคน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy thêm ít nhất một người lớn."
           }
         },
         "zh-Hans" : {
@@ -12188,6 +13064,12 @@
             "value" : "ลองนึกถึงคนขายร่มในวันฝนตก คนอยากได้ร่มเยอะ แต่ร่มมีไม่กี่คัน? ต่อให้ขึ้นราคาก็ขายได้ ส่วนชุดว่ายน้ำตอนหมดหน้าร้อนล่ะ? ไม่มีใครอยากซื้อ ก็ต้องขายถูกๆ\n\nราคาจึงถูกกำหนดจากการดึงกันระหว่าง “ความอยากซื้อ” (อุปสงค์) กับ “ปริมาณที่ขาย” (อุปทาน) ราคาสินค้าลงทุนที่ขึ้นลงก็เป็นหลักการเดียวกัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy nghĩ đến người bán ô vào ngày mưa. Nhiều người muốn mua ô mà chỉ có vài cái? Tăng giá vẫn bán được. Còn đồ bơi khi hết mùa hè? Không ai muốn mua nên phải bán rẻ.\n\nGiá cả được định ra như vậy, nhờ sự giằng co giữa “nhu cầu mua” (cầu) và “lượng bán ra” (cung). Giá các sản phẩm đầu tư lên xuống cũng theo nguyên lý ấy."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12269,6 +13151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ซื้อ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mua"
           }
         },
         "zh-Hans" : {
@@ -12354,6 +13242,12 @@
             "value" : "ผลิตภัณฑ์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sản phẩm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12435,6 +13329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชื่อผลิตภัณฑ์ (เช่น กองทุนแสงดาว)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên sản phẩm (ví dụ: Quỹ Ánh Sao)"
           }
         },
         "zh-Hans" : {
@@ -12520,6 +13420,12 @@
             "value" : "ข้อมูลผลิตภัณฑ์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông tin sản phẩm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12601,6 +13507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มผลิตภัณฑ์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm sản phẩm"
           }
         },
         "zh-Hans" : {
@@ -12686,6 +13598,12 @@
             "value" : "PIN ใหม่ 4 หลัก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN mới gồm 4 chữ số"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12767,6 +13685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าเมื่อเลือกอย่างหนึ่ง ก็ต้องสละอีกอย่างหนึ่ง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiểu rằng chọn một thứ nghĩa là phải bỏ một thứ khác"
           }
         },
         "zh-Hans" : {
@@ -12852,6 +13776,12 @@
             "value" : "คำอธิบาย (ไม่บังคับ)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mô tả (không bắt buộc)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12933,6 +13863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การตอบสนองที่รู้สึกได้ด้วยปลายนิ้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phản hồi xúc giác"
           }
         },
         "zh-Hans" : {
@@ -13018,6 +13954,12 @@
             "value" : "จำนวน: %lld หน่วย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số lượng: %lld đơn vị"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13099,6 +14041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อุปสงค์และอุปทาน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cung và cầu"
           }
         },
         "zh-Hans" : {
@@ -13184,6 +14132,12 @@
             "value" : "ผลตอบแทนมากก็เสี่ยงมาก กระจายออกไป และเสี่ยงเท่าที่เสียได้เท่านั้น!"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lời nhiều thì rủi ro nhiều. Hãy chia ra và chỉ đầu tư số tiền có thể mất!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13265,6 +14219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตัวเลข 4 หลัก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 chữ số"
           }
         },
         "zh-Hans" : {
@@ -13350,6 +14310,12 @@
             "value" : "ตอนเริ่ม = 100"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lúc đầu = 100"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13431,6 +14397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคาเริ่มต้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá khởi điểm"
           }
         },
         "zh-Hans" : {
@@ -13516,6 +14488,12 @@
             "value" : "+%@%% จากตอนเริ่ม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% so với lúc đầu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13597,6 +14575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เริ่มเลย 🎉"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bắt đầu 🎉"
           }
         },
         "zh-Hans" : {
@@ -13682,6 +14666,12 @@
             "value" : "ตลาด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thị trường"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13763,6 +14753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไปที่แท็บ “ตลาด” แล้วดูป้ายราคาในร้านค้าด้วยกัน คุยกันว่าทำไมของแต่ละอย่างถึงราคาไม่เท่ากัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở thẻ “Thị trường” và cùng xem bảng giá của cửa hàng, rồi trò chuyện vì sao mỗi món lại có giá khác nhau."
           }
         },
         "zh-Hans" : {
@@ -13848,6 +14844,12 @@
             "value" : "ดูดัชนีราคาและกราฟแนวโน้มราคาที่แท็บ “ตลาด” ด้วยกัน แล้วลองทดลองด้วย “ทดลองเงินเฟ้อ” ด้านล่าง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ở thẻ “Thị trường”, cùng xem chỉ số giá và biểu đồ diễn biến giá, rồi thử làm “Thí nghiệm lạm phát” bên dưới."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13929,6 +14931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูราคาสินค้าลงทุนที่เปลี่ยนทุกวันในแท็บ “ตลาด” แล้วคุยกันว่า “ถ้าคนอยากซื้อเยอะ ราคาจะสูงขึ้น”"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ở thẻ “Thị trường”, xem giá sản phẩm đầu tư thay đổi mỗi ngày và trò chuyện về “khi nhiều người muốn mua, giá sẽ tăng”."
           }
         },
         "zh-Hans" : {
@@ -14014,6 +15022,12 @@
             "value" : "ราคาจริง %@ วอน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá thật: %@ won"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14095,6 +15109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคาจริง (วอน)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá thật (won)"
           }
         },
         "zh-Hans" : {
@@ -14180,6 +15200,12 @@
             "value" : "ราคาในโลกจริง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá ngoài đời thật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14261,6 +15287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มูลค่าที่แท้จริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá trị thực"
           }
         },
         "zh-Hans" : {
@@ -14346,6 +15378,12 @@
             "value" : "เริ่มใช้ซุกซุก ค่าขนม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bắt đầu với SukSuk Tiền Tiêu Vặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14427,6 +15465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยินดีต้อนรับสู่ซุกซุก ค่าขนม!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chào mừng đến với SukSuk Tiền Tiêu Vặt!"
           }
         },
         "zh-Hans" : {
@@ -14512,6 +15556,12 @@
             "value" : "เคล็ดลับการใช้งาน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mẹo sử dụng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14593,6 +15643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เขียนต่อจากที่ค้างไว้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viết tiếp nội dung đang dở"
           }
         },
         "zh-Hans" : {
@@ -14678,6 +15734,12 @@
             "value" : "ใน “เครื่องคิดเลขดอกเบี้ยทบต้น” ด้านล่าง ลองเพิ่มระยะเวลาจาก 4 สัปดาห์เป็น 52 สัปดาห์ แล้วดูด้วยกันว่ากราฟชันขึ้นเรื่อยๆ!"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong “Máy tính lãi kép” bên dưới, hãy kéo kỳ hạn từ 4 tuần lên 52 tuần. Cùng quan sát biểu đồ ngày càng dốc!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14759,6 +15821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจว่าทำไมอะไรก็เป็นเงินไม่ได้ (คุณสมบัติของเงิน)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiểu vì sao không phải thứ gì cũng làm tiền được (đặc tính của tiền)"
           }
         },
         "zh-Hans" : {
@@ -14844,6 +15912,12 @@
             "value" : "ลองย้ายเงินครึ่งหนึ่งในกระเป๋าของลูกเข้าบัญชีออมทรัพย์ แล้วหนึ่งสัปดาห์ต่อมาลองดูดอกเบี้ยด้วยกัน ได้ผลดีมาก!"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy chuyển một nửa tiền trong ví của con vào tài khoản tiết kiệm. Một tuần sau cùng xem tiền lãi, hiệu quả rất tốt!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14925,6 +15999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ก่อนที่ลูกจะจ่ายเงินที่ร้านค้า ให้ลูกบอก “อีกหนึ่งสิ่งที่ซื้อได้ด้วยเงินจำนวนนี้” ทุกครั้ง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trước khi con thanh toán ở cửa hàng, hãy luôn để con nói ra “một thứ khác có thể mua bằng số tiền này”."
           }
         },
         "zh-Hans" : {
@@ -15010,6 +16090,12 @@
             "value" : "ลองพูดกับลูกแบบนี้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy nói với con như thế này"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15091,6 +16177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ค่อยๆ ไปทีละขั้นกับลูก เริ่มจากขั้นที่ 1 แต่ละขั้นทำตามลำดับ “อธิบาย → ถาม → ลองทำด้วยกัน” แค่ 10 นาทีก็พอ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cùng con đi từng bước, bắt đầu từ bước 1. Mỗi bước theo thứ tự “giải thích → hỏi → cùng làm”, 10 phút là đủ."
           }
         },
         "zh-Hans" : {
@@ -15176,6 +16268,12 @@
             "value" : "ลองแบ่งเงินจำนวนน้อยลงทุนใน 2 ผลิตภัณฑ์ร่วมกับลูก ดูราคาทุกวันเพื่อให้ชินกับการขึ้นลง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cùng con dùng một khoản nhỏ đầu tư chia cho 2 sản phẩm. Mỗi ngày cùng xem giá để con quen với việc lên xuống."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15257,6 +16355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประวัติราคายังไม่พอ พรุ่งนี้ลองมาดูอีกครั้ง!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lịch sử giá còn ít. Ngày mai hãy xem lại nhé!"
           }
         },
         "zh-Hans" : {
@@ -15342,6 +16446,12 @@
             "value" : "ยังไม่มีธุรกรรม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có giao dịch"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15423,6 +16533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีสินค้า\nลงทะเบียนสินค้าของบ้านเราในโหมดพ่อแม่ได้เลย!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có món hàng nào.\nHãy đăng ký món hàng của nhà mình ở chế độ bố mẹ!"
           }
         },
         "zh-Hans" : {
@@ -15508,6 +16624,12 @@
             "value" : "ยังไม่มีสินค้า · เพิ่มได้ที่แท็บการดำเนินการ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có món hàng · thêm ở thẻ Thao tác"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15589,6 +16711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีที่ถืออยู่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa nắm giữ gì"
           }
         },
         "zh-Hans" : {
@@ -15674,6 +16802,12 @@
             "value" : "ปลอดภัย 🐢"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An toàn 🐢"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15755,6 +16889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แจ้งเตือน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông báo"
           }
         },
         "zh-Hans" : {
@@ -15840,6 +16980,12 @@
             "value" : "แนะนำฟังก์ชันที่ควรรู้อย่างเบามือในจังหวะที่เหมาะสม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhẹ nhàng gợi ý các tính năng hữu ích đúng lúc."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15921,6 +17067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การดำเนินการ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thao tác"
           }
         },
         "zh-Hans" : {
@@ -16006,6 +17158,12 @@
             "value" : "ลองทำด้วยกันในแอป"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cùng thử trong ứng dụng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16087,6 +17245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูยอดเงินของลูกจากหน้าจอโฮมได้เลยโดยไม่ต้องเปิดแอป"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem ngay số dư của con trên Màn hình chính mà không cần mở ứng dụng."
           }
         },
         "zh-Hans" : {
@@ -16172,6 +17336,12 @@
             "value" : "ใช้แอปเป็นภาษาอังกฤษได้ด้วย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có thể dùng ứng dụng bằng tiếng Anh."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16253,6 +17423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เท่าไร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bao nhiêu?"
           }
         },
         "zh-Hans" : {
@@ -16338,6 +17514,12 @@
             "value" : "จะจ่ายเท่าไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trả bao nhiêu?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16419,6 +17601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อเปิดแอปครั้งแรกหลังอัปเดต จะบอกว่ามีอะไรใหม่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lần đầu mở ứng dụng sau khi cập nhật, sẽ cho biết có gì mới."
           }
         },
         "zh-Hans" : {
@@ -16504,6 +17692,12 @@
             "value" : "มีอะไรใหม่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có gì mới"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16585,6 +17779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บทบาท"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai trò"
           }
         },
         "zh-Hans" : {
@@ -16670,6 +17870,12 @@
             "value" : "รองรับภาษาอังกฤษ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hỗ trợ tiếng Anh"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16751,6 +17957,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เช่น ของที่ราคาจริง 1,000 วอน = %@ %@ ราคาสินค้าในร้านค้าเป็น %@ จะคำนวณอัตโนมัติด้วยอัตรานี้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví dụ: món đồ giá thật 1.000 won = %@ %@. Giá món hàng trong cửa hàng tính bằng %@ sẽ được tự động tính theo tỷ giá này."
           }
         },
         "zh-Hans" : {
@@ -16836,6 +18048,12 @@
             "value" : "เช่น ถั่ว ดาว เหรียญ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví dụ: Đậu, Sao, Xu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16917,6 +18135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การวางแผนงบประมาณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lập ngân sách"
           }
         },
         "zh-Hans" : {
@@ -17002,6 +18226,12 @@
             "value" : "สิ่งที่จะเรียนวันนี้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay sẽ học"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17083,6 +18313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เสร็จสิ้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xong"
           }
         },
         "zh-Hans" : {
@@ -17168,6 +18404,12 @@
             "value" : "ทำไมทรายข้างทางถึงเป็นเงินไม่ได้? ก็เพราะมีเยอะแยะไปหมดทุกที่น่ะสิ! การจะเป็นเงินที่ดีต้องผ่านการทดสอบห้าข้อ\n\n① ต้องคงทน (เน่าเสียไม่ได้!) ② ต้องพกง่าย (วัวหนักเกินไป ตกรอบ!) ③ ต้องแบ่งเป็นชิ้นเล็กๆ ได้ ④ ต้องไม่หาได้ง่ายเกินไป ⑤ ทุกคนต้องเชื่อว่า “นี่คือเงินจริงๆ”\n\nเหรียญของบ้านเรามีค่าเพราะพ่อกับแม่ไม่พิมพ์ออกมาตามใจ แต่รักษาสัญญา"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vì sao cát bên đường không làm tiền được? Vì ở đâu cũng có rất nhiều! Muốn làm tiền tốt phải vượt qua năm bài kiểm tra.\n\n① Phải bền (không được thối rữa!) ② Phải dễ mang theo (con bò nặng quá, loại!) ③ Phải chia nhỏ được ④ Không được quá phổ biến ⑤ Ai cũng tin rằng “đây là tiền thật”.\n\nXu của nhà mình có giá trị vì bố mẹ không in ra bừa bãi mà giữ đúng lời hứa."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17249,6 +18491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ในสิ่งที่หนูอยากซื้อช่วงนี้ อะไรคือ “ความจำเป็น” และอะไรคือ “ความอยาก”?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong những thứ con muốn mua dạo này, thứ nào là “cần”, thứ nào là “muốn”?"
           }
         },
         "zh-Hans" : {
@@ -17334,6 +18582,12 @@
             "value" : "ค่าขนม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền tiêu vặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17415,6 +18669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แจ้งเตือนค่าขนม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhắc tiền tiêu vặt"
           }
         },
         "zh-Hans" : {
@@ -17500,6 +18760,12 @@
             "value" : "ให้ค่าขนม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phát tiền tiêu vặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17581,6 +18847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ / หักค่าขนม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phát / trừ tiền tiêu vặt"
           }
         },
         "zh-Hans" : {
@@ -17666,6 +18938,12 @@
             "value" : "ในวันให้ค่าขนม ให้ลูกกำหนดสัดส่วนการออม ลงทุน และใช้จ่ายด้วยตัวเอง แล้วทำตาม หนึ่งสัปดาห์ต่อมาดูแท็บ “ประวัติ” ย้อนหลังด้วยกัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vào ngày phát tiền tiêu vặt, hãy để con tự định tỷ lệ tiết kiệm, đầu tư, chi tiêu và thực hiện. Một tuần sau cùng xem lại thẻ Lịch sử."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17747,6 +19025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แจ้งเตือนในวันให้ค่าขนมหรือเมื่อดอกเบี้ยเข้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhận thông báo vào ngày phát tiền tiêu vặt hoặc khi được cộng lãi."
           }
         },
         "zh-Hans" : {
@@ -17832,6 +19116,12 @@
             "value" : "การให้ค่าขนมและการตั้งอัตราดอกเบี้ย\nทำได้เฉพาะคนที่รู้ PIN นี้เท่านั้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phát tiền tiêu vặt, đặt lãi suất, v.v.\nchỉ người biết mã PIN này mới làm được."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17913,6 +19203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สั่นเบาๆ เมื่อได้รับค่าขนมหรือซื้อของ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rung nhẹ khi nhận tiền tiêu vặt hoặc khi mua đồ."
           }
         },
         "zh-Hans" : {
@@ -17998,6 +19294,12 @@
             "value" : "ถ้าได้ค่าขนมมาแล้วใช้ทันทีโดยไม่วางแผน เงินจะหมดเร็ว จึงต้องวางแผนไว้ก่อน เรียกว่า “งบประมาณ”\n\nลองแบ่งแบบนี้ เก็บออม 30 ของจำเป็น 40 ของที่อยากได้ 20 ลองลงทุน 10 ไม่ต้องเป๊ะแบบนี้ก็ได้ สำคัญที่หนูตัดสินใจเอง!"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhận tiền tiêu vặt xong tiêu liền mà không có kế hoạch thì hết rất nhanh. Vì vậy phải lập kế hoạch trước. Việc đó gọi là “ngân sách”.\n\nVí dụ chia thế này: tiết kiệm 30, đồ cần thiết 40, đồ muốn 20, thử đầu tư 10. Không nhất thiết phải y như vậy. Quan trọng là con tự quyết định!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18079,6 +19381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อให้ค่าขนมหรือจ่ายเงิน จะบันทึกไว้ที่นี่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi phát tiền tiêu vặt hoặc thanh toán, giao dịch sẽ hiện ở đây"
           }
         },
         "zh-Hans" : {
@@ -18164,6 +19472,12 @@
             "value" : "ให้ค่าขนม จ่ายเงิน รับดอกเบี้ยเงินออม\nและลองลงทุนด้วย — ระบบเศรษฐกิจเฉพาะครอบครัวของเรา"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phát tiền tiêu vặt, thanh toán, nhận lãi tiết kiệm\nvà cả đầu tư — hệ thống kinh tế chỉ của riêng gia đình bạn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18245,6 +19559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ร้านค้าของบ้านเรา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cửa hàng của nhà"
           }
         },
         "zh-Hans" : {
@@ -18330,6 +19650,12 @@
             "value" : "ดูสินค้าในร้านค้าของบ้านด้วยกัน แล้วแยกทีละชิ้นเป็น “ความจำเป็น” กับ “ความอยาก”"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cùng xem các món hàng trong cửa hàng của nhà và xếp từng món vào “cần” hoặc “muốn”."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18411,6 +19737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคาในบ้านเรา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá trong nhà"
           }
         },
         "zh-Hans" : {
@@ -18496,6 +19828,12 @@
             "value" : "ราคาของบ้านเรา"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá cả trong nhà"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18577,6 +19915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนนี้ดัชนีราคาของบ้านเราเป็นเท่าไร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ số giá nhà mình bây giờ là bao nhiêu?"
           }
         },
         "zh-Hans" : {
@@ -18662,6 +20006,12 @@
             "value" : "บันทึกประวัติของธนาคารบ้านเราเป็นไฟล์ และนำกลับเข้ามาใหม่ได้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu lịch sử ngân hàng của nhà mình thành tệp và nạp lại sau."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18743,6 +20093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เหรียญของบ้านเราแลกอะไรได้บ้าง?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xu của nhà mình đổi được những gì nhỉ?"
           }
         },
         "zh-Hans" : {
@@ -18828,6 +20184,12 @@
             "value" : "ทำไมเหรียญของบ้านเราถึงมีค่า?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vì sao xu của nhà mình có giá trị?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18909,6 +20271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปริมาณเงินในบ้านเรา 💰"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lượng tiền trong nhà 💰"
           }
         },
         "zh-Hans" : {
@@ -18994,6 +20362,12 @@
             "value" : "เป็นผลิตภัณฑ์ลงทุนของบ้านเรา"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đây là sản phẩm đầu tư của nhà mình."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19075,6 +20449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตั้งชื่อเงินของบ้านเรา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt tên cho đồng tiền của nhà mình"
           }
         },
         "zh-Hans" : {
@@ -19160,6 +20540,12 @@
             "value" : "เงินที่หมุนเวียนในบ้านเรา"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền lưu thông trong nhà"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19241,6 +20627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลดการเคลื่อนไหว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giảm chuyển động"
           }
         },
         "zh-Hans" : {
@@ -19326,6 +20718,12 @@
             "value" : "เมื่อเปิด “ลดการเคลื่อนไหว” เอฟเฟกต์บนหน้าจอจะนุ่มนวลขึ้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi bật “Giảm chuyển động”, hiệu ứng trên màn hình sẽ dịu hơn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19407,6 +20805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วอน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "won"
           }
         },
         "zh-Hans" : {
@@ -19492,6 +20896,12 @@
             "value" : "ระดับความเสี่ยง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mức rủi ro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19573,6 +20983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เสี่ยงสูง 🚀"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rủi ro cao 🚀"
           }
         },
         "zh-Hans" : {
@@ -19658,6 +21074,12 @@
             "value" : "ตั้งค่าธนาคาร"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt ngân hàng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19739,6 +21161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อเอาเงินไปฝากธนาคาร ธนาคารจะบอกว่า “ขอบคุณที่ไว้ใจฝากเงิน!” แล้วให้ของแถมให้ ของแถมนั้นคือ “ดอกเบี้ย”\n\nเงินที่อยู่ในกระเป๋าเงินไม่เพิ่มขึ้นเลย ไม่ว่ารอนานแค่ไหน แต่ถ้าฝากเข้าบัญชีออมทรัพย์ จะมีดอกเบี้ยเพิ่มทุกสัปดาห์ เงินจึงงอกเงย เงินที่ยังไม่ใช้ตอนนี้ควรเก็บไว้ที่ไหนดี?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi con gửi tiền vào ngân hàng, ngân hàng sẽ nói “Cảm ơn con đã gửi!” rồi tặng thêm một chút. Phần tặng thêm đó gọi là “lãi”.\n\nTiền để trong ví thì chờ bao lâu cũng không tăng. Nhưng gửi vào tài khoản tiết kiệm thì mỗi tuần được cộng lãi và tiền lớn lên. Số tiền chưa dùng ngay thì nên để ở đâu?"
           }
         },
         "zh-Hans" : {
@@ -19824,6 +21252,12 @@
             "value" : "ส่งเครื่องนี้ให้ลูก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giao thiết bị này cho con"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19905,6 +21339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เครื่องนี้จะเปลี่ยนเป็นหน้าจอเฉพาะของลูกที่เลือก ลูกจะเห็นเฉพาะกระเป๋าเงิน ร้านค้า การลงทุน ประวัติ และบทเรียนของตัวเอง เหมาะเวลาที่ส่งโทรศัพท์พ่อแม่ให้ลูกที่ไม่มีโทรศัพท์ หากต้องการกลับมา ให้แตะปุ่มกุญแจแล้วป้อน PIN ของพ่อแม่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thiết bị này sẽ chuyển sang màn hình riêng của con được chọn. Con chỉ thấy ví, cửa hàng, đầu tư, lịch sử và bài học của mình. Tiện khi đưa điện thoại của bố mẹ cho con chưa có điện thoại. Muốn quay lại, bấm nút khóa và nhập mã PIN của bố mẹ."
           }
         },
         "zh-Hans" : {
@@ -19990,6 +21430,12 @@
             "value" : "ให้เครื่องนี้เป็นโทรศัพท์ของ %@ %@ ไหม? ต้องใช้ PIN ของพ่อแม่เพื่อกลับมา"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biến thiết bị này thành điện thoại của %@ %@? Cần mã PIN của bố mẹ để quay lại."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20071,6 +21517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จะให้เครื่องนี้เป็นโทรศัพท์ของใคร? ต้องใช้ PIN ของพ่อแม่เพื่อกลับมา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biến thiết bị này thành điện thoại của ai? Cần mã PIN của bố mẹ để quay lại."
           }
         },
         "zh-Hans" : {
@@ -20156,6 +21608,12 @@
             "value" : "ถ้าวางไว้แบบนี้จะเป็นเท่าไร? (ประมาณการ 12 สัปดาห์ ดอกเบี้ยทบต้น)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu để nguyên thì sẽ được bao nhiêu? (ước tính 12 tuần, lãi kép)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20237,6 +21695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลองถามแบบนี้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy hỏi như thế này"
           }
         },
         "zh-Hans" : {
@@ -20322,6 +21786,12 @@
             "value" : "ชื่อ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20403,6 +21873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อีโมจิ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biểu tượng cảm xúc"
           }
         },
         "zh-Hans" : {
@@ -20488,6 +21964,12 @@
             "value" : "ค่าขนมสัปดาห์นี้ หนูอยากแบ่งอย่างไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền tiêu vặt tuần này con muốn chia thế nào?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20569,6 +22051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เหตุผล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lý do"
           }
         },
         "zh-Hans" : {
@@ -20654,6 +22142,12 @@
             "value" : "ดอกเบี้ย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20735,6 +22229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดอกเบี้ย · อัตราแลกเปลี่ยน · ราคา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi · Tỷ giá · Giá cả"
           }
         },
         "zh-Hans" : {
@@ -20820,6 +22320,12 @@
             "value" : "เมื่อดอกเบี้ยออกดอกเบี้ย เรียกว่า “ดอกเบี้ยทบต้น” ยิ่งออมนาน เงินก็ยิ่งโตเหมือนก้อนหิมะ! ⛄️"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi sinh ra lãi gọi là “lãi kép”. Tiết kiệm càng lâu, tiền càng lớn lên như quả cầu tuyết! ⛄️"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20901,6 +22407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ได้เงิน %@ %@ จากดอกเบี้ยอย่างเดียว!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ riêng tiền lãi đã kiếm được %@ %@!"
           }
         },
         "zh-Hans" : {
@@ -20986,6 +22498,12 @@
             "value" : "เข้าใจว่าดอกเบี้ยที่ออกดอกเบี้ยจะใหญ่ขึ้นเหมือนก้อนหิมะ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiểu rằng lãi sinh lãi lớn lên như quả cầu tuyết"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21067,6 +22585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าอัตราดอกเบี้ยต่ำกว่าอัตราราคาสินค้าเพิ่ม แม้ออมไว้เงินก็ยังเสียพลัง ลองเพิ่มอัตราดอกเบี้ยดู!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu lãi suất thấp hơn mức tăng giá, dù tiết kiệm tiền vẫn yếu đi. Hãy thử tăng lãi suất!"
           }
         },
         "zh-Hans" : {
@@ -21152,6 +22676,12 @@
             "value" : "ย้อนกลับ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quay lại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21233,6 +22763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินเฟ้อ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lạm phát"
           }
         },
         "zh-Hans" : {
@@ -21318,6 +22854,12 @@
             "value" : "ไม่มีเงินเฟ้อ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có lạm phát"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21399,6 +22941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày"
           }
         },
         "zh-Hans" : {
@@ -21484,6 +23032,12 @@
             "value" : "เริ่มเร็ว ทำต่อเนื่อง — นี่คือความลับของดอกเบี้ยทบต้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bắt đầu sớm, đều đặn — đó là bí quyết của lãi kép."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21565,6 +23119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เสียเงินได้ประมาณเท่าไรถึงจะไม่เป็นไร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mất bao nhiêu tiền thì không sao?"
           }
         },
         "zh-Hans" : {
@@ -21650,6 +23210,12 @@
             "value" : "ฝาก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gửi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21731,6 +23297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฝาก / ถอน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gửi / Rút"
           }
         },
         "zh-Hans" : {
@@ -21816,6 +23388,12 @@
             "value" : "ลูก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21897,6 +23475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สแกนด้วยกล้องของเครื่องลูกเพื่อดูคำเชิญ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quét bằng camera của thiết bị con để xem lời mời"
           }
         },
         "zh-Hans" : {
@@ -21982,6 +23566,12 @@
             "value" : "ชวนลูก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mời con"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22063,6 +23653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "โหมดโทรศัพท์ของลูก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chế độ điện thoại của con"
           }
         },
         "zh-Hans" : {
@@ -22148,6 +23744,12 @@
             "value" : "สลับเป็นโทรศัพท์ของลูก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuyển sang điện thoại của con"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22229,6 +23831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลูก 👧"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con 👧"
           }
         },
         "zh-Hans" : {
@@ -22314,6 +23922,12 @@
             "value" : "เมื่อลูกสแกนบาร์โค้ดนี้ด้วย “สแกนเพื่อจ่าย”\nจะมี %@ หักออกจากกระเป๋าเงิน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi con quét mã vạch này bằng “Quét để thanh toán”,\nví của con sẽ bị trừ %@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22395,6 +24009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลงทะเบียนลูกอย่างน้อยหนึ่งคน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy thêm ít nhất một con."
           }
         },
         "zh-Hans" : {
@@ -22480,6 +24100,12 @@
             "value" : "ปีที่แล้วขนมราคา 1,000 ปีนี้ราคา 1,100 ทั้งที่ขนมไม่ได้ใหญ่ขึ้น! การที่ราคาของแพงขึ้นแบบนี้เรียกว่า “เงินเฟ้อ”\n\nตัวเลขบนเงินของเรายังเท่าเดิม แต่ซื้อของได้น้อยลง เหมือนลมที่รั่วออกจากลูกโป่ง พลังของเงินอ่อนลง ดังนั้นการวางเงินทิ้งไว้ในกระเป๋าเฉยๆ จะค่อยๆ เสียเปรียบ ต้องทำให้เงินเพิ่มเร็วกว่าราคาสินค้าด้วยดอกเบี้ยหรือการลงทุน จึงจะรักษาพลังของเงินไว้ได้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Năm ngoái cái bánh giá 1.000. Năm nay giá 1.100. Bánh đâu có to hơn! Khi giá hàng tăng như vậy, gọi là “lạm phát”.\n\nCon số trên đồng tiền của con vẫn thế nhưng mua được ít hơn. Như không khí thoát ra khỏi quả bóng bay, sức mạnh của đồng tiền yếu dần. Vì vậy cứ để tiền nằm yên trong ví thì sẽ thiệt dần. Phải làm tiền tăng nhanh hơn giá cả bằng lãi hoặc đầu tư thì mới giữ được sức mạnh của tiền."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22561,6 +24187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยอดคงเหลือ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số dư"
           }
         },
         "zh-Hans" : {
@@ -22646,6 +24278,12 @@
             "value" : "ล็อก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khóa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22727,6 +24365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บันทึก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu"
           }
         },
         "zh-Hans" : {
@@ -22812,6 +24456,12 @@
             "value" : "เงินออม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiết kiệm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22893,6 +24543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดอกเบี้ยออม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi suất tiết kiệm"
           }
         },
         "zh-Hans" : {
@@ -22978,6 +24634,12 @@
             "value" : "ฝากเงินออม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gửi tiết kiệm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23059,6 +24721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยอดเงินออม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số dư tiết kiệm"
           }
         },
         "zh-Hans" : {
@@ -23144,6 +24812,12 @@
             "value" : "ถอนเงินออม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rút tiết kiệm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23225,6 +24899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินออม: %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiết kiệm: %@"
           }
         },
         "zh-Hans" : {
@@ -23310,6 +24990,12 @@
             "value" : "การออมและดอกเบี้ย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiết kiệm và lãi suất"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23391,6 +25077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คนที่เริ่มออมเร็วกับคนที่เริ่มช้า ต่อไปใครจะรวยกว่ากัน?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người bắt đầu tiết kiệm sớm và người bắt đầu muộn, sau này ai giàu hơn?"
           }
         },
         "zh-Hans" : {
@@ -23476,6 +25168,12 @@
             "value" : "ฝากเข้าบัญชีออมทรัพย์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gửi vào tiết kiệm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23557,6 +25255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในบัญชีออมทรัพย์ไม่พอ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong tài khoản tiết kiệm không đủ tiền."
           }
         },
         "zh-Hans" : {
@@ -23642,6 +25346,12 @@
             "value" : "ดอกเบี้ยทบต้นทุกสัปดาห์ในบัญชีออมทรัพย์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi kép mỗi tuần trong tài khoản tiết kiệm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23723,6 +25433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้าใจหลักการที่ทำให้เงินงอกเงยเมื่อออม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiểu nguyên lý tiết kiệm làm tiền lớn lên"
           }
         },
         "zh-Hans" : {
@@ -23808,6 +25524,12 @@
             "value" : "เงินที่ออม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền đã tiết kiệm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23889,6 +25611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แม้แอปปิดไประหว่างพิมพ์ สิ่งที่พิมพ์ไว้ก็ยังอยู่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dù ứng dụng bị tắt giữa chừng, nội dung đang viết vẫn còn."
           }
         },
         "zh-Hans" : {
@@ -23974,6 +25702,12 @@
             "value" : "ลบทั้งหมด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa tất cả"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24055,6 +25789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทั้งหมด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tất cả"
           }
         },
         "zh-Hans" : {
@@ -24140,6 +25880,12 @@
             "value" : "ต้องการลบข้อมูลทั้งหมดจริงหรือไม่?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn có chắc muốn xóa toàn bộ dữ liệu không?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24221,6 +25967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประเภท"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại"
           }
         },
         "zh-Hans" : {
@@ -24306,6 +26058,12 @@
             "value" : "เงินที่ดีต้องเป็นอย่างไร"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều kiện của đồng tiền tốt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24387,6 +26145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สัปดาห์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tuần"
           }
         },
         "zh-Hans" : {
@@ -24472,6 +26236,12 @@
             "value" : "สัปดาห์ละ %@%%"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% mỗi tuần"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24553,6 +26323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ราคาสินค้าเพิ่มรายสัปดาห์: %@%%"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mức tăng giá hằng tuần: %@%%"
           }
         },
         "zh-Hans" : {
@@ -24638,6 +26414,12 @@
             "value" : "อัตราดอกเบี้ยรายสัปดาห์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi suất tuần"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24719,6 +26501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อัตราดอกเบี้ยรายสัปดาห์: %@%%"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi suất tuần: %@%%"
           }
         },
         "zh-Hans" : {
@@ -24804,6 +26592,12 @@
             "value" : "ดอกเบี้ยออมรายสัปดาห์ %@%% · ราคาสินค้าเพิ่มรายสัปดาห์ %@%%"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi tiết kiệm hằng tuần %@%% · Giá tăng hằng tuần %@%%"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24885,6 +26679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดอกเบี้ยออมรายสัปดาห์: %@%%"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lãi suất tiết kiệm hằng tuần: %@%%"
           }
         },
         "zh-Hans" : {
@@ -24970,6 +26770,12 @@
             "value" : "กระเป๋าเงิน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25051,6 +26857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยอดเงินในกระเป๋า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số dư ví"
           }
         },
         "zh-Hans" : {
@@ -25136,6 +26948,12 @@
             "value" : "กระเป๋าเงิน: %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25217,6 +27035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กระเป๋าเงิน: %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -25302,6 +27126,12 @@
             "value" : "เงินที่วางไว้ในกระเป๋าเฉยๆ พลังลดลง แต่เงินที่ออมไว้รักษาพลังได้! 💪"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền để trong ví đã yếu đi, còn tiền tiết kiệm thì giữ được sức mạnh! 💪"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25383,6 +27213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในกระเป๋าไม่พอ! ยอดคงเหลือ: %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong ví không đủ tiền! Số dư: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -25468,6 +27304,12 @@
             "value" : "เงินในกระเป๋าไม่พอ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong ví không đủ tiền."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25549,6 +27391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในกระเป๋าไม่พอ ต้องใช้: %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong ví không đủ tiền. Cần: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -25634,6 +27482,12 @@
             "value" : "เงินในกระเป๋า"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền trong ví"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25715,6 +27569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินในกระเป๋ากับเงินที่ออมไว้ต่างกันอย่างไร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền để trong ví và tiền đã tiết kiệm khác nhau thế nào?"
           }
         },
         "zh-Hans" : {
@@ -25800,6 +27660,12 @@
             "value" : "ถอนเข้ากระเป๋าเงิน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rút về ví"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25881,6 +27747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ · หัก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phát · Trừ"
           }
         },
         "zh-Hans" : {
@@ -25966,6 +27838,12 @@
             "value" : "ครั้งก่อนที่ซื้อของ หนูสละอะไรไป?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lần trước mua đồ, con đã bỏ thứ gì?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26047,6 +27925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สัปดาห์ที่แล้วหนูใช้เงินไปกับอะไรมากที่สุด?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuần trước con tiêu nhiều tiền nhất vào việc gì?"
           }
         },
         "zh-Hans" : {
@@ -26132,6 +28016,12 @@
             "value" : "ดัชนี %lld"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ số %lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26213,6 +28103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ช่วยเหลือ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hỗ trợ"
           }
         },
         "zh-Hans" : {
@@ -26298,6 +28194,12 @@
             "value" : "เลือกของในบ้าน 3 อย่าง แล้วเล่นเกม “สิ่งนี้เป็นเงินได้ไหม?” ให้ติ๊กถูกหรือผิดกับเงื่อนไขทั้งห้าข้อ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn 3 món đồ trong nhà và chơi trò “Món này có làm tiền được không?”. Đánh dấu ✓ hoặc ✗ cho từng điều kiện trong năm điều kiện."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26379,6 +28281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สแกนเพื่อจ่าย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quét để thanh toán"
           }
         },
         "zh-Hans" : {
@@ -26464,6 +28372,12 @@
             "value" : "สแกนแล้วจ่ายทันที"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quét là thanh toán ngay"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26545,6 +28459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หักเงิน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trừ tiền"
           }
         },
         "zh-Hans" : {
@@ -26630,6 +28550,12 @@
             "value" : "หัก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trừ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26711,6 +28637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เงินตั้งต้น: %@ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số tiền ban đầu: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -26796,6 +28728,12 @@
             "value" : "ราคาสินค้าสูงขึ้น %@%% จากตอนเริ่ม 1,000 %@ ในกระเป๋าตอนนี้มีพลังเท่ากับ %@ %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá đã tăng %@%% so với lúc đầu. 1.000 %@ trong ví giờ chỉ còn sức mạnh bằng %@ %@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26877,6 +28815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คำเชิญ · QR"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lời mời · QR"
           }
         },
         "zh-Hans" : {
@@ -26962,6 +28906,12 @@
             "value" : "ส่งคำเชิญ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gửi lời mời"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27043,6 +28993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยอดรวม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng số tiền"
           }
         },
         "zh-Hans" : {
@@ -27128,6 +29084,12 @@
             "value" : "สินทรัพย์รวม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng tài sản"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27209,6 +29171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สินทรัพย์รวม · ประมาณ %@ วอนในเงินจริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng tài sản · khoảng %@ won tiền thật"
           }
         },
         "zh-Hans" : {
@@ -27294,6 +29262,12 @@
             "value" : "ธุรกรรมล่าสุด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giao dịch gần đây"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27375,6 +29349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่ม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm"
           }
         },
         "zh-Hans" : {
@@ -27460,6 +29440,12 @@
             "value" : "ถอน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rút"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27541,6 +29527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยกเลิก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hủy"
           }
         },
         "zh-Hans" : {
@@ -27626,6 +29618,12 @@
             "value" : "ทำไมของเล่นยอดนิยมถึงแพงขึ้นช่วงคริสต์มาส?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vì sao đồ chơi được ưa chuộng lại đắt hơn vào dịp Giáng sinh?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27707,6 +29705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หน้าจอที่รองรับตัวอักษรใหญ่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Màn hình cho chữ lớn"
           }
         },
         "zh-Hans" : {
@@ -27792,6 +29796,12 @@
             "value" : "ลงทุน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đầu tư"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27873,6 +29883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขายการลงทุน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bán đầu tư"
           }
         },
         "zh-Hans" : {
@@ -27958,6 +29974,12 @@
             "value" : "ซื้อการลงทุน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mua đầu tư"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28039,6 +30061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ผลิตภัณฑ์ลงทุน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sản phẩm đầu tư"
           }
         },
         "zh-Hans" : {
@@ -28124,6 +30152,12 @@
             "value" : "เพิ่มผลิตภัณฑ์ลงทุน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm sản phẩm đầu tư"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28205,6 +30239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตลาดลงทุน 📈"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thị trường đầu tư 📈"
           }
         },
         "zh-Hans" : {
@@ -28290,6 +30330,12 @@
             "value" : "มูลค่าการลงทุน: %@ %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá trị đầu tư: %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28371,6 +30417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การลงทุนเหมือนการปลูกเงิน ถ้าเมล็ดเติบโตดีก็กลายเป็นต้นไม้ใหญ่ แต่ก็อาจเหี่ยวเฉาได้ ต่างจากการออม การลงทุนทำให้เงินเพิ่มขึ้นหรือลดลงก็ได้\n\nจำกฎนี้ไว้ ยิ่งได้กำไรมากเท่าไร ก็ยิ่งเสียได้มากเท่านั้น และถ้าใส่ไข่ทั้งหมดไว้ในตะกร้าใบเดียว พอตกก็แตกหมด ต้องกระจายใส่หลายตะกร้า (กระจายการลงทุน) ปลูกเท่าที่เสียได้เท่านั้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đầu tư giống như gieo tiền xuống đất. Hạt giống lớn tốt sẽ thành cây to, nhưng cũng có thể héo. Khác với tiết kiệm, đầu tư có thể làm tiền tăng lên hoặc giảm đi.\n\nHãy nhớ quy tắc này: càng có thể lời nhiều thì càng có thể lỗ nhiều. Và nếu bỏ hết trứng vào một giỏ, rơi một cái là vỡ hết. Phải chia ra (đa dạng hóa). Chỉ gieo số tiền mà con chấp nhận mất."
           }
         },
         "zh-Hans" : {
@@ -28456,6 +30508,12 @@
             "value" : "การลงทุนและความเสี่ยง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đầu tư và rủi ro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28537,6 +30595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ผู้ลงทุน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhà đầu tư"
           }
         },
         "zh-Hans" : {
@@ -28622,6 +30686,12 @@
             "value" : "เลือกผู้ลงทุน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn nhà đầu tư"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28703,6 +30773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หากต้องการลงทุน ให้ลงทะเบียนลูกที่หน้าแรกก่อน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muốn đầu tư thì hãy thêm con vào ở màn hình Trang chủ trước."
           }
         },
         "zh-Hans" : {
@@ -28788,6 +30864,12 @@
             "value" : "ไม่มีผลิตภัณฑ์ลงทุนที่ขายอยู่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có sản phẩm đầu tư nào đang bán"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28869,6 +30951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หน้าจอสำหรับ iPhone แบบพับได้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Màn hình iPhone gập"
           }
         },
         "zh-Hans" : {
@@ -28954,6 +31042,12 @@
             "value" : "ใช้หน้าจอกว้างของ iPhone แบบพับได้แบ่งเป็นสองฝั่ง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dùng màn hình rộng của iPhone gập chia thành hai ngăn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29035,6 +31129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จำเป็นก่อน ความอยากทีหลัง!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần trước, muốn sau!"
           }
         },
         "zh-Hans" : {
@@ -29120,6 +31220,12 @@
             "value" : "ความจำเป็นกับความอยาก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần và muốn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29201,6 +31307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าไม่ซื้อสิ่งจำเป็นแต่ซื้อสิ่งที่อยากก่อน จะเกิดอะไรขึ้น?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu không mua thứ cần mà mua thứ muốn trước thì chuyện gì xảy ra?"
           }
         },
         "zh-Hans" : {
@@ -29286,6 +31398,12 @@
             "value" : "ตัวกรอง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bộ lọc"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29367,6 +31485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ล้างตัวกรอง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa bộ lọc"
           }
         },
         "zh-Hans" : {
@@ -29452,6 +31576,12 @@
             "value" : "ขยับแรงถึง ±15%% ต่อวัน! อาจได้กำไรมากหรือขาดทุนมาก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biến động mạnh đến ±15%% mỗi ngày! Có thể lời lớn, cũng có thể lỗ lớn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29533,6 +31663,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขยับขึ้นลงเล็กน้อยประมาณ ±2%% ต่อวัน มีโอกาสขาดทุนน้อย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dao động nhẹ khoảng ±2%% mỗi ngày. Ít lo bị lỗ."
           }
         },
         "zh-Hans" : {
@@ -29618,6 +31754,12 @@
             "value" : "ขึ้นลงประมาณ ±6%% ต่อวัน เป็นความท้าทายระดับกลาง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lên xuống khoảng ±6%% mỗi ngày. Một thử thách vừa phải."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29699,6 +31841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ป้อนอีกครั้ง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhập lại lần nữa"
           }
         },
         "zh-Hans" : {
@@ -29784,6 +31932,12 @@
             "value" : "ทดลองด้วยกัน · เครื่องคิดเลขดอกเบี้ยทบต้น 🧮"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cùng thử nghiệm · Máy tính lãi kép 🧮"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29865,6 +32019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทดลองด้วยกัน · ทดลองเงินเฟ้อ 🎈"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cùng thử nghiệm · Thí nghiệm lạm phát 🎈"
           }
         },
         "zh-Hans" : {
@@ -29950,6 +32110,12 @@
             "value" : "ราคาปัจจุบัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá hiện tại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30031,6 +32197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กระเป๋าเงินตอนนี้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví hiện tại"
           }
         },
         "zh-Hans" : {
@@ -30116,6 +32288,12 @@
             "value" : "วิดเจ็ตหน้าจอโฮม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiện ích trên Màn hình chính"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30197,6 +32375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สกุลเงิน “%@” · ดอกเบี้ยรายสัปดาห์ %@%%"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiền “%@” · Lãi hằng tuần %@%%"
           }
         },
         "zh-Hans" : {
@@ -30282,6 +32466,12 @@
             "value" : "ชื่อสกุลเงิน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên đồng tiền"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30363,6 +32553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตกลง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "zh-Hans" : {
@@ -30448,6 +32644,12 @@
             "value" : "อัตราแลกเปลี่ยน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tỷ giá"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30529,6 +32731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คำนวณอัตโนมัติที่ 1 %@ = %@ วอน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự động tính theo tỷ giá 1 %@ = %@ won."
           }
         },
         "zh-Hans" : {
@@ -30614,6 +32822,12 @@
             "value" : "อัตราแลกเปลี่ยน: 1 %@ ="
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tỷ giá: 1 %@ ="
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30695,6 +32909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ต้องหายากและทุกคนเชื่อถือ จึงจะเป็นเงินได้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phải khan hiếm và được mọi người tin tưởng thì mới thành tiền."
           }
         },
         "zh-Hans" : {
@@ -30780,6 +33000,12 @@
             "value" : "🌱 %@ ขอเชิญมาใช้ซุกซุก ค่าขนมด้วยกัน!\n\nมาใช้สกุลเงินของบ้านเรา “%@” ด้วยกัน:\n• เก็บค่าขนมและใช้จ่าย 💸\n• ถ้าออมจะได้ดอกเบี้ย %@%% ทุกสัปดาห์ 🏦\n• เรียนรู้เศรษฐกิจจากผลิตภัณฑ์ลงทุน 📈\n\nเปิดแอปซุกซุก ค่าขนมบนเครื่องที่ล็อกอิน iCloud บัญชีเดียวกับเครื่องของพ่อแม่ ก็เข้าร่วมได้ทันที!"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, mời con tham gia SukSuk Tiền Tiêu Vặt!\n\nCùng dùng đồng tiền của nhà mình, “%@”:\n• Dành dụm tiền tiêu vặt và dùng để thanh toán 💸\n• Tiết kiệm mỗi tuần nhận lãi %@%% 🏦\n• Học về kinh tế qua các sản phẩm đầu tư 📈\n\nMở ứng dụng SukSuk Tiền Tiêu Vặt trên thiết bị đăng nhập cùng tài khoản iCloud với thiết bị của bố mẹ là có thể cùng tham gia ngay!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30861,6 +33087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 เรียนรู้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Học"
           }
         },
         "zh-Hans" : {
@@ -30946,6 +33178,12 @@
             "value" : "🏛️ ตลาด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Thị trường"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31027,6 +33265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 โหมดพ่อแม่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Chế độ bố mẹ"
           }
         },
         "zh-Hans" : {
@@ -31112,6 +33356,12 @@
             "value" : "🏦 เงินออม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Tiết kiệm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31193,6 +33443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 บัญชีออมทรัพย์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Tài khoản tiết kiệm"
           }
         },
         "zh-Hans" : {
@@ -31278,6 +33534,12 @@
             "value" : "🏪 ร้านค้าของบ้านเรา"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Cửa hàng của nhà"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31359,6 +33621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ บาร์โค้ดสินค้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Mã vạch món hàng"
           }
         },
         "zh-Hans" : {
@@ -31444,6 +33712,12 @@
             "value" : "👨‍👩‍👧‍👦 สมาชิกในครอบครัว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Thành viên gia đình"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31525,6 +33799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 คำเชิญ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Lời mời"
           }
         },
         "zh-Hans" : {
@@ -31610,6 +33890,12 @@
             "value" : "💡 ถ้าวางเงินไว้เฉยๆ พลังจะลดลง รักษาไว้ด้วยการออม (ดอกเบี้ย) หรือการลงทุน!"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Để tiền nằm yên thì sức mạnh sẽ giảm. Hãy bảo vệ bằng tiết kiệm (lãi) hoặc đầu tư!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31691,6 +33977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 ส่งคำเชิญทางข้อความหรือแอปแชตได้\nเครื่องที่ล็อกอิน iCloud บัญชีเดียวกันจะเห็นข้อมูลอัตโนมัติ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Có thể gửi lời mời qua tin nhắn hoặc ứng dụng trò chuyện.\nTrên các thiết bị đăng nhập cùng tài khoản iCloud, dữ liệu sẽ tự động hiện ra."
           }
         },
         "zh-Hans" : {
@@ -31776,6 +34068,12 @@
             "value" : "💡 ราคาเปลี่ยนวันละครั้ง ซื้อตอนถูกขายตอนแพงได้กำไร กลับกันขาดทุน!"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Giá thay đổi mỗi ngày một lần. Mua rẻ bán đắt thì có lời, ngược lại thì lỗ!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31857,6 +34155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 จ่ายเงิน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Thanh toán"
           }
         },
         "zh-Hans" : {
@@ -31942,6 +34246,12 @@
             "value" : "💵 กระเป๋าเงิน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Ví"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32023,6 +34333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 จัดการเงิน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Quản lý tiền"
           }
         },
         "zh-Hans" : {
@@ -32108,6 +34424,12 @@
             "value" : "💸 จัดการค่าขนม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Quản lý tiền tiêu vặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32189,6 +34511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 ลงทุน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Đầu tư"
           }
         },
         "zh-Hans" : {
@@ -32274,6 +34602,12 @@
             "value" : "📈 ผลิตภัณฑ์ลงทุน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Sản phẩm đầu tư"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32355,6 +34689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 โหมดโทรศัพท์ของลูก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Chế độ điện thoại của con"
           }
         },
         "zh-Hans" : {
@@ -32440,6 +34780,12 @@
             "value" : "📷 สแกนเพื่อจ่าย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Quét để thanh toán"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32523,6 +34869,12 @@
             "value" : "🔐 กลับไปโหมดพ่อแม่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Quay lại chế độ bố mẹ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32604,6 +34956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 ประวัติธุรกรรม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Lịch sử giao dịch"
           }
         },
         "zh-Hans" : {
