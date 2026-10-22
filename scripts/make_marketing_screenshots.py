@@ -18,7 +18,7 @@ W, H = 1242, 2688   # 이 계정의 iPhone 제출 규격
 
 # ── 앱마다 고치는 곳 ──────────────────────────────────────────────
 # 앱 언어 → App Store 로케일 (스토어 폴더 이름)
-STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR"}
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI"}
 # 바탕 · 포인트 색 (헤더·검색 결과 그림과 맞춘다)
 BG, ACCENT, INK, SUB = "#EEF5EC", "#2F9E4F", "#12281C", "#5E6B62"
 # 언어 → [(원본 파일, 레이아웃, 헤드라인, 서브카피)]
@@ -30,6 +30,14 @@ SHOTS = {
         ("04-market.png",    "flat-rotate", "물가와 환율까지<br>진짜 경제처럼", "돈의 가치가 변하는 걸 직접 봐요"),
         ("05-actions.png",   "hero-bleed",  "용돈 주기도<br>결제도 간단하게", "부모 PIN으로 잠그고, 바코드로 결제"),
         ("06-learn.png",     "dark",        "10단계로 배우는<br>돈 이야기", "아이와 함께 읽는 부모 가이드"),
+    ],
+    "fi": [
+        ("01-dashboard.png", "hero-bleed"  , "Kotisi muuttuu<br>pieneksi pankiksi", "Vanhemmat ovat pankki, lapset asiakkaita"),
+        ("02-child.png", "left-text"   , "Lompakko, säästöt ja<br>sijoitukset yhdellä silmäyksellä", "Jokaisella lapsella on oma tili"),
+        ("03-savings.png", "text-bottom" , "Säästä,<br>niin korko kasvaa", "Katso viikoittainen korkoa korolle kuvaajasta"),
+        ("04-market.png", "flat-rotate" , "Hinnat ja kurssit<br>kuin oikeassa taloudessa", "Näe, miten rahan arvo muuttuu"),
+        ("05-actions.png", "hero-bleed"  , "Viikkoraha ja maksut<br>helposti", "Lukitus vanhemman PIN-koodilla, maksu viivakoodilla"),
+        ("06-learn.png", "dark"        , "Raha-asiat<br>10 vaiheessa", "Opas, jota voi lukea lapsen kanssa"),
     ],
     "el": [
         ("01-dashboard.png", "hero-bleed"  , "Το σπίτι σας γίνεται<br>μια μικρή τράπεζα", "Οι γονείς είναι η τράπεζα, τα παιδιά οι πελάτες"),

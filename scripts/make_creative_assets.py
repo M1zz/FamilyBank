@@ -33,6 +33,7 @@ SPEC = {
 # 기기 화면은 아이 한 명의 통장 - 지갑 · 저축 · 투자와 최근 거래.
 SEARCH = {
     "ko": ("용돈 관리", "우리 집 은행에서<br>용돈이 쑥쑥", "저축하면 이자가 붙고 투자도 해 봐요"),
+    "fi": ("lasten viikkoraha", "Viikkoraha kasvaa<br>kotipankissa", "Säästäminen tuottaa korkoa ja voit kokeilla sijoittamista"),
     "el": ("χαρτζιλίκι παιδιών", "Το χαρτζιλίκι μεγαλώνει<br>στην τράπεζα του σπιτιού", "Η αποταμίευση φέρνει τόκους και δοκιμάζεις επένδυση"),
     "da": ("lommepenge til børn", "Lommepengene vokser<br>i hjemmebanken", "Opsparing giver renter, og du kan prøve at investere"),
     "cs": ("kapesné pro děti", "Kapesné roste<br>v domácí bance", "Spoření nese úroky a můžeš zkusit investovat"),
@@ -54,6 +55,7 @@ SEARCH = {
 # 헤더: 처음 온 사람에게 한 가지 약속. 용돈으로 돈 쓰는 법을 몸으로 배운다.
 HEADER = {
     "ko": ("우리 집 경제 교육", "용돈으로 배우는<br>저축과 투자"),
+    "fi": ("Raha-asiat opitaan kotona", "Opi säästämään ja sijoittamaan<br>viikkorahalla"),
     "el": ("Οικονομική παιδεία στο σπίτι", "Μάθε αποταμίευση και επένδυση<br>με το χαρτζιλίκι"),
     "da": ("Økonomi derhjemme", "Lær at spare og investere<br>med lommepenge"),
     "cs": ("Finanční gramotnost doma", "Spoření a investování<br>se učíme na kapesném"),

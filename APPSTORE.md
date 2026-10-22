@@ -1053,3 +1053,65 @@ SukSuk Χαρτζιλίκι: Παιδιά
 
 Συγχρονισμός iCloud
 Οι συσκευές με τον ίδιο λογαριασμό iCloud κρατούν το οικογενειακό καθολικό ίδιο.
+
+## fi
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Viikkoraha: Lapset
+
+### 부제
+
+Opi säästämään ja sijoittamaan
+
+### 키워드
+
+talousosaaminen,säästöpossu,pankki,korko,korkoa korolle,budjetti,perhe,talous,kolikot,osakkeet
+
+### 프로모션 텍스트
+
+Vanhemmat ovat keskuspankki ja lapset asiakkaita. Anna viikkorahaa kotinne omalla valuutalla ja anna lasten kokea säästökorko ja harjoitella sijoittamista.
+
+### 설명
+
+Opeta lapsillesi, miten raha toimii, omalla valuutalla. Vanhemmat toimivat keskuspankkina ja laskevat liikkeelle viikkorahan; lapset maksavat, säästävät ja sijoittavat ja oppivat taloutta tekemällä.
+Se, minkä on itse kokenut, jää mieleen paljon pidemmäksi aikaa kuin se, mikä on vain selitetty.
+
+Kotivaluutta
+Valitset itse valuutan nimen, esimerkiksi Pavut, Tähdet tai Kolikot. Viikkorahaa voi antaa tai vähentää vain PIN-koodilla lukitussa vanhempaintilassa.
+
+Maksaminen ja kotikauppa
+Vanhemmat määrittävät kotona käytettävät asiat, kuten välipalat, peliajan tai tv-ajan, ja asettavat niille hinnat.
+Lapset valitsevat kaupasta ja maksavat heti tai skannaavat kameralla viivakoodin, jonka vanhempi näyttää.
+
+Säästäminen ja korko
+Säästötilillä olevalle rahalle maksetaan joka viikko korkoa korolle. Koron asettavat vanhemmat, ja etukäteen näkee, kuinka paljon raha kasvaa.
+
+Sijoittamisen harjoittelu
+Osta ja myy kolmea harjoitusrahastoa, joiden hinta muuttuu kerran päivässä, ja seuraa tuottokuvaajia. Vertaile turvallisia, kohtalaisia ja riskialttiita rahastoja ja ymmärrä riskin ja tuoton yhteys.
+
+Markkina ja historia
+Markkina-välilehti näyttää yhdellä silmäyksellä kotinne hinnat, valuuttakurssin, koron, rahamäärän ja sijoitusten hinnat. Se näyttää myös, että hintojen noustessa samalla rahalla saa vähemmän.
+Jokainen rahan liike kirjataan kirjanpitoon, ja sitä voi selata päivän, jäsenen ja tyypin mukaan.
+
+Opi
+Vanhempien opas 10 vaiheessa – kysymyksestä ”Miksi rahaa tarvitaan?” tarpeisiin ja toiveisiin, vaihtoehtoiskustannukseen, säästämiseen ja korkoon, korkoa korolle -ilmiöön, inflaatioon, sijoittamiseen ja riskiin sekä budjetin tekemiseen – auttaa keskustelemaan lapsen kanssa.
+Korkoa korolle -laskimessa ja inflaatiokokeessa voit itse muuttaa lukuja ja kokeilla.
+
+Lapsen puhelimen tila
+Muuta lapsen puhelin vain hänelle tarkoitetuksi näkymäksi. Hän näkee vain oman lompakkonsa, sijoituksensa, historiansa ja oppitunnit, ja poistuminen vaatii vanhemman PIN-koodin. Voit kutsua lapsen QR-kutsulla.
+
+iCloud-synkronointi
+Laitteet, joilla on sama iCloud-tili, pitävät perheen kirjanpidon samana.

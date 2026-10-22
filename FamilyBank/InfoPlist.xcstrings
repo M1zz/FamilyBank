@@ -45,6 +45,12 @@
             "value" : "SukSuk Paga"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Viikkoraha"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +157,12 @@
             "value" : "Se necesita la cámara para que tu hijo pueda escanear el código de barras de un artículo y pagar."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kameraa tarvitaan, jotta lapsi voi skannata tuotteen viivakoodin ja maksaa."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -255,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se usa Face ID para confirmar que eres un adulto al desbloquear las acciones."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID:tä käytetään vanhemman vahvistamiseen toimintojen lukitusta avattaessa."
           }
         },
         "fr" : {

@@ -123,3 +123,10 @@ Appen kører nu mere stabilt.
 Διάβασε τις απαντήσεις στην εφαρμογή.
 Άνοιξε απόρρητο και υποστήριξη.
 Η εφαρμογή λειτουργεί πιο σταθερά.
+
+### 앱스토어 (suomi)
+
+Lähetä palautetta vanhempaintilasta.
+Lue palautteeseen tulleet vastaukset.
+Avaa tietosuoja ja tuki sovelluksessa.
+Sovellus toimii entistä vakaammin.

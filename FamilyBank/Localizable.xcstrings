@@ -46,6 +46,12 @@
             "value" : "%@ %@ — ¿pagar %@ %@?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — maksetaanko %@ %@?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pagar %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maksa %@ %@"
           }
         },
         "fr" : {
@@ -260,6 +272,12 @@
             "value" : "Dar %@ %@"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna %@ %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -365,6 +383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descontar %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vähennä %@ %@"
           }
         },
         "fr" : {
@@ -474,6 +498,12 @@
             "value" : "¿Comprar %1$@ %2$@ por %3$@ %4$@?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostetaanko %1$@ %2$@ hintaan %3$@ %4$@?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -579,6 +609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has ahorrado %@ %@! Cada semana se suman intereses. 💰"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säästit %@ %@! Joka viikko lisätään korkoa. 💰"
           }
         },
         "fr" : {
@@ -688,6 +724,12 @@
             "value" : "Has pasado %@ %@ al monedero."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ siirrettiin lompakkoon."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -793,6 +835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cartera de %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omistukset: %@ %@"
           }
         },
         "fr" : {
@@ -902,6 +950,12 @@
             "value" : "Banco de %@ %@"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ -pankki"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1007,6 +1061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Convertir en el teléfono de %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tee puhelimeksi: %@ %@"
           }
         },
         "fr" : {
@@ -1116,6 +1176,12 @@
             "value" : "¡Has comprado %2$lld acciones de %1$@! 📈"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostit %2$lld osuutta tuotetta %1$@! 📈"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1221,6 +1287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has vendido %2$lld acciones de %1$@! %3$@ %4$@ han entrado en el monedero."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Myit %2$lld osuutta tuotetta %1$@! %3$@ %4$@ tuli lompakkoon."
           }
         },
         "fr" : {
@@ -1330,6 +1402,12 @@
             "value" : "%@%% (compuesto)"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %% (korkoa korolle)"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1435,6 +1513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Invitamos a %@\na SukSuk Paga!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kutsu %@\nSukSuk Viikkorahaan!"
           }
         },
         "fr" : {
@@ -1544,6 +1628,12 @@
             "value" : "Has pagado %2$@ %3$@ a %1$@."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maksoit %2$@ %3$@ henkilölle %1$@."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1649,6 +1739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has dado %2$@ %3$@ a %1$@! 🎁"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annoit %2$@ %3$@ henkilölle %1$@! 🎁"
           }
         },
         "fr" : {
@@ -1758,6 +1854,12 @@
             "value" : "%@ wones → %@ %@"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wonia → %@ %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1863,6 +1965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has comprado %@! Te quedan en el monedero: %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostit tuotteen %@! Lompakkoon jäi: %@ %@"
           }
         },
         "fr" : {
@@ -1972,6 +2080,12 @@
             "value" : "¡Has comprado %@! 🎉 Te quedan en el monedero: %@ %@"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostit tuotteen %@! 🎉 Lompakkoon jäi: %@ %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2077,6 +2191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El monedero de %@ no tiene saldo suficiente."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakossa (%@) ei ole tarpeeksi rahaa."
           }
         },
         "fr" : {
@@ -2186,6 +2306,12 @@
             "value" : "Se han descontado %2$@ %3$@ del monedero de %1$@."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakosta (%1$@) vähennettiin %2$@ %3$@."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2291,6 +2417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paso %lld"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaihe %lld"
           }
         },
         "fr" : {
@@ -2400,6 +2532,12 @@
             "value" : "Paso %lld · %@"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaihe %lld · %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2505,6 +2643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld acciones · media %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld osuutta · keskim. %@"
           }
         },
         "fr" : {
@@ -2614,6 +2758,12 @@
             "value" : "Valor de lo que podrás comprar dentro de %lld semanas"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sen arvo, minkä voi ostaa %lld viikon kuluttua"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2719,6 +2869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tras %lld semanas: %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld viikon kuluttua: %@ %@"
           }
         },
         "fr" : {
@@ -2828,6 +2984,12 @@
             "value" : "Una «necesidad» es algo sin lo que tendrías problemas: comida, ropa, material escolar. Un «deseo» es algo que te hace ilusión, pero con lo que puedes vivir sin problema: juguetes, objetos de videojuegos.\n\n¡Las dos cosas importan! Pero el orden es clave. Primero se cubren las necesidades y, con el dinero que sobra, se hace un plan para cumplir los deseos."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "”Tarve” on jotain, mitä ilman tulee vaikeaa: ruoka, vaatteet, koulutarvikkeet. ”Toive” on jotain, mikä on kiva saada, mutta ilman sitä pärjää: lelut, pelien esineet.\n\nMolemmat ovat tärkeitä! Mutta järjestys on tärkeä. Hoida ensin tarpeet ja tee sitten jäljelle jäävillä rahoilla suunnitelma toiveiden täyttämiseksi."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2933,6 +3095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ wones"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ wonia"
           }
         },
         "fr" : {
@@ -3042,6 +3210,12 @@
             "value" : "Valor real de 1 %@"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@:n todellinen arvo"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3147,6 +3321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ wones"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ wonia"
           }
         },
         "fr" : {
@@ -3256,6 +3436,12 @@
             "value" : "¿Cómo cambia el «poder real» de 1.000 %@?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miten 1 000 %@:n ”todellinen voima” muuttuu?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3361,6 +3547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si ahorras 1.000 monedas con un 5 %% de interés, ¿cuánto tendrás al cabo de una semana?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos laitat 1 000 kolikkoa 5 %% korolla, paljonko sinulla on viikon kuluttua?"
           }
         },
         "fr" : {
@@ -3470,6 +3662,12 @@
             "value" : "Tienes 1.000 monedas y quieres comprar chucherías y también pegatinas. Pero solo te alcanza para una cosa. ¿Qué haces? Si eliges una, tienes que renunciar a la otra.\n\nA eso a lo que renuncias se le llama «coste de oportunidad». Y no solo pasa con el dinero, también con el tiempo. Si juegas una hora a videojuegos, has renunciado a todo lo que podrías haber hecho en esa hora."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinulla on 1 000 kolikkoa ja haluaisit ostaa sekä karkkia että tarroja. Mutta rahat riittävät vain yhteen. Mitä teet? Jos valitset toisen, sinun täytyy luopua toisesta.\n\nSitä, mistä luovut, kutsutaan ”vaihtoehtoiskustannukseksi”. Tämä koskee myös aikaa. Jos pelaat tunnin, olet luopunut kaikesta muusta, mitä olisit voinut tehdä sen tunnin aikana."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3575,6 +3773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estimado en 12 semanas: %@ %@ (+%@)"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arvio 12 viikon päästä: %@ %@ (+%@)"
           }
         },
         "fr" : {
@@ -3684,6 +3888,12 @@
             "value" : "Precio por acción"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinta per osuus"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3789,6 +3999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir con Face ID"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avaa Face ID:llä"
           }
         },
         "fr" : {
@@ -3898,6 +4114,12 @@
             "value" : "Cambiar PIN"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaihda PIN"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4003,6 +4225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Introducir PIN"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna PIN"
           }
         },
         "fr" : {
@@ -4112,6 +4340,12 @@
             "value" : "El PIN debe tener 4 cifras."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN-koodissa on oltava 4 numeroa."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4217,6 +4451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pregunta a Siri y consulta al instante el saldo de tu hijo."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kysy Sirin avulla lapsen saldo heti."
           }
         },
         "fr" : {
@@ -4326,6 +4566,12 @@
             "value" : "Siri y Atajos"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri ja Oikotiet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4431,6 +4677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir con Touch ID"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avaa Touch ID:llä"
           }
         },
         "fr" : {
@@ -4540,6 +4792,12 @@
             "value" : "VoiceOver lee todos los saldos y botones, en el orden correcto."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver lukee kaikki saldot ja painikkeet kokonaan ja oikeassa järjestyksessä."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4645,6 +4903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VoiceOver más cómodo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helpompi VoiceOver"
           }
         },
         "fr" : {
@@ -4754,6 +5018,12 @@
             "value" : "≈ %@ wones"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ wonia"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4859,6 +5129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ Ajustes del banco"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Pankin asetukset"
           }
         },
         "fr" : {
@@ -4968,6 +5244,12 @@
             "value" : "⚡️ Acciones"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Toiminnot"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5073,6 +5355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tienda"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kauppa"
           }
         },
         "fr" : {
@@ -5182,6 +5470,12 @@
             "value" : "Registrar en la tienda"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää kauppaan"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5287,6 +5581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinta"
           }
         },
         "fr" : {
@@ -5396,6 +5696,12 @@
             "value" : "El precio se fija donde se encuentran las ganas de comprar y la cantidad en venta."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinta muodostuu siellä, missä ostohalu ja myytävä määrä kohtaavat."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5501,6 +5807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender cómo se fijan los precios"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymmärtää, miten hinnat muodostuvat"
           }
         },
         "fr" : {
@@ -5610,6 +5922,12 @@
             "value" : "Precios 🏷️"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintalaput 🏷️"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5715,6 +6033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registra a los miembros de la familia"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää perheenjäsenet"
           }
         },
         "fr" : {
@@ -5824,6 +6148,12 @@
             "value" : "Registrar familia"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää perhe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5929,6 +6259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay movimientos"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei tapahtumia"
           }
         },
         "fr" : {
@@ -6038,6 +6374,12 @@
             "value" : "Tipo de movimiento"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tapahtumatyyppi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6143,6 +6485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Qué es más arriesgado, el Fondo Tortuga o el Fondo Cohete? ¿Por qué?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kumpi on riskialttiimpi, Kilpikonna-rahasto vai Raketti-rahasto? Miksi?"
           }
         },
         "fr" : {
@@ -6252,6 +6600,12 @@
             "value" : "¿Cuál es el coste de oportunidad de una hora de videojuegos?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mikä on tunnin pelaamisen vaihtoehtoiskustannus?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6357,6 +6711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pago"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maksu"
           }
         },
         "fr" : {
@@ -6466,6 +6826,12 @@
             "value" : "Error en el pago"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maksu epäonnistui"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6571,6 +6937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Pago completado! 🎉"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maksu onnistui! 🎉"
           }
         },
         "fr" : {
@@ -6680,6 +7052,12 @@
             "value" : "Pagar"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maksa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6785,6 +7163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El dinero con plan dura más."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suunnitelmalliset rahat kestävät pidempään."
           }
         },
         "fr" : {
@@ -6894,6 +7278,12 @@
             "value" : "Entender que quien puede ganar mucho también puede perder mucho"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymmärtää, että suuri tuotto tarkoittaa suurta riskiä"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6999,6 +7389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luokka"
           }
         },
         "fr" : {
@@ -7108,6 +7504,12 @@
             "value" : "Miembro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jäsen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7213,6 +7615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir miembro"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää jäsen"
           }
         },
         "fr" : {
@@ -7322,6 +7730,12 @@
             "value" : "Al aumentar el tamaño del texto, las pantallas se reorganizan sin cortarse."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun suurennat tekstiä, näytöt järjestyvät siististi uudelleen eivätkä leikkaudu."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7427,6 +7841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importe"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summa"
           }
         },
         "fr" : {
@@ -7536,6 +7956,12 @@
             "value" : "Plazo: %lld semanas"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aika: %lld viikkoa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7641,6 +8067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historial"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia"
           }
         },
         "fr" : {
@@ -7750,6 +8182,12 @@
             "value" : "Coste de oportunidad"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaihtoehtoiskustannus"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7855,6 +8293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Distinguir lo que de verdad se necesita de lo que solo se quiere"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erottaa se, mitä todella tarvitsee, siitä, mitä vain haluaa"
           }
         },
         "fr" : {
@@ -7964,6 +8408,12 @@
             "value" : "Mi historial"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oma historiani"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8069,6 +8519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi cuenta de ahorro"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oma säästötilini"
           }
         },
         "fr" : {
@@ -8178,6 +8634,12 @@
             "value" : "Mi monedero"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oma lompakkoni"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8283,6 +8745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi monedero: %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oma lompakkoni: %@ %@"
           }
         },
         "fr" : {
@@ -8392,6 +8860,12 @@
             "value" : "Imagina que tienes un pez y necesitas unas zapatillas. Pero si al zapatero no le gustan los peces, no puedes cambiarlos, ¿verdad? A la gente de hace mucho tiempo esto también le parecía un fastidio. Por eso inventaron algo que le gusta a todo el mundo: el «dinero».\n\nEl dinero hace tres cosas. Primera: sirve para cambiar por casi todo (intercambio). Segunda: nos dice cuánto vale cada cosa (medir el valor). Tercera: podemos guardarlo y usarlo más tarde (ahorro)."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuvittele, että sinulla on kala ja tarvitset kengät. Mutta jos kenkäkauppias ei tykkää kalasta, et voi vaihtaa, vai mitä? Vanhaan aikaan ihmisistä tämä oli myös tosi hankalaa. Niinpä he keksivät jotain, mistä kaikki pitävät: ”rahan”.\n\nRahalla on kolme tehtävää. Ensiksi sillä voi vaihtaa melkein mitä tahansa (vaihdon väline). Toiseksi sillä voi mitata, paljonko mikin asia on arvoltaan (arvon mitta). Kolmanneksi sen voi säästää ja käyttää myöhemmin (säilytys)."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8497,6 +8971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿A quién quieres invitar?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ketä haluat kutsua?"
           }
         },
         "fr" : {
@@ -8606,6 +9086,12 @@
             "value" : "¿A quién le pagas?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kenelle maksat?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8711,6 +9197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿A quién?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kenelle?"
           }
         },
         "fr" : {
@@ -8820,6 +9312,12 @@
             "value" : "¿Qué pasa cuando haces rodar una bola de nieve? Cuanto más rueda, más rápido crece, ¿verdad? El interés compuesto es justo eso.\n\nSi a 1.000 monedas se les suman 50 de interés, tienes 1.050. La semana siguiente, el interés se calcula sobre los 1.050 enteros. ¡El dinero que ganaron los intereses también gana intereses! Al principio apenas se nota, pero con el tiempo crece como una bola de nieve."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitä tapahtuu, kun vierität lumipalloa? Mitä pidemmälle se vierii, sitä nopeammin se kasvaa, eikö niin? Korkoa korolle on juuri sitä.\n\nJos 1 000 kolikolle tulee korkoa 50, siitä tulee 1 050. Ensi viikolla korko lasketaan koko 1 050:stä. Myös rahat, jotka korko on ansainnut, tuottavat korkoa! Aluksi sitä ei huomaa, mutta ajan mittaan se kasvaa kuin lumipallo."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8925,6 +9423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siguiente"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seuraava"
           }
         },
         "fr" : {
@@ -9034,6 +9538,12 @@
             "value" : "Cerrar"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sulje"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9139,6 +9649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El dinero que no vas a gastar ahora, ¡a la cuenta de ahorro!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rahat, joita et käytä nyt, säästötilille!"
           }
         },
         "fr" : {
@@ -9248,6 +9764,12 @@
             "value" : "Podrás leer los saldos y el historial aunque actives más contraste o te cueste distinguir colores."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldot ja historia ovat helposti luettavissa, vaikka kontrasti olisi korotettu tai värit olisi vaikea erottaa."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9353,6 +9875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Panel"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yleiskatsaus"
           }
         },
         "fr" : {
@@ -9462,6 +9990,12 @@
             "value" : "Podrás usar la app en más idiomas."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sovellusta voi käyttää useammalla kielellä."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9567,6 +10101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Más idiomas"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää kieliä"
           }
         },
         "fr" : {
@@ -9676,6 +10216,12 @@
             "value" : "El dinero es una herramienta para cambiar, medir y guardar."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raha on väline vaihtamiseen, mittaamiseen ja säästämiseen."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9781,6 +10327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Para qué sirve el dinero?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miksi rahaa tarvitaan?"
           }
         },
         "fr" : {
@@ -9890,6 +10442,12 @@
             "value" : "Crear el hábito de planificar y repartir el dinero"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oppia suunnittelemaan ja jakamaan rahat"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9995,6 +10553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender por qué existe el dinero y para qué sirve"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymmärtää, miksi raha on syntynyt ja mitä se tekee"
           }
         },
         "fr" : {
@@ -10104,6 +10668,12 @@
             "value" : "Los dos PIN no coinciden."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaksi annettua PIN-koodia eivät täsmää."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10209,6 +10779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no hay artículos. Primero añade artículos a la tienda con «Añadir artículo»."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuotteita ei ole vielä lisätty. Lisää ensin tuotteita kauppaan kohdasta ”Lisää tuote”."
           }
         },
         "fr" : {
@@ -10318,6 +10894,12 @@
             "value" : "No hay hijos registrados"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lapsia ei ole lisätty"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10423,6 +11005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Podría una pieza de LEGO ser dinero? ¿Superaría las cinco pruebas?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voisiko LEGO-palikka olla rahaa? Läpäisisikö se viisi koetta?"
           }
         },
         "fr" : {
@@ -10532,6 +11120,12 @@
             "value" : "¿Qué pasaría si no existiera el dinero?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitä tapahtuisi, jos maailmassa ei olisi rahaa?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10637,6 +11231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vender"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Myy"
           }
         },
         "fr" : {
@@ -10746,6 +11346,12 @@
             "value" : "Comprar"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osta"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10851,6 +11457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cada semana los precios suben un %@%%. Eso significa que con el mismo dinero puedes comprar un poco menos cada vez."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joka viikko hinnat nousevat %@ %%. Se tarkoittaa, että samalla rahalla saa vähän vähemmän kerrallaan."
           }
         },
         "fr" : {
@@ -10960,6 +11572,12 @@
             "value" : "Los precios suben cada semana"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinnat nousevat joka viikko"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11065,6 +11683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cada semana, el índice de precios de casa sube esta cantidad (índice actual: %lld). Con 0 %% no hay inflación. Si además subes un poco los precios reales de golosinas y juguetes, tu hijo aprende cómo cambia el valor del dinero."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joka viikko kotimme hintaindeksi nousee tämän verran (nykyinen indeksi %lld). Arvolla 0 %% inflaatiota ei ole. Jos nostat myös oikeiden välipalojen ja lelujen hintoja vähän, lapsi oppii, miten rahan arvo muuttuu."
           }
         },
         "fr" : {
@@ -11174,6 +11798,12 @@
             "value" : "Nota (ej.: comprar una merienda)"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muistiinpano (esim.: ostetaan välipala)"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11279,6 +11909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nota (ej.: paga semanal)"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muistiinpano (esim.: viikon viikkoraha)"
           }
         },
         "fr" : {
@@ -11388,6 +12024,12 @@
             "value" : "¿Qué pasa con el precio de algo que todos quieren vender?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitä tapahtuu sellaisen asian hinnalle, jonka kaikki haluavat myydä?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11493,6 +12135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se eliminarán todos los miembros, movimientos y productos de inversión, y volverás a la pantalla de configuración inicial."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaikki jäsenet, tapahtumat ja sijoitustuotteet poistetaan, ja palaat aloitusasetusten näkymään."
           }
         },
         "fr" : {
@@ -11602,6 +12250,12 @@
             "value" : "Borrar todos los datos"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nollaa kaikki tiedot"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11707,6 +12361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detrás de cada elección hay algo a lo que se renunció."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jokaisen valinnan takana on jotain, mistä on luovuttu."
           }
         },
         "fr" : {
@@ -11816,6 +12476,12 @@
             "value" : "¿Para qué es?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mihin se on?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11921,6 +12587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subida de precios"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintojen nousu"
           }
         },
         "fr" : {
@@ -12030,6 +12702,12 @@
             "value" : "Evolución de precios 📊"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintakehitys 📊"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12135,6 +12813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuando suben los precios, con el mismo dinero se compra menos"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun hinnat nousevat, samalla rahalla saa vähemmän"
           }
         },
         "fr" : {
@@ -12244,6 +12928,12 @@
             "value" : "Cuando suben los precios, el dinero pierde fuerza. Por eso hacen falta el ahorro y la inversión."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun hinnat nousevat, raha menettää voimaansa. Siksi tarvitaan säästämistä ja sijoittamista."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12349,6 +13039,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender que, cuando suben los precios, el dinero pierde fuerza"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymmärtää, että hintojen noustessa raha menettää voimaansa"
           }
         },
         "fr" : {
@@ -12458,6 +13154,12 @@
             "value" : "Cuando suben los precios, ¿es buena idea dejar el dinero quieto en el monedero?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onko hyvä idea jättää raha vain lompakkoon, kun hinnat nousevat?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12563,6 +13265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Índice de precios"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintaindeksi"
           }
         },
         "fr" : {
@@ -12672,6 +13380,12 @@
             "value" : "%lld artículos en venta · tipo de cambio automático"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Myynnissä %lld tuotetta · valuuttakurssi huomioidaan automaattisesti"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12777,6 +13491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Código de barras"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuotteen viivakoodi"
           }
         },
         "fr" : {
@@ -12886,6 +13606,12 @@
             "value" : "Coloca el código de barras dentro del recuadro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aseta tuotteen viivakoodi kehyksen sisään"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12991,6 +13717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nombre del artículo (ej.: refresco, 30 min de juego)"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuotteen nimi (esim.: limsa, 30 min pelaamista)"
           }
         },
         "fr" : {
@@ -13100,6 +13832,12 @@
             "value" : "Datos del artículo"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuotteen tiedot"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13205,6 +13943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir artículo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää tuote"
           }
         },
         "fr" : {
@@ -13314,6 +14058,12 @@
             "value" : "Código de barras"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viivakoodi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13419,6 +14169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Destinatario"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vastaanottaja"
           }
         },
         "fr" : {
@@ -13528,6 +14284,12 @@
             "value" : "Dinero recibido"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vastaanotettu"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13633,6 +14395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay nadie que reciba el pago"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei ole ketään, joka voisi vastaanottaa"
           }
         },
         "fr" : {
@@ -13742,6 +14510,12 @@
             "value" : "Aprender"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13847,6 +14621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copia de seguridad y exportación"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varmuuskopio ja vienti"
           }
         },
         "fr" : {
@@ -13956,6 +14736,12 @@
             "value" : "Colores y contraste más cómodos"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miellyttävämmät värit ja kontrasti"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14061,6 +14847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No tienes suficientes acciones."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinulla ei ole tarpeeksi osuuksia."
           }
         },
         "fr" : {
@@ -14170,6 +14962,12 @@
             "value" : "Productos de inversión que tienes"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omistamasi sijoitustuotteet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14275,6 +15073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moderado 🐰"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kohtalainen 🐰"
           }
         },
         "fr" : {
@@ -14384,6 +15188,12 @@
             "value" : "La magia del interés compuesto"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korkoa korolle -ilmiön taika"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14489,6 +15299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Padre/madre"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanhempi"
           }
         },
         "fr" : {
@@ -14598,6 +15414,12 @@
             "value" : "Guía para padres 📖"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opas vanhemmille 📖"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14703,6 +15525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modo para padres"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanhempaintila"
           }
         },
         "fr" : {
@@ -14812,6 +15640,12 @@
             "value" : "Elige el PIN del modo para padres"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aseta vanhempaintilan PIN-koodi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14917,6 +15751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Puedes añadir productos en el modo para padres"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voit lisätä tuotteita vanhempaintilassa"
           }
         },
         "fr" : {
@@ -15026,6 +15866,12 @@
             "value" : "Se usa para confirmar que eres un adulto"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käytetään vanhemman vahvistamiseen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15131,6 +15977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hace falta la confirmación de un adulto"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanhemman vahvistus tarvitaan"
           }
         },
         "fr" : {
@@ -15240,6 +16092,12 @@
             "value" : "Padres 🏦"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanhemmat 🏦"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15345,6 +16203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Los padres hacen de banco (banco central) y los hijos son los clientes."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanhemmat toimivat pankkina (keskuspankkina) ja lapset ovat asiakkaita."
           }
         },
         "fr" : {
@@ -15454,6 +16318,12 @@
             "value" : "Hace falta la confirmación de un adulto"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanhemman vahvistus tarvitaan"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15559,6 +16429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registra al menos a un adulto."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää vähintään yksi vanhempi."
           }
         },
         "fr" : {
@@ -15668,6 +16544,12 @@
             "value" : "Piensa en un vendedor de paraguas un día de lluvia. Si mucha gente quiere un paraguas y hay muy pocos, ¿qué pasa? Aunque subas el precio, se venden. En cambio, los bañadores cuando se acaba el verano: nadie quiere comprarlos y hay que venderlos baratos.\n\nAsí, el precio se fija en el tira y afloja entre «las ganas de comprar» (demanda) y «la cantidad en venta» (oferta). Los precios de las inversiones suben y bajan por la misma razón."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajattele sateenvarjokauppiasta sateisena päivänä. Moni haluaa sateenvarjon, mutta niitä on vain vähän? Vaikka hintaa nostettaisiin, ne menevät kaupaksi. Entä uimapuvut kesän päätyttyä? Kukaan ei halua ostaa, joten ne täytyy myydä halvalla.\n\nHinta syntyy näin ”ostohalun” (kysyntä) ja ”myytävän määrän” (tarjonta) vetämisestä. Sijoitusten hinnat nousevat ja laskevat saman periaatteen mukaan."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15773,6 +16655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comprar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osta"
           }
         },
         "fr" : {
@@ -15882,6 +16770,12 @@
             "value" : "Producto"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuote"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15987,6 +16881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nombre del producto (ej.: Fondo Luz de Estrella)"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuotteen nimi (esim.: Tähtivalo-rahasto)"
           }
         },
         "fr" : {
@@ -16096,6 +16996,12 @@
             "value" : "Datos del producto"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuotteen tiedot"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16201,6 +17107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir producto"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää tuote"
           }
         },
         "fr" : {
@@ -16310,6 +17222,12 @@
             "value" : "Nuevo PIN de 4 cifras"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uusi 4-numeroinen PIN"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16415,6 +17333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender que elegir algo significa renunciar a otra cosa"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymmärtää, että valitseminen tarkoittaa luopumista jostakin muusta"
           }
         },
         "fr" : {
@@ -16524,6 +17448,12 @@
             "value" : "Descripción (opcional)"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuvaus (valinnainen)"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16629,6 +17559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Respuesta háptica"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuntopalaute"
           }
         },
         "fr" : {
@@ -16738,6 +17674,12 @@
             "value" : "Cantidad: %lld acciones"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Määrä: %lld osuutta"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16843,6 +17785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oferta y demanda"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarjonta ja kysyntä"
           }
         },
         "fr" : {
@@ -16952,6 +17900,12 @@
             "value" : "Más ganancia significa más riesgo. ¡Reparte y arriesga solo lo que puedas perder!"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suuri tuotto tarkoittaa suurta riskiä. Hajauta ja riskeeraa vain se, minkä voit menettää!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17057,6 +18011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "4 cifras"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 numeroa"
           }
         },
         "fr" : {
@@ -17166,6 +18126,12 @@
             "value" : "Base 100 al inicio"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alku = 100"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17271,6 +18237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio inicial"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alkuhinta"
           }
         },
         "fr" : {
@@ -17380,6 +18352,12 @@
             "value" : "+%@%% desde el inicio"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@ %% alusta"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17485,6 +18463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Empezar 🎉"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aloitetaan 🎉"
           }
         },
         "fr" : {
@@ -17594,6 +18578,12 @@
             "value" : "Mercado"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markkina"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17699,6 +18689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En la pestaña Mercado, miren juntos los precios de la tienda de casa y hablen de por qué cada cosa cuesta distinto."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katsokaa yhdessä Markkina-välilehdeltä kaupan hintalappuja ja jutelkaa siitä, miksi eri asioiden hinnat ovat erilaiset."
           }
         },
         "fr" : {
@@ -17808,6 +18804,12 @@
             "value" : "En la pestaña Mercado, miren juntos el índice de precios y la gráfica de su evolución, y luego experimenten con «Experimento de inflación» más abajo."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katsokaa Markkina-välilehdeltä yhdessä hintaindeksiä ja hintojen kehitystä ja kokeilkaa sitten alla olevaa ”Inflaatiokoetta”."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17913,6 +18915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vean en la pestaña Mercado cómo cambian cada día los precios de las inversiones y hablen de «cuando hay mucha gente que quiere comprar, el precio sube»."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seuratkaa Markkina-välilehdellä, miten sijoitusten hinnat muuttuvat joka päivä, ja jutelkaa siitä, että ”kun moni haluaa ostaa, hinta nousee”."
           }
         },
         "fr" : {
@@ -18022,6 +19030,12 @@
             "value" : "Precio real: %@ wones"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todellinen hinta: %@ wonia"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18127,6 +19141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio real (wones)"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todellinen hinta (wonia)"
           }
         },
         "fr" : {
@@ -18236,6 +19256,12 @@
             "value" : "Precio en el mundo real"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinta oikeassa maailmassa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18341,6 +19367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Valor real"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reaaliarvo"
           }
         },
         "fr" : {
@@ -18450,6 +19482,12 @@
             "value" : "Empezar con SukSuk Paga"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aloita SukSuk Viikkorahalla"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18555,6 +19593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Te damos la bienvenida a SukSuk Paga!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tervetuloa SukSuk Viikkorahaan!"
           }
         },
         "fr" : {
@@ -18664,6 +19708,12 @@
             "value" : "Consejos de uso"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käyttövinkit"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18769,6 +19819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seguir escribiendo donde lo dejaste"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jatka siitä, mihin jäit"
           }
         },
         "fr" : {
@@ -18878,6 +19934,12 @@
             "value" : "En la «Calculadora de interés compuesto» de abajo, alarguen el plazo de 4 a 52 semanas. ¡Observen juntos cómo la gráfica se va empinando!"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pidennä alla olevassa ”Korkoa korolle -laskimessa” aikaa 4 viikosta 52 viikkoon. Katsokaa yhdessä, miten kuvaaja jyrkkenee jyrkkenemistään!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18983,6 +20045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender por qué no cualquier cosa puede ser dinero (sus características)"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymmärtää, miksi mikä tahansa ei voi olla rahaa (rahan ominaisuudet)"
           }
         },
         "fr" : {
@@ -19092,6 +20160,12 @@
             "value" : "Pasen la mitad del monedero de su hijo a la cuenta de ahorro. Una semana después, comprueben juntos los intereses. ¡Funciona de maravilla!"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siirtäkää puolet lapsen lompakosta säästötilille. Viikon kuluttua katsokaa yhdessä korkoja – tehoaa erinomaisesti!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19197,6 +20271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Antes de que su hijo pague en la tienda, pídanle siempre que diga «otra cosa que podría comprar con este dinero»."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennen kuin lapsi maksaa kaupassa, pyydä häntä aina sanomaan ”yksi toinen asia, jonka näillä rahoilla voisi ostaa”."
           }
         },
         "fr" : {
@@ -19306,6 +20386,12 @@
             "value" : "Prueba a decírselo así"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokeile sanoa lapselle näin"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19411,6 +20497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sigue con tu hijo paso a paso desde el 1. Cada paso son 10 minutos: explicar, preguntar y probar juntos."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edetkää lapsen kanssa askel kerrallaan vaiheesta 1 alkaen. Jokainen vaihe etenee järjestyksessä ”selitä → kysy → kokeilkaa yhdessä”, ja 10 minuuttia riittää."
           }
         },
         "fr" : {
@@ -19520,6 +20612,12 @@
             "value" : "Junto a su hijo, repartan una cantidad pequeña entre 2 productos. Miren los precios cada día para que se acostumbre a las subidas y bajadas."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jakakaa yhdessä lapsen kanssa pieni summa kahden tuotteen kesken. Katsokaa hintoja joka päivä, jotta hän tottuu nousuihin ja laskuihin."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19625,6 +20723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todavía hay pocos datos de precios. ¡Vuelve a mirar mañana!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintahistoriaa ei ole vielä tarpeeksi. Käy katsomassa huomenna uudestaan!"
           }
         },
         "fr" : {
@@ -19734,6 +20838,12 @@
             "value" : "Aún no hay movimientos"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei vielä tapahtumia"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19839,6 +20949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no hay artículos.\n¡Registra los artículos de tu casa en el modo para padres!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuotteita ei ole vielä lisätty.\nLisää perheesi tuotteet vanhempaintilassa!"
           }
         },
         "fr" : {
@@ -19948,6 +21064,12 @@
             "value" : "Aún no hay artículos · añádelos en la pestaña Acciones"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei vielä tuotteita · lisää ne Toiminnot-välilehdellä"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20053,6 +21175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todavía no tienes nada"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei vielä omistuksia"
           }
         },
         "fr" : {
@@ -20162,6 +21290,12 @@
             "value" : "Estable 🐢"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turvallinen 🐢"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20267,6 +21401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aviso"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilmoitus"
           }
         },
         "fr" : {
@@ -20376,6 +21516,12 @@
             "value" : "Te avisaremos con discreción de funciones útiles justo cuando las necesites."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vinkkaamme hienovaraisesti hyödyllisistä toiminnoista sopivalla hetkellä."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20481,6 +21627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acciones"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toiminnot"
           }
         },
         "fr" : {
@@ -20590,6 +21742,12 @@
             "value" : "Probemos juntos en la app"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokeilkaa yhdessä sovelluksessa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20695,6 +21853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Consulta el saldo de tu hijo desde la pantalla de inicio, sin abrir la app."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Näe lapsen saldo suoraan kotinäytöltä avaamatta sovellusta."
           }
         },
         "fr" : {
@@ -20804,6 +21968,12 @@
             "value" : "También podrás usar la app en inglés."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voit käyttää sovellusta myös englanniksi."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20909,6 +22079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cuánto?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuinka paljon?"
           }
         },
         "fr" : {
@@ -21018,6 +22194,12 @@
             "value" : "¿Cuánto vas a pagar?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paljonko maksat?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21123,6 +22305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La primera vez que abras la app tras una actualización, te contaremos qué hay de nuevo."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun avaat sovelluksen ensimmäisen kerran päivityksen jälkeen, näet mitä uutta on tullut."
           }
         },
         "fr" : {
@@ -21232,6 +22420,12 @@
             "value" : "Novedades"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uutta"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21337,6 +22531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rol"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rooli"
           }
         },
         "fr" : {
@@ -21446,6 +22646,12 @@
             "value" : "Compatibilidad con inglés"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Englannin tuki"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21551,6 +22757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ej.: algo que cuesta 1.000 wones de verdad = %@ %@. Los precios de la tienda en %@ se calculan solos con este tipo de cambio."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esim.: tuote, joka oikeasti maksaa 1 000 wonia = %@ %@. Kaupan tuotteiden hinnat valuutassa %@ lasketaan tällä kurssilla automaattisesti."
           }
         },
         "fr" : {
@@ -21660,6 +22872,12 @@
             "value" : "Ej.: Judía, Estrella, Moneda"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esim.: Papu, Tähti, Kolikko"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21765,6 +22983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hacer un presupuesto"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Budjetin tekeminen"
           }
         },
         "fr" : {
@@ -21874,6 +23098,12 @@
             "value" : "Lo que aprenderemos hoy"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitä opimme tänään"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21979,6 +23209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hecho"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valmis"
           }
         },
         "fr" : {
@@ -22088,6 +23324,12 @@
             "value" : "¿Por qué la arena del camino no puede ser dinero? ¡Porque hay muchísima por todas partes! Para ser buen dinero hay que superar cinco pruebas.\n\n① Debe durar (¡no puede pudrirse!) ② Debe ser fácil de llevar (¡una vaca pesa demasiado, queda fuera!) ③ Debe poder dividirse en trozos pequeños ④ No debe ser demasiado común ⑤ Todos deben creer que «esto es dinero de verdad».\n\nLas monedas de nuestra casa valen algo porque mamá y papá no las fabrican cuando les da la gana, sino que cumplen lo prometido."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miksi tien varren hiekka ei voi olla rahaa? Koska sitä on kaikkialla valtavasti! Hyväksi rahaksi pääsemiseksi pitää läpäistä viisi koetta.\n\n① Sen pitää kestää (ei saa mädäntyä!) ② Sen pitää olla helppo kantaa (lehmä on liian painava – hylätty!) ③ Sen pitää olla jaettavissa pieniin osiin ④ Sen ei saa olla liian tavallista ⑤ Kaikkien pitää uskoa: ”Tämä on oikeaa rahaa.”\n\nKotimme kolikoilla on arvoa, koska äiti ja isä eivät paina niitä milloin sattuu, vaan pitävät lupauksensa."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22193,6 +23435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De las cosas que quieres comprar últimamente, ¿cuáles son necesidades y cuáles son deseos?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitkä niistä asioista, joita haluaisit nyt ostaa, ovat tarpeita ja mitkä toiveita?"
           }
         },
         "fr" : {
@@ -22302,6 +23550,12 @@
             "value" : "Paga"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikkoraha"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22407,6 +23661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avisos de paga"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikkorahan muistutukset"
           }
         },
         "fr" : {
@@ -22516,6 +23776,12 @@
             "value" : "Dar paga"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna viikkorahaa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22621,6 +23887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dar / descontar paga"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna / vähennä viikkorahaa"
           }
         },
         "fr" : {
@@ -22730,6 +24002,12 @@
             "value" : "El día de la paga, dejen que su hijo decida y ponga en práctica cuánto ahorra, invierte y gasta. Una semana después, repasen juntos la pestaña Historial."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikkorahapäivänä anna lapsen päättää itse säästämisen, sijoittamisen ja kuluttamisen osuudet ja toimia niiden mukaan. Viikon päästä katsokaa yhdessä Historia-välilehteä."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22835,6 +24113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recibe una notificación el día de la paga o cuando se sumen intereses."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat ilmoituksen viikkorahapäivänä tai kun korko maksetaan."
           }
         },
         "fr" : {
@@ -22944,6 +24228,12 @@
             "value" : "Solo quien conozca este PIN podrá\ndar la paga o fijar los intereses."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikkorahan antaminen, korkojen asettaminen ym.\non mahdollista vain niille, jotka tuntevat tämän PIN-koodin."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23049,6 +24339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una ligera vibración te avisa al recibir la paga o al comprar algo."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kevyt värähdys kertoo, kun viikkoraha saapuu tai jotain ostetaan."
           }
         },
         "fr" : {
@@ -23158,6 +24454,12 @@
             "value" : "Si te gastas la paga nada más recibirla, sin ningún plan, desaparece enseguida. Por eso se hace un plan antes. A eso se le llama «presupuesto».\n\nPor ejemplo, repártelo así: ahorro 30, necesidades 40, deseos 20, reto de inversión 10. No tiene que ser exactamente así. ¡Lo importante es que lo decidas tú!"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos käytät viikkorahan heti saatuasi ilman suunnitelmaa, se on pian poissa. Siksi tehdään suunnitelma etukäteen. Sitä kutsutaan ”budjetiksi”.\n\nJaa se vaikka näin: säästö 30, tarpeelliset 40, toiveet 20, sijoituskokeilu 10. Ei tarvitse olla juuri näin. Tärkeintä on, että päätät itse!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23263,6 +24565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aquí se registrarán los pagos y las pagas que des"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun annat viikkorahaa tai maksat, se näkyy täällä"
           }
         },
         "fr" : {
@@ -23372,6 +24680,12 @@
             "value" : "Da la paga, paga, cobra intereses del ahorro\ny hasta invierte: el sistema económico de tu familia."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna viikkorahaa, maksa, saa säästöjen korkoa\nja sijoita vaikka – talousjärjestelmä vain perheellesi."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23477,6 +24791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tienda de casa"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kotikauppa"
           }
         },
         "fr" : {
@@ -23586,6 +24906,12 @@
             "value" : "Miren juntos los artículos de la tienda de casa y clasifíquenlos uno a uno en «necesidades» y «deseos»."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katsokaa yhdessä kotikaupan tuotteita ja lajitelkaa ne yksi kerrallaan ”tarpeisiin” ja ”toiveisiin”."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23691,6 +25017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio en casa"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinta kotonamme"
           }
         },
         "fr" : {
@@ -23800,6 +25132,12 @@
             "value" : "Precios de casa"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kotimme hinnat"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23905,6 +25243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cuál es ahora el índice de precios de nuestra casa?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mikä on kotimme hintaindeksi juuri nyt?"
           }
         },
         "fr" : {
@@ -24014,6 +25358,12 @@
             "value" : "Guarda los registros del banco de tu casa en un archivo y vuelve a cargarlos cuando quieras."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallenna kotipankkinne tapahtumat tiedostoon ja hae ne myöhemmin takaisin."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24119,6 +25469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Por qué cosas podemos cambiar las monedas de nuestra casa?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mihin voimme vaihtaa kotimme kolikot?"
           }
         },
         "fr" : {
@@ -24228,6 +25584,12 @@
             "value" : "¿Por qué valen algo las monedas de nuestra casa?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miksi kotimme kolikoilla on arvoa?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24333,6 +25695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dinero en circulación en casa 💰"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rahamäärä kotonamme 💰"
           }
         },
         "fr" : {
@@ -24442,6 +25810,12 @@
             "value" : "Es un producto de inversión de nuestra casa."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tämä on perheemme sijoitustuote."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24547,6 +25921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elige el nombre de la moneda de tu casa"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna kotinne valuutalle nimi"
           }
         },
         "fr" : {
@@ -24656,6 +26036,12 @@
             "value" : "Dinero que circula en casa"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kotimme rahat liikkeellä"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24761,6 +26147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reducir movimiento"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vähennä liikettä"
           }
         },
         "fr" : {
@@ -24870,6 +26262,12 @@
             "value" : "Si activas «Reducir movimiento», los efectos de pantalla se vuelven más suaves."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun ”Vähennä liikettä” on päällä, näytön tehosteet rauhoittuvat."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24975,6 +26373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "wones"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wonia"
           }
         },
         "fr" : {
@@ -25084,6 +26488,12 @@
             "value" : "Nivel de riesgo"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riskitaso"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25189,6 +26599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Arriesgado 🚀"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riskialtis 🚀"
           }
         },
         "fr" : {
@@ -25298,6 +26714,12 @@
             "value" : "Ajustes del banco"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pankin asetukset"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25403,6 +26825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuando dejas dinero en el banco, el banco dice «¡gracias por confiar en nosotros!» y te da un extra. Ese extra se llama «interés».\n\nEl dinero del monedero no crece por mucho que esperes. Pero si lo metes en la cuenta de ahorro, cada semana se le suman intereses y el dinero crece. ¿Dónde conviene guardar el dinero que no vas a gastar ahora?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun jätät rahaa pankkiin, pankki sanoo ”Kiitos, että uskoit rahasi meille!” ja antaa vähän lisää. Tätä lisää kutsutaan ”koroksi”.\n\nLompakossa oleva raha ei kasva, vaikka kuinka odottaisit. Mutta kun laitat sen säästötilille, joka viikko siihen lisätään korkoa ja raha kasvaa. Minne kannattaa laittaa rahat, joita et käytä juuri nyt?"
           }
         },
         "fr" : {
@@ -25512,6 +26940,12 @@
             "value" : "Entregar este dispositivo"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna tämä laite eteenpäin"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25617,6 +27051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Este dispositivo pasa a ser la pantalla exclusiva del hijo elegido. Solo podrá ver su monedero, la tienda, las inversiones, el historial y las lecciones. Es útil cuando le dejas tu teléfono a un hijo que no tiene uno. Para volver, toca el botón del candado e introduce el PIN de los padres."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tämä laite vaihtuu valitun lapsen omaan näkymään. Lapsi näkee vain oman lompakkonsa, kaupan, sijoitukset, historian ja oppitunnit. Kätevä, kun annat oman puhelimesi lapselle, jolla ei ole omaa. Palataksesi napauta lukkopainiketta ja anna vanhemman PIN-koodi."
           }
         },
         "fr" : {
@@ -25726,6 +27166,12 @@
             "value" : "¿Convertir este dispositivo en el teléfono de %@ %@? Para volver hará falta el PIN de los padres."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tehdäänkö tästä laitteesta puhelin: %@ %@? Takaisin palaamiseen tarvitaan vanhemman PIN-koodi."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25831,6 +27277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿De quién quieres que sea este dispositivo? Para volver hará falta el PIN de los padres."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kenen puhelimeksi tämä laite muutetaan? Takaisin palaamiseen tarvitaan vanhemman PIN-koodi."
           }
         },
         "fr" : {
@@ -25940,6 +27392,12 @@
             "value" : "¿Cuánto tendrás si lo dejas así? (estimación a 12 semanas con interés compuesto)"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paljonko siitä tulee, jos jätät sen näin? (12 viikon arvio korkoa korolle)"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26045,6 +27503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prueba a preguntar así"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokeile kysyä näin"
           }
         },
         "fr" : {
@@ -26154,6 +27618,12 @@
             "value" : "Nombre"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26256,6 +27726,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
+          }
+        },
+        "fi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji"
@@ -26368,6 +27844,12 @@
             "value" : "¿Cómo te gustaría repartir la paga de esta semana?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miten haluaisit jakaa tämän viikon viikkorahan?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26473,6 +27955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Syy"
           }
         },
         "fr" : {
@@ -26582,6 +28070,12 @@
             "value" : "Interés"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korko"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26687,6 +28181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intereses · Cambio · Precios"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korot · Kurssi · Hinnat"
           }
         },
         "fr" : {
@@ -26796,6 +28296,12 @@
             "value" : "Cuando los intereses generan más intereses, se llama «interés compuesto». ¡Cuanto más tiempo ahorres, más crece el dinero como una bola de nieve! ⛄️"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun korko tuottaa korkoa, sitä kutsutaan ”koroksi korolle”. Mitä pidempään säästät, sitä enemmän raha kasvaa kuin lumipallo! ⛄️"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26901,6 +28407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has ganado %@ %@ solo con intereses!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ansaitsit pelkillä koroilla %@ %@!"
           }
         },
         "fr" : {
@@ -27010,6 +28522,12 @@
             "value" : "Entender que los intereses sobre intereses crecen como una bola de nieve"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymmärtää, että korko korolle kasvaa kuin lumipallo"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27115,6 +28633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si el interés es menor que la subida de precios, aunque ahorres el dinero pierde fuerza. ¡Prueba a subir el interés!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos korko on pienempi kuin hintojen nousu, raha menettää voimaansa säästämälläkin. Kokeile nostaa korkoa!"
           }
         },
         "fr" : {
@@ -27224,6 +28748,12 @@
             "value" : "Atrás"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takaisin"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27329,6 +28859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inflación"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflaatio"
           }
         },
         "fr" : {
@@ -27438,6 +28974,12 @@
             "value" : "Sin inflación"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei inflaatiota"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27543,6 +29085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Día"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivä"
           }
         },
         "fr" : {
@@ -27652,6 +29200,12 @@
             "value" : "Empezar pronto y ser constante: ese es el secreto del interés compuesto."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aloita ajoissa ja pysy mukana – se on koron korolle -ilmiön salaisuus."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27757,6 +29311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cuánto dinero podrías perder sin que pasara nada grave?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuinka paljon rahaa on ok menettää?"
           }
         },
         "fr" : {
@@ -27866,6 +29426,12 @@
             "value" : "Ingresar"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Talleta"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27971,6 +29537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingresar / retirar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Talletus / Nosto"
           }
         },
         "fr" : {
@@ -28080,6 +29652,12 @@
             "value" : "Hijo"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lapsi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28185,6 +29763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escanéalo con la cámara del dispositivo de tu hijo para ver la invitación"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skannaa lapsen laitteen kameralla, niin näet kutsun"
           }
         },
         "fr" : {
@@ -28294,6 +29878,12 @@
             "value" : "Invitar a un hijo"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kutsu lapsi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28399,6 +29989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modo teléfono del hijo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lapsen puhelimen tila"
           }
         },
         "fr" : {
@@ -28508,6 +30104,12 @@
             "value" : "Cambiar al teléfono del hijo"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaihda lapsen puhelimeen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28613,6 +30215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hijos 👧"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lapset 👧"
           }
         },
         "fr" : {
@@ -28722,6 +30330,12 @@
             "value" : "Cuando tu hijo escanee este código con «Escanear y pagar»,\nse descontarán %@ de su monedero."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun lapsesi skannaa tämän viivakoodin kohdassa ”Skannaa ja maksa”,\nlompakosta vähennetään %@."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28827,6 +30441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registra al menos a un hijo."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää vähintään yksi lapsi."
           }
         },
         "fr" : {
@@ -28936,6 +30556,12 @@
             "value" : "El año pasado una golosina costaba 1.000. Este año cuesta 1.100. ¡Y la golosina no es más grande! Cuando los precios suben así, se llama «inflación».\n\nEl número de tu dinero sigue igual, pero puedes comprar menos. Como el aire que se escapa de un globo, el dinero se debilita. Por eso, dejar el dinero quieto en el monedero hace que pierdas un poco cada vez. Para proteger su fuerza, hay que hacerlo crecer más rápido que los precios, con intereses o inversiones."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viime vuonna karkki maksoi 1 000. Tänä vuonna se maksaa 1 100. Eikä karkki ole tullut suuremmaksi! Kun hinnat nousevat näin, sitä kutsutaan ”inflaatioksi”.\n\nRahasi luku pysyy samana, mutta sillä saa vähemmän. Kuin ilma, joka karkaa ilmapallosta, rahan voima heikkenee. Siksi jos jätät rahat vain makaamaan lompakkoon, menetät pikkuhiljaa. Voimansa säilyttääkseen rahaa on kasvatettava hintoja nopeammin – koron tai sijoittamisen avulla."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29038,6 +30664,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo"
+          }
+        },
+        "fi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo"
@@ -29150,6 +30782,12 @@
             "value" : "Bloquear"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lukitse"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29255,6 +30893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guardar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallenna"
           }
         },
         "fr" : {
@@ -29364,6 +31008,12 @@
             "value" : "Ahorro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säästöt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29469,6 +31119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interés del ahorro"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säästökorko"
           }
         },
         "fr" : {
@@ -29578,6 +31234,12 @@
             "value" : "Ingreso en ahorro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Talletus säästöihin"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29683,6 +31345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo de ahorro"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säästösaldo"
           }
         },
         "fr" : {
@@ -29792,6 +31460,12 @@
             "value" : "Retirada de ahorro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nosto säästöistä"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29897,6 +31571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ahorro: %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säästöt: %@"
           }
         },
         "fr" : {
@@ -30006,6 +31686,12 @@
             "value" : "Ahorro e intereses"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säästäminen ja korko"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30111,6 +31797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si una persona empieza a ahorrar pronto y otra tarde, ¿quién será más rica después?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos yksi alkaa säästää ajoissa ja toinen myöhään, kumpi on myöhemmin rikkaampi?"
           }
         },
         "fr" : {
@@ -30220,6 +31912,12 @@
             "value" : "Pasar a la cuenta de ahorro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siirrä säästötilille"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30325,6 +32023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay suficiente dinero en la cuenta de ahorro."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säästötilillä ei ole tarpeeksi rahaa."
           }
         },
         "fr" : {
@@ -30434,6 +32138,12 @@
             "value" : "Interés compuesto semanal en la cuenta de ahorro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikoittainen korkoa korolle säästötilillä"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30539,6 +32249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entender cómo el ahorro hace crecer el dinero"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymmärtää, miten säästäminen kasvattaa rahaa"
           }
         },
         "fr" : {
@@ -30648,6 +32364,12 @@
             "value" : "Dinero ahorrado"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säästetty raha"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30753,6 +32475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si la app se cierra mientras escribes, lo que habías escrito se conserva."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaikka sovellus sulkeutuisi kirjoittaessasi, kirjoittamasi teksti säilyy."
           }
         },
         "fr" : {
@@ -30862,6 +32590,12 @@
             "value" : "Borrar todo"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poista kaikki"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30967,6 +32701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todos"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaikki"
           }
         },
         "fr" : {
@@ -31076,6 +32816,12 @@
             "value" : "¿Seguro que quieres borrar todos los datos?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poistetaanko varmasti kaikki tiedot?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31181,6 +32927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tyyppi"
           }
         },
         "fr" : {
@@ -31290,6 +33042,12 @@
             "value" : "Qué hace buen dinero"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mikä tekee rahasta hyvää"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31395,6 +33153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "sem."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vk"
           }
         },
         "fr" : {
@@ -31504,6 +33268,12 @@
             "value" : "%@%% a la semana"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %% viikossa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31609,6 +33379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subida semanal de precios: %@%%"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintojen viikkonousu: %@ %%"
           }
         },
         "fr" : {
@@ -31718,6 +33494,12 @@
             "value" : "Interés semanal"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikkokorko"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31823,6 +33605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interés semanal: %@%%"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikkokorko: %@ %%"
           }
         },
         "fr" : {
@@ -31932,6 +33720,12 @@
             "value" : "Interés semanal del ahorro %@%% · Subida semanal de precios %@%%"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikoittainen säästökorko %@ %% · Hintojen viikkonousu %@ %%"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32037,6 +33831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interés semanal del ahorro: %@%%"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikoittainen säästökorko: %@ %%"
           }
         },
         "fr" : {
@@ -32146,6 +33946,12 @@
             "value" : "Monedero"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakko"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32251,6 +34057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo del monedero"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakon saldo"
           }
         },
         "fr" : {
@@ -32360,6 +34172,12 @@
             "value" : "Monedero: %@"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakko: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32465,6 +34283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monedero: %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakko: %@ %@"
           }
         },
         "fr" : {
@@ -32574,6 +34398,12 @@
             "value" : "El dinero que se quedó en el monedero perdió fuerza, ¡pero el dinero ahorrado la mantuvo! 💪"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakkoon jäänyt raha menetti voimaansa, mutta säästetty raha säilytti sen! 💪"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32679,6 +34509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡No hay suficiente dinero en el monedero! Saldo: %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakossa ei ole tarpeeksi rahaa! Saldo: %@ %@"
           }
         },
         "fr" : {
@@ -32788,6 +34624,12 @@
             "value" : "No hay suficiente dinero en el monedero."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakossa ei ole tarpeeksi rahaa."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32893,6 +34735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay suficiente dinero en el monedero. Necesitas: %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakossa ei ole tarpeeksi rahaa. Tarvitaan: %@ %@"
           }
         },
         "fr" : {
@@ -33002,6 +34850,12 @@
             "value" : "Dinero en el monedero"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lompakossa oleva raha"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33107,6 +34961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Qué diferencia hay entre el dinero del monedero y el dinero ahorrado?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitä eroa on lompakossa olevalla ja säästetyllä rahalla?"
           }
         },
         "fr" : {
@@ -33216,6 +35076,12 @@
             "value" : "Pasar al monedero"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siirrä lompakkoon"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33321,6 +35187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dar · Descontar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna · Vähennä"
           }
         },
         "fr" : {
@@ -33430,6 +35302,12 @@
             "value" : "La última vez que compraste algo, ¿a qué renunciaste?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mistä luovuit, kun viimeksi ostit jotain?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33535,6 +35413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La semana pasada, ¿en qué gastaste más dinero?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mihin käytit viime viikolla eniten rahaa?"
           }
         },
         "fr" : {
@@ -33644,6 +35528,12 @@
             "value" : "Índice %lld"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indeksi %lld"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33749,6 +35639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Soporte"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuki"
           }
         },
         "fr" : {
@@ -33858,6 +35754,12 @@
             "value" : "Elijan 3 objetos de la casa y jueguen a «¿Podría ser dinero?». Marquen con ✓ o ✗ cada una de las cinco condiciones."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitkaa kotoa 3 esinettä ja pelatkaa peliä ”Voisiko tämä olla rahaa?”. Merkitkää jokaisen viiden ehdon kohdalle ✓ tai ✗."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33963,6 +35865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escanear y pagar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skannaa ja maksa"
           }
         },
         "fr" : {
@@ -34072,6 +35980,12 @@
             "value" : "Escanea y paga al instante"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skannaa ja maksa heti"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34177,6 +36091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descuento"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vähennys"
           }
         },
         "fr" : {
@@ -34286,6 +36206,12 @@
             "value" : "Descontar"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vähennä"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34391,6 +36317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importe inicial: %@ %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alkusumma: %@ %@"
           }
         },
         "fr" : {
@@ -34500,6 +36432,12 @@
             "value" : "Los precios han subido un %@%% desde el principio. Ahora 1.000 %@ del monedero tienen la fuerza de %@ %@."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinnat ovat nousseet %@ %% alusta. 1 000 %@ lompakossa on nyt voimaltaan %@ %@."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34605,6 +36543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Invitación · QR"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kutsu · QR"
           }
         },
         "fr" : {
@@ -34714,6 +36658,12 @@
             "value" : "Enviar invitación"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lähetä kutsu"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34819,6 +36769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importe total"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokonaissumma"
           }
         },
         "fr" : {
@@ -34928,6 +36884,12 @@
             "value" : "Patrimonio total"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokonaisvarallisuus"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35033,6 +36995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Patrimonio total · unos %@ wones en dinero real"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokonaisvarallisuus · noin %@ wonia oikeana rahana"
           }
         },
         "fr" : {
@@ -35142,6 +37110,12 @@
             "value" : "Movimientos recientes"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viimeisimmät tapahtumat"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35247,6 +37221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää"
           }
         },
         "fr" : {
@@ -35356,6 +37336,12 @@
             "value" : "Retirar"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nosta"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35461,6 +37447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peruuta"
           }
         },
         "fr" : {
@@ -35570,6 +37562,12 @@
             "value" : "¿Por qué se encarecen los juguetes de moda en Navidad?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miksi suositut lelut kallistuvat jouluna?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35675,6 +37673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pantallas para texto grande"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Näytöt suurelle tekstille"
           }
         },
         "fr" : {
@@ -35784,6 +37788,12 @@
             "value" : "Inversión"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoitukset"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35889,6 +37899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Venta de inversión"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoituksen myynti"
           }
         },
         "fr" : {
@@ -35998,6 +38014,12 @@
             "value" : "Compra de inversión"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoituksen osto"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36103,6 +38125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Productos de inversión"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoitustuotteet"
           }
         },
         "fr" : {
@@ -36212,6 +38240,12 @@
             "value" : "Añadir producto de inversión"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää sijoitustuote"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36317,6 +38351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mercado de inversión 📈"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoitusmarkkina 📈"
           }
         },
         "fr" : {
@@ -36426,6 +38466,12 @@
             "value" : "Valor de la inversión: %@ %@"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoitusten arvo: %@ %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36531,6 +38577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Invertir es como plantar dinero. Si la semilla crece bien, se convierte en un árbol grande, pero también puede marchitarse. A diferencia del ahorro, al invertir el dinero puede aumentar o disminuir.\n\nRecuerda esta regla: cuanto más puedes ganar, más puedes perder. Y si pones todos los huevos en una sola cesta, se rompen todos si se te cae. Hay que repartirlos (diversificar). Planta solo lo que puedas permitirte perder."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoittaminen on kuin rahan istuttamista. Jos siemen kasvaa hyvin, siitä tulee iso puu – mutta se voi myös kuihtua. Toisin kuin säästäminen, sijoittaminen voi kasvattaa tai pienentää rahaa.\n\nMuista tämä sääntö: mitä enemmän voi voittaa, sitä enemmän voi myös menettää. Ja jos laitat kaikki munat samaan koriin, ne kaikki menevät rikki, kun kori putoaa. Jaa ne eri koreihin (hajautus). Istuta vain sen verran, minkä voit menettää."
           }
         },
         "fr" : {
@@ -36640,6 +38692,12 @@
             "value" : "Inversión y riesgo"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoittaminen ja riski"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36745,6 +38803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inversor"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoittaja"
           }
         },
         "fr" : {
@@ -36854,6 +38918,12 @@
             "value" : "Elegir inversor"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitse sijoittaja"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36959,6 +39029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Para invertir, primero registra a un hijo en Inicio."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijoittaaksesi lisää ensin lapsi Koti-näytöllä."
           }
         },
         "fr" : {
@@ -37068,6 +39144,12 @@
             "value" : "No hay productos de inversión en venta"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei myynnissä olevia sijoitustuotteita"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37173,6 +39255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pantalla para iPhone plegable"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taitettavan iPhonen näkymä"
           }
         },
         "fr" : {
@@ -37282,6 +39370,12 @@
             "value" : "Aprovecha la pantalla ancha del iPhone plegable dividida en dos paneles."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käytä taitettavan iPhonen leveää näyttöä kahtena paneelina."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37387,6 +39481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Primero las necesidades, después los deseos."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ensin tarpeet, sitten toiveet!"
           }
         },
         "fr" : {
@@ -37496,6 +39596,12 @@
             "value" : "Necesidades y deseos"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarpeet ja toiveet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37601,6 +39707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Qué pasa si compras los deseos y dejas sin comprar las necesidades?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitä tapahtuu, jos ostaa toiveita eikä osta tarpeita?"
           }
         },
         "fr" : {
@@ -37710,6 +39822,12 @@
             "value" : "Filtro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suodatin"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37815,6 +39933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Borrar filtros"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tyhjennä suodattimet"
           }
         },
         "fr" : {
@@ -37924,6 +40048,12 @@
             "value" : "Se mueve mucho, hasta ±15 %% al día. Puedes ganar mucho o perder mucho."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liikkuu voimakkaasti, jopa ±15 %% päivässä! Voit voittaa paljon tai hävitä paljon."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38029,6 +40159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se mueve poco a poco, en torno a ±2 %% al día. Hay poco riesgo de perder."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liikkuu vähän kerrallaan, noin ±2 %% päivässä. Tappion riski on pieni."
           }
         },
         "fr" : {
@@ -38138,6 +40274,12 @@
             "value" : "Sube y baja en torno a ±6 %% al día. Un reto moderado."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nousee ja laskee noin ±6 %% päivässä. Sopiva haaste."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38243,6 +40385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escríbelo otra vez"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anna uudelleen"
           }
         },
         "fr" : {
@@ -38352,6 +40500,12 @@
             "value" : "Experimentemos juntos · Calculadora de interés compuesto 🧮"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokeillaan yhdessä · Korkoa korolle -laskin 🧮"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38457,6 +40611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Experimentemos juntos · Experimento de inflación 🎈"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokeillaan yhdessä · Inflaatiokoe 🎈"
           }
         },
         "fr" : {
@@ -38566,6 +40726,12 @@
             "value" : "Precio actual"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nykyinen hinta"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38671,6 +40837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monedero actual"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nykyinen lompakko"
           }
         },
         "fr" : {
@@ -38780,6 +40952,12 @@
             "value" : "Widgets de la pantalla de inicio"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koti-valikon widgetit"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38885,6 +41063,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moneda «%@» · Interés semanal %@%%"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valuutta ”%@” · Viikkokorko %@ %%"
           }
         },
         "fr" : {
@@ -38994,6 +41178,12 @@
             "value" : "Nombre de la moneda"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valuutan nimi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39099,6 +41289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aceptar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "fr" : {
@@ -39208,6 +41404,12 @@
             "value" : "Tipo de cambio"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valuuttakurssi"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39313,6 +41515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se calcula automáticamente con 1 %@ = %@ wones."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lasketaan automaattisesti kurssilla 1 %@ = %@ wonia."
           }
         },
         "fr" : {
@@ -39422,6 +41630,12 @@
             "value" : "Tipo de cambio: 1 %@ ="
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valuuttakurssi: 1 %@ ="
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39527,6 +41741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Para ser dinero hay que ser escaso y que todos confíen en ello."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rahaksi kelpaa se, mitä on vähän ja mihin kaikki luottavat."
           }
         },
         "fr" : {
@@ -39636,6 +41856,12 @@
             "value" : "🌱 %@, ¡te invitamos a SukSuk Paga!\n\nUsemos juntos la moneda de nuestra casa, «%@»:\n• Ahorra la paga y paga con ella 💸\n• Al ahorrar, cobras un %@%% de interés cada semana 🏦\n• Aprende economía con productos de inversión 📈\n\n¡Abre la app SukSuk Paga en un dispositivo con la misma cuenta de iCloud que el de tus padres y podrás participar enseguida!"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, olet kutsuttu SukSuk Viikkorahaan!\n\nKäytetään yhdessä kotimme valuuttaa ”%@”:\n• Säästä viikkorahaa ja maksa sillä 💸\n• Säästämällä saat joka viikko %@ %% korkoa 🏦\n• Opi taloutta sijoitustuotteiden avulla 📈\n\nAvaa SukSuk Viikkoraha -sovellus laitteella, jolla on sama iCloud-tili kuin vanhempiesi laitteella, niin pääset heti mukaan!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39741,6 +41967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Aprender"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Opi"
           }
         },
         "fr" : {
@@ -39850,6 +42082,12 @@
             "value" : "🏛️ Mercado"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Markkina"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39955,6 +42193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Modo para padres"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Vanhempaintila"
           }
         },
         "fr" : {
@@ -40064,6 +42308,12 @@
             "value" : "🏦 Ahorro"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Säästöt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40169,6 +42419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Cuenta de ahorro"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Säästötili"
           }
         },
         "fr" : {
@@ -40278,6 +42534,12 @@
             "value" : "🏪 Tienda de casa"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Kotikauppa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40383,6 +42645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Código de barras"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Tuotteen viivakoodi"
           }
         },
         "fr" : {
@@ -40492,6 +42760,12 @@
             "value" : "👨‍👩‍👧‍👦 Miembros de la familia"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Perheenjäsenet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40597,6 +42871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Invitación"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Kutsu"
           }
         },
         "fr" : {
@@ -40706,6 +42986,12 @@
             "value" : "💡 Si dejas el dinero quieto, pierde fuerza. ¡Protégelo con ahorro (intereses) o inversión!"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Paikallaan oleva raha menettää voimaansa. Suojaa se säästämisellä (korko) tai sijoittamisella!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40811,6 +43097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 Puedes enviar la invitación por mensaje o por cualquier app de chat.\nSi el dispositivo usa la misma cuenta de iCloud, los datos aparecen automáticamente."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Voit lähettää kutsun viestillä tai pikaviestisovelluksella.\nLaitteilla, joilla on sama iCloud-tili, tiedot näkyvät automaattisesti."
           }
         },
         "fr" : {
@@ -40920,6 +43212,12 @@
             "value" : "💡 Los precios cambian una vez al día. Si compras barato y vendes caro, ganas; si es al revés, pierdes."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Hinnat muuttuvat kerran päivässä. Halvalla ostaminen ja kalliilla myyminen tuottaa voittoa, päinvastoin tappiota!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41025,6 +43323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Pagar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Maksa"
           }
         },
         "fr" : {
@@ -41134,6 +43438,12 @@
             "value" : "💵 Monedero"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Lompakko"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41239,6 +43549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Gestionar el dinero"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Rahan hallinta"
           }
         },
         "fr" : {
@@ -41348,6 +43664,12 @@
             "value" : "💸 Paga"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Viikkoraha"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41453,6 +43775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Invertir"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Sijoita"
           }
         },
         "fr" : {
@@ -41562,6 +43890,12 @@
             "value" : "📈 Productos de inversión"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Sijoitustuotteet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41667,6 +44001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Modo teléfono del hijo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Lapsen puhelimen tila"
           }
         },
         "fr" : {
@@ -41776,6 +44116,12 @@
             "value" : "📷 Escanear y pagar"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Skannaa ja maksa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41883,6 +44229,12 @@
             "value" : "🔐 Volver al modo para padres"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Takaisin vanhempaintilaan"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41988,6 +44340,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 Historial de movimientos"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Tapahtumat"
           }
         },
         "fr" : {
