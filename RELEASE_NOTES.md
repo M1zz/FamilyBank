@@ -102,3 +102,10 @@ Gửi góp ý từ chế độ bố mẹ.
 Đọc phản hồi cho góp ý ngay trong app.
 Mở chính sách và hỗ trợ ngay trong app.
 App chạy ổn định hơn.
+
+### 앱스토어 (čeština)
+
+Pošli nám názor z rodičovského režimu.
+Odpovědi na názory čti v aplikaci.
+Soukromí a podporu otevřeš v aplikaci.
+Aplikace běží stabilněji.

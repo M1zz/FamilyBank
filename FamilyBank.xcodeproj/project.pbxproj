@@ -111,6 +111,7 @@
 				ru,
 				th,
 				vi,
+				cs,
 				Base,
 			);
 			mainGroup = A10000000000000000000003;

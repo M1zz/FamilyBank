@@ -867,3 +867,65 @@ Biến điện thoại của con thành màn hình riêng của con. Con chỉ t
 
 Đồng bộ iCloud
 Các thiết bị đăng nhập cùng tài khoản iCloud sẽ giữ sổ cái gia đình luôn khớp nhau.
+
+## cs
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Kapesné: peníze doma
+
+### 부제
+
+Spoření a investice pro děti
+
+### 키워드
+
+finanční gramotnost,prasátko,banka,úrok,složený,rozpočet,rodina,ekonomika,mince,akcie
+
+### 프로모션 텍스트
+
+Rodiče jsou centrální banka, děti zákazníci. Dávejte kapesné v domácí měně a nechte děti poznat úroky ze spoření a vyzkoušet si investování.
+
+### 설명
+
+Naučte děti, jak fungují peníze, s vlastní domácí měnou. Rodiče hrají centrální banku a vydávají kapesné; děti platí, spoří a investují a ekonomiku se učí praxí.
+Co si člověk sám vyzkouší, zapamatuje si mnohem déle než to, co mu jen někdo vysvětlí.
+
+Domácí měna
+Název měny si zvolíte sami: Fazole, Hvězdy, Mince… Kapesné dávat a odečítat lze jen v rodičovském režimu zamčeném PINem.
+
+Platby a domácí obchůdek
+Rodiče nastaví věci, které se doma používají, jako svačiny, herní čas nebo čas u televize, a stanoví jim ceny.
+Děti si v obchůdku vyberou a hned zaplatí, nebo kamerou naskenují čárový kód, který zobrazí rodič.
+
+Spoření a úroky
+Peníze na spořicím účtu se každý týden složeně úročí. Úrok nastavují rodiče a předem je vidět, o kolik peníze vzrostou.
+
+Zkouška investování
+Nakupujte a prodávejte tři cvičné fondy, jejichž cena se mění jednou denně, a sledujte grafy výnosu. Porovnávejte opatrné, vyvážené a rizikové fondy a pochopte vztah mezi rizikem a ziskem.
+
+Trh a historie
+Karta Trh ukazuje na první pohled domácí ceny, směnný kurz, úrok, množství peněz a ceny investic. Ukáže i to, že když ceny rostou, za stejné peníze koupíte méně.
+Každý pohyb peněz se zapíše do knihy a lze ho zpětně procházet podle data, člena a typu.
+
+Učení
+Průvodce pro rodiče o 10 krocích, od otázky „K čemu jsou peníze?“ přes potřeby a přání, náklady obětované příležitosti, spoření a úroky, složené úročení, inflaci, investice a riziko až po rozpočet, vám pomůže povídat si s dítětem.
+V kalkulačce složeného úročení a v pokusu s inflací si můžete čísla sami měnit a zkoušet.
+
+Režim telefonu dítěte
+Proměňte telefon dítěte v obrazovku jen pro něj. Vidí jen svou peněženku, investice, historii a lekce a k odchodu je potřeba rodičovský PIN. Dítě můžete pozvat pozvánkou s QR kódem.
+
+Synchronizace iCloud
+Zařízení přihlášená ke stejnému účtu iCloud mají rodinnou knihu stále shodnou.
