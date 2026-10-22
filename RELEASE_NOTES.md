@@ -18,3 +18,10 @@ Send feedback to us from Parent Mode.
 Read replies to your feedback in-app.
 Open privacy and support in the app.
 Smoother and more stable performance.
+
+### 앱스토어 (English (UK))
+
+Send feedback to us from Parent Mode.
+Read replies to your feedback in-app.
+Open privacy and support in the app.
+Smoother and more stable performance.

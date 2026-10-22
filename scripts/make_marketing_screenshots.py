@@ -47,6 +47,14 @@ SHOTS = {
         ("05-actions.png",   "hero-bleed",  "Pocket money and payments,<br>made simple", "Lock with a parent PIN, pay by barcode"),
         ("06-learn.png",     "dark",        "10 steps to<br>learn about money", "A parent guide to read with your child"),
     ],
+    "en-GB": [
+        ("01-dashboard.png", "hero-bleed",  "Your home becomes<br>a little bank", "Parents are the bank, kids are customers"),
+        ("02-child.png",     "left-text",   "Wallet, savings and<br>investing at a glance", "Every child gets their own account"),
+        ("03-savings.png",   "text-bottom", "Save it and watch<br>interest add up", "See weekly compounding on a graph"),
+        ("04-market.png",    "flat-rotate", "Prices and exchange<br>rates like the real thing", "See how money changes in value"),
+        ("05-actions.png",   "hero-bleed",  "Pocket money and payments,<br>made simple", "Lock with a parent PIN, pay by barcode"),
+        ("06-learn.png",     "dark",        "10 steps to<br>learn about money", "A parent guide to read with your child"),
+    ],
 }
 # ─────────────────────────────────────────────────────────────────
 
