@@ -74,3 +74,10 @@ Invia un parere dalla modalità genitore.
 Leggi le risposte ai pareri nell’app.
 Apri privacy e supporto dall’app.
 L’app ora funziona in modo più stabile.
+
+### 앱스토어 (português (Brasil))
+
+Envie sugestões no modo dos pais.
+Leia no app as respostas às sugestões.
+Abra privacidade e suporte no app.
+O app funciona de forma mais estável.

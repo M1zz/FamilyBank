@@ -619,3 +619,65 @@ Trasforma il telefono di tuo figlio in una schermata solo sua. Vede soltanto il 
 
 Sincronizzazione iCloud
 I dispositivi con lo stesso account iCloud tengono allineato il registro della famiglia.
+
+## pt-BR
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Mesada: Para crianças
+
+### 부제
+
+Aprenda a poupar e investir
+
+### 키워드
+
+educação financeira,cofrinho,banco,juros,compostos,orçamento,família,economia,moedas,bolsa,filhos
+
+### 프로모션 텍스트
+
+Os pais são o banco central e os filhos, os clientes. Dê a mesada com a moeda da sua casa e deixe as crianças viver os juros da poupança e praticar investimentos.
+
+### 설명
+
+Ensine seus filhos como o dinheiro funciona com uma moeda só de vocês. Os pais fazem o papel de banco central e emitem a mesada; os filhos pagam, poupam e investem, aprendendo economia na prática.
+O que se vive na prática fica na memória muito mais tempo do que o que só se ouve.
+
+A moeda da casa
+Escolha o nome da moeda: Feijões, Estrelas, Moedas… Dar ou descontar mesada só é possível no modo dos pais, protegido por PIN.
+
+Pagamentos e loja de casa
+Os pais definem os itens usados em casa, como lanchinhos, tempo de videogame ou de TV, e colocam preço neles.
+As crianças escolhem na loja e pagam na hora, ou escaneiam com a câmera o código de barras mostrado por um responsável.
+
+Poupança e juros
+O dinheiro na conta poupança rende juros compostos toda semana. Os pais definem a taxa e dá para ver antes quanto o dinheiro vai crescer.
+
+Treino de investimento
+Compre e venda três fundos de treino cujo preço muda uma vez por dia e acompanhe os gráficos de rentabilidade. Compare fundos seguros, moderados e arriscados para entender a relação entre risco e ganho.
+
+Mercado e histórico
+Na aba Mercado, você vê de relance os preços de casa, o câmbio, os juros, o dinheiro em circulação e as cotações dos investimentos. Também mostra que, quando os preços sobem, o mesmo dinheiro compra menos.
+Toda movimentação de dinheiro fica registrada e pode ser revista por data, membro e tipo.
+
+Aprender
+Um guia para os pais em 10 passos, de “Para que serve o dinheiro?” até orçamento, passando por necessidades e desejos, custo de oportunidade, poupança e juros, juros compostos, inflação, investimento e risco, para conversar com seu filho.
+Com a calculadora de juros compostos e a de inflação, você mesmo muda os números e experimenta.
+
+Modo celular do filho
+Transforme o celular do seu filho numa tela só dele. Ele vê apenas a própria carteira, os investimentos, o histórico e as lições, e para sair é preciso o PIN dos pais. Convide seu filho com um convite com QR code.
+
+Sincronização com o iCloud
+Aparelhos com a mesma conta do iCloud mantêm o registro da família sempre igual.

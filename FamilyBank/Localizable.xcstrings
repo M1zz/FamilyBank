@@ -52,6 +52,12 @@
             "value" : "%@ %@ — %@ %@을(를) 낼까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — pagar %@ %@?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -115,6 +121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@ 결제하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagar %@ %@"
           }
         },
         "zh-Hans" : {
@@ -182,6 +194,12 @@
             "value" : "%@ %@ 주기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dar %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -245,6 +263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@ 차감"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descontar %@ %@"
           }
         },
         "zh-Hans" : {
@@ -312,6 +336,12 @@
             "value" : "%@ %@을(를) %@ %@에 살까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprar %1$@ %2$@ por %3$@ %4$@?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -375,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@을(를) 저축했어요! 매주 이자가 붙어요. 💰"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você poupou %@ %@! A cada semana entram juros. 💰"
           }
         },
         "zh-Hans" : {
@@ -442,6 +478,12 @@
             "value" : "%@ %@을(를) 지갑으로 옮겼어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ foram para a carteira."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -505,6 +547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@의 보유 현황"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posições de %@ %@"
           }
         },
         "zh-Hans" : {
@@ -572,6 +620,12 @@
             "value" : "%@ %@의 은행"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Banco de %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -635,6 +689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@의 폰으로 만들기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tornar o celular de %@ %@"
           }
         },
         "zh-Hans" : {
@@ -702,6 +762,12 @@
             "value" : "%@ %lld주를 샀어요! 📈"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você comprou %2$lld cotas de %1$@! 📈"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -765,6 +831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %lld주를 팔았어요! %@ %@이 지갑에 들어왔어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você vendeu %2$lld cotas de %1$@! %3$@ %4$@ entraram na carteira."
           }
         },
         "zh-Hans" : {
@@ -832,6 +904,12 @@
             "value" : "%@%% (복리)"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (compostos)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -895,6 +973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@님을\n쑥쑥용돈에 초대해요!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convidar %@\npara o SukSuk Mesada!"
           }
         },
         "zh-Hans" : {
@@ -962,6 +1046,12 @@
             "value" : "%@에게 %@ %@을(를) 결제했어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você pagou %2$@ %3$@ para %1$@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1025,6 +1115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@에게 %@ %@을(를) 줬어요! 🎁"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você deu %2$@ %3$@ para %1$@! 🎁"
           }
         },
         "zh-Hans" : {
@@ -1092,6 +1188,12 @@
             "value" : "%@원 → %@ %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wons → %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1155,6 +1257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@을(를) 샀어요! 남은 지갑: %@ %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você comprou %@! Sobraram na carteira: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -1222,6 +1330,12 @@
             "value" : "%@을(를) 샀어요! 🎉 남은 지갑: %@ %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você comprou %@! 🎉 Sobraram na carteira: %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1285,6 +1399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@의 지갑 잔액이 부족해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A carteira de %@ não tem saldo suficiente."
           }
         },
         "zh-Hans" : {
@@ -1352,6 +1472,12 @@
             "value" : "%@의 지갑에서 %@ %@을(를) 차감했어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foram descontados %2$@ %3$@ da carteira de %1$@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1415,6 +1541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld단계"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passo %lld"
           }
         },
         "zh-Hans" : {
@@ -1482,6 +1614,12 @@
             "value" : "%lld단계 · %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passo %lld · %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1545,6 +1683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld주 · 평균 %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld cotas · média %@"
           }
         },
         "zh-Hans" : {
@@ -1612,6 +1756,12 @@
             "value" : "%lld주 뒤 살 수 있는 것의 가치"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor do que dá para comprar após %lld semanas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1675,6 +1825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld주 뒤: %@ %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Após %lld semanas: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -1742,6 +1898,12 @@
             "value" : "'필요'는 없으면 곤란한 것이야. 밥, 옷, 학용품 같은 거지. '욕구'는 있으면 신나지만 없어도 사는 데 문제없는 것이야. 장난감, 게임 아이템 같은 거란다.\n\n둘 다 소중해! 하지만 순서가 중요해. 필요한 걸 먼저 챙기고, 남는 돈으로 계획을 세워서 욕구를 채우는 거야."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“Necessidade” é algo que faz falta de verdade: comida, roupa, material escolar. “Desejo” é algo que dá alegria, mas dá para viver sem: brinquedos, itens de jogos.\n\nOs dois são importantes! Mas a ordem faz diferença. Primeiro cuide das necessidades; depois, com o dinheiro que sobrar, faça um plano para realizar os desejos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1805,6 +1967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@원"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ wons"
           }
         },
         "zh-Hans" : {
@@ -1872,6 +2040,12 @@
             "value" : "1 %@의 실제 가치"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor real de 1 %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1935,6 +2109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@원"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ wons"
           }
         },
         "zh-Hans" : {
@@ -2002,6 +2182,12 @@
             "value" : "1,000 %@의 '진짜 힘'은 어떻게 변할까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como muda o “poder real” de 1.000 %@?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2065,6 +2251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1,000코인을 이자 5%%로 맡기면 일주일 뒤 얼마가 될까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você guardar 1.000 moedas com juros de 5%%, quanto terá depois de uma semana?"
           }
         },
         "zh-Hans" : {
@@ -2132,6 +2324,12 @@
             "value" : "1,000코인이 있는데 과자도 사고 싶고 스티커도 사고 싶어. 그런데 돈은 한 번 쓸 만큼만 있어. 어떡하지? 하나를 고르면 다른 하나는 포기해야 해.\n\n이때 포기한 것을 '기회비용'이라고 불러. 돈뿐만 아니라 시간도 그래. 게임을 1시간 하면, 그 시간에 할 수 있었던 다른 일을 포기한 거야."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você tem 1.000 moedas e quer comprar um docinho e também figurinhas. Mas o dinheiro só dá para uma coisa. E agora? Se escolher uma, precisa abrir mão da outra.\n\nAquilo de que você abre mão se chama “custo de oportunidade”. Isso vale também para o tempo. Se você joga por uma hora, abriu mão de tudo o que poderia fazer nessa hora."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2195,6 +2393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "12주 뒤 예상: %@ %@ (+%@)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estimativa em 12 semanas: %@ %@ (+%@)"
           }
         },
         "zh-Hans" : {
@@ -2262,6 +2466,12 @@
             "value" : "1주 가격"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preço por cota"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2325,6 +2535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID로 열기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir com Face ID"
           }
         },
         "zh-Hans" : {
@@ -2392,6 +2608,12 @@
             "value" : "PIN 변경"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alterar PIN"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2455,6 +2677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PIN 입력"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digitar PIN"
           }
         },
         "zh-Hans" : {
@@ -2522,6 +2750,12 @@
             "value" : "PIN은 숫자 4자리여야 해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O PIN deve ter 4 dígitos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2585,6 +2819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siri에게 물어 아이의 잔액을 바로 확인해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pergunte à Siri e veja na hora o saldo do seu filho."
           }
         },
         "zh-Hans" : {
@@ -2652,6 +2892,12 @@
             "value" : "Siri와 단축어"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri e Atalhos"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2715,6 +2961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Touch ID로 열기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir com Touch ID"
           }
         },
         "zh-Hans" : {
@@ -2782,6 +3034,12 @@
             "value" : "VoiceOver가 잔액과 단추를 빠짐없이, 알맞은 순서로 읽어 줘요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O VoiceOver lê todos os saldos e botões, na ordem certa."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2845,6 +3103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VoiceOver로 더 편하게"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver mais confortável"
           }
         },
         "zh-Hans" : {
@@ -2912,6 +3176,12 @@
             "value" : "≈ %@원"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ wons"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2975,6 +3245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ 은행 설정"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Ajustes do banco"
           }
         },
         "zh-Hans" : {
@@ -3042,6 +3318,12 @@
             "value" : "⚡️ 액션"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Ações"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3105,6 +3387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "가게"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loja"
           }
         },
         "zh-Hans" : {
@@ -3172,6 +3460,12 @@
             "value" : "가게에 등록"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cadastrar na loja"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3235,6 +3529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "가격"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preço"
           }
         },
         "zh-Hans" : {
@@ -3302,6 +3602,12 @@
             "value" : "가격은 사려는 마음과 팔려는 양이 만나서 정해져요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O preço é definido onde se encontram a vontade de comprar e a quantidade à venda."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3365,6 +3671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "가격이 어떻게 정해지는지 알기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entender como os preços são definidos"
           }
         },
         "zh-Hans" : {
@@ -3432,6 +3744,12 @@
             "value" : "가격표 🏷️"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etiquetas de preço 🏷️"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3495,6 +3813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "가족 구성원을 등록해 주세요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cadastre os membros da família"
           }
         },
         "zh-Hans" : {
@@ -3562,6 +3886,12 @@
             "value" : "가족 등록"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cadastrar família"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3625,6 +3955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "거래 기록이 없어요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nenhuma movimentação"
           }
         },
         "zh-Hans" : {
@@ -3692,6 +4028,12 @@
             "value" : "거래 종류"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo de movimentação"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3755,6 +4097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "거북이 펀드와 로켓 펀드, 어떤 게 더 위험할까? 왜?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qual é mais arriscado, o Fundo Tartaruga ou o Fundo Foguete? Por quê?"
           }
         },
         "zh-Hans" : {
@@ -3822,6 +4170,12 @@
             "value" : "게임 1시간의 기회비용은 뭘까?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qual é o custo de oportunidade de uma hora de jogo?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3885,6 +4239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "결제"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagamento"
           }
         },
         "zh-Hans" : {
@@ -3952,6 +4312,12 @@
             "value" : "결제 실패"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falha no pagamento"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4015,6 +4381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "결제 완료! 🎉"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagamento concluído! 🎉"
           }
         },
         "zh-Hans" : {
@@ -4082,6 +4454,12 @@
             "value" : "결제하기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4145,6 +4523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계획이 있는 돈이 오래 가요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinheiro com plano dura mais."
           }
         },
         "zh-Hans" : {
@@ -4212,6 +4596,12 @@
             "value" : "고수익에는 고위험이 따른다는 것 알기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entender que quanto maior o ganho possível, maior o risco"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4275,6 +4665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구분"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Categoria"
           }
         },
         "zh-Hans" : {
@@ -4342,6 +4738,12 @@
             "value" : "구성원"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Membro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4405,6 +4807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구성원 추가"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar membro"
           }
         },
         "zh-Hans" : {
@@ -4472,6 +4880,12 @@
             "value" : "글자 크기를 키워도 잘리지 않고 보기 좋게 다시 배치돼요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ao aumentar o tamanho do texto, as telas se reorganizam sem cortar nada."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4535,6 +4949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "금액"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor"
           }
         },
         "zh-Hans" : {
@@ -4602,6 +5022,12 @@
             "value" : "기간: %lld주"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prazo: %lld semanas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4665,6 +5091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "기록"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Histórico"
           }
         },
         "zh-Hans" : {
@@ -4732,6 +5164,12 @@
             "value" : "기회비용"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custo de oportunidade"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4795,6 +5233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "꼭 필요한 것과 갖고 싶은 것 구분하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distinguir o que é realmente necessário do que é só vontade"
           }
         },
         "zh-Hans" : {
@@ -4862,6 +5306,12 @@
             "value" : "내 기록"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meu histórico"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4925,6 +5375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내 저축통장"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minha conta poupança"
           }
         },
         "zh-Hans" : {
@@ -4992,6 +5448,12 @@
             "value" : "내 지갑"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minha carteira"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5055,6 +5517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내 지갑: %@ %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minha carteira: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -5122,6 +5590,12 @@
             "value" : "네가 물고기를 갖고 있는데 신발이 필요하다고 해 보자. 신발 가게 아저씨가 물고기를 싫어하면 바꿀 수가 없겠지? 옛날 사람들도 이게 너무 불편했어. 그래서 누구나 좋아하는 '돈'을 만들었단다.\n\n돈은 세 가지 일을 해. 첫째, 뭐든지 바꿀 수 있어(교환). 둘째, 물건마다 얼마짜리인지 잴 수 있어(가치 재기). 셋째, 모아 뒀다가 나중에 쓸 수 있어(저장)."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imagine que você tem um peixe e precisa de um tênis. Mas se o vendedor de tênis não gosta de peixe, não dá para trocar, né? As pessoas de muito tempo atrás também achavam isso um grande incômodo. Aí inventaram algo de que todo mundo gosta: o “dinheiro”.\n\nO dinheiro faz três coisas. Primeira: dá para trocar por quase tudo (troca). Segunda: dá para medir quanto cada coisa vale (medida de valor). Terceira: dá para guardar e usar depois (reserva)."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5185,6 +5659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "누구를 초대할까요?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quem você quer convidar?"
           }
         },
         "zh-Hans" : {
@@ -5252,6 +5732,12 @@
             "value" : "누구에게 낼까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagar para quem?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5315,6 +5801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "누구에게?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para quem?"
           }
         },
         "zh-Hans" : {
@@ -5382,6 +5874,12 @@
             "value" : "눈덩이를 굴리면 어떻게 되지? 구를수록 점점 빨리 커지지? 복리가 딱 그거야.\n\n1,000코인에 이자 50이 붙으면 1,050이 돼. 다음 주에는 1,050 전체에 이자가 붙어. 이자가 벌어 온 돈에도 또 이자가 붙는 거야! 처음엔 티가 안 나지만 시간이 지날수록 눈덩이처럼 불어나."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que acontece quando você rola uma bola de neve? Quanto mais rola, mais rápido cresce, né? Os juros compostos são exatamente isso.\n\nSe 1.000 moedas rendem 50 de juros, viram 1.050. Na semana seguinte, os juros incidem sobre todos os 1.050. O dinheiro que os juros renderam também rende juros! No começo quase não se nota, mas com o tempo cresce como uma bola de neve."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5445,6 +5943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다음"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avançar"
           }
         },
         "zh-Hans" : {
@@ -5512,6 +6016,12 @@
             "value" : "닫기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5575,6 +6085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "당장 안 쓸 돈은 저축통장으로!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O dinheiro que você não vai gastar agora vai para a poupança!"
           }
         },
         "zh-Hans" : {
@@ -5642,6 +6158,12 @@
             "value" : "대비를 높이거나 색을 구별하기 어려워도 잔액과 기록을 알아볼 수 있어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leia saldos e histórico com facilidade, mesmo com mais contraste ou se for difícil distinguir cores."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5705,6 +6227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "대시보드"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Painel"
           }
         },
         "zh-Hans" : {
@@ -5772,6 +6300,12 @@
             "value" : "더 많은 나라 말로 앱을 쓸 수 있게 해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O app poderá ser usado em mais idiomas."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5835,6 +6369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "더 많은 언어"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais idiomas"
           }
         },
         "zh-Hans" : {
@@ -5902,6 +6442,12 @@
             "value" : "돈은 바꾸고, 재고, 모아 두는 도구예요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O dinheiro é uma ferramenta para trocar, medir e guardar."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5965,6 +6511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "돈은 왜 필요할까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para que serve o dinheiro?"
           }
         },
         "zh-Hans" : {
@@ -6032,6 +6584,12 @@
             "value" : "돈을 계획해서 나눠 쓰는 습관 만들기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Criar o hábito de planejar e dividir o dinheiro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6095,6 +6653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "돈이 왜 생겨났고 어떤 일을 하는지 알기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entender por que o dinheiro existe e para que ele serve"
           }
         },
         "zh-Hans" : {
@@ -6162,6 +6726,12 @@
             "value" : "두 번 입력한 PIN이 서로 달라요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os dois PINs digitados não são iguais."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6225,6 +6795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "등록된 물품이 없어요. 먼저 '물품 추가'로 가게에 물품을 등록해 주세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não há itens cadastrados. Primeiro adicione itens à loja em “Adicionar item”."
           }
         },
         "zh-Hans" : {
@@ -6292,6 +6868,12 @@
             "value" : "등록된 자녀가 없어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nenhum filho cadastrado"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6355,6 +6937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "레고 블록은 돈이 될 수 있을까? 다섯 가지 시험을 통과할까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Será que uma peça de LEGO poderia ser dinheiro? Ela passaria nos cinco testes?"
           }
         },
         "zh-Hans" : {
@@ -6422,6 +7010,12 @@
             "value" : "만약 세상에 돈이 없다면 어떤 일이 생길까?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que aconteceria se não existisse dinheiro no mundo?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6485,6 +7079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매도"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vender"
           }
         },
         "zh-Hans" : {
@@ -6552,6 +7152,12 @@
             "value" : "매수"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6615,6 +7221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매주 물가가 %@%%씩 올라요. 같은 돈으로 살 수 있는 게 조금씩 줄어든다는 뜻이에요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toda semana os preços sobem %@%%. Isso significa que, com o mesmo dinheiro, dá para comprar um pouco menos a cada vez."
           }
         },
         "zh-Hans" : {
@@ -6682,6 +7294,12 @@
             "value" : "매주 물가가 올라요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os preços sobem toda semana"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6745,6 +7363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매주 우리집 물가지수가 이만큼 올라요 (현재 지수 %lld). 0%%로 두면 인플레이션이 없어요. 물가에 맞춰 실제 간식·장난감 가격도 조금씩 올려 주면 아이가 돈의 가치 변화를 몸으로 배워요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A cada semana, o índice de preços de casa sobe esse tanto (índice atual: %lld). Com 0%%, não há inflação. Se você também aumentar um pouco os preços reais de lanches e brinquedos, seu filho aprende como o valor do dinheiro muda."
           }
         },
         "zh-Hans" : {
@@ -6812,6 +7436,12 @@
             "value" : "메모 (예: 간식 사기)"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anotação (ex.: comprar um lanche)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6875,6 +7505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "메모 (예: 주간 용돈)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anotação (ex.: mesada semanal)"
           }
         },
         "zh-Hans" : {
@@ -6942,6 +7578,12 @@
             "value" : "모두가 팔고 싶어 하는 물건의 가격은 어떻게 될까?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que acontece com o preço de algo que todo mundo quer vender?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7005,6 +7647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모든 구성원, 거래 기록, 투자 상품이 삭제되고 처음 설정 화면으로 돌아갑니다."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos os membros, movimentações e produtos de investimento serão excluídos e você voltará à tela de configuração inicial."
           }
         },
         "zh-Hans" : {
@@ -7072,6 +7720,12 @@
             "value" : "모든 데이터 초기화"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar todos os dados"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7135,6 +7789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모든 선택에는 포기한 것이 숨어 있어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por trás de toda escolha, há algo de que se abriu mão."
           }
         },
         "zh-Hans" : {
@@ -7202,6 +7862,12 @@
             "value" : "무엇에 쓰나요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para que é?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7265,6 +7931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물가 상승률"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alta dos preços"
           }
         },
         "zh-Hans" : {
@@ -7332,6 +8004,12 @@
             "value" : "물가 추이 📊"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evolução dos preços 📊"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7395,6 +8073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물가가 오르면 같은 돈으로 살 수 있는 게 줄어들어요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando os preços sobem, o mesmo dinheiro compra menos"
           }
         },
         "zh-Hans" : {
@@ -7462,6 +8146,12 @@
             "value" : "물가가 오르면 돈의 힘은 줄어요. 그래서 저축과 투자가 필요해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando os preços sobem, o dinheiro perde força. Por isso poupar e investir são importantes."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7525,6 +8215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물가가 오르면 돈의 힘이 줄어든다는 것 알기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entender que, quando os preços sobem, o dinheiro perde força"
           }
         },
         "zh-Hans" : {
@@ -7592,6 +8288,12 @@
             "value" : "물가가 오르면 지갑에 돈을 그냥 두는 게 좋을까?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando os preços sobem, é uma boa ideia deixar o dinheiro parado na carteira?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7655,6 +8357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물가지수"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Índice de preços"
           }
         },
         "zh-Hans" : {
@@ -7722,6 +8430,12 @@
             "value" : "물품 %lld개 판매 중 · 환율 자동 반영"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld itens à venda · câmbio aplicado automaticamente"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7785,6 +8499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물품 바코드"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de barras do item"
           }
         },
         "zh-Hans" : {
@@ -7852,6 +8572,12 @@
             "value" : "물품 바코드를 네모 안에 맞춰 주세요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encaixe o código de barras do item no quadro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7915,6 +8641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물품 이름 (예: 콜라, 게임 30분)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome do item (ex.: refrigerante, 30 min de jogo)"
           }
         },
         "zh-Hans" : {
@@ -7982,6 +8714,12 @@
             "value" : "물품 정보"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dados do item"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8045,6 +8783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물품 추가"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar item"
           }
         },
         "zh-Hans" : {
@@ -8112,6 +8856,12 @@
             "value" : "바코드"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de barras"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8175,6 +8925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "받는 사람"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destinatário"
           }
         },
         "zh-Hans" : {
@@ -8242,6 +8998,12 @@
             "value" : "받은 돈"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recebido"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8305,6 +9067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "받을 사람이 없어요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não há ninguém para receber"
           }
         },
         "zh-Hans" : {
@@ -8372,6 +9140,12 @@
             "value" : "배우기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aprender"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8435,6 +9209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "백업과 내보내기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backup e exportação"
           }
         },
         "zh-Hans" : {
@@ -8502,6 +9282,12 @@
             "value" : "보기 편한 색과 대비"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cores e contraste mais fáceis de ver"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8565,6 +9351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "보유 수량이 부족해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você não tem cotas suficientes."
           }
         },
         "zh-Hans" : {
@@ -8632,6 +9424,12 @@
             "value" : "보유 투자 상품"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investimentos que você possui"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8695,6 +9493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "보통형 🐰"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moderado 🐰"
           }
         },
         "zh-Hans" : {
@@ -8762,6 +9566,12 @@
             "value" : "복리의 마법"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A mágica dos juros compostos"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8825,6 +9635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Responsável"
           }
         },
         "zh-Hans" : {
@@ -8892,6 +9708,12 @@
             "value" : "부모 가이드 📖"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guia para os pais 📖"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8955,6 +9777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 모드"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo dos pais"
           }
         },
         "zh-Hans" : {
@@ -9022,6 +9850,12 @@
             "value" : "부모 모드 비밀번호(PIN)를 정해 주세요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defina o PIN do modo dos pais"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9085,6 +9919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 모드에서 상품을 추가할 수 있어요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você pode adicionar produtos no modo dos pais"
           }
         },
         "zh-Hans" : {
@@ -9152,6 +9992,12 @@
             "value" : "부모 확인을 위해 사용해요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usado para confirmar que você é responsável"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9215,6 +10061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 확인이 필요해요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "É preciso a confirmação de um responsável"
           }
         },
         "zh-Hans" : {
@@ -9282,6 +10134,12 @@
             "value" : "부모 🏦"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pais 🏦"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9345,6 +10203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모는 은행(중앙은행) 역할, 자녀는 고객이 돼요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os pais fazem o papel do banco (banco central) e os filhos são os clientes."
           }
         },
         "zh-Hans" : {
@@ -9412,6 +10276,12 @@
             "value" : "부모님 확인이 필요해요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "É preciso a confirmação de um responsável"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9475,6 +10345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모를 한 명 이상 등록해 주세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cadastre pelo menos um responsável."
           }
         },
         "zh-Hans" : {
@@ -9542,6 +10418,12 @@
             "value" : "비 오는 날 우산 장수를 생각해 봐. 우산을 사려는 사람은 많은데 우산이 몇 개 없으면? 값을 올려도 팔려. 반대로 여름이 끝난 수영복은? 사려는 사람이 없어서 싸게 팔아야 해.\n\n이렇게 가격은 '사려는 마음(수요)'과 '팔려는 양(공급)'이 밀고 당기면서 정해져. 투자 상품 가격이 오르내리는 것도 같은 원리야."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pense num vendedor de guarda-chuvas num dia de chuva. Muita gente quer guarda-chuva, mas tem poucos? Mesmo subindo o preço, eles vendem. E os trajes de banho no fim do verão? Ninguém quer comprar, então precisam ser vendidos barato.\n\nO preço é definido assim, no cabo de guerra entre a “vontade de comprar” (demanda) e a “quantidade à venda” (oferta). Os preços dos investimentos sobem e descem pelo mesmo princípio."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9605,6 +10487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprar"
           }
         },
         "zh-Hans" : {
@@ -9672,6 +10560,12 @@
             "value" : "상품"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produto"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9735,6 +10629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상품 이름 (예: 별빛 펀드)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome do produto (ex.: Fundo Luz das Estrelas)"
           }
         },
         "zh-Hans" : {
@@ -9802,6 +10702,12 @@
             "value" : "상품 정보"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dados do produto"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9865,6 +10771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상품 추가"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar produto"
           }
         },
         "zh-Hans" : {
@@ -9932,6 +10844,12 @@
             "value" : "새 PIN 4자리"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo PIN de 4 dígitos"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9995,6 +10913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "선택하면 포기하는 것이 생긴다는 것 알기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entender que escolher é abrir mão de outra coisa"
           }
         },
         "zh-Hans" : {
@@ -10062,6 +10986,12 @@
             "value" : "설명 (선택)"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descrição (opcional)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10125,6 +11055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "손끝으로 느끼는 반응"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resposta tátil"
           }
         },
         "zh-Hans" : {
@@ -10192,6 +11128,12 @@
             "value" : "수량: %lld주"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quantidade: %lld cotas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10255,6 +11197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "수요와 공급"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oferta e demanda"
           }
         },
         "zh-Hans" : {
@@ -10322,6 +11270,12 @@
             "value" : "수익이 크면 위험도 커요. 나눠 담고, 잃어도 되는 만큼만!"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ganho maior significa risco maior. Divida e arrisque só o que pode perder!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10385,6 +11339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "숫자 4자리"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 dígitos"
           }
         },
         "zh-Hans" : {
@@ -10452,6 +11412,12 @@
             "value" : "시작 100 기준"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Base 100 no início"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10515,6 +11481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시작 가격"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preço inicial"
           }
         },
         "zh-Hans" : {
@@ -10582,6 +11554,12 @@
             "value" : "시작보다 +%@%%"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% desde o início"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10645,6 +11623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시작하기 🎉"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começar 🎉"
           }
         },
         "zh-Hans" : {
@@ -10712,6 +11696,12 @@
             "value" : "시장"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mercado"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10775,6 +11765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시장 탭 → 우리집 가게 가격표를 함께 보면서, 물건마다 가격이 다른 이유를 이야기해 보세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na aba Mercado, vejam juntos as etiquetas de preço da loja e conversem sobre por que cada coisa custa um valor diferente."
           }
         },
         "zh-Hans" : {
@@ -10842,6 +11838,12 @@
             "value" : "시장 탭에서 물가지수와 물가 추이 그래프를 함께 보고, 아래 '인플레이션 체험'으로 실험해 보세요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na aba Mercado, vejam juntos o índice de preços e o gráfico da evolução, e depois façam o “Experimento de inflação” abaixo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10905,6 +11907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시장 탭에서 투자 상품 가격이 매일 변하는 걸 보며 '사려는 사람이 많으면 오른다'를 이야기해 보세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na aba Mercado, vejam os preços dos investimentos mudando todo dia e conversem sobre “quando muita gente quer comprar, o preço sobe”."
           }
         },
         "zh-Hans" : {
@@ -10972,6 +11980,12 @@
             "value" : "실제 가격 %@원"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preço real: %@ wons"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11035,6 +12049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실제 가격 (원)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preço real (wons)"
           }
         },
         "zh-Hans" : {
@@ -11102,6 +12122,12 @@
             "value" : "실제 세상 가격"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preço no mundo real"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11165,6 +12191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실질 가치"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor real"
           }
         },
         "zh-Hans" : {
@@ -11232,6 +12264,12 @@
             "value" : "쑥쑥용돈 시작하기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começar com o SukSuk Mesada"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11295,6 +12333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "쑥쑥용돈에 오신 걸 환영해요!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boas-vindas ao SukSuk Mesada!"
           }
         },
         "zh-Hans" : {
@@ -11362,6 +12406,12 @@
             "value" : "쓰는 요령 알려 주기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dicas de uso"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11425,6 +12475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "쓰던 내용 이어 쓰기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar de onde parou"
           }
         },
         "zh-Hans" : {
@@ -11492,6 +12548,12 @@
             "value" : "아래 '복리 계산기'에서 기간을 4주에서 52주로 늘려 보세요. 그래프가 점점 가팔라지는 걸 함께 관찰!"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na “Calculadora de juros compostos” abaixo, aumente o prazo de 4 para 52 semanas. Observem juntos o gráfico ficando cada vez mais inclinado!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11555,6 +12617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아무거나 돈이 될 수 없는 이유(화폐의 속성) 알기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entender por que nem tudo pode ser dinheiro (as características da moeda)"
           }
         },
         "zh-Hans" : {
@@ -11622,6 +12690,12 @@
             "value" : "아이 지갑의 절반을 저축통장에 넣어 보세요. 일주일 뒤 이자가 붙은 걸 함께 확인하면 효과 만점!"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coloquem metade da carteira do seu filho na conta poupança. Uma semana depois, confiram juntos os juros: o efeito é excelente!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11685,6 +12759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아이가 가게에서 결제하기 전에, \"이 돈으로 살 수 있는 다른 것 한 가지\"를 꼭 말해 보게 하세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antes de seu filho pagar na loja, peça sempre que ele diga “uma outra coisa que dá para comprar com esse dinheiro”."
           }
         },
         "zh-Hans" : {
@@ -11752,6 +12832,12 @@
             "value" : "아이에게 이렇게 말해 보세요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Experimente dizer assim ao seu filho"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11815,6 +12901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아이와 함께 1단계부터 차근차근. 각 단계는 '설명해 주기 → 물어보기 → 함께 해보기' 순서로 10분이면 충분해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sigam com seu filho passo a passo, a partir do passo 1. Cada passo segue a ordem “explicar → perguntar → fazer juntos” e 10 minutos bastam."
           }
         },
         "zh-Hans" : {
@@ -11882,6 +12974,12 @@
             "value" : "아이와 함께 적은 돈으로 상품 2개에 나눠 투자해 보세요. 매일 가격을 같이 확인하면서 오르내림에 익숙해지게 해 주세요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Junto com seu filho, dividam uma quantia pequena entre 2 produtos. Vejam os preços todos os dias para ele se acostumar com as altas e baixas."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11945,6 +13043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아직 가격 기록이 부족해요. 내일 다시 확인해 보세요!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não há histórico de preços suficiente. Confira de novo amanhã!"
           }
         },
         "zh-Hans" : {
@@ -12012,6 +13116,12 @@
             "value" : "아직 거래가 없어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não há movimentações"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12075,6 +13185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아직 등록된 물품이 없어요.\n부모 모드에서 우리집 물품을 등록해 보세요!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não há itens cadastrados.\nCadastre os itens da sua casa no modo dos pais!"
           }
         },
         "zh-Hans" : {
@@ -12142,6 +13258,12 @@
             "value" : "아직 물품이 없어요 · 액션 탭에서 추가"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não há itens · adicione na aba Ações"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12205,6 +13327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아직 보유하고 있지 않아요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não possui nenhum"
           }
         },
         "zh-Hans" : {
@@ -12272,6 +13400,12 @@
             "value" : "안정형 🐢"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguro 🐢"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12335,6 +13469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알림"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso"
           }
         },
         "zh-Hans" : {
@@ -12402,6 +13542,12 @@
             "value" : "알아 두면 편한 기능을 알맞은 때에 살짝 알려 줘요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funções úteis são apresentadas de leve, na hora certa."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12465,6 +13611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "액션"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ações"
           }
         },
         "zh-Hans" : {
@@ -12532,6 +13684,12 @@
             "value" : "앱으로 함께 해보기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Experimentem juntos no app"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12595,6 +13753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "앱을 열지 않고 홈 화면에서 아이의 잔액을 바로 확인해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veja o saldo do seu filho direto na Tela de Início, sem abrir o app."
           }
         },
         "zh-Hans" : {
@@ -12662,6 +13826,12 @@
             "value" : "앱을 영어로도 쓸 수 있어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você também poderá usar o app em inglês."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12725,6 +13895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "얼마나?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quanto?"
           }
         },
         "zh-Hans" : {
@@ -12792,6 +13968,12 @@
             "value" : "얼마를 낼까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quanto vai pagar?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12855,6 +14037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "업데이트 뒤 처음 열 때 무엇이 새로 생겼는지 알려 줘요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na primeira vez que abrir o app após uma atualização, mostramos o que há de novo."
           }
         },
         "zh-Hans" : {
@@ -12922,6 +14110,12 @@
             "value" : "업데이트 소식"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novidades"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12985,6 +14179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "역할"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Papel"
           }
         },
         "zh-Hans" : {
@@ -13052,6 +14252,12 @@
             "value" : "영어 지원"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suporte ao inglês"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13115,6 +14321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예: 실제 1,000원짜리 물건 = %@ %@. 가게 물품의 %@ 가격이 이 환율로 자동 계산돼요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ex.: um item que custa de verdade 1.000 wons = %@ %@. Os preços dos itens da loja em %@ são calculados automaticamente com este câmbio."
           }
         },
         "zh-Hans" : {
@@ -13182,6 +14394,12 @@
             "value" : "예: 콩, 별, 코인"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ex.: Feijão, Estrela, Moeda"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13245,6 +14463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예산 세우기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montar um orçamento"
           }
         },
         "zh-Hans" : {
@@ -13312,6 +14536,12 @@
             "value" : "오늘 배울 것"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que vamos aprender hoje"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13375,6 +14605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "완료"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concluído"
           }
         },
         "zh-Hans" : {
@@ -13442,6 +14678,12 @@
             "value" : "왜 길가의 모래는 돈이 될 수 없을까? 아무 데나 잔뜩 있으니까! 좋은 돈이 되려면 다섯 가지 시험을 통과해야 해.\n\n① 오래 가야 해(썩으면 안 돼) ② 갖고 다니기 쉬워야 해(소는 무거워서 탈락!) ③ 잘게 나눌 수 있어야 해 ④ 흔하지 않아야 해 ⑤ 모두가 '이건 진짜 돈이야'라고 믿어야 해.\n\n우리집 코인도 엄마 아빠가 아무 때나 마구 찍어내지 않고 약속을 지키니까 가치가 있는 거야."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por que a areia da estrada não pode ser dinheiro? Porque tem montes dela em todo lugar! Para ser um bom dinheiro, é preciso passar em cinco testes.\n\n① Precisa durar (não pode apodrecer!) ② Precisa ser fácil de carregar (uma vaca é pesada demais, eliminada!) ③ Precisa poder ser dividido em pedacinhos ④ Não pode ser comum demais ⑤ Todo mundo precisa acreditar: “isto é dinheiro de verdade”.\n\nAs moedas da nossa casa têm valor porque o papai e a mamãe não fabricam quando dá vontade, e sim cumprem o combinado."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13505,6 +14747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "요즘 사고 싶은 것들 중에 '필요'는 뭐고 '욕구'는 뭘까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das coisas que você quer comprar ultimamente, quais são necessidades e quais são desejos?"
           }
         },
         "zh-Hans" : {
@@ -13572,6 +14820,12 @@
             "value" : "용돈"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesada"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13635,6 +14889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈 알림"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lembretes de mesada"
           }
         },
         "zh-Hans" : {
@@ -13702,6 +14962,12 @@
             "value" : "용돈 주기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dar mesada"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13765,6 +15031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈 주기 / 차감하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dar / descontar mesada"
           }
         },
         "zh-Hans" : {
@@ -13832,6 +15104,12 @@
             "value" : "용돈 주는 날, 아이가 직접 저축·투자·소비 비율을 정해서 실행하게 하세요. 일주일 뒤 기록 탭을 함께 보며 돌아봅니다."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No dia da mesada, deixe seu filho decidir e colocar em prática as proporções de poupança, investimento e gasto. Uma semana depois, revejam juntos a aba Histórico."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13895,6 +15173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈 주는 날이나 이자가 붙을 때 알림으로 알려 줘요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receba uma notificação no dia da mesada ou quando os juros forem creditados."
           }
         },
         "zh-Hans" : {
@@ -13962,6 +15246,12 @@
             "value" : "용돈 지급, 이자율 설정 등은\n이 PIN을 아는 사람만 할 수 있어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dar mesada, definir juros e outras ações\nsó podem ser feitas por quem souber este PIN."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14025,6 +15315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈을 받거나 물건을 샀을 때 가볍게 떨려서 알려 줘요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma leve vibração avisa quando a mesada chega ou algo é comprado."
           }
         },
         "zh-Hans" : {
@@ -14092,6 +15388,12 @@
             "value" : "용돈을 받자마자 계획 없이 쓰면 금방 사라져 버려. 그래서 미리 계획을 세우는 거야. 이걸 '예산'이라고 해.\n\n예를 들면 이렇게 나눠 봐. 저축 30, 필요한 것 40, 하고 싶은 것 20, 투자 도전 10. 꼭 이대로가 아니어도 돼. 네가 직접 정하는 게 중요해!"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você gasta a mesada assim que recebe, sem plano nenhum, ela some rapidinho. Por isso a gente faz um plano antes. Isso se chama “orçamento”.\n\nPor exemplo, divida assim: poupança 30, necessidades 40, desejos 20, desafio de investimento 10. Não precisa ser exatamente assim. O importante é você mesmo decidir!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14155,6 +15457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용돈을 주거나 결제하면 여기에 기록돼요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando você der mesada ou pagar, aparecerá aqui"
           }
         },
         "zh-Hans" : {
@@ -14222,6 +15530,12 @@
             "value" : "용돈을 주고, 결제하고, 저축 이자를 받고,\n투자도 해 보는 우리 가족만의 경제 시스템이에요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dê mesada, pague, receba juros da poupança\ne até invista: o sistema econômico só da sua família."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14285,6 +15599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 가게"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loja de casa"
           }
         },
         "zh-Hans" : {
@@ -14352,6 +15672,12 @@
             "value" : "우리집 가게 물품을 함께 보면서 하나씩 '필요'와 '욕구'로 나눠 보세요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vejam juntos os itens da loja de casa e separem um a um em “necessidades” e “desejos”."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14415,6 +15741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 가격"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preço em casa"
           }
         },
         "zh-Hans" : {
@@ -14482,6 +15814,12 @@
             "value" : "우리집 물가"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preços de casa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14545,6 +15883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 물가지수는 지금 얼마일까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qual é agora o índice de preços da nossa casa?"
           }
         },
         "zh-Hans" : {
@@ -14612,6 +15956,12 @@
             "value" : "우리집 은행 기록을 파일로 저장하고 다시 불러올 수 있어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salve os registros do banco da sua casa em um arquivo e carregue-os de novo depois."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14675,6 +16025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 코인으로는 뭘 바꿀 수 있을까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com as moedas da nossa casa, o que dá para trocar?"
           }
         },
         "zh-Hans" : {
@@ -14742,6 +16098,12 @@
             "value" : "우리집 코인은 왜 가치가 있을까?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por que as moedas da nossa casa têm valor?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14805,6 +16167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 통화량 💰"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinheiro em circulação em casa 💰"
           }
         },
         "zh-Hans" : {
@@ -14872,6 +16240,12 @@
             "value" : "우리집 투자 상품이에요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "É o produto de investimento da nossa família."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14935,6 +16309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "우리집 화폐 이름을 정해 주세요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha o nome da moeda da sua casa"
           }
         },
         "zh-Hans" : {
@@ -15002,6 +16382,12 @@
             "value" : "우리집에 도는 돈"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinheiro que circula em casa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15065,6 +16451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "움직임 줄이기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reduzir movimento"
           }
         },
         "zh-Hans" : {
@@ -15132,6 +16524,12 @@
             "value" : "움직임 줄이기를 켜면 화면 효과가 차분해져요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com “Reduzir Movimento” ativado, os efeitos na tela ficam mais calmos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15195,6 +16593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "원"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wons"
           }
         },
         "zh-Hans" : {
@@ -15262,6 +16666,12 @@
             "value" : "위험도"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nível de risco"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15325,6 +16735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "위험형 🚀"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arriscado 🚀"
           }
         },
         "zh-Hans" : {
@@ -15392,6 +16808,12 @@
             "value" : "은행 설정"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes do banco"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15455,6 +16877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "은행에 돈을 맡기면 은행이 '맡겨 줘서 고마워!' 하면서 덤을 줘. 그 덤이 '이자'야.\n\n지갑에 넣어 둔 돈은 아무리 기다려도 안 늘어나. 그런데 저축통장에 넣으면 매주 이자가 붙어서 돈이 자라나. 당장 쓰지 않을 돈을 어디에 두면 좋을까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando você deixa dinheiro no banco, o banco diz “obrigado por confiar em nós!” e dá um extra. Esse extra se chama “juros”.\n\nO dinheiro na carteira nunca cresce, por mais que você espere. Mas se colocar na conta poupança, a cada semana entram juros e o dinheiro cresce. Onde é melhor deixar o dinheiro que você não vai gastar agora?"
           }
         },
         "zh-Hans" : {
@@ -15522,6 +16950,12 @@
             "value" : "이 기기 건네주기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entregar este aparelho"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15585,6 +17019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이 기기가 선택한 자녀의 전용 화면으로 바뀌어요. 자녀는 자기 지갑·가게·투자·기록·배우기만 볼 수 있어요. 폰이 없는 자녀에게 부모 폰을 건네줄 때 좋아요. 되돌아오려면 자물쇠 버튼을 누르고 부모 PIN을 입력하면 돼요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este aparelho passa para a tela exclusiva do filho escolhido. O filho só vê a própria carteira, a loja, os investimentos, o histórico e as lições. É útil quando você empresta seu celular a um filho que não tem um. Para voltar, toque no botão do cadeado e digite o PIN dos pais."
           }
         },
         "zh-Hans" : {
@@ -15652,6 +17092,12 @@
             "value" : "이 기기를 %@ %@의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tornar este aparelho o celular de %@ %@? Para voltar, será preciso o PIN dos pais."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15715,6 +17161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이 기기를 누구의 폰으로 만들까요? 되돌리려면 부모 PIN이 필요해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De quem este aparelho vai virar o celular? Para voltar, será preciso o PIN dos pais."
           }
         },
         "zh-Hans" : {
@@ -15782,6 +17234,12 @@
             "value" : "이대로 두면 얼마가 될까? (12주 복리 예상)"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quanto vai virar se ficar assim? (estimativa de 12 semanas com juros compostos)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15845,6 +17303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이렇게 물어보세요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Experimente perguntar assim"
           }
         },
         "zh-Hans" : {
@@ -15912,6 +17376,12 @@
             "value" : "이름"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15975,6 +17445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이모지"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
           }
         },
         "zh-Hans" : {
@@ -16042,6 +17518,12 @@
             "value" : "이번 주 용돈을 어떻게 나누고 싶어?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como você gostaria de dividir a mesada desta semana?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16105,6 +17587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이유"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivo"
           }
         },
         "zh-Hans" : {
@@ -16172,6 +17660,12 @@
             "value" : "이자"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juros"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16235,6 +17729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이자 · 환율 · 물가"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juros · Câmbio · Preços"
           }
         },
         "zh-Hans" : {
@@ -16302,6 +17802,12 @@
             "value" : "이자가 이자를 낳는 것을 '복리'라고 해요. 오래 저축할수록 돈이 눈덩이처럼 불어나요! ⛄️"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando os juros rendem mais juros, chamamos de “juros compostos”. Quanto mais tempo você poupa, mais o dinheiro cresce como uma bola de neve! ⛄️"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16365,6 +17871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이자로만 %@ %@을(를) 벌었어요!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você ganhou %@ %@ só de juros!"
           }
         },
         "zh-Hans" : {
@@ -16432,6 +17944,12 @@
             "value" : "이자에 이자가 붙으면 눈덩이처럼 커진다는 것 알기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entender que juros sobre juros crescem como uma bola de neve"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16495,6 +18013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이자율이 물가 상승률보다 낮으면 저축해도 돈의 힘이 줄어요. 이자율을 올려 보세요!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se os juros forem menores que a alta dos preços, mesmo poupando o dinheiro perde força. Tente aumentar os juros!"
           }
         },
         "zh-Hans" : {
@@ -16562,6 +18086,12 @@
             "value" : "이전"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16625,6 +18155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인플레이션"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflação"
           }
         },
         "zh-Hans" : {
@@ -16692,6 +18228,12 @@
             "value" : "인플레이션 없음"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sem inflação"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16755,6 +18297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dia"
           }
         },
         "zh-Hans" : {
@@ -16822,6 +18370,12 @@
             "value" : "일찍, 꾸준히 — 이게 복리의 비밀이에요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começar cedo e ser constante: esse é o segredo dos juros compostos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16885,6 +18439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "잃어도 괜찮은 돈은 얼마일까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quanto dinheiro dá para perder sem problema?"
           }
         },
         "zh-Hans" : {
@@ -16952,6 +18512,12 @@
             "value" : "입금"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depositar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17015,6 +18581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "입금 / 출금"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depositar / Retirar"
           }
         },
         "zh-Hans" : {
@@ -17082,6 +18654,12 @@
             "value" : "자녀"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filho"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17145,6 +18723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자녀 기기의 카메라로 스캔하면 초대장이 보여요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escaneie com a câmera do aparelho do seu filho para ver o convite"
           }
         },
         "zh-Hans" : {
@@ -17212,6 +18796,12 @@
             "value" : "자녀 초대"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convidar filho"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17275,6 +18865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자녀 폰 모드"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo celular do filho"
           }
         },
         "zh-Hans" : {
@@ -17342,6 +18938,12 @@
             "value" : "자녀 폰으로 전환"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mudar para o celular do filho"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17405,6 +19007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자녀 👧"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filhos 👧"
           }
         },
         "zh-Hans" : {
@@ -17472,6 +19080,12 @@
             "value" : "자녀가 '찍어서 결제'로 이 바코드를 찍으면\n지갑에서 %@이 빠져나가요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando seu filho escanear este código de barras em “Escanear e pagar”,\n%@ sairá da carteira dele."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17535,6 +19149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자녀를 한 명 이상 등록해 주세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cadastre pelo menos um filho."
           }
         },
         "zh-Hans" : {
@@ -17602,6 +19222,12 @@
             "value" : "작년에 1,000원이던 과자가 올해 1,100원이 됐어. 과자가 커진 것도 아닌데! 이렇게 물건값이 오르는 걸 '인플레이션'이라고 해.\n\n내 돈의 숫자는 그대로인데 살 수 있는 게 줄어들어. 풍선에서 바람이 빠지듯 돈의 힘이 약해지는 거야. 그래서 돈을 지갑에 가만히 두면 조금씩 손해란다. 이자를 받거나 투자해서 물가보다 빨리 불려야 돈의 힘을 지킬 수 있어."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No ano passado, um docinho custava 1.000. Neste ano, custa 1.100. E o docinho nem ficou maior! Quando os preços sobem assim, chamamos de “inflação”.\n\nO número do seu dinheiro continua o mesmo, mas dá para comprar menos. Como o ar que escapa de um balão, o dinheiro vai enfraquecendo. Por isso, deixar o dinheiro parado na carteira faz você perder um pouquinho. Para proteger a força dele, é preciso fazê-lo crescer mais rápido que os preços, com juros ou investimentos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17665,6 +19291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "잔액"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo"
           }
         },
         "zh-Hans" : {
@@ -17732,6 +19364,12 @@
             "value" : "잠그기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloquear"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17795,6 +19433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저장"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvar"
           }
         },
         "zh-Hans" : {
@@ -17862,6 +19506,12 @@
             "value" : "저축"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poupança"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17925,6 +19575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축 이자율"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juros da poupança"
           }
         },
         "zh-Hans" : {
@@ -17992,6 +19648,12 @@
             "value" : "저축 입금"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depósito na poupança"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18055,6 +19717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축 잔액"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo da poupança"
           }
         },
         "zh-Hans" : {
@@ -18122,6 +19790,12 @@
             "value" : "저축 출금"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retirada da poupança"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18185,6 +19859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축: %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poupança: %@"
           }
         },
         "zh-Hans" : {
@@ -18252,6 +19932,12 @@
             "value" : "저축과 이자"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poupança e juros"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18315,6 +20001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축을 일찍 시작한 사람과 늦게 시작한 사람, 나중에 누가 더 부자가 될까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se uma pessoa começa a poupar cedo e outra começa tarde, quem fica mais rica depois?"
           }
         },
         "zh-Hans" : {
@@ -18382,6 +20074,12 @@
             "value" : "저축통장에 넣기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colocar na poupança"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18445,6 +20143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축통장에 돈이 부족해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não há dinheiro suficiente na poupança."
           }
         },
         "zh-Hans" : {
@@ -18512,6 +20216,12 @@
             "value" : "저축통장에 매주 복리"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juros compostos semanais na conta poupança"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18575,6 +20285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저축하면 돈이 늘어나는 원리 알기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entender como poupar faz o dinheiro crescer"
           }
         },
         "zh-Hans" : {
@@ -18642,6 +20358,12 @@
             "value" : "저축한 돈"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinheiro poupado"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18705,6 +20427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "적다가 앱이 꺼져도 쓰던 내용이 남아 있어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesmo que o app feche enquanto você digita, o que você escreveu continua lá."
           }
         },
         "zh-Hans" : {
@@ -18772,6 +20500,12 @@
             "value" : "전부 삭제"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar tudo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18835,6 +20569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "전체"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos"
           }
         },
         "zh-Hans" : {
@@ -18902,6 +20642,12 @@
             "value" : "정말 모든 데이터를 삭제할까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar mesmo todos os dados?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18965,6 +20711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "종류"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo"
           }
         },
         "zh-Hans" : {
@@ -19032,6 +20784,12 @@
             "value" : "좋은 돈의 조건"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que faz um bom dinheiro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19095,6 +20853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sem."
           }
         },
         "zh-Hans" : {
@@ -19162,6 +20926,12 @@
             "value" : "주 %@%%"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% por semana"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19225,6 +20995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주간 물가 상승률: %@%%"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alta semanal dos preços: %@%%"
           }
         },
         "zh-Hans" : {
@@ -19292,6 +21068,12 @@
             "value" : "주간 이자율"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juros semanais"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19355,6 +21137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주간 이자율: %@%%"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juros semanais: %@%%"
           }
         },
         "zh-Hans" : {
@@ -19422,6 +21210,12 @@
             "value" : "주간 저축 이자율 %@%% · 주간 물가 상승률 %@%%"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juros semanais da poupança %@%% · Alta semanal dos preços %@%%"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19485,6 +21279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주간 저축 이자율: %@%%"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juros semanais da poupança: %@%%"
           }
         },
         "zh-Hans" : {
@@ -19552,6 +21352,12 @@
             "value" : "지갑"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carteira"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19615,6 +21421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑 잔액"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo da carteira"
           }
         },
         "zh-Hans" : {
@@ -19682,6 +21494,12 @@
             "value" : "지갑: %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carteira: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19745,6 +21563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑: %@ %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carteira: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -19812,6 +21636,12 @@
             "value" : "지갑에 그냥 둔 돈은 힘이 줄었지만, 저축한 돈은 지켜냈어요! 💪"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O dinheiro que ficou na carteira perdeu força, mas o dinheiro poupado manteve! 💪"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19875,6 +21705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑에 돈이 부족해요! 잔액: %@ %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não há dinheiro suficiente na carteira! Saldo: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -19942,6 +21778,12 @@
             "value" : "지갑에 돈이 부족해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não há dinheiro suficiente na carteira."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20005,6 +21847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑에 돈이 부족해요. 필요 금액: %@ %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não há dinheiro suficiente na carteira. Necessário: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -20072,6 +21920,12 @@
             "value" : "지갑에 둔 돈"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinheiro na carteira"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20135,6 +21989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지갑에 둔 돈과 저축한 돈, 뭐가 다를까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qual é a diferença entre o dinheiro da carteira e o dinheiro poupado?"
           }
         },
         "zh-Hans" : {
@@ -20202,6 +22062,12 @@
             "value" : "지갑으로 꺼내기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tirar para a carteira"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20265,6 +22131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지급 · 차감"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dar · Descontar"
           }
         },
         "zh-Hans" : {
@@ -20332,6 +22204,12 @@
             "value" : "지난번에 뭘 사느라 뭘 포기했었지?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Da última vez que você comprou algo, do que abriu mão?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20395,6 +22273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지난주에는 어디에 돈을 제일 많이 썼을까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na semana passada, onde você mais gastou dinheiro?"
           }
         },
         "zh-Hans" : {
@@ -20462,6 +22346,12 @@
             "value" : "지수 %lld"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Índice %lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20525,6 +22415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지원"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suporte"
           }
         },
         "zh-Hans" : {
@@ -20592,6 +22488,12 @@
             "value" : "집에 있는 물건 3개를 골라 '돈이 될 수 있을까?' 게임을 해 보세요. 다섯 조건에 O/X를 매겨 봅니다."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolham 3 objetos da casa e brinquem de “Isso poderia ser dinheiro?”. Marquem cada uma das cinco condições com ✓ ou ✗."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20655,6 +22557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "찍어서 결제"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escanear e pagar"
           }
         },
         "zh-Hans" : {
@@ -20722,6 +22630,12 @@
             "value" : "찍으면 바로 결제"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escaneie e pague na hora"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20785,6 +22699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "차감"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desconto"
           }
         },
         "zh-Hans" : {
@@ -20852,6 +22772,12 @@
             "value" : "차감하기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descontar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20915,6 +22841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "처음 금액: %@ %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor inicial: %@ %@"
           }
         },
         "zh-Hans" : {
@@ -20982,6 +22914,12 @@
             "value" : "처음보다 물가가 %@%% 올랐어요. 지갑 속 1,000 %@의 힘은 이제 %@ %@만큼이에요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os preços subiram %@%% desde o início. 1.000 %@ na carteira agora têm a força de %@ %@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21045,6 +22983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "초대장 · QR"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convite · QR"
           }
         },
         "zh-Hans" : {
@@ -21112,6 +23056,12 @@
             "value" : "초대장 보내기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar convite"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21175,6 +23125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "총 금액"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor total"
           }
         },
         "zh-Hans" : {
@@ -21242,6 +23198,12 @@
             "value" : "총자산"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patrimônio total"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21305,6 +23267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "총자산 · 실제 돈으로 약 %@원"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patrimônio total · cerca de %@ wons em dinheiro real"
           }
         },
         "zh-Hans" : {
@@ -21372,6 +23340,12 @@
             "value" : "최근 거래"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Movimentações recentes"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21435,6 +23409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "추가"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar"
           }
         },
         "zh-Hans" : {
@@ -21502,6 +23482,12 @@
             "value" : "출금"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retirar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21565,6 +23551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "취소"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
           }
         },
         "zh-Hans" : {
@@ -21632,6 +23624,12 @@
             "value" : "크리스마스에 인기 장난감이 비싸지는 이유는 뭘까?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por que os brinquedos da moda ficam mais caros no Natal?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21695,6 +23693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "큰 글씨에 맞춘 화면"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telas para texto grande"
           }
         },
         "zh-Hans" : {
@@ -21762,6 +23766,12 @@
             "value" : "투자"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investimento"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21825,6 +23835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자 매도"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Venda de investimento"
           }
         },
         "zh-Hans" : {
@@ -21892,6 +23908,12 @@
             "value" : "투자 매수"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compra de investimento"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21955,6 +23977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자 상품"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produtos de investimento"
           }
         },
         "zh-Hans" : {
@@ -22022,6 +24050,12 @@
             "value" : "투자 상품 추가"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar produto de investimento"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22085,6 +24119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자 시장 📈"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mercado de investimentos 📈"
           }
         },
         "zh-Hans" : {
@@ -22152,6 +24192,12 @@
             "value" : "투자 평가액: %@ %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor dos investimentos: %@ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22215,6 +24261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자는 돈을 심는 거야. 씨앗이 잘 자라면 큰 나무가 되지만, 시들 수도 있어. 저축과 달리 투자는 돈이 늘 수도, 줄 수도 있단다.\n\n꼭 기억할 규칙: 크게 벌 수 있는 것일수록 크게 잃을 수도 있어. 그리고 계란을 한 바구니에 다 담으면 떨어뜨렸을 때 전부 깨져. 나눠 담아야 해(분산투자). 잃어도 괜찮은 만큼만 심는 거야."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investir é como plantar dinheiro. Se a semente cresce bem, vira uma árvore grande, mas também pode murchar. Diferente de poupar, no investimento o dinheiro pode aumentar ou diminuir.\n\nLembre-se desta regra: quanto mais dá para ganhar, mais dá para perder. E se você coloca todos os ovos numa só cesta, quando ela cai, todos quebram. É preciso distribuir (diversificar). Plante só o que você pode perder."
           }
         },
         "zh-Hans" : {
@@ -22282,6 +24334,12 @@
             "value" : "투자와 위험"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investimento e risco"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22345,6 +24403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자자"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investidor"
           }
         },
         "zh-Hans" : {
@@ -22412,6 +24476,12 @@
             "value" : "투자자 선택"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolher investidor"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22475,6 +24545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "투자하려면 먼저 홈에서 자녀를 등록해 주세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para investir, primeiro cadastre um filho na tela Início."
           }
         },
         "zh-Hans" : {
@@ -22542,6 +24618,12 @@
             "value" : "판매 중인 투자 상품이 없어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não há produtos de investimento à venda"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22605,6 +24687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "펼치는 아이폰 화면"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tela para iPhone dobrável"
           }
         },
         "zh-Hans" : {
@@ -22672,6 +24760,12 @@
             "value" : "펼치는 아이폰에서 넓은 화면을 두 쪽으로 나눠 써요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use a tela larga de um iPhone dobrável dividida em dois painéis."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22735,6 +24829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "필요 먼저, 욕구는 그다음!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primeiro as necessidades, depois os desejos!"
           }
         },
         "zh-Hans" : {
@@ -22802,6 +24902,12 @@
             "value" : "필요와 욕구"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Necessidades e desejos"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22865,6 +24971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "필요한 걸 안 사고 욕구부터 채우면 어떤 일이 생길까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que acontece se a gente compra os desejos e deixa de comprar as necessidades?"
           }
         },
         "zh-Hans" : {
@@ -22932,6 +25044,12 @@
             "value" : "필터"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22995,6 +25113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "필터 초기화"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limpar filtros"
           }
         },
         "zh-Hans" : {
@@ -23062,6 +25186,12 @@
             "value" : "하루 ±15%%까지 크게 움직여요! 크게 벌 수도, 잃을 수도 있어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oscila muito, até ±15%% por dia! Dá para ganhar muito ou perder muito."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23125,6 +25255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "하루 ±2%% 정도로 조금씩 움직여요. 잃을 걱정이 적어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oscila aos poucos, cerca de ±2%% por dia. Pouco risco de perder."
           }
         },
         "zh-Hans" : {
@@ -23192,6 +25328,12 @@
             "value" : "하루 ±6%% 정도로 오르내려요. 적당한 도전이에요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobe e desce cerca de ±6%% por dia. Um desafio moderado."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23255,6 +25397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "한 번 더 입력"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digite novamente"
           }
         },
         "zh-Hans" : {
@@ -23322,6 +25470,12 @@
             "value" : "함께 실험하기 · 복리 계산기 🧮"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Experimentem juntos · Calculadora de juros compostos 🧮"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23385,6 +25539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "함께 실험하기 · 인플레이션 체험 🎈"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Experimentem juntos · Experimento de inflação 🎈"
           }
         },
         "zh-Hans" : {
@@ -23452,6 +25612,12 @@
             "value" : "현재 가격"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preço atual"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23515,6 +25681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "현재 지갑"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carteira atual"
           }
         },
         "zh-Hans" : {
@@ -23582,6 +25754,12 @@
             "value" : "홈 화면 위젯"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets da Tela de Início"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23645,6 +25823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "화폐 '%@' · 주간 이자 %@%%"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moeda “%@” · Juros semanais %@%%"
           }
         },
         "zh-Hans" : {
@@ -23712,6 +25896,12 @@
             "value" : "화폐 이름"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome da moeda"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23775,6 +25965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "확인"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "zh-Hans" : {
@@ -23842,6 +26038,12 @@
             "value" : "환율"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taxa de câmbio"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23905,6 +26107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "환율 1 %@ = %@원 기준으로 자동 계산돼요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calculado automaticamente com 1 %@ = %@ wons."
           }
         },
         "zh-Hans" : {
@@ -23972,6 +26180,12 @@
             "value" : "환율: 1 %@ ="
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Câmbio: 1 %@ ="
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24035,6 +26249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "희소하고 모두가 믿어야 돈이 돼요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para ser dinheiro, é preciso ser escasso e todo mundo precisa confiar."
           }
         },
         "zh-Hans" : {
@@ -24102,6 +26322,12 @@
             "value" : "🌱 %@님, 쑥쑥용돈에 초대해요!\n\n우리집 화폐 '%@'(으)로 함께해요:\n• 용돈을 모으고 결제해요 💸\n• 저축하면 매주 이자 %@%%를 받아요 🏦\n• 투자 상품으로 경제를 배워요 📈\n\n부모님 기기와 같은 iCloud 계정으로 로그인한 기기에서 쑥쑥용돈 앱을 열면 바로 함께할 수 있어요!"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, você foi convidado para o SukSuk Mesada!\n\nVamos usar juntos a moeda da nossa casa, “%@”:\n• Junte a mesada e pague com ela 💸\n• Poupando, você recebe %@%% de juros por semana 🏦\n• Aprenda economia com produtos de investimento 📈\n\nAbra o app SukSuk Mesada em um aparelho com a mesma conta do iCloud do aparelho dos seus pais e você já pode participar!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24165,6 +26391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 배우기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Aprender"
           }
         },
         "zh-Hans" : {
@@ -24232,6 +26464,12 @@
             "value" : "🏛️ 시장"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Mercado"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24295,6 +26533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 부모 모드"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Modo dos pais"
           }
         },
         "zh-Hans" : {
@@ -24362,6 +26606,12 @@
             "value" : "🏦 저축"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Poupança"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24425,6 +26675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 저축통장"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Conta poupança"
           }
         },
         "zh-Hans" : {
@@ -24492,6 +26748,12 @@
             "value" : "🏪 우리집 가게"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Loja de casa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24555,6 +26817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ 물품 바코드"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Código de barras do item"
           }
         },
         "zh-Hans" : {
@@ -24622,6 +26890,12 @@
             "value" : "👨‍👩‍👧‍👦 가족 구성원"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Membros da família"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24685,6 +26959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 초대장"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Convite"
           }
         },
         "zh-Hans" : {
@@ -24752,6 +27032,12 @@
             "value" : "💡 돈을 그냥 두면 힘이 줄어요. 저축(이자)이나 투자로 지켜 보세요!"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Dinheiro parado perde força. Proteja-o com poupança (juros) ou investimento!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24815,6 +27101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 메시지, 카카오톡 등으로 초대장을 보낼 수 있어요.\n같은 iCloud 계정으로 로그인한 기기라면 데이터가 자동으로 함께 보여요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Você pode enviar o convite por mensagem ou por um app de bate-papo.\nEm aparelhos com a mesma conta do iCloud, os dados aparecem automaticamente."
           }
         },
         "zh-Hans" : {
@@ -24882,6 +27174,12 @@
             "value" : "💡 시세는 하루에 한 번 바뀌어요. 값이 쌀 때 사서 비쌀 때 팔면 이익, 반대면 손해예요!"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Os preços mudam uma vez por dia. Comprar barato e vender caro dá lucro; o contrário dá prejuízo!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24945,6 +27243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 결제하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Pagar"
           }
         },
         "zh-Hans" : {
@@ -25012,6 +27316,12 @@
             "value" : "💵 지갑"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Carteira"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25075,6 +27385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 돈 관리"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Gerenciar dinheiro"
           }
         },
         "zh-Hans" : {
@@ -25142,6 +27458,12 @@
             "value" : "💸 용돈 관리"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Mesada"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25205,6 +27527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 투자"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Investir"
           }
         },
         "zh-Hans" : {
@@ -25272,6 +27600,12 @@
             "value" : "📈 투자 상품"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Produtos de investimento"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25335,6 +27669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 자녀 폰 모드"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Modo celular do filho"
           }
         },
         "zh-Hans" : {
@@ -25402,6 +27742,12 @@
             "value" : "📷 찍어서 결제"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Escanear e pagar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25467,6 +27813,12 @@
             "value" : "🔐 부모 모드로 돌아가기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Voltar ao modo dos pais"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25530,6 +27882,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 거래 기록"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Movimentações"
           }
         },
         "zh-Hans" : {

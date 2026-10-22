@@ -51,6 +51,12 @@
             "value" : "쑥쑥용돈"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Mesada"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -115,6 +121,12 @@
             "value" : "자녀가 물품 바코드를 찍어서 결제하려면 카메라가 필요해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A câmera é necessária para seu filho escanear o código de barras de um item e pagar."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177,6 +189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "부모 확인(액션 잠금 해제)을 위해 Face ID를 사용해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Face ID é usado para confirmar um responsável e desbloquear as ações."
           }
         },
         "zh-Hans" : {
