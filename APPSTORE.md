@@ -1115,3 +1115,65 @@ Muuta lapsen puhelin vain hänelle tarkoitetuksi näkymäksi. Hän näkee vain o
 
 iCloud-synkronointi
 Laitteet, joilla on sama iCloud-tili, pitävät perheen kirjanpidon samana.
+
+## id
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Uang Saku: Anak
+
+### 부제
+
+Belajar menabung dan investasi
+
+### 키워드
+
+literasi keuangan,celengan,bank,bunga,majemuk,anggaran,keluarga,ekonomi,koin,saham,edukasi
+
+### 프로모션 텍스트
+
+Orang tua jadi bank sentral, anak jadi nasabah. Beri uang saku dengan mata uang rumah sendiri dan biarkan anak merasakan bunga tabungan serta berlatih berinvestasi.
+
+### 설명
+
+Ajarkan anak cara kerja uang dengan mata uang yang hanya dimiliki keluargamu. Orang tua berperan sebagai bank sentral yang menerbitkan uang saku; anak membayar, menabung, dan berinvestasi, belajar ekonomi lewat pengalaman langsung.
+Pengalaman yang dijalani sendiri lebih lama diingat daripada sekadar penjelasan.
+
+Mata uang rumah
+Kamu bebas menamai mata uangnya, misalnya Kacang, Bintang, atau Koin. Memberi atau mengurangi uang saku hanya bisa dilakukan di mode orang tua yang dikunci dengan PIN.
+
+Pembayaran dan toko rumah
+Orang tua menentukan barang yang dipakai di rumah, seperti camilan, waktu bermain game, atau waktu menonton TV, lengkap dengan harganya.
+Anak memilih di toko lalu langsung membayar, atau memindai dengan kamera barcode yang ditampilkan orang tua.
+
+Tabungan dan bunga
+Uang di rekening tabungan mendapat bunga majemuk setiap minggu. Orang tua menentukan suku bunga, dan kamu bisa melihat lebih dulu seberapa besar uang akan bertambah.
+
+Latihan berinvestasi
+Beli dan jual tiga dana latihan yang harganya berubah sekali sehari, dan lihat grafik imbal hasilnya. Bandingkan dana yang aman, sedang, dan berisiko untuk memahami hubungan risiko dan keuntungan.
+
+Pasar dan riwayat
+Tab Pasar menampilkan harga di rumah, kurs, suku bunga, jumlah uang, dan harga investasi sekaligus. Tab ini juga menunjukkan bahwa saat harga naik, uang yang sama bisa membeli lebih sedikit.
+Setiap perpindahan uang dicatat di buku kas dan bisa ditinjau berdasarkan tanggal, anggota, dan jenis.
+
+Belajar
+Panduan orang tua 10 langkah, dari “Untuk apa kita butuh uang?” sampai kebutuhan dan keinginan, biaya peluang, tabungan dan bunga, bunga majemuk, inflasi, investasi dan risiko, hingga menyusun anggaran, membantu kamu mengobrol dengan anak.
+Dengan kalkulator bunga majemuk dan eksperimen inflasi, kamu bisa mengubah angka sendiri dan bereksperimen.
+
+Mode ponsel anak
+Ubah ponsel anak menjadi layar khusus untuknya. Ia hanya melihat dompet, investasi, riwayat, dan pelajarannya sendiri, dan untuk keluar diperlukan PIN orang tua. Kamu bisa mengundang anak lewat undangan kode QR.
+
+Sinkronisasi iCloud
+Perangkat dengan akun iCloud yang sama menjaga buku kas keluarga tetap sama.

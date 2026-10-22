@@ -130,3 +130,10 @@ Lähetä palautetta vanhempaintilasta.
 Lue palautteeseen tulleet vastaukset.
 Avaa tietosuoja ja tuki sovelluksessa.
 Sovellus toimii entistä vakaammin.
+
+### 앱스토어 (Bahasa Indonesia)
+
+Kirim masukan dari mode orang tua.
+Baca balasan atas masukanmu di aplikasi.
+Buka privasi dan dukungan di aplikasi.
+Aplikasi berjalan lebih stabil.

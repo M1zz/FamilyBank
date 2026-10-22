@@ -57,6 +57,12 @@
             "value" : "SukSuk Argent de poche"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Uang Saku"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +175,12 @@
             "value" : "L’appareil photo est nécessaire pour que ton enfant scanne le code-barres d’un article et paie."
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamera diperlukan agar anak bisa memindai barcode barang untuk membayar."
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID sert à confirmer qu’un parent est présent pour déverrouiller les actions."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID digunakan untuk mengonfirmasi orang tua saat membuka kunci Aksi."
           }
         },
         "it" : {
