@@ -81,3 +81,10 @@ Envie sugestões no modo dos pais.
 Leia no app as respostas às sugestões.
 Abra privacidade e suporte no app.
 O app funciona de forma mais estável.
+
+### 앱스토어 (русский)
+
+Присылайте отзывы из режима родителя.
+Ответы на отзывы читайте в приложении.
+Политика и поддержка — в приложении.
+Приложение стало работать стабильнее.

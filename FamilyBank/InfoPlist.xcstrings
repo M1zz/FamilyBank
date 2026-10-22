@@ -57,6 +57,12 @@
             "value" : "SukSuk Mesada"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "СукСук Карманные"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -127,6 +133,12 @@
             "value" : "A câmera é necessária para seu filho escanear o código de barras de um item e pagar."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камера нужна, чтобы ребёнок мог отсканировать штрихкод товара и оплатить."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -195,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O Face ID é usado para confirmar um responsável e desbloquear as ações."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID используется для подтверждения родителя при разблокировке действий."
           }
         },
         "zh-Hans" : {

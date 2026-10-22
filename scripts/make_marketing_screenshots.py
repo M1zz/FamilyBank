@@ -18,7 +18,7 @@ W, H = 1242, 2688   # 이 계정의 iPhone 제출 규격
 
 # ── 앱마다 고치는 곳 ──────────────────────────────────────────────
 # 앱 언어 → App Store 로케일 (스토어 폴더 이름)
-STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR"}
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru"}
 # 바탕 · 포인트 색 (헤더·검색 결과 그림과 맞춘다)
 BG, ACCENT, INK, SUB = "#EEF5EC", "#2F9E4F", "#12281C", "#5E6B62"
 # 언어 → [(원본 파일, 레이아웃, 헤드라인, 서브카피)]
@@ -30,6 +30,14 @@ SHOTS = {
         ("04-market.png",    "flat-rotate", "물가와 환율까지<br>진짜 경제처럼", "돈의 가치가 변하는 걸 직접 봐요"),
         ("05-actions.png",   "hero-bleed",  "용돈 주기도<br>결제도 간단하게", "부모 PIN으로 잠그고, 바코드로 결제"),
         ("06-learn.png",     "dark",        "10단계로 배우는<br>돈 이야기", "아이와 함께 읽는 부모 가이드"),
+    ],
+    "ru": [
+        ("01-dashboard.png", "hero-bleed"  , "Ваш дом становится<br>маленьким банком", "Родители — банк, дети — клиенты"),
+        ("02-child.png", "left-text"   , "Кошелёк, накопления,<br>вложения — сразу видно", "У каждого ребёнка свой счёт"),
+        ("03-savings.png", "text-bottom" , "Копите — и проценты<br>растут", "Еженедельные сложные проценты на графике"),
+        ("04-market.png", "flat-rotate" , "Цены и курс обмена<br>как в настоящей экономике", "Смотрите, как меняется ценность денег"),
+        ("05-actions.png", "hero-bleed"  , "Карманные деньги и оплата<br>проще простого", "Защита родительским PIN, оплата по штрихкоду"),
+        ("06-learn.png", "dark"        , "Деньги за<br>10 шагов", "Руководство для чтения вместе с ребёнком"),
     ],
     "pt-BR": [
         ("01-dashboard.png", "hero-bleed"  , "Sua casa vira<br>um pequeno banco", "Pais são o banco, filhos são os clientes"),

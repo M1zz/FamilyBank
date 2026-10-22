@@ -108,6 +108,7 @@
 				fr,
 				it,
 				"pt-BR",
+				ru,
 				Base,
 			);
 			mainGroup = A10000000000000000000003;
