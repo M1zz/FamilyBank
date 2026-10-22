@@ -1301,3 +1301,65 @@ Maak van de telefoon van je kind een scherm alleen voor hem of haar. Het kind zi
 
 iCloud-synchronisatie
 Toestellen die met hetzelfde iCloud-account zijn ingelogd, houden het gezinsgrootboek gelijk.
+
+## pl
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Kieszonkowe: Dla dzieci
+
+### 부제
+
+Oszczędzanie i inwestowanie
+
+### 키워드
+
+edukacja finansowa,skarbonka,bank,odsetki,procent składany,budżet,rodzina,ekonomia,monety,akcje
+
+### 프로모션 텍스트
+
+Rodzice są bankiem centralnym, dzieci klientami. Dawajcie kieszonkowe w domowej walucie i pozwólcie dzieciom poznać odsetki od oszczędności oraz poćwiczyć inwestowanie.
+
+### 설명
+
+Naucz dzieci, jak działają pieniądze, za pomocą waluty, która należy tylko do was. Rodzice są bankiem centralnym i emitują kieszonkowe; dzieci płacą, oszczędzają i inwestują, ucząc się ekonomii w praktyce.
+To, czego doświadczysz sam, zapamiętasz znacznie dłużej niż to, co ktoś ci tylko wyjaśni.
+
+Domowa waluta
+Nazwę waluty wybierasz sam: Fasolki, Gwiazdki, Monety… Kieszonkowe można dawać i odejmować tylko w trybie rodzica, zablokowanym kodem PIN.
+
+Płatności i domowy sklepik
+Rodzice ustalają rzeczy używane w domu, jak przekąski, czas grania czy oglądania telewizji, i nadają im ceny.
+Dzieci wybierają w sklepiku i od razu płacą albo skanują aparatem kod kreskowy pokazany przez rodzica.
+
+Oszczędzanie i odsetki
+Pieniądze na koncie oszczędnościowym dostają co tydzień procent składany. Wysokość odsetek ustalają rodzice, a z góry widać, ile pieniądze urosną.
+
+Ćwiczenie inwestowania
+Kupuj i sprzedawaj trzy fundusze ćwiczeniowe, których cena zmienia się raz dziennie, i oglądaj wykresy stopy zwrotu. Porównuj fundusze bezpieczne, umiarkowane i ryzykowne, aby zrozumieć związek ryzyka z zyskiem.
+
+Rynek i historia
+Karta Rynek pokazuje na jednym ekranie ceny w domu, kurs wymiany, odsetki, ilość pieniędzy i ceny inwestycji. Pokazuje też, że gdy ceny rosną, za te same pieniądze kupisz mniej.
+Każdy ruch pieniędzy trafia do księgi i można go przejrzeć według daty, członka i rodzaju.
+
+Nauka
+Przewodnik dla rodziców w 10 krokach – od pytania „Po co nam pieniądze?” przez potrzeby i zachcianki, koszt alternatywny, oszczędzanie i odsetki, procent składany, inflację, inwestowanie i ryzyko aż po budżet – pomaga rozmawiać z dzieckiem.
+W kalkulatorze procentu składanego i eksperymencie z inflacją możesz sam zmieniać liczby i eksperymentować.
+
+Tryb telefonu dziecka
+Zamień telefon dziecka w ekran tylko dla niego. Widzi ono tylko swój portfel, inwestycje, historię i lekcje, a aby wyjść, potrzebny jest PIN rodzica. Dziecko możesz zaprosić zaproszeniem z kodem QR.
+
+Synchronizacja iCloud
+Urządzenia zalogowane na to samo konto iCloud mają taką samą rodzinną księgę.

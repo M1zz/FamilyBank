@@ -94,6 +94,12 @@
             "value" : "%@ %@ — %@ %@ betalen?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@ — zapłacić %@ %@?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -223,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@ betalen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapłać %@ %@"
           }
         },
         "pt-BR" : {
@@ -356,6 +368,12 @@
             "value" : "%@ %@ geven"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daj %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -485,6 +503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ %@ afschrijven"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odejmij %@ %@"
           }
         },
         "pt-BR" : {
@@ -618,6 +642,12 @@
             "value" : "%1$@ %2$@ kopen voor %3$@ %4$@?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kupić %1$@ %2$@ za %3$@ %4$@?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -747,6 +777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je hebt %@ %@ gespaard! Elke week komt er rente bij. 💰"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaoszczędzono %@ %@! Co tydzień dochodzą odsetki. 💰"
           }
         },
         "pt-BR" : {
@@ -880,6 +916,12 @@
             "value" : "%@ %@ is naar de portemonnee verplaatst."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przeniesiono %@ %@ do portfela."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1009,6 +1051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bezit van %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posiadane inwestycje: %@ %@"
           }
         },
         "pt-BR" : {
@@ -1142,6 +1190,12 @@
             "value" : "Bank van %@ %@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bank: %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1271,6 +1325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maak de telefoon van %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrób z tego telefon: %@ %@"
           }
         },
         "pt-BR" : {
@@ -1404,6 +1464,12 @@
             "value" : "Je hebt %2$lld aandelen van %1$@ gekocht! 📈"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kupiono %2$lld szt. produktu %1$@! 📈"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1533,6 +1599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je hebt %2$lld aandelen van %1$@ verkocht! %3$@ %4$@ is in de portemonnee gekomen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprzedano %2$lld szt. produktu %1$@! %3$@ %4$@ trafiło do portfela."
           }
         },
         "pt-BR" : {
@@ -1666,6 +1738,12 @@
             "value" : "%@%% (rente op rente)"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% (składane)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1795,6 +1873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nodig %@\nuit voor SukSuk Zakgeld!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaproś: %@\ndo SukSuk Kieszonkowe!"
           }
         },
         "pt-BR" : {
@@ -1928,6 +2012,12 @@
             "value" : "Je hebt %2$@ %3$@ aan %1$@ betaald."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapłacono %2$@ %3$@ osobie: %1$@."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2057,6 +2147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je hebt %2$@ %3$@ aan %1$@ gegeven! 🎁"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dałeś %2$@ %3$@ osobie: %1$@! 🎁"
           }
         },
         "pt-BR" : {
@@ -2190,6 +2286,12 @@
             "value" : "%@ won → %@ %@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wonów → %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2319,6 +2421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je hebt %@ gekocht! Er zit nog in je portemonnee: %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kupiono: %@! W portfelu zostało: %@ %@"
           }
         },
         "pt-BR" : {
@@ -2452,6 +2560,12 @@
             "value" : "Je hebt %@ gekocht! 🎉 Er zit nog in je portemonnee: %@ %@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kupiono: %@! 🎉 W portfelu zostało: %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2581,6 +2695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De portemonnee van %@ heeft niet genoeg saldo."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W portfelu (%@) nie ma dość pieniędzy."
           }
         },
         "pt-BR" : {
@@ -2714,6 +2834,12 @@
             "value" : "%2$@ %3$@ is afgeschreven van de portemonnee van %1$@."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odjęto %2$@ %3$@ z portfela: %1$@."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2843,6 +2969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stap %lld"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Krok %lld"
           }
         },
         "pt-BR" : {
@@ -2976,6 +3108,12 @@
             "value" : "Stap %lld · %@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Krok %lld · %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3105,6 +3243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld aandelen · gem. %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld szt. · śr. %@"
           }
         },
         "pt-BR" : {
@@ -3238,6 +3382,12 @@
             "value" : "Waarde van wat je na %lld weken kunt kopen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wartość tego, co można kupić po %lld tyg."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3367,6 +3517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na %lld weken: %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po %lld tyg.: %@ %@"
           }
         },
         "pt-BR" : {
@@ -3500,6 +3656,12 @@
             "value" : "Een ‘behoefte’ is iets waar je zonder in de problemen komt: eten, kleren, schoolspullen. Een ‘wens’ is iets wat leuk is om te hebben, maar waar je zonder kunt: speelgoed, spelspullen.\n\nBeide zijn belangrijk! Maar de volgorde telt. Zorg eerst voor je behoeften en maak daarna met het geld dat overblijft een plan om wensen te vervullen."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "„Potrzeba” to coś, bez czego byłoby ci ciężko: jedzenie, ubrania, przybory szkolne. „Zachcianka” to coś, co cieszy, ale da się bez tego żyć: zabawki, przedmioty z gier.\n\nObie są ważne! Ale ważna jest kolejność. Najpierw zadbaj o potrzeby, a potem z pozostałych pieniędzy zrób plan i spełniaj zachcianki."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3629,6 +3791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 %@ = %@ won"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 %@ = %@ wonów"
           }
         },
         "pt-BR" : {
@@ -3762,6 +3930,12 @@
             "value" : "Echte waarde van 1 %@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prawdziwa wartość 1 %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3891,6 +4065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 = %@ won"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 = %@ wonów"
           }
         },
         "pt-BR" : {
@@ -4024,6 +4204,12 @@
             "value" : "Hoe verandert de ‘echte kracht’ van 1.000 %@?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak zmieni się „prawdziwa moc” 1000 %@?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4153,6 +4339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als je 1.000 munten tegen 5 %% rente wegzet, hoeveel heb je dan na een week?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeśli odłożysz 1000 monet na 5 %% odsetek, ile będziesz mieć po tygodniu?"
           }
         },
         "pt-BR" : {
@@ -4286,6 +4478,12 @@
             "value" : "Je hebt 1.000 munten en je wilt zowel snoep als stickers kopen. Maar het geld is maar voor één ding genoeg. Wat nu? Als je er één kiest, moet je het andere opgeven.\n\nWat je opgeeft heet ‘alternatieve kosten’. Dat geldt ook voor tijd. Als je een uur gamet, heb je alles opgegeven wat je in dat uur nog meer had kunnen doen."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masz 1000 monet i chcesz kupić zarówno słodycze, jak i naklejki. Ale pieniędzy wystarczy tylko na jedno. Co robisz? Jeśli wybierzesz jedno, musisz zrezygnować z drugiego.\n\nTo, z czego rezygnujesz, nazywa się „kosztem alternatywnym”. Dotyczy to też czasu. Jeśli grasz godzinę, rezygnujesz ze wszystkiego, co mógłbyś zrobić w tym czasie."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4415,6 +4613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verwacht na 12 weken: %@ %@ (+%@)"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Szacunek po 12 tyg.: %@ %@ (+%@)"
           }
         },
         "pt-BR" : {
@@ -4548,6 +4752,12 @@
             "value" : "Prijs per aandeel"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena za sztukę"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4677,6 +4887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Openen met Face ID"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otwórz za pomocą Face ID"
           }
         },
         "pt-BR" : {
@@ -4810,6 +5026,12 @@
             "value" : "Pincode wijzigen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmień PIN"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4939,6 +5161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pincode invoeren"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpisz PIN"
           }
         },
         "pt-BR" : {
@@ -5072,6 +5300,12 @@
             "value" : "De pincode moet uit 4 cijfers bestaan."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN musi mieć 4 cyfry."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5201,6 +5435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vraag het aan Siri en zie meteen het saldo van je kind."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapytaj Siri i od razu sprawdź saldo dziecka."
           }
         },
         "pt-BR" : {
@@ -5334,6 +5574,12 @@
             "value" : "Siri en Opdrachten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri i Skróty"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5463,6 +5709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Openen met Touch ID"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otwórz za pomocą Touch ID"
           }
         },
         "pt-BR" : {
@@ -5596,6 +5848,12 @@
             "value" : "VoiceOver leest alle saldo’s en knoppen volledig en in de juiste volgorde voor."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver czyta wszystkie salda i przyciski w pełni i we właściwej kolejności."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5725,6 +5983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VoiceOver gemakkelijker gebruiken"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wygodniejszy VoiceOver"
           }
         },
         "pt-BR" : {
@@ -5858,6 +6122,12 @@
             "value" : "≈ %@ won"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≈ %@ wonów"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5987,6 +6257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚙️ Bankinstellingen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚙️ Ustawienia banku"
           }
         },
         "pt-BR" : {
@@ -6120,6 +6396,12 @@
             "value" : "⚡️ Acties"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚡️ Akcje"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6249,6 +6531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Winkel"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sklepik"
           }
         },
         "pt-BR" : {
@@ -6382,6 +6670,12 @@
             "value" : "In de winkel zetten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj do sklepiku"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6511,6 +6805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prijs"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena"
           }
         },
         "pt-BR" : {
@@ -6644,6 +6944,12 @@
             "value" : "De prijs komt tot stand waar koopzin en hoeveelheid te koop elkaar ontmoeten."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena powstaje tam, gdzie spotykają się chęć kupna i ilość do sprzedania."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6773,6 +7079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Begrijpen hoe prijzen tot stand komen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrozumieć, jak powstają ceny"
           }
         },
         "pt-BR" : {
@@ -6906,6 +7218,12 @@
             "value" : "Prijskaartjes 🏷️"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metki z cenami 🏷️"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7035,6 +7353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voeg de gezinsleden toe"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj członków rodziny"
           }
         },
         "pt-BR" : {
@@ -7168,6 +7492,12 @@
             "value" : "Gezin registreren"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zarejestruj rodzinę"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7297,6 +7627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geen transacties"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brak transakcji"
           }
         },
         "pt-BR" : {
@@ -7430,6 +7766,12 @@
             "value" : "Soort transactie"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rodzaj transakcji"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7559,6 +7901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat is riskanter, het Schildpadfonds of het Raketfonds? Waarom?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Który jest bardziej ryzykowny, Fundusz Żółw czy Fundusz Rakieta? Dlaczego?"
           }
         },
         "pt-BR" : {
@@ -7692,6 +8040,12 @@
             "value" : "Wat zijn de alternatieve kosten van een uur gamen?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jaki jest koszt alternatywny godziny grania?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7821,6 +8175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Betaling"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Płatność"
           }
         },
         "pt-BR" : {
@@ -7954,6 +8314,12 @@
             "value" : "Betaling mislukt"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Płatność nie powiodła się"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8083,6 +8449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Betaald! 🎉"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapłacono! 🎉"
           }
         },
         "pt-BR" : {
@@ -8216,6 +8588,12 @@
             "value" : "Betalen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapłać"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8345,6 +8723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geld met een plan gaat langer mee."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieniądze z planem starczają na dłużej."
           }
         },
         "pt-BR" : {
@@ -8478,6 +8862,12 @@
             "value" : "Begrijpen dat een hoge winst met een hoog risico komt"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrozumieć, że duży zysk idzie w parze z dużym ryzykiem"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8607,6 +8997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Categorie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategoria"
           }
         },
         "pt-BR" : {
@@ -8740,6 +9136,12 @@
             "value" : "Lid"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Członek"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8869,6 +9271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lid toevoegen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj członka"
           }
         },
         "pt-BR" : {
@@ -9002,6 +9410,12 @@
             "value" : "Als je de tekst vergroot, worden de schermen netjes opnieuw ingedeeld in plaats van afgesneden."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po powiększeniu tekstu ekrany układają się na nowo i nic się nie ucina."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9131,6 +9545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bedrag"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kwota"
           }
         },
         "pt-BR" : {
@@ -9264,6 +9684,12 @@
             "value" : "Periode: %lld weken"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Okres: %lld tyg."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9393,6 +9819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geschiedenis"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia"
           }
         },
         "pt-BR" : {
@@ -9526,6 +9958,12 @@
             "value" : "Alternatieve kosten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koszt alternatywny"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9655,6 +10093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Het verschil leren zien tussen wat je echt nodig hebt en wat je alleen maar wilt"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odróżniać to, czego naprawdę potrzebujesz, od tego, czego tylko chcesz"
           }
         },
         "pt-BR" : {
@@ -9788,6 +10232,12 @@
             "value" : "Mijn geschiedenis"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moja historia"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9917,6 +10367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mijn spaarrekening"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moje konto oszczędnościowe"
           }
         },
         "pt-BR" : {
@@ -10050,6 +10506,12 @@
             "value" : "Mijn portemonnee"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mój portfel"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10179,6 +10641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mijn portemonnee: %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mój portfel: %@ %@"
           }
         },
         "pt-BR" : {
@@ -10312,6 +10780,12 @@
             "value" : "Stel je voor dat je een vis hebt en schoenen nodig hebt. Maar als de schoenenverkoper niet van vis houdt, kun je niet ruilen, hè? Mensen vroeger vonden dat ook heel lastig. Daarom bedachten ze iets waar iedereen van houdt: ‘geld’.\n\nGeld heeft drie taken. Ten eerste kun je er bijna alles mee ruilen (ruilmiddel). Ten tweede zie je ermee hoeveel iets waard is (waardemeter). Ten derde kun je het bewaren en later gebruiken (bewaarmiddel)."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyobraź sobie, że masz rybę, a potrzebujesz butów. Ale jeśli sprzedawca butów nie lubi ryb, nie możecie się wymienić, prawda? Ludzie dawno temu uważali to za bardzo niewygodne. Dlatego wymyślili coś, co lubią wszyscy: „pieniądze”.\n\nPieniądze mają trzy zadania. Po pierwsze, można je wymienić prawie na wszystko (wymiana). Po drugie, pokazują, ile co jest warte (miernik wartości). Po trzecie, można je odłożyć i użyć później (przechowywanie)."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10441,6 +10915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie wil je uitnodigen?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kogo chcesz zaprosić?"
           }
         },
         "pt-BR" : {
@@ -10574,6 +11054,12 @@
             "value" : "Aan wie betaal je?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komu zapłacisz?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10703,6 +11189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aan wie?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komu?"
           }
         },
         "pt-BR" : {
@@ -10836,6 +11328,12 @@
             "value" : "Wat gebeurt er als je een sneeuwbal rolt? Hoe verder hij rolt, hoe sneller hij groeit, toch? Rente op rente is precies dat.\n\nAls 1.000 munten 50 rente krijgen, worden het er 1.050. Volgende week wordt de rente berekend over alle 1.050. Ook het geld dat de rente heeft verdiend, levert weer rente op! In het begin merk je het niet, maar na verloop van tijd groeit het als een sneeuwbal."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co się dzieje, gdy toczysz kulę śnieżną? Im dalej się toczy, tym szybciej rośnie, prawda? Procent składany to właśnie to.\n\nJeśli do 1000 monet dojdzie 50 odsetek, będzie 1050. W następnym tygodniu odsetki liczy się od całych 1050. Pieniądze, które zarobiły odsetki, też zarabiają odsetki! Na początku tego nie widać, ale z czasem rośnie jak kula śnieżna."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10965,6 +11463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Volgende"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dalej"
           }
         },
         "pt-BR" : {
@@ -11098,6 +11602,12 @@
             "value" : "Sluiten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamknij"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11227,6 +11737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geld dat je nu niet uitgeeft, hoort op de spaarrekening!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieniądze, których teraz nie wydajesz, na konto oszczędnościowe!"
           }
         },
         "pt-BR" : {
@@ -11360,6 +11876,12 @@
             "value" : "Lees saldo’s en geschiedenis makkelijk, ook met meer contrast of als kleuren moeilijk te onderscheiden zijn."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salda i historię łatwo odczytać, nawet przy zwiększonym kontraście lub gdy trudno odróżniać kolory."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11489,6 +12011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overzicht"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przegląd"
           }
         },
         "pt-BR" : {
@@ -11622,6 +12150,12 @@
             "value" : "De app wordt in meer talen beschikbaar."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikacja będzie dostępna w większej liczbie języków."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11751,6 +12285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Meer talen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Więcej języków"
           }
         },
         "pt-BR" : {
@@ -11884,6 +12424,12 @@
             "value" : "Geld is een hulpmiddel om te ruilen, te meten en te bewaren."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieniądze to narzędzie do wymiany, mierzenia i przechowywania."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12013,6 +12559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Waarom hebben we geld nodig?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po co nam pieniądze?"
           }
         },
         "pt-BR" : {
@@ -12146,6 +12698,12 @@
             "value" : "De gewoonte aanleren om geld te plannen en te verdelen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyrobić nawyk planowania i dzielenia pieniędzy"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12275,6 +12833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Begrijpen waarom geld bestaat en wat het doet"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrozumieć, skąd wzięły się pieniądze i co robią"
           }
         },
         "pt-BR" : {
@@ -12408,6 +12972,12 @@
             "value" : "De twee ingevoerde pincodes komen niet overeen."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dwa wpisane kody PIN nie są takie same."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12537,6 +13107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er zijn nog geen artikelen. Voeg eerst artikelen toe aan de winkel met ‘Artikel toevoegen’."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie ma jeszcze żadnych artykułów. Najpierw dodaj artykuły do sklepiku przez „Dodaj artykuł”."
           }
         },
         "pt-BR" : {
@@ -12670,6 +13246,12 @@
             "value" : "Geen kinderen toegevoegd"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie dodano żadnych dzieci"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12799,6 +13381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kan een LEGO-steentje geld zijn? Zou het de vijf proeven doorstaan?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czy klocek LEGO mógłby być pieniądzem? Czy przeszedłby pięć prób?"
           }
         },
         "pt-BR" : {
@@ -12932,6 +13520,12 @@
             "value" : "Wat zou er gebeuren als er geen geld op de wereld was?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co by się stało, gdyby na świecie nie było pieniędzy?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13061,6 +13655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verkopen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprzedaj"
           }
         },
         "pt-BR" : {
@@ -13194,6 +13794,12 @@
             "value" : "Kopen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kup"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13323,6 +13929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elke week stijgen de prijzen met %@%%. Dat betekent dat je voor hetzelfde geld steeds iets minder kunt kopen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co tydzień ceny rosną o %@%%. Oznacza to, że za te same pieniądze kupisz za każdym razem trochę mniej."
           }
         },
         "pt-BR" : {
@@ -13456,6 +14068,12 @@
             "value" : "De prijzen stijgen elke week"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ceny rosną co tydzień"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13585,6 +14203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elke week stijgt de prijsindex bij ons thuis met dit bedrag (huidige index %lld). Bij 0 %% is er geen inflatie. Als je ook de echte prijzen van snacks en speelgoed een beetje verhoogt, leert je kind hoe de waarde van geld verandert."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co tydzień wskaźnik cen w naszym domu rośnie o tyle (aktualny wskaźnik %lld). Przy 0 %% nie ma inflacji. Jeśli dodatkowo trochę podniesiesz prawdziwe ceny przekąsek i zabawek, dziecko nauczy się, jak zmienia się wartość pieniądza."
           }
         },
         "pt-BR" : {
@@ -13718,6 +14342,12 @@
             "value" : "Notitie (bijv.: een snack kopen)"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notatka (np.: kupić przekąskę)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13847,6 +14477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notitie (bijv.: zakgeld van de week)"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notatka (np.: kieszonkowe na tydzień)"
           }
         },
         "pt-BR" : {
@@ -13980,6 +14616,12 @@
             "value" : "Wat gebeurt er met de prijs van iets wat iedereen wil verkopen?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co dzieje się z ceną czegoś, co chcą sprzedać wszyscy?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14109,6 +14751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle leden, transacties en beleggingsproducten worden verwijderd en je keert terug naar het instelscherm."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wszyscy członkowie, transakcje i produkty inwestycyjne zostaną usunięte, a ty wrócisz do ekranu konfiguracji."
           }
         },
         "pt-BR" : {
@@ -14242,6 +14890,12 @@
             "value" : "Alle gegevens resetten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zresetuj wszystkie dane"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14371,6 +15025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Achter elke keuze zit iets wat je hebt opgegeven."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Za każdym wyborem kryje się coś, z czego zrezygnowano."
           }
         },
         "pt-BR" : {
@@ -14504,6 +15164,12 @@
             "value" : "Waarvoor is het?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na co to?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14633,6 +15299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prijsstijging"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wzrost cen"
           }
         },
         "pt-BR" : {
@@ -14766,6 +15438,12 @@
             "value" : "Prijsontwikkeling 📊"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmiany cen 📊"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14895,6 +15573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als de prijzen stijgen, kun je voor hetzelfde geld minder kopen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ceny rosną, za te same pieniądze kupisz mniej"
           }
         },
         "pt-BR" : {
@@ -15028,6 +15712,12 @@
             "value" : "Als de prijzen stijgen, verliest geld kracht. Daarom zijn sparen en beleggen belangrijk."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ceny rosną, pieniądze tracą moc. Dlatego potrzebne są oszczędzanie i inwestowanie."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15157,6 +15847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Begrijpen dat geld kracht verliest als de prijzen stijgen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrozumieć, że gdy ceny rosną, pieniądze tracą moc"
           }
         },
         "pt-BR" : {
@@ -15290,6 +15986,12 @@
             "value" : "Als de prijzen stijgen, is het dan een goed idee om geld gewoon in de portemonnee te laten zitten?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ceny rosną, czy dobrze jest zostawić pieniądze w portfelu?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15419,6 +16121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prijsindex"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wskaźnik cen"
           }
         },
         "pt-BR" : {
@@ -15552,6 +16260,12 @@
             "value" : "%lld artikelen te koop · wisselkoers automatisch toegepast"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artykułów w sprzedaży: %lld · kurs stosowany automatycznie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15681,6 +16395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Streepjescode van artikel"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kod kreskowy artykułu"
           }
         },
         "pt-BR" : {
@@ -15814,6 +16534,12 @@
             "value" : "Plaats de streepjescode van het artikel in het kader"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustaw kod kreskowy artykułu w ramce"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15943,6 +16669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Artikelnaam (bijv.: cola, 30 min gamen)"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nazwa artykułu (np.: cola, 30 min grania)"
           }
         },
         "pt-BR" : {
@@ -16076,6 +16808,12 @@
             "value" : "Artikelgegevens"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dane artykułu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16205,6 +16943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Artikel toevoegen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj artykuł"
           }
         },
         "pt-BR" : {
@@ -16338,6 +17082,12 @@
             "value" : "Streepjescode"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kod kreskowy"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16467,6 +17217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ontvanger"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odbiorca"
           }
         },
         "pt-BR" : {
@@ -16600,6 +17356,12 @@
             "value" : "Ontvangen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otrzymane"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16729,6 +17491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er is niemand die kan ontvangen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie ma nikogo, kto mógłby odebrać płatność"
           }
         },
         "pt-BR" : {
@@ -16862,6 +17630,12 @@
             "value" : "Leren"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nauka"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16991,6 +17765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Back-up en exporteren"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopia zapasowa i eksport"
           }
         },
         "pt-BR" : {
@@ -17124,6 +17904,12 @@
             "value" : "Prettige kleuren en contrast"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wygodniejsze kolory i kontrast"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17253,6 +18039,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je hebt niet genoeg aandelen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie masz dość sztuk."
           }
         },
         "pt-BR" : {
@@ -17386,6 +18178,12 @@
             "value" : "Beleggingen in bezit"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posiadane produkty inwestycyjne"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17515,6 +18313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gematigd 🐰"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umiarkowany 🐰"
           }
         },
         "pt-BR" : {
@@ -17648,6 +18452,12 @@
             "value" : "De magie van rente op rente"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magia procentu składanego"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17777,6 +18587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ouder"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rodzic"
           }
         },
         "pt-BR" : {
@@ -17910,6 +18726,12 @@
             "value" : "Ouderhandleiding 📖"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przewodnik dla rodziców 📖"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18039,6 +18861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ouderstand"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tryb rodzica"
           }
         },
         "pt-BR" : {
@@ -18172,6 +19000,12 @@
             "value" : "Kies de pincode voor de ouderstand"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustaw kod PIN trybu rodzica"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18301,6 +19135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je kunt producten toevoegen in de ouderstand"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produkty możesz dodać w trybie rodzica"
           }
         },
         "pt-BR" : {
@@ -18434,6 +19274,12 @@
             "value" : "Wordt gebruikt om te bevestigen dat je een ouder bent"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Służy do potwierdzenia, że jesteś rodzicem"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18563,6 +19409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een ouder moet bevestigen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wymagane potwierdzenie rodzica"
           }
         },
         "pt-BR" : {
@@ -18696,6 +19548,12 @@
             "value" : "Ouders 🏦"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rodzice 🏦"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18825,6 +19683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ouders spelen de bank (centrale bank) en kinderen zijn de klanten."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rodzice pełnią rolę banku (banku centralnego), a dzieci są klientami."
           }
         },
         "pt-BR" : {
@@ -18958,6 +19822,12 @@
             "value" : "Een ouder moet bevestigen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wymagane potwierdzenie rodzica"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19087,6 +19957,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voeg minstens één ouder toe."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj co najmniej jednego rodzica."
           }
         },
         "pt-BR" : {
@@ -19220,6 +20096,12 @@
             "value" : "Denk aan een paraplu-verkoper op een regenachtige dag. Veel mensen willen een paraplu, maar er zijn er maar een paar? Zelfs tegen een hogere prijs gaan ze weg. En zwemkleding aan het eind van de zomer? Niemand wil die kopen, dus moet het goedkoop worden verkocht.\n\nDe prijs komt zo tot stand door het touwtrekken tussen ‘koopzin’ (vraag) en ‘hoeveelheid te koop’ (aanbod). De prijzen van beleggingen gaan volgens hetzelfde principe op en neer."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pomyśl o sprzedawcy parasoli w deszczowy dzień. Wielu ludzi chce parasol, a jest ich mało? Nawet po wyższej cenie się sprzedadzą. A stroje kąpielowe po końcu lata? Nikt ich nie chce kupować, więc trzeba je sprzedawać tanio.\n\nCena powstaje więc w przeciąganiu liny między „chęcią kupna” (popyt) a „ilością do sprzedania” (podaż). Ceny inwestycji rosną i spadają według tej samej zasady."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19349,6 +20231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kopen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kup"
           }
         },
         "pt-BR" : {
@@ -19482,6 +20370,12 @@
             "value" : "Product"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produkt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19611,6 +20505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Productnaam (bijv.: Sterrenlicht-fonds)"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nazwa produktu (np.: Fundusz Światło Gwiazd)"
           }
         },
         "pt-BR" : {
@@ -19744,6 +20644,12 @@
             "value" : "Productgegevens"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dane produktu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19873,6 +20779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Product toevoegen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj produkt"
           }
         },
         "pt-BR" : {
@@ -20006,6 +20918,12 @@
             "value" : "Nieuwe pincode van 4 cijfers"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nowy PIN (4 cyfry)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20135,6 +21053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Begrijpen dat kiezen betekent dat je iets anders opgeeft"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrozumieć, że wybierając coś, rezygnujesz z czegoś innego"
           }
         },
         "pt-BR" : {
@@ -20268,6 +21192,12 @@
             "value" : "Beschrijving (optioneel)"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opis (opcjonalnie)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20397,6 +21327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voelbare reactie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reakcja dotykowa"
           }
         },
         "pt-BR" : {
@@ -20530,6 +21466,12 @@
             "value" : "Aantal: %lld aandelen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilość: %lld szt."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20659,6 +21601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vraag en aanbod"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popyt i podaż"
           }
         },
         "pt-BR" : {
@@ -20792,6 +21740,12 @@
             "value" : "Meer winst betekent meer risico. Spreid en riskeer alleen wat je kunt missen!"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Większy zysk to większe ryzyko. Rozkładaj i ryzykuj tylko tyle, ile możesz stracić!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20921,6 +21875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "4 cijfers"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 cyfry"
           }
         },
         "pt-BR" : {
@@ -21054,6 +22014,12 @@
             "value" : "Begin = 100"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na początku = 100"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21183,6 +22149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beginprijs"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena początkowa"
           }
         },
         "pt-BR" : {
@@ -21316,6 +22288,12 @@
             "value" : "+%@%% sinds het begin"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%% od początku"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21445,6 +22423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aan de slag 🎉"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaczynamy 🎉"
           }
         },
         "pt-BR" : {
@@ -21578,6 +22562,12 @@
             "value" : "Markt"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rynek"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21707,6 +22697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bekijk samen op het tabblad Markt de prijskaartjes in de winkel en praat over waarom dingen verschillend kosten."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na karcie Rynek obejrzyjcie razem metki z cenami w sklepiku i porozmawiajcie, dlaczego różne rzeczy kosztują różnie."
           }
         },
         "pt-BR" : {
@@ -21840,6 +22836,12 @@
             "value" : "Bekijk samen op het tabblad Markt de prijsindex en de grafiek van de prijsontwikkeling en probeer daarna het ‘Inflatie-experiment’ hieronder uit."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na karcie Rynek obejrzyjcie razem wskaźnik cen i wykres zmian cen, a potem wypróbujcie poniższy „Eksperyment z inflacją”."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21969,6 +22971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Volg op het tabblad Markt hoe de beleggingsprijzen elke dag veranderen en praat over ‘als veel mensen willen kopen, stijgt de prijs’."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na karcie Rynek obserwujcie, jak codziennie zmieniają się ceny inwestycji, i porozmawiajcie o tym, że „gdy wielu chce kupić, cena rośnie”."
           }
         },
         "pt-BR" : {
@@ -22102,6 +23110,12 @@
             "value" : "Echte prijs: %@ won"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prawdziwa cena: %@ wonów"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22231,6 +23245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echte prijs (won)"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prawdziwa cena (wony)"
           }
         },
         "pt-BR" : {
@@ -22364,6 +23384,12 @@
             "value" : "Prijs in de echte wereld"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena w prawdziwym świecie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22493,6 +23519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reële waarde"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wartość realna"
           }
         },
         "pt-BR" : {
@@ -22626,6 +23658,12 @@
             "value" : "Aan de slag met SukSuk Zakgeld"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zacznij z SukSuk Kieszonkowe"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22755,6 +23793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Welkom bij SukSuk Zakgeld!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Witaj w SukSuk Kieszonkowe!"
           }
         },
         "pt-BR" : {
@@ -22888,6 +23932,12 @@
             "value" : "Gebruikstips"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wskazówki użytkowania"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23017,6 +24067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verdergaan waar je was gebleven"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontynuowanie tego, co pisałeś"
           }
         },
         "pt-BR" : {
@@ -23150,6 +24206,12 @@
             "value" : "Verleng in de ‘Rente-op-rente-rekenmachine’ hieronder de periode van 4 naar 52 weken. Kijk samen hoe de grafiek steeds steiler wordt!"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W „Kalkulatorze procentu składanego” poniżej wydłuż okres z 4 do 52 tygodni. Obserwujcie razem, jak wykres robi się coraz bardziej stromy!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23279,6 +24341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Begrijpen waarom niet alles geld kan zijn (de eigenschappen van geld)"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrozumieć, dlaczego nie wszystko może być pieniądzem (cechy pieniądza)"
           }
         },
         "pt-BR" : {
@@ -23412,6 +24480,12 @@
             "value" : "Zet de helft van de portemonnee van je kind op de spaarrekening. Bekijk een week later samen de rente – dat werkt geweldig!"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przenieście połowę portfela dziecka na konto oszczędnościowe. Po tygodniu razem sprawdźcie odsetki – działa świetnie!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23541,6 +24615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Laat je kind, voordat het in de winkel betaalt, altijd ‘nog één ander ding dat je met dit geld kunt kopen’ noemen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zanim dziecko zapłaci w sklepiku, poproś, żeby zawsze powiedziało „jedną inną rzecz, którą można kupić za te pieniądze”."
           }
         },
         "pt-BR" : {
@@ -23674,6 +24754,12 @@
             "value" : "Probeer het zo tegen je kind te zeggen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spróbuj powiedzieć dziecku tak"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23803,6 +24889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ga samen met je kind stap voor stap, te beginnen bij stap 1. Elke stap volgt de volgorde ‘uitleggen → vragen → samen proberen’ en 10 minuten is genoeg."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idźcie z dzieckiem krok po kroku od kroku 1. Każdy krok idzie w kolejności „wyjaśnij → zapytaj → spróbujcie razem”, wystarczy 10 minut."
           }
         },
         "pt-BR" : {
@@ -23936,6 +25028,12 @@
             "value" : "Verdeel samen met je kind een klein bedrag over 2 producten. Kijk elke dag naar de prijzen, zodat het went aan het op en neer."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Razem z dzieckiem rozłóżcie niewielką kwotę na 2 produkty. Codziennie sprawdzajcie ceny, żeby przyzwyczaiło się do wzrostów i spadków."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24065,6 +25163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er is nog niet genoeg prijsgeschiedenis. Kijk morgen nog eens!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia cen jest jeszcze za krótka. Zajrzyj jutro!"
           }
         },
         "pt-BR" : {
@@ -24198,6 +25302,12 @@
             "value" : "Nog geen transacties"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brak transakcji"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24327,6 +25437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nog geen artikelen.\nVoeg de artikelen van jullie gezin toe in de ouderstand!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie ma jeszcze artykułów.\nZarejestruj artykuły waszej rodziny w trybie rodzica!"
           }
         },
         "pt-BR" : {
@@ -24460,6 +25576,12 @@
             "value" : "Nog geen artikelen · voeg ze toe op het tabblad Acties"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie ma jeszcze artykułów · dodaj je na karcie Akcje"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24589,6 +25711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nog niets in bezit"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nic jeszcze nie posiadasz"
           }
         },
         "pt-BR" : {
@@ -24722,6 +25850,12 @@
             "value" : "Veilig 🐢"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bezpieczny 🐢"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24851,6 +25985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Melding"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Powiadomienie"
           }
         },
         "pt-BR" : {
@@ -24984,6 +26124,12 @@
             "value" : "Nuttige functies worden op het juiste moment onopvallend voorgesteld."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dyskretnie podpowiemy przydatne funkcje w odpowiednim momencie."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25113,6 +26259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acties"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akcje"
           }
         },
         "pt-BR" : {
@@ -25246,6 +26398,12 @@
             "value" : "Samen proberen in de app"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spróbujcie razem w aplikacji"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25375,6 +26533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zie het saldo van je kind direct op het beginscherm, zonder de app te openen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprawdź saldo dziecka prosto z ekranu głównego, bez otwierania aplikacji."
           }
         },
         "pt-BR" : {
@@ -25508,6 +26672,12 @@
             "value" : "Je kunt de app ook in het Engels gebruiken."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z aplikacji będzie można korzystać także po angielsku."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25637,6 +26807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoeveel?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ile?"
           }
         },
         "pt-BR" : {
@@ -25770,6 +26946,12 @@
             "value" : "Hoeveel betaal je?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ile zapłacisz?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25899,6 +27081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De eerste keer dat je de app na een update opent, zie je wat er nieuw is."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przy pierwszym otwarciu po aktualizacji dowiesz się, co nowego."
           }
         },
         "pt-BR" : {
@@ -26032,6 +27220,12 @@
             "value" : "Wat is er nieuw"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co nowego"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26161,6 +27355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rol"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rola"
           }
         },
         "pt-BR" : {
@@ -26294,6 +27494,12 @@
             "value" : "Ondersteuning voor Engels"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obsługa angielskiego"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26423,6 +27629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bijv.: iets wat echt 1.000 won kost = %@ %@. De prijzen van de winkelartikelen in %@ worden met deze koers automatisch berekend."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Np.: rzecz, która naprawdę kosztuje 1000 wonów = %@ %@. Ceny artykułów w sklepiku w walucie %@ są liczone automatycznie według tego kursu."
           }
         },
         "pt-BR" : {
@@ -26556,6 +27768,12 @@
             "value" : "Bijv.: Boon, Ster, Munt"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Np.: Fasolka, Gwiazdka, Moneta"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26685,6 +27903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een budget maken"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Układanie budżetu"
           }
         },
         "pt-BR" : {
@@ -26818,6 +28042,12 @@
             "value" : "Wat we vandaag leren"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czego nauczymy się dzisiaj"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26947,6 +28177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Klaar"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gotowe"
           }
         },
         "pt-BR" : {
@@ -27080,6 +28316,12 @@
             "value" : "Waarom kan zand van de weg geen geld zijn? Omdat er overal zo veel van is! Om goed geld te zijn, moet iets vijf proeven doorstaan.\n\n① Het moet lang meegaan (niet rotten!) ② Het moet makkelijk mee te nemen zijn (een koe is te zwaar – afgevallen!) ③ Het moet in kleine stukjes te verdelen zijn ④ Het mag niet te gewoon zijn ⑤ Iedereen moet geloven: ‘Dit is echt geld.’\n\nOnze munten thuis zijn iets waard omdat mama en papa ze niet maken wanneer ze maar willen, maar zich aan hun belofte houden."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dlaczego piasek z drogi nie może być pieniądzem? Bo jest go wszędzie pełno! Żeby być dobrym pieniądzem, trzeba przejść pięć prób.\n\n① Musi być trwały (nie może gnić!) ② Musi być łatwy do noszenia (krowa jest za ciężka – odpada!) ③ Musi dać się podzielić na małe kawałki ④ Nie może być zbyt pospolity ⑤ Wszyscy muszą wierzyć: „To prawdziwe pieniądze”.\n\nNasze domowe monety mają wartość, bo mama i tata nie drukują ich, kiedy im się podoba, tylko dotrzymują obietnicy."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27209,6 +28451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Van de dingen die je de laatste tijd wilt kopen, wat zijn behoeften en wat zijn wensen?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z rzeczy, które ostatnio chcesz kupić, które są potrzebami, a które zachciankami?"
           }
         },
         "pt-BR" : {
@@ -27342,6 +28590,12 @@
             "value" : "Zakgeld"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kieszonkowe"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27471,6 +28725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zakgeldherinneringen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przypomnienia o kieszonkowym"
           }
         },
         "pt-BR" : {
@@ -27604,6 +28864,12 @@
             "value" : "Zakgeld geven"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daj kieszonkowe"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27733,6 +28999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zakgeld geven / afschrijven"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daj / odejmij kieszonkowe"
           }
         },
         "pt-BR" : {
@@ -27866,6 +29138,12 @@
             "value" : "Laat je kind op zakgelddag zelf bepalen hoeveel het spaart, belegt en uitgeeft en dat uitvoeren. Een week later bekijken jullie samen het tabblad Geschiedenis."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W dniu kieszonkowego pozwól dziecku samemu ustalić podział na oszczędzanie, inwestowanie i wydatki i go zrealizować. Po tygodniu razem obejrzyjcie kartę Historia."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27995,6 +29273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ontvang een melding op zakgelddag of wanneer er rente wordt bijgeschreven."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Powiadomienie w dniu kieszonkowego lub gdy naliczone zostaną odsetki."
           }
         },
         "pt-BR" : {
@@ -28128,6 +29412,12 @@
             "value" : "Zakgeld geven, rentes instellen en meer\nkan alleen door wie deze pincode kent."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dawać kieszonkowe, ustawiać odsetki itd.\nmogą tylko osoby znające ten kod PIN."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28257,6 +29547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een lichte trilling laat je weten dat zakgeld binnenkomt of dat iets is gekocht."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lekka wibracja da znać, gdy wpadnie kieszonkowe lub coś zostanie kupione."
           }
         },
         "pt-BR" : {
@@ -28390,6 +29686,12 @@
             "value" : "Als je je zakgeld meteen uitgeeft zodra je het krijgt, zonder plan, is het zo op. Daarom maak je van tevoren een plan. Dat heet een ‘budget’.\n\nVerdeel het bijvoorbeeld zo: sparen 30, nodige dingen 40, dingen die je wilt 20, beleggen proberen 10. Het hoeft niet precies zo. Het belangrijkste is dat je zelf beslist!"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeśli wydasz kieszonkowe zaraz po otrzymaniu, bez planu, szybko zniknie. Dlatego plan robi się wcześniej. Nazywa się to „budżetem”.\n\nNa przykład podziel je tak: oszczędności 30, rzeczy potrzebne 40, rzeczy, które chcesz, 20, próba inwestowania 10. Nie musi być dokładnie tak. Ważne, żebyś zdecydował sam!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28519,6 +29821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als je zakgeld geeft of betaalt, verschijnt het hier"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy dasz kieszonkowe lub zapłacisz, pojawi się to tutaj"
           }
         },
         "pt-BR" : {
@@ -28652,6 +29960,12 @@
             "value" : "Geef zakgeld, betaal, ontvang spaarrente\nen ga zelfs beleggen – een economisch systeem alleen voor jullie gezin."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dawaj kieszonkowe, płać, dostawaj odsetki od oszczędności\ni nawet inwestuj – system gospodarczy tylko dla waszej rodziny."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28781,6 +30095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Winkel thuis"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domowy sklepik"
           }
         },
         "pt-BR" : {
@@ -28914,6 +30234,12 @@
             "value" : "Bekijk samen de artikelen in de winkel thuis en verdeel ze een voor een in ‘behoeften’ en ‘wensen’."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obejrzyjcie razem artykuły w domowym sklepiku i po kolei podzielcie je na „potrzeby” i „zachcianki”."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29043,6 +30369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prijs bij ons thuis"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena w domu"
           }
         },
         "pt-BR" : {
@@ -29176,6 +30508,12 @@
             "value" : "Prijzen thuis"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ceny w domu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29305,6 +30643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat is de prijsindex bij ons thuis nu?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jaki jest teraz wskaźnik cen w naszym domu?"
           }
         },
         "pt-BR" : {
@@ -29438,6 +30782,12 @@
             "value" : "Bewaar de gegevens van jullie huisbank in een bestand en laad ze later weer in."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisz zapisy domowego banku do pliku i wczytaj je później."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29567,6 +30917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Waarvoor kunnen we onze munten van thuis ruilen?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na co możemy wymienić nasze domowe monety?"
           }
         },
         "pt-BR" : {
@@ -29700,6 +31056,12 @@
             "value" : "Waarom zijn onze munten thuis iets waard?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dlaczego nasze domowe monety mają wartość?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29829,6 +31191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geldhoeveelheid bij ons thuis 💰"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilość pieniędzy w naszym domu 💰"
           }
         },
         "pt-BR" : {
@@ -29962,6 +31330,12 @@
             "value" : "Dit is het beleggingsproduct van ons gezin."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To produkt inwestycyjny naszej rodziny."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30091,6 +31465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kies een naam voor de munteenheid van jullie huis"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nadaj nazwę walucie waszego domu"
           }
         },
         "pt-BR" : {
@@ -30224,6 +31604,12 @@
             "value" : "Geld in omloop bij ons thuis"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieniądze w obiegu w naszym domu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30353,6 +31739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beweging verminderen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogranicz ruch"
           }
         },
         "pt-BR" : {
@@ -30486,6 +31878,12 @@
             "value" : "Als ‘Verminder beweging’ aanstaat, worden de schermeffecten rustiger."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po włączeniu „Ogranicz ruch” efekty na ekranie są spokojniejsze."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30615,6 +32013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "won"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wonów"
           }
         },
         "pt-BR" : {
@@ -30748,6 +32152,12 @@
             "value" : "Risiconiveau"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poziom ryzyka"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30877,6 +32287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Riskant 🚀"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ryzykowny 🚀"
           }
         },
         "pt-BR" : {
@@ -31010,6 +32426,12 @@
             "value" : "Bankinstellingen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustawienia banku"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31139,6 +32561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als je geld bij de bank brengt, zegt de bank ‘Bedankt dat je ons vertrouwt!’ en geeft je er iets bij. Dat extra heet ‘rente’.\n\nGeld in de portemonnee groeit nooit, hoe lang je ook wacht. Maar als je het op de spaarrekening zet, komt er elke week rente bij en groeit het geld. Waar kun je geld dat je nu niet uitgeeft het best neerzetten?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy zostawiasz pieniądze w banku, bank mówi „Dziękujemy za zaufanie!” i dorzuca trochę ekstra. To „ekstra” to „odsetki”.\n\nPieniądze w portfelu nie rosną, choćbyś czekał nie wiadomo jak długo. Ale jeśli włożysz je na konto oszczędnościowe, co tydzień dochodzą odsetki i pieniądze rosną. Gdzie najlepiej trzymać pieniądze, których teraz nie wydajesz?"
           }
         },
         "pt-BR" : {
@@ -31272,6 +32700,12 @@
             "value" : "Dit toestel doorgeven"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przekaż to urządzenie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31401,6 +32835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dit toestel schakelt over naar het eigen scherm van het gekozen kind. Het kind ziet alleen zijn of haar eigen portemonnee, winkel, beleggingen, geschiedenis en lessen. Handig als je je telefoon uitleent aan een kind zonder eigen telefoon. Om terug te gaan, tik je op de slotknop en voer je de pincode van de ouder in."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To urządzenie przełączy się na osobny ekran wybranego dziecka. Dziecko widzi tylko swój portfel, sklepik, inwestycje, historię i lekcje. To przydatne, gdy dajesz swój telefon dziecku, które nie ma własnego. Aby wrócić, dotknij przycisku kłódki i wpisz PIN rodzica."
           }
         },
         "pt-BR" : {
@@ -31534,6 +32974,12 @@
             "value" : "Dit toestel de telefoon van %@ %@ maken? Om terug te schakelen is de pincode van de ouder nodig."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrobić z tego urządzenia telefon: %@ %@? Aby wrócić, potrzebny jest PIN rodzica."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31663,6 +33109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Van wie moet dit toestel de telefoon worden? Om terug te schakelen is de pincode van de ouder nodig."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czyim telefonem ma zostać to urządzenie? Aby wrócić, potrzebny jest PIN rodzica."
           }
         },
         "pt-BR" : {
@@ -31796,6 +33248,12 @@
             "value" : "Hoeveel wordt het als je het zo laat staan? (schatting voor 12 weken met rente op rente)"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ile będzie, jeśli tak zostawisz? (szacunek na 12 tygodni z procentem składanym)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31925,6 +33383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Probeer het zo te vragen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spróbuj zapytać tak"
           }
         },
         "pt-BR" : {
@@ -32058,6 +33522,12 @@
             "value" : "Naam"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imię"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32184,6 +33654,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
+          }
+        },
+        "pl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Emoji"
@@ -32320,6 +33796,12 @@
             "value" : "Hoe wil je het zakgeld van deze week verdelen?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak chcesz podzielić kieszonkowe na ten tydzień?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32449,6 +33931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reden"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Powód"
           }
         },
         "pt-BR" : {
@@ -32582,6 +34070,12 @@
             "value" : "Rente"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odsetki"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32711,6 +34205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rente · Koers · Prijzen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odsetki · Kurs · Ceny"
           }
         },
         "pt-BR" : {
@@ -32844,6 +34344,12 @@
             "value" : "Als rente weer rente oplevert, heet dat ‘rente op rente’. Hoe langer je spaart, hoe meer je geld groeit als een sneeuwbal! ⛄️"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy odsetki dają kolejne odsetki, nazywa się to „procentem składanym”. Im dłużej oszczędzasz, tym bardziej pieniądze rosną jak kula śnieżna! ⛄️"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32973,6 +34479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je hebt %@ %@ verdiend met alleen rente!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samymi odsetkami zarobiłeś %@ %@!"
           }
         },
         "pt-BR" : {
@@ -33106,6 +34618,12 @@
             "value" : "Begrijpen dat rente op rente groeit als een sneeuwbal"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrozumieć, że odsetki od odsetek rosną jak kula śnieżna"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33235,6 +34753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als de rente lager is dan de prijsstijging, verliest geld kracht, zelfs als je spaart. Probeer de rente te verhogen!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeśli odsetki są niższe niż wzrost cen, pieniądze tracą moc nawet przy oszczędzaniu. Spróbuj podnieść odsetki!"
           }
         },
         "pt-BR" : {
@@ -33368,6 +34892,12 @@
             "value" : "Terug"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wstecz"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33497,6 +35027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inflatie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inflacja"
           }
         },
         "pt-BR" : {
@@ -33630,6 +35166,12 @@
             "value" : "Geen inflatie"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brak inflacji"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33759,6 +35301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dag"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień"
           }
         },
         "pt-BR" : {
@@ -33892,6 +35440,12 @@
             "value" : "Vroeg beginnen en volhouden – dat is het geheim van rente op rente."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zacząć wcześnie i wytrwać – oto sekret procentu składanego."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34021,6 +35575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoeveel geld is het niet erg om te verliezen?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ile pieniędzy można stracić bez większych konsekwencji?"
           }
         },
         "pt-BR" : {
@@ -34154,6 +35714,12 @@
             "value" : "Storten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpłać"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34283,6 +35849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Storten / Opnemen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpłata / Wypłata"
           }
         },
         "pt-BR" : {
@@ -34416,6 +35988,12 @@
             "value" : "Kind"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziecko"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34545,6 +36123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scan met de camera van het toestel van je kind om de uitnodiging te zien"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeskanuj aparatem urządzenia dziecka, aby zobaczyć zaproszenie"
           }
         },
         "pt-BR" : {
@@ -34678,6 +36262,12 @@
             "value" : "Kind uitnodigen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaproś dziecko"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34807,6 +36397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kindertelefoonstand"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tryb telefonu dziecka"
           }
         },
         "pt-BR" : {
@@ -34940,6 +36536,12 @@
             "value" : "Overschakelen naar kindertelefoon"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przełącz na telefon dziecka"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35069,6 +36671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kinderen 👧"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzieci 👧"
           }
         },
         "pt-BR" : {
@@ -35202,6 +36810,12 @@
             "value" : "Als je kind deze streepjescode scant met ‘Scannen en betalen’,\nwordt er %@ van de portemonnee afgeschreven."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy dziecko zeskanuje ten kod kreskowy w „Skanuj i zapłać”,\nz portfela zostanie pobrane %@."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35331,6 +36945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voeg minstens één kind toe."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj co najmniej jedno dziecko."
           }
         },
         "pt-BR" : {
@@ -35464,6 +37084,12 @@
             "value" : "Vorig jaar kostte een snoepje 1.000. Dit jaar kost het 1.100. En het snoepje is niet groter geworden! Als prijzen zo stijgen, heet dat ‘inflatie’.\n\nHet getal op je geld blijft hetzelfde, maar je kunt er minder mee kopen. Zoals lucht uit een ballon ontsnapt, wordt de kracht van geld zwakker. Als je geld dus gewoon in je portemonnee laat zitten, verlies je beetje bij beetje. Om de kracht te behouden, moet je het sneller laten groeien dan de prijzen stijgen – met rente of beleggen."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W zeszłym roku słodycz kosztowała 1000. W tym roku kosztuje 1100. A słodycz wcale nie jest większa! Gdy ceny tak rosną, nazywa się to „inflacją”.\n\nLiczba na twoich pieniądzach jest ta sama, ale kupisz za nie mniej. Jak powietrze uchodzące z balonika, moc pieniędzy słabnie. Dlatego jeśli pieniądze po prostu leżą w portfelu, powoli na tym tracisz. Żeby zachować ich moc, trzeba pomnażać je szybciej, niż rosną ceny – odsetkami albo inwestowaniem."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35590,6 +37216,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo"
+          }
+        },
+        "pl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo"
@@ -35726,6 +37358,12 @@
             "value" : "Vergrendelen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zablokuj"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35855,6 +37493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bewaren"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisz"
           }
         },
         "pt-BR" : {
@@ -35988,6 +37632,12 @@
             "value" : "Sparen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oszczędności"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36117,6 +37767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spaarrente"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odsetki od oszczędności"
           }
         },
         "pt-BR" : {
@@ -36250,6 +37906,12 @@
             "value" : "Storting op sparen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpłata na oszczędności"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36379,6 +38041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spaarsaldo"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo oszczędności"
           }
         },
         "pt-BR" : {
@@ -36512,6 +38180,12 @@
             "value" : "Opname van sparen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wypłata z oszczędności"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36641,6 +38315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sparen: %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oszczędności: %@"
           }
         },
         "pt-BR" : {
@@ -36774,6 +38454,12 @@
             "value" : "Sparen en rente"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oszczędzanie i odsetki"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36903,6 +38589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als de een vroeg begint met sparen en de ander laat, wie is er later rijker?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeśli jedna osoba zacznie oszczędzać wcześnie, a druga późno, kto będzie później bogatszy?"
           }
         },
         "pt-BR" : {
@@ -37036,6 +38728,12 @@
             "value" : "Op de spaarrekening zetten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Włóż na konto oszczędnościowe"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37165,6 +38863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er staat niet genoeg geld op de spaarrekening."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na koncie oszczędnościowym nie ma dość pieniędzy."
           }
         },
         "pt-BR" : {
@@ -37298,6 +39002,12 @@
             "value" : "Wekelijks rente op rente op de spaarrekening"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tygodniowy procent składany na koncie oszczędnościowym"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37427,6 +39137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Begrijpen hoe sparen geld laat groeien"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrozumieć, jak oszczędzanie sprawia, że pieniądze rosną"
           }
         },
         "pt-BR" : {
@@ -37560,6 +39276,12 @@
             "value" : "Gespaard geld"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaoszczędzone pieniądze"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37689,6 +39411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ook als de app tijdens het typen sluit, blijft wat je schreef staan."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet jeśli aplikacja zamknie się podczas pisania, to, co napisałeś, zostanie."
           }
         },
         "pt-BR" : {
@@ -37822,6 +39550,12 @@
             "value" : "Alles verwijderen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuń wszystko"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37951,6 +39685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wszyscy"
           }
         },
         "pt-BR" : {
@@ -38084,6 +39824,12 @@
             "value" : "Echt alle gegevens verwijderen?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na pewno usunąć wszystkie dane?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38213,6 +39959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Soort"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rodzaj"
           }
         },
         "pt-BR" : {
@@ -38346,6 +40098,12 @@
             "value" : "Wat goed geld goed maakt"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co sprawia, że pieniądze są dobre"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38475,6 +40233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "wk"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tyg."
           }
         },
         "pt-BR" : {
@@ -38608,6 +40372,12 @@
             "value" : "%@%% per week"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%% tygodniowo"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38737,6 +40507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wekelijkse prijsstijging: %@%%"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tygodniowy wzrost cen: %@%%"
           }
         },
         "pt-BR" : {
@@ -38870,6 +40646,12 @@
             "value" : "Rente per week"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odsetki tygodniowe"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38999,6 +40781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rente per week: %@%%"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odsetki tygodniowe: %@%%"
           }
         },
         "pt-BR" : {
@@ -39132,6 +40920,12 @@
             "value" : "Wekelijkse spaarrente %@%% · Wekelijkse prijsstijging %@%%"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tygodniowe odsetki od oszczędności %@%% · Tygodniowy wzrost cen %@%%"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39261,6 +41055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wekelijkse spaarrente: %@%%"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tygodniowe odsetki od oszczędności: %@%%"
           }
         },
         "pt-BR" : {
@@ -39394,6 +41194,12 @@
             "value" : "Portemonnee"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portfel"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39523,6 +41329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saldo van de portemonnee"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saldo portfela"
           }
         },
         "pt-BR" : {
@@ -39656,6 +41468,12 @@
             "value" : "Portemonnee: %@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portfel: %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39785,6 +41603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Portemonnee: %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portfel: %@ %@"
           }
         },
         "pt-BR" : {
@@ -39918,6 +41742,12 @@
             "value" : "Het geld dat in de portemonnee bleef zitten, verloor kracht, maar het gespaarde geld behield die! 💪"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieniądze zostawione w portfelu straciły moc, a zaoszczędzone ją zachowały! 💪"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40047,6 +41877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er zit niet genoeg geld in je portemonnee! Saldo: %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W portfelu nie ma dość pieniędzy! Saldo: %@ %@"
           }
         },
         "pt-BR" : {
@@ -40180,6 +42016,12 @@
             "value" : "Er zit niet genoeg geld in de portemonnee."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W portfelu nie ma dość pieniędzy."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40309,6 +42151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er zit niet genoeg geld in de portemonnee. Nodig: %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W portfelu nie ma dość pieniędzy. Potrzeba: %@ %@"
           }
         },
         "pt-BR" : {
@@ -40442,6 +42290,12 @@
             "value" : "Geld in de portemonnee"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieniądze w portfelu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40571,6 +42425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat is het verschil tussen geld in de portemonnee en gespaard geld?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czym różnią się pieniądze w portfelu od zaoszczędzonych?"
           }
         },
         "pt-BR" : {
@@ -40704,6 +42564,12 @@
             "value" : "Naar de portemonnee halen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyjmij do portfela"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40833,6 +42699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geven · Afschrijven"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daj · Odejmij"
           }
         },
         "pt-BR" : {
@@ -40966,6 +42838,12 @@
             "value" : "Wat gaf je op de laatste keer dat je iets kocht?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z czego zrezygnowałeś, gdy ostatnio coś kupiłeś?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41095,6 +42973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Waar gaf je vorige week het meeste geld aan uit?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na co wydałeś najwięcej pieniędzy w zeszłym tygodniu?"
           }
         },
         "pt-BR" : {
@@ -41228,6 +43112,12 @@
             "value" : "Index %lld"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wskaźnik %lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41357,6 +43247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ondersteuning"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pomoc"
           }
         },
         "pt-BR" : {
@@ -41490,6 +43386,12 @@
             "value" : "Kies 3 dingen in huis en speel ‘Kan dit geld zijn?’. Zet bij elk van de vijf voorwaarden een ✓ of een ✗."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierzcie w domu 3 przedmioty i zagrajcie w „Czy to mogłoby być pieniądzem?”. Przy każdym z pięciu warunków zaznaczcie ✓ lub ✗."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41619,6 +43521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scannen en betalen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skanuj i zapłać"
           }
         },
         "pt-BR" : {
@@ -41752,6 +43660,12 @@
             "value" : "Scan en betaal meteen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skanuj i od razu płać"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41881,6 +43795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afschrijving"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Potrącenie"
           }
         },
         "pt-BR" : {
@@ -42014,6 +43934,12 @@
             "value" : "Afschrijven"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odejmij"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42143,6 +44069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beginbedrag: %@ %@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kwota początkowa: %@ %@"
           }
         },
         "pt-BR" : {
@@ -42276,6 +44208,12 @@
             "value" : "De prijzen zijn sinds het begin met %@%% gestegen. 1.000 %@ in de portemonnee heeft nu de kracht van %@ %@."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ceny wzrosły o %@%% od początku. 1000 %@ w portfelu ma teraz moc %@ %@."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42405,6 +44343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uitnodiging · QR"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaproszenie · QR"
           }
         },
         "pt-BR" : {
@@ -42538,6 +44482,12 @@
             "value" : "Uitnodiging versturen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyślij zaproszenie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42667,6 +44617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Totaalbedrag"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kwota łączna"
           }
         },
         "pt-BR" : {
@@ -42800,6 +44756,12 @@
             "value" : "Totaal vermogen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Majątek ogółem"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42929,6 +44891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Totaal vermogen · ongeveer %@ won in echt geld"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Majątek ogółem · około %@ wonów w prawdziwych pieniądzach"
           }
         },
         "pt-BR" : {
@@ -43062,6 +45030,12 @@
             "value" : "Recente transacties"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostatnie transakcje"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43191,6 +45165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toevoegen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj"
           }
         },
         "pt-BR" : {
@@ -43324,6 +45304,12 @@
             "value" : "Opnemen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wypłać"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43453,6 +45439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Annuleren"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anuluj"
           }
         },
         "pt-BR" : {
@@ -43586,6 +45578,12 @@
             "value" : "Waarom wordt populair speelgoed met kerst duurder?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dlaczego popularne zabawki drożeją przed Bożym Narodzeniem?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43715,6 +45713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schermen voor grote letters"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ekrany dla dużej czcionki"
           }
         },
         "pt-BR" : {
@@ -43848,6 +45852,12 @@
             "value" : "Belegd"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inwestycje"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43977,6 +45987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verkoop belegging"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprzedaż inwestycji"
           }
         },
         "pt-BR" : {
@@ -44110,6 +46126,12 @@
             "value" : "Aankoop belegging"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakup inwestycji"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44239,6 +46261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beleggingsproducten"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produkty inwestycyjne"
           }
         },
         "pt-BR" : {
@@ -44372,6 +46400,12 @@
             "value" : "Beleggingsproduct toevoegen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj produkt inwestycyjny"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44501,6 +46535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beleggingsmarkt 📈"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rynek inwestycyjny 📈"
           }
         },
         "pt-BR" : {
@@ -44634,6 +46674,12 @@
             "value" : "Waarde beleggingen: %@ %@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wartość inwestycji: %@ %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44763,6 +46809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beleggen is als geld planten. Als het zaadje goed groeit, wordt het een grote boom – maar het kan ook verwelken. Anders dan bij sparen kan je geld bij beleggen groeien of krimpen.\n\nOnthoud deze regel: hoe meer je kunt winnen, hoe meer je ook kunt verliezen. En als je alle eieren in één mandje legt, zijn ze allemaal kapot als het valt. Verdeel ze (spreiden). Plant alleen wat je kunt missen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inwestowanie jest jak sadzenie pieniędzy. Jeśli nasionko dobrze rośnie, wyrasta wielkie drzewo, ale może też uschnąć. W przeciwieństwie do oszczędzania, przy inwestowaniu pieniądze mogą się powiększyć albo zmniejszyć.\n\nZapamiętaj regułę: im więcej możesz zyskać, tym więcej możesz stracić. A jeśli włożysz wszystkie jajka do jednego koszyka, to gdy spadnie, stłuką się wszystkie. Rozłóż je (dywersyfikacja). Sadź tylko tyle, ile możesz stracić."
           }
         },
         "pt-BR" : {
@@ -44896,6 +46948,12 @@
             "value" : "Beleggen en risico"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inwestowanie i ryzyko"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45025,6 +47083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Belegger"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inwestor"
           }
         },
         "pt-BR" : {
@@ -45158,6 +47222,12 @@
             "value" : "Kies een belegger"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierz inwestora"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45287,6 +47357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Om te beleggen, voeg je eerst een kind toe op het beginscherm."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aby inwestować, najpierw dodaj dziecko na ekranie głównym."
           }
         },
         "pt-BR" : {
@@ -45420,6 +47496,12 @@
             "value" : "Geen beleggingsproducten te koop"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brak produktów inwestycyjnych w sprzedaży"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45549,6 +47631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scherm voor opvouwbare iPhone"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ekran dla składanego iPhone’a"
           }
         },
         "pt-BR" : {
@@ -45682,6 +47770,12 @@
             "value" : "Gebruik het brede scherm van een opvouwbare iPhone in twee kolommen."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wykorzystaj szeroki ekran składanego iPhone’a podzielony na dwa panele."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45811,6 +47905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eerst behoeften, dan wensen!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najpierw potrzeby, potem zachcianki!"
           }
         },
         "pt-BR" : {
@@ -45944,6 +48044,12 @@
             "value" : "Behoeften en wensen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Potrzeby i zachcianki"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46073,6 +48179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat gebeurt er als je wensen koopt en behoeften niet?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co się stanie, jeśli kupisz zachcianki, a potrzeb nie?"
           }
         },
         "pt-BR" : {
@@ -46206,6 +48318,12 @@
             "value" : "Filter"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtr"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46335,6 +48453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Filters wissen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyczyść filtry"
           }
         },
         "pt-BR" : {
@@ -46468,6 +48592,12 @@
             "value" : "Beweegt sterk, tot ±15 %% per dag! Je kunt veel winnen of veel verliezen."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porusza się mocno, nawet do ±15 %% dziennie! Można dużo zyskać albo dużo stracić."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46597,6 +48727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beweegt rustig, ongeveer ±2 %% per dag. Weinig kans op verlies."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porusza się powoli, około ±2 %% dziennie. Małe ryzyko straty."
           }
         },
         "pt-BR" : {
@@ -46730,6 +48866,12 @@
             "value" : "Gaat op en neer met ongeveer ±6 %% per dag. Een gepaste uitdaging."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rośnie i spada o około ±6 %% dziennie. Umiarkowane wyzwanie."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46859,6 +49001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voer nog een keer in"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpisz jeszcze raz"
           }
         },
         "pt-BR" : {
@@ -46992,6 +49140,12 @@
             "value" : "Samen experimenteren · Rente-op-rente-rekenmachine 🧮"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eksperymentujemy razem · Kalkulator procentu składanego 🧮"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47121,6 +49275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Samen experimenteren · Inflatie-experiment 🎈"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eksperymentujemy razem · Eksperyment z inflacją 🎈"
           }
         },
         "pt-BR" : {
@@ -47254,6 +49414,12 @@
             "value" : "Huidige prijs"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualna cena"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47383,6 +49549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Huidige portemonnee"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualny portfel"
           }
         },
         "pt-BR" : {
@@ -47516,6 +49688,12 @@
             "value" : "Widgets op het beginscherm"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widżety na ekranie głównym"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47645,6 +49823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Munteenheid ‘%@’ · Wekelijkse rente %@%%"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waluta „%@” · Odsetki tygodniowe %@%%"
           }
         },
         "pt-BR" : {
@@ -47778,6 +49962,12 @@
             "value" : "Naam van de munteenheid"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nazwa waluty"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47904,6 +50094,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "pl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -48040,6 +50236,12 @@
             "value" : "Wisselkoers"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurs wymiany"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48169,6 +50371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wordt automatisch berekend met 1 %@ = %@ won."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liczone automatycznie według kursu 1 %@ = %@ wonów."
           }
         },
         "pt-BR" : {
@@ -48302,6 +50510,12 @@
             "value" : "Wisselkoers: 1 %@ ="
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurs: 1 %@ ="
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48431,6 +50645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Om geld te zijn moet iets schaars zijn en moet iedereen het vertrouwen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieniądzem staje się to, czego jest mało i czemu wszyscy ufają."
           }
         },
         "pt-BR" : {
@@ -48564,6 +50784,12 @@
             "value" : "🌱 %@, je bent uitgenodigd voor SukSuk Zakgeld!\n\nLaten we samen de munteenheid van ons huis, ‘%@’, gebruiken:\n• Spaar je zakgeld en betaal ermee 💸\n• Als je spaart, krijg je elke week %@%% rente 🏦\n• Leer over economie met beleggingsproducten 📈\n\nOpen de app SukSuk Zakgeld op een toestel dat met hetzelfde iCloud-account is ingelogd als het toestel van je ouders, en je doet meteen mee!"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌱 %@, zapraszamy do SukSuk Kieszonkowe!\n\nKorzystajmy razem z waluty naszego domu „%@”:\n• Zbieraj kieszonkowe i płać nim 💸\n• Oszczędzając, co tydzień dostajesz %@%% odsetek 🏦\n• Ucz się ekonomii na produktach inwestycyjnych 📈\n\nOtwórz aplikację SukSuk Kieszonkowe na urządzeniu zalogowanym na to samo konto iCloud co urządzenie rodziców, a od razu dołączysz!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48693,6 +50919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎓 Leren"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎓 Nauka"
           }
         },
         "pt-BR" : {
@@ -48826,6 +51058,12 @@
             "value" : "🏛️ Markt"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏛️ Rynek"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48955,6 +51193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Ouderstand"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Tryb rodzica"
           }
         },
         "pt-BR" : {
@@ -49088,6 +51332,12 @@
             "value" : "🏦 Sparen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Oszczędności"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49217,6 +51467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏦 Spaarrekening"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏦 Konto oszczędnościowe"
           }
         },
         "pt-BR" : {
@@ -49350,6 +51606,12 @@
             "value" : "🏪 Winkel thuis"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏪 Domowy sklepik"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49479,6 +51741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏷️ Streepjescode van artikel"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏷️ Kod kreskowy artykułu"
           }
         },
         "pt-BR" : {
@@ -49612,6 +51880,12 @@
             "value" : "👨‍👩‍👧‍👦 Gezinsleden"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👨‍👩‍👧‍👦 Członkowie rodziny"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49741,6 +52015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💌 Uitnodiging"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💌 Zaproszenie"
           }
         },
         "pt-BR" : {
@@ -49874,6 +52154,12 @@
             "value" : "💡 Geld dat stilligt, verliest kracht. Bescherm het met sparen (rente) of beleggen!"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Pieniądze, które leżą bez ruchu, tracą moc. Chroń je oszczędzaniem (odsetki) lub inwestowaniem!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50003,6 +52289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💡 Je kunt de uitnodiging versturen via een bericht of een chat-app.\nOp toestellen die met hetzelfde iCloud-account zijn ingelogd, verschijnen de gegevens automatisch."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Zaproszenie możesz wysłać wiadomością lub w komunikatorze.\nNa urządzeniach zalogowanych na to samo konto iCloud dane pojawią się automatycznie."
           }
         },
         "pt-BR" : {
@@ -50136,6 +52428,12 @@
             "value" : "💡 De prijzen veranderen één keer per dag. Goedkoop kopen en duur verkopen levert winst op, andersom verlies!"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💡 Ceny zmieniają się raz dziennie. Kupić tanio i sprzedać drogo to zysk, odwrotnie to strata!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50265,6 +52563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💳 Betalen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💳 Zapłać"
           }
         },
         "pt-BR" : {
@@ -50398,6 +52702,12 @@
             "value" : "💵 Portemonnee"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💵 Portfel"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50527,6 +52837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💸 Geld beheren"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Zarządzanie pieniędzmi"
           }
         },
         "pt-BR" : {
@@ -50660,6 +52976,12 @@
             "value" : "💸 Zakgeld"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💸 Kieszonkowe"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50789,6 +53111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📈 Beleggen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Inwestuj"
           }
         },
         "pt-BR" : {
@@ -50922,6 +53250,12 @@
             "value" : "📈 Beleggingsproducten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📈 Produkty inwestycyjne"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51051,6 +53385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "📱 Kindertelefoonstand"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📱 Tryb telefonu dziecka"
           }
         },
         "pt-BR" : {
@@ -51184,6 +53524,12 @@
             "value" : "📷 Scannen en betalen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "📷 Skanuj i zapłać"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51315,6 +53661,12 @@
             "value" : "🔐 Terug naar de ouderstand"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔐 Wróć do trybu rodzica"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51444,6 +53796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧾 Transacties"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾 Historia transakcji"
           }
         },
         "pt-BR" : {

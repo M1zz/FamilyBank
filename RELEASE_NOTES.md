@@ -151,3 +151,10 @@ Stuur feedback vanuit de ouderstand.
 Lees antwoorden op feedback in de app.
 Open privacy en support in de app.
 De app werkt nu stabieler.
+
+### 앱스토어 (polski)
+
+Wyślij opinię z trybu rodzica.
+Czytaj odpowiedzi na opinie w aplikacji.
+Otwieraj prywatność i pomoc w aplikacji.
+Aplikacja działa stabilniej.

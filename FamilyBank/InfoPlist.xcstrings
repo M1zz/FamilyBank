@@ -93,6 +93,12 @@
             "value" : "SukSuk Zakgeld"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Kieszonkowe"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -223,6 +229,12 @@
             "value" : "De camera is nodig zodat je kind de streepjescode van een artikel kan scannen en betalen."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparat jest potrzebny, aby dziecko mogło zeskanować kod kreskowy artykułu i zapłacić."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -351,6 +363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID wordt gebruikt om een ouder te bevestigen bij het ontgrendelen van acties."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID służy do potwierdzenia rodzica przy odblokowaniu akcji."
           }
         },
         "pt-BR" : {
