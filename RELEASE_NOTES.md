@@ -67,3 +67,10 @@ Envoie tes avis depuis le mode parent.
 Lis les réponses à tes avis dans l’app.
 Ouvre la confidentialité et l’aide.
 L’app fonctionne de façon plus stable.
+
+### 앱스토어 (italiano)
+
+Invia un parere dalla modalità genitore.
+Leggi le risposte ai pareri nell’app.
+Apri privacy e supporto dall’app.
+L’app ora funziona in modo più stabile.

@@ -557,3 +557,65 @@ Transformez le téléphone de votre enfant en écran rien que pour lui. Il ne vo
 
 Synchronisation iCloud
 Les appareils connectés au même compte iCloud gardent le registre de la famille à jour.
+
+## it
+
+### 지원 URL
+
+https://m1zz.github.io/FamilyBank/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/FamilyBank/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/FamilyBank/
+
+### 이름
+
+SukSuk Paghetta: Soldi in casa
+
+### 부제
+
+Risparmio e investimento
+
+### 키워드
+
+educazione finanziaria,bambini,salvadanaio,banca,interessi,composto,budget,famiglia,economia,borsa
+
+### 프로모션 텍스트
+
+I genitori sono la banca centrale, i figli i clienti. Date la paghetta con la valuta di casa e fate provare ai bambini gli interessi sul risparmio e l’investimento.
+
+### 설명
+
+Insegna ai tuoi figli come funzionano i soldi con una valuta solo vostra. I genitori fanno da banca centrale ed emettono la paghetta; i figli pagano, risparmiano e investono, e imparano l’economia facendo.
+Ciò che si vive in prima persona resta molto più a lungo di ciò che ci viene solo spiegato.
+
+La valuta di casa
+Scegli tu il nome della valuta: Fagioli, Stelle, Monete… Dare o togliere la paghetta si può fare solo nella modalità genitore, protetta da un PIN.
+
+Pagamenti e negozio di casa
+I genitori stabiliscono gli articoli che si usano in casa, come merende, tempo di gioco o di TV, e il loro prezzo.
+I figli scelgono nel negozio e pagano subito, oppure scansionano con la fotocamera il codice a barre mostrato da un genitore.
+
+Risparmio e interessi
+I soldi sul conto risparmio guadagnano ogni settimana un interesse composto. L’interesse lo decidono i genitori e si può vedere in anticipo quanto crescerà.
+
+Prova di investimento
+Compra e vendi tre fondi di prova il cui prezzo cambia una volta al giorno e guarda i grafici del rendimento. Confronta fondi prudenti, equilibrati e rischiosi per capire il legame tra rischio e guadagno.
+
+Mercato e storico
+Nella scheda Mercato vedi a colpo d’occhio prezzi di casa, cambio, interessi, quantità di moneta e quotazioni degli investimenti. Mostra anche come, quando i prezzi salgono, con gli stessi soldi si compra meno.
+Ogni movimento di denaro finisce nel registro e si può riguardare per data, membro e tipo.
+
+Impara
+Una guida per i genitori in 10 passi, da «A cosa servono i soldi?» fino al budget, passando per bisogni e desideri, costo opportunità, risparmio e interessi, interesse composto, inflazione, investimento e rischio, per parlarne con tuo figlio.
+Con il calcolatore di interesse composto e quello sull’inflazione puoi cambiare i numeri da solo e sperimentare.
+
+Modalità telefono del figlio
+Trasforma il telefono di tuo figlio in una schermata solo sua. Vede soltanto il suo portafoglio, gli investimenti, lo storico e le lezioni, e per uscire serve il PIN dei genitori. Puoi invitare tuo figlio con un invito con codice QR.
+
+Sincronizzazione iCloud
+I dispositivi con lo stesso account iCloud tengono allineato il registro della famiglia.

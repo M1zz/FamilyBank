@@ -33,6 +33,12 @@
             "value" : "SukSuk Argent de poche"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SukSuk Paghetta"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +97,12 @@
             "value" : "L’appareil photo est nécessaire pour que ton enfant scanne le code-barres d’un article et paie."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La fotocamera serve per far scansionare a tuo figlio il codice a barre di un articolo e pagare."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Face ID sert à confirmer qu’un parent est présent pour déverrouiller les actions."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID viene usato per confermare un genitore e sbloccare le azioni."
           }
         },
         "ja" : {
