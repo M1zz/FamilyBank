@@ -20,8 +20,8 @@ RAW = ROOT / "docs" / "screenshots" / "raw" / "creative"
 OUT = ROOT / "docs" / "screenshots" / "creative"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
-# 쑥쑥용돈은 지금 한국어 페이지 하나뿐이다(App Store Connect 기준, 2026-10).
-STORE = {}
+# 앱 언어 → App Store 로케일 (스크린샷 marketing/ 폴더와 같게)
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO", "nl": "nl-NL", "pl": "pl-PL", "sv": "sv-SE", "tr": "tr-TR"}
 
 # (가로, 세로, 안전 영역 left, top, right, bottom)
 SPEC = {
@@ -33,23 +33,23 @@ SPEC = {
 # 기기 화면은 아이 한 명의 통장 - 지갑 · 저축 · 투자와 최근 거래.
 SEARCH = {
     "ko": ("용돈 관리", "우리 집 은행에서<br>용돈이 쑥쑥", "저축하면 이자가 붙고 투자도 해 봐요"),
-    "tr": ("çocuk harçlığı", "Harçlık ev bankasında<br>büyüyor", "Biriktirince faiz işler, yatırımı da deneyebilirsin"),
+    "tr": ("çocuk harçlığı", "Harçlık<br>evde büyüyor", "Birikim faiz getirir, yatırımı dene"),
     "sv": ("fickpengar barn", "Fickpengarna växer<br>i hemmabanken", "Sparande ger ränta och du kan prova att investera"),
     "pl": ("kieszonkowe dla dzieci", "Kieszonkowe rośnie<br>w domowym banku", "Oszczędzanie daje odsetki, a inwestowanie możesz wypróbować"),
     "nl": ("zakgeld voor kinderen", "Zakgeld groeit<br>bij de bank thuis", "Sparen levert rente op en je kunt beleggen proberen"),
-    "nb": ("lommepenger til barn", "Lommepengene vokser<br>i hjemmebanken", "Sparing gir renter, og du kan prøve å investere"),
+    "nb": ("lommepenger til barn", "Lommepenger<br>som vokser", "Sparing gir renter, prøv å investere"),
     "id": ("uang saku anak", "Uang saku tumbuh<br>di bank rumah", "Menabung dapat bunga, dan bisa coba investasi"),
     "fi": ("lasten viikkoraha", "Viikkoraha kasvaa<br>kotipankissa", "Säästäminen tuottaa korkoa ja voit kokeilla sijoittamista"),
-    "el": ("χαρτζιλίκι παιδιών", "Το χαρτζιλίκι μεγαλώνει<br>στην τράπεζα του σπιτιού", "Η αποταμίευση φέρνει τόκους και δοκιμάζεις επένδυση"),
-    "da": ("lommepenge til børn", "Lommepengene vokser<br>i hjemmebanken", "Opsparing giver renter, og du kan prøve at investere"),
+    "el": ("χαρτζιλίκι παιδιών", "Χαρτζιλίκι<br>που μεγαλώνει", "Η αποταμίευση φέρνει τόκους"),
+    "da": ("lommepenge til børn", "Lommepenge<br>der vokser", "Opsparing giver renter, prøv at investere"),
     "cs": ("kapesné pro děti", "Kapesné roste<br>v domácí bance", "Spoření nese úroky a můžeš zkusit investovat"),
-    "vi": ("tiền tiêu vặt cho bé", "Tiền tiêu vặt lớn lên<br>trong ngân hàng của nhà", "Tiết kiệm có lãi, còn tập đầu tư nữa"),
+    "vi": ("tiền tiêu vặt cho bé", "Tiền tiêu vặt<br>lớn lên mỗi tuần", "Tiết kiệm có lãi, tập đầu tư"),
     "th": ("ค่าขนมเด็ก", "ค่าขนมโตขึ้น<br>ในธนาคารของบ้านเรา", "ออมแล้วได้ดอกเบี้ย และลองลงทุนได้"),
-    "ru": ("карманные деньги", "Карманные деньги растут<br>в домашнем банке", "Накопления приносят проценты, можно попробовать вложения"),
+    "ru": ("карманные деньги", "Карманные<br>деньги растут", "Копи с процентами и пробуй вложения"),
     "pt-BR": ("mesada para crianças", "A mesada cresce<br>no banco da família", "Poupar rende juros e dá para investir"),
     "it": ("paghetta bambini", "La paghetta cresce<br>nella banca di casa", "Il risparmio dà interessi e puoi provare a investire"),
-    "fr": ("argent de poche", "L’argent de poche grandit<br>à la banque de la maison", "L’épargne rapporte des intérêts, essaie les placements"),
-    "de": ("Taschengeld Kinder", "Das Taschengeld wächst<br>in der Familienbank", "Sparen bringt Zinsen, Anlegen ausprobieren"),
+    "fr": ("argent de poche", "L’argent de poche<br>qui grandit", "L’épargne rapporte, essaie les placements"),
+    "de": ("Taschengeld Kinder", "Taschengeld,<br>das wächst", "Sparen bringt Zinsen, Anlegen üben"),
     "es": ("paga para niños", "La paga crece<br>en el banco de casa", "El ahorro da intereses y puedes invertir"),
     "zh-Hant": ("兒童零用錢", "在家裡的銀行<br>零用錢茁壯成長", "存錢有利息，還能試試投資"),
     "zh-Hans": ("儿童零花钱", "在家里的银行<br>零花钱茁壮成长", "存钱有利息，还能试试投资"),
@@ -68,7 +68,7 @@ HEADER = {
     "nb": ("Økonomi hjemme", "Lær å spare og investere<br>med lommepenger"),
     "id": ("Belajar uang di rumah", "Belajar menabung dan investasi<br>lewat uang saku"),
     "fi": ("Raha-asiat opitaan kotona", "Opi säästämään ja sijoittamaan<br>viikkorahalla"),
-    "el": ("Οικονομική παιδεία στο σπίτι", "Μάθε αποταμίευση και επένδυση<br>με το χαρτζιλίκι"),
+    "el": ("Οικονομικά στο σπίτι", "Μάθε αποταμίευση<br>με το χαρτζιλίκι"),
     "da": ("Økonomi derhjemme", "Lær at spare og investere<br>med lommepenge"),
     "cs": ("Finanční gramotnost doma", "Spoření a investování<br>se učíme na kapesném"),
     "vi": ("Học về tiền ngay tại nhà", "Học tiết kiệm và đầu tư<br>bằng tiền tiêu vặt"),

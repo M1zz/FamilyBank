@@ -11,7 +11,7 @@ import LocalAuthentication
 
 struct ParentActionsView: View {
     @Bindable var settings: FamilySettings
-    @State private var unlocked = false
+    @State private var unlocked = ScreenshotDemo.startsUnlocked
     @State private var didAutoPrompt = false
 
     /// 기기에서 Face ID/Touch ID를 쓸 수 있는지

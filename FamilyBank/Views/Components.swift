@@ -165,7 +165,7 @@ struct TransactionRow: View {
                 .background(tx.kind.color.gradient, in: Circle())
 
             VStack(alignment: .leading, spacing: 2) {
-                Text(tx.memo)
+                Text(tx.displayMemo)
                     .font(.subheadline.weight(.medium))
                     .lineLimit(1)
                 HStack(spacing: 6) {

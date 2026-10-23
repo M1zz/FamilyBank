@@ -20,7 +20,8 @@ PROJECT="FamilyBank.xcodeproj"
 # 시뮬레이터는 **가장 최신 iOS 런타임의 iPhone** 으로 고른다.
 # `grep iPhone | head -1` 로 고르면 구버전 런타임 기기가 먼저 잡혀
 # "Unable to find a destination matching..." (exit 70) 로 죽는다.
-DEST_ID="$(xcrun simctl list devices available --json | python3 -c '
+# PREDEPLOY_SIM_ID 를 주면 그 시뮬레이터를 쓴다 (다른 작업이 쓰는 기기를 피할 때).
+DEST_ID="${PREDEPLOY_SIM_ID:-$(xcrun simctl list devices available --json | python3 -c '
 import json, re, sys
 best = None
 for runtime, devices in json.load(sys.stdin)["devices"].items():
@@ -33,7 +34,7 @@ for runtime, devices in json.load(sys.stdin)["devices"].items():
             if best is None or version > best[0]:
                 best = (version, d["udid"])
 print(best[1] if best else "")
-')"
+')}"
 if [ -z "$DEST_ID" ]; then
   echo "❌ 사용 가능한 iPhone 시뮬레이터가 없습니다"
   xcrun simctl list devices available | head -30

@@ -159,6 +159,8 @@ struct MarketView: View {
             Text(value)
                 .font(.title3.weight(.bold))
                 .monospacedDigit()
+                .lineLimit(1)
+                .minimumScaleFactor(0.6)
                 .foregroundStyle(color)
             Text(caption)
                 .font(.caption2)

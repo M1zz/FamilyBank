@@ -38,6 +38,8 @@ struct FamilyBankApp: App {
                 container = try! ModelContainer(for: schema, configurations: [memoryConfig])
             }
         }
+        // 스토어 스크린샷용 가상 장부 (DEBUG 빌드 + -ScreenshotDemo 일 때만)
+        ScreenshotDemo.seedIfNeeded(context: container.mainContext)
     }
 
     var body: some Scene {

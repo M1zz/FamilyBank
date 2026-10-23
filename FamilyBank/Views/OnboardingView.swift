@@ -12,7 +12,7 @@ struct OnboardingView: View {
     @Environment(\.modelContext) private var context
 
     @State private var step = 0
-    @State private var currencyName = "코인"
+    @State private var currencyName = String(localized: "코인")
     @State private var pin = ""
     @State private var pinConfirm = ""
     @State private var draftMembers: [DraftMember] = []
@@ -60,7 +60,7 @@ struct OnboardingView: View {
                     .font(.headline)
                 TextField("예: 콩, 별, 코인", text: $currencyName)
                     .textFieldStyle(.roundedBorder)
-                Text("예시: 1,000 \(currencyName.isEmpty ? "코인" : currencyName)")
+                Text("예시: 1,000 \(currencyName.isEmpty ? String(localized: "코인") : currencyName)")
                     .font(.caption)
                     .foregroundStyle(.secondary)
             }
@@ -69,7 +69,7 @@ struct OnboardingView: View {
             Spacer()
             Button {
                 if currencyName.trimmingCharacters(in: .whitespaces).isEmpty {
-                    currencyName = "코인"
+                    currencyName = String(localized: "코인")
                 }
                 step = 1
             } label: {

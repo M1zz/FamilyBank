@@ -117,6 +117,9 @@ final class MoneyTransaction {
     }
 
     var kind: TxKind { TxKind(rawValue: kindRaw) ?? .allowance }
+
+    /// 화면에 보일 메모 — 앱이 만든 고정 메모는 기기 언어로 보인다
+    var displayMemo: String { Bundle.main.localizedString(forKey: memo, value: memo, table: nil) }
 }
 
 // MARK: - 투자 상품 (모의 펀드)
@@ -165,10 +168,14 @@ final class InvestProduct {
 
     /// 위험도 표시
     var riskLabel: String {
-        if volatility <= 0.03 { return "안정형 🐢" }
-        if volatility <= 0.09 { return "보통형 🐰" }
-        return "위험형 🚀"
+        if volatility <= 0.03 { return String(localized: "안정형 🐢") }
+        if volatility <= 0.09 { return String(localized: "보통형 🐰") }
+        return String(localized: "위험형 🚀")
     }
+
+    /// 화면에 보일 이름 — 기본 상품은 예전에 한국어로 저장됐어도 기기 언어로 보인다
+    var displayName: String { Bundle.main.localizedString(forKey: name, value: name, table: nil) }
+    var displayDetail: String { Bundle.main.localizedString(forKey: detail, value: detail, table: nil) }
 }
 
 // MARK: - 보유 내역

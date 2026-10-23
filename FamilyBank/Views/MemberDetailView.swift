@@ -64,8 +64,7 @@ struct MemberDetailView: View {
                     Button {
                         showStore = true
                     } label: {
-                        Label("가게", systemImage: "storefront.fill")
-                            .frame(maxWidth: .infinity)
+                        actionLabel("가게", systemImage: "storefront.fill")
                     }
                     .buttonStyle(.borderedProminent)
                     .controlSize(.large)
@@ -73,8 +72,7 @@ struct MemberDetailView: View {
                     Button {
                         showPay = true
                     } label: {
-                        Label("결제", systemImage: "cart.fill")
-                            .frame(maxWidth: .infinity)
+                        actionLabel("결제", systemImage: "cart.fill")
                     }
                     .buttonStyle(.bordered)
                     .controlSize(.large)
@@ -82,8 +80,7 @@ struct MemberDetailView: View {
                     Button {
                         showSavings = true
                     } label: {
-                        Label("저축", systemImage: "building.columns.fill")
-                            .frame(maxWidth: .infinity)
+                        actionLabel("저축", systemImage: "building.columns.fill")
                     }
                     .buttonStyle(.bordered)
                     .controlSize(.large)
@@ -98,7 +95,7 @@ struct MemberDetailView: View {
                             HStack {
                                 Text(holding.product?.emoji ?? "📈")
                                 VStack(alignment: .leading, spacing: 2) {
-                                    Text(holding.product?.name ?? String(localized: "상품"))
+                                    Text(holding.product?.displayName ?? String(localized: "상품"))
                                         .font(.subheadline.weight(.medium))
                                     Text("\(holding.quantity)주 · 평균 \(holding.avgPrice.comma)")
                                         .font(.caption)
@@ -143,6 +140,7 @@ struct MemberDetailView: View {
         .background(Color(.systemGroupedBackground))
         .navigationTitle(member.name)
         .navigationBarTitleDisplayMode(.inline)
+        .onAppear { if ScreenshotDemo.opensSavings { showSavings = true } }
         .sheet(isPresented: $showPay) {
             PayView(payer: member, settings: settings)
         }
@@ -155,6 +153,20 @@ struct MemberDetailView: View {
         .sheet(isPresented: $showScanPay) {
             ScanPayView(payer: member, settings: settings)
         }
+    }
+
+    /// 아이콘 위 · 글 아래 — 긴 언어(Накопления 등)도 한 줄에 들어가게
+    private func actionLabel(_ title: LocalizedStringKey, systemImage: String) -> some View {
+        VStack(spacing: 4) {
+            Image(systemName: systemImage)
+                .font(.title3)
+            Text(title)
+                .font(.subheadline.weight(.semibold))
+                .lineLimit(1)
+                .minimumScaleFactor(0.7)
+        }
+        .frame(maxWidth: .infinity)
+        .padding(.vertical, 2)
     }
 
     private func summaryBox(_ label: String, _ amount: Int) -> some View {

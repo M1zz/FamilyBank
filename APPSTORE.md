@@ -66,15 +66,15 @@ iCloud 동기화
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/en/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/en/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/en/
 
 ### 이름
 
@@ -128,15 +128,15 @@ Devices signed in to the same iCloud account keep the family ledger in sync.
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/en/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/en/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/en/
 
 ### 이름
 
@@ -190,15 +190,15 @@ Devices signed in to the same iCloud account keep the family ledger in sync.
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/ja/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/ja/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/ja/
 
 ### 이름
 
@@ -210,7 +210,7 @@ https://m1zz.github.io/FamilyBank/
 
 ### 키워드
 
-お金の勉強,お小遣い帳,子供,貯金,投資,金融教育,小学生,複利,利子,マネー,おこづかい管理,家計,ごっこ,通貨,株,経済,家族
+マネーリテラシー,おこづかい帳,こども,キッズ,小学生,中学生,複利,利息,金利,株,ファンド,資産運用,家計簿,節約,ためる,ごっこ遊び,通貨,経済,インフレ,物価,親子,知育,ごほうび,お手伝い
 
 ### 프로모션 텍스트
 
@@ -252,15 +252,15 @@ iCloud同期
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/zh-Hans/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/zh-Hans/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/zh-Hans/
 
 ### 이름
 
@@ -272,7 +272,7 @@ https://m1zz.github.io/FamilyBank/
 
 ### 키워드
 
-理财,儿童理财,财商,零花钱,记账,储蓄,存钱,利息,复利,模拟投资,基金,小学生,亲子,家庭账本,压岁钱,银行游戏,通胀,汇率
+儿童财商,财商教育,零用钱,压岁钱,记账本,存钱罐,攒钱,利息,复利,模拟炒股,基金,股票,小学生,亲子游戏,金钱观,通胀,汇率,经济学,存款,奖励,做家务,积分,零钱管理,货币,记账,预算,习惯养成
 
 ### 프로모션 텍스트
 
@@ -314,15 +314,15 @@ iCloud同步
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/zh-Hant/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/zh-Hant/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/zh-Hant/
 
 ### 이름
 
@@ -334,7 +334,7 @@ https://m1zz.github.io/FamilyBank/
 
 ### 키워드
 
-理財,兒童理財,財商,零用錢,記帳,儲蓄,存錢,利息,複利,模擬投資,基金,小學生,親子,家庭帳本,壓歲錢,銀行遊戲,通膨,匯率
+兒童財商,財商教育,零花錢,紅包,記帳本,撲滿,存錢,利息,複利,模擬股票,基金,股票,小學生,親子遊戲,金錢觀,通膨,匯率,經濟學,存款,獎勵,做家事,集點,零錢管理,貨幣,記帳,預算,習慣養成
 
 ### 프로모션 텍스트
 
@@ -376,15 +376,15 @@ iCloud同步
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/es/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/es/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/es/
 
 ### 이름
 
@@ -438,15 +438,15 @@ Los dispositivos con la misma cuenta de iCloud mantienen sincronizado el libro d
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/de/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/de/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/de/
 
 ### 이름
 
@@ -500,15 +500,15 @@ Geräte mit derselben iCloud-Anmeldung halten das Familien-Kassenbuch auf dem gl
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/fr/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/fr/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/fr/
 
 ### 이름
 
@@ -562,15 +562,15 @@ Les appareils connectés au même compte iCloud gardent le registre de la famill
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/it/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/it/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/it/
 
 ### 이름
 
@@ -624,15 +624,15 @@ I dispositivi con lo stesso account iCloud tengono allineato il registro della f
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/pt-BR/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/pt-BR/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/pt-BR/
 
 ### 이름
 
@@ -686,15 +686,15 @@ Aparelhos com a mesma conta do iCloud mantêm o registro da família sempre igua
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/ru/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/ru/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/ru/
 
 ### 이름
 
@@ -748,15 +748,15 @@ https://m1zz.github.io/FamilyBank/
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/th/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/th/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/th/
 
 ### 이름
 
@@ -810,15 +810,15 @@ https://m1zz.github.io/FamilyBank/
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/vi/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/vi/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/vi/
 
 ### 이름
 
@@ -872,15 +872,15 @@ Các thiết bị đăng nhập cùng tài khoản iCloud sẽ giữ sổ cái g
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/cs/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/cs/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/cs/
 
 ### 이름
 
@@ -934,15 +934,15 @@ Zařízení přihlášená ke stejnému účtu iCloud mají rodinnou knihu stál
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/da/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/da/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/da/
 
 ### 이름
 
@@ -996,15 +996,15 @@ Enheder, der er logget ind med den samme iCloud-konto, holder familiens bog ens.
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/el/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/el/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/el/
 
 ### 이름
 
@@ -1058,15 +1058,15 @@ SukSuk Χαρτζιλίκι: Παιδιά
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/fi/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/fi/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/fi/
 
 ### 이름
 
@@ -1120,15 +1120,15 @@ Laitteet, joilla on sama iCloud-tili, pitävät perheen kirjanpidon samana.
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/id/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/id/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/id/
 
 ### 이름
 
@@ -1182,15 +1182,15 @@ Perangkat dengan akun iCloud yang sama menjaga buku kas keluarga tetap sama.
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/nb/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/nb/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/nb/
 
 ### 이름
 
@@ -1244,15 +1244,15 @@ Enheter som er logget på med samme iCloud-konto, holder familiens bok lik.
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/nl/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/nl/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/nl/
 
 ### 이름
 
@@ -1306,15 +1306,15 @@ Toestellen die met hetzelfde iCloud-account zijn ingelogd, houden het gezinsgroo
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/pl/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/pl/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/pl/
 
 ### 이름
 
@@ -1368,15 +1368,15 @@ Urządzenia zalogowane na to samo konto iCloud mają taką samą rodzinną księ
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/sv/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/sv/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/sv/
 
 ### 이름
 
@@ -1430,15 +1430,15 @@ Enheter som är inloggade med samma iCloud-konto håller familjens bok likadan.
 
 ### 지원 URL
 
-https://m1zz.github.io/FamilyBank/support.html
+https://m1zz.github.io/FamilyBank/tr/support.html
 
 ### 개인정보처리방침 URL
 
-https://m1zz.github.io/FamilyBank/privacy.html
+https://m1zz.github.io/FamilyBank/tr/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/FamilyBank/
+https://m1zz.github.io/FamilyBank/tr/
 
 ### 이름
 

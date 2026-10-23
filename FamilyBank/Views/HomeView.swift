@@ -15,6 +15,7 @@ struct HomeView: View {
     private var children: [FamilyMember] { members.filter { $0.isChild } }
     private var parents: [FamilyMember] { members.filter { !$0.isChild } }
     private var totalCirculation: Int { members.reduce(0) { $0 + $1.totalAssets } }
+    @State private var demoOpensChild = ScreenshotDemo.opensChild
 
     var body: some View {
         NavigationStack {
@@ -60,6 +61,11 @@ struct HomeView: View {
             }
             .background(Color(.systemGroupedBackground))
             .navigationBarTitleDisplayMode(.inline)
+            .navigationDestination(isPresented: $demoOpensChild) {
+                if let child = children.first {
+                    MemberDetailView(member: child, settings: settings)
+                }
+            }
         }
     }
 

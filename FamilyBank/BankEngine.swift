@@ -73,7 +73,7 @@ enum BankEngine {
         if totalInterest > 0 {
             let tx = MoneyTransaction(kind: .interest,
                                       amount: totalInterest,
-                                      memo: "저축 이자 (주 \(weeklyRate.cleanPercent)%, \(weeks)주)",
+                                      memo: String(localized: "저축 이자 (주 \(weeklyRate.cleanPercent)%, \(weeks)주)"),
                                       member: member)
             context.insert(tx)
         }
@@ -107,7 +107,7 @@ enum BankEngine {
         member.balance += amount
         let tx = MoneyTransaction(kind: .allowance,
                                   amount: amount,
-                                  memo: memo.isEmpty ? "용돈" : memo,
+                                  memo: memo.isEmpty ? String(localized: "용돈") : memo,
                                   member: member)
         context.insert(tx)
         try? context.save()
@@ -119,7 +119,7 @@ enum BankEngine {
         member.balance -= amount
         let tx = MoneyTransaction(kind: .deduct,
                                   amount: amount,
-                                  memo: memo.isEmpty ? "차감" : memo,
+                                  memo: memo.isEmpty ? String(localized: "차감") : memo,
                                   member: member)
         context.insert(tx)
         try? context.save()
@@ -134,7 +134,7 @@ enum BankEngine {
         payer.balance -= amount
         let payTx = MoneyTransaction(kind: .payment,
                                      amount: amount,
-                                     memo: memo.isEmpty ? "결제" : memo,
+                                     memo: memo.isEmpty ? String(localized: "결제") : memo,
                                      member: payer)
         context.insert(payTx)
 
@@ -142,7 +142,7 @@ enum BankEngine {
             receiver.balance += amount
             let receiveTx = MoneyTransaction(kind: .receive,
                                              amount: amount,
-                                             memo: "\(payer.name)에게 받음 · \(memo.isEmpty ? "결제" : memo)",
+                                             memo: String(localized: "\(payer.name)에게 받음 · \(memo.isEmpty ? String(localized: "결제") : memo)"),
                                              member: receiver)
             context.insert(receiveTx)
         }
@@ -160,7 +160,7 @@ enum BankEngine {
         }
         member.balance -= amount
         member.savings += amount
-        let tx = MoneyTransaction(kind: .deposit, amount: amount, memo: "저축통장에 입금", member: member)
+        let tx = MoneyTransaction(kind: .deposit, amount: amount, memo: String(localized: "저축통장에 입금"), member: member)
         context.insert(tx)
         try? context.save()
         return true
@@ -171,7 +171,7 @@ enum BankEngine {
         guard amount > 0, member.savings >= amount else { return false }
         member.savings -= amount
         member.balance += amount
-        let tx = MoneyTransaction(kind: .withdraw, amount: amount, memo: "저축통장에서 출금", member: member)
+        let tx = MoneyTransaction(kind: .withdraw, amount: amount, memo: String(localized: "저축통장에서 출금"), member: member)
         context.insert(tx)
         try? context.save()
         return true
@@ -197,7 +197,7 @@ enum BankEngine {
 
         let tx = MoneyTransaction(kind: .buy,
                                   amount: cost,
-                                  memo: "\(product.name) \(quantity)주 매수 (@\(product.price.comma))",
+                                  memo: String(localized: "\(product.displayName) \(quantity)주 매수 (@\(product.price.comma))"),
                                   member: member)
         context.insert(tx)
         try? context.save()
@@ -223,7 +223,7 @@ enum BankEngine {
 
         let tx = MoneyTransaction(kind: .sell,
                                   amount: proceeds,
-                                  memo: "\(product.name) \(quantity)주 매도 (@\(product.price.comma))",
+                                  memo: String(localized: "\(product.displayName) \(quantity)주 매도 (@\(product.price.comma))"),
                                   member: member)
         context.insert(tx)
         try? context.save()
@@ -234,14 +234,14 @@ enum BankEngine {
 
     static func defaultProducts() -> [InvestProduct] {
         [
-            InvestProduct(name: "거북이 안정펀드", emoji: "🐢",
-                          detail: "천천히 하지만 꾸준히! 큰 변동 없이 조금씩 오르는 안전한 상품이에요.",
+            InvestProduct(name: String(localized: "거북이 안정펀드"), emoji: "🐢",
+                          detail: String(localized: "천천히 하지만 꾸준히! 큰 변동 없이 조금씩 오르는 안전한 상품이에요."),
                           price: 1000, volatility: 0.02, trend: 0.10),
-            InvestProduct(name: "토끼 성장주", emoji: "🐰",
-                          detail: "적당한 위험, 적당한 수익! 오르락내리락하지만 성장하는 상품이에요.",
+            InvestProduct(name: String(localized: "토끼 성장주"), emoji: "🐰",
+                          detail: String(localized: "적당한 위험, 적당한 수익! 오르락내리락하지만 성장하는 상품이에요."),
                           price: 1000, volatility: 0.06, trend: 0.15),
-            InvestProduct(name: "로켓 모험주", emoji: "🚀",
-                          detail: "크게 오를 수도, 크게 떨어질 수도! 위험을 감수해야 하는 상품이에요.",
+            InvestProduct(name: String(localized: "로켓 모험주"), emoji: "🚀",
+                          detail: String(localized: "크게 오를 수도, 크게 떨어질 수도! 위험을 감수해야 하는 상품이에요."),
                           price: 1000, volatility: 0.15, trend: 0.20)
         ]
     }

@@ -83,7 +83,7 @@ struct ParentDashboardView: View {
                     HStack {
                         Text(product.emoji)
                         VStack(alignment: .leading, spacing: 2) {
-                            Text(product.name)
+                            Text(product.displayName)
                                 .font(.subheadline)
                             Text("\(product.price.comma) · \(product.riskLabel)")
                                 .font(.caption)

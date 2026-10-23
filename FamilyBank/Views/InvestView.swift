@@ -132,7 +132,7 @@ struct ProductCard: View {
                 Text(product.emoji)
                     .font(.system(size: 32))
                 VStack(alignment: .leading, spacing: 2) {
-                    Text(product.name)
+                    Text(product.displayName)
                         .font(.headline)
                     Text(product.riskLabel)
                         .font(.caption)
@@ -195,7 +195,7 @@ struct ProductDetailView: View {
                     VStack(spacing: 8) {
                         Text(product.emoji)
                             .font(.system(size: 56))
-                        Text(product.name)
+                        Text(product.displayName)
                             .font(.title2.weight(.bold))
                         Text(product.riskLabel)
                             .font(.caption.weight(.semibold))
@@ -203,7 +203,7 @@ struct ProductDetailView: View {
                             .padding(.vertical, 4)
                             .background(Color(.tertiarySystemGroupedBackground))
                             .clipShape(Capsule())
-                        Text(product.detail)
+                        Text(product.displayDetail)
                             .font(.subheadline)
                             .foregroundStyle(.secondary)
                             .multilineTextAlignment(.center)
@@ -336,7 +336,7 @@ struct ProductDetailView: View {
     private func buy(_ investor: FamilyMember) {
         let ok = BankEngine.buy(member: investor, product: product, quantity: quantity, context: context)
         resultMessage = ok
-            ? String(localized: "\(product.name) \(quantity)주를 샀어요! 📈")
+            ? String(localized: "\(product.displayName) \(quantity)주를 샀어요! 📈")
             : String(localized: "지갑에 돈이 부족해요. 필요 금액: \((product.price * quantity).comma) \(settings.currencyName)")
         showResult = true
     }
@@ -344,7 +344,7 @@ struct ProductDetailView: View {
     private func sell(_ investor: FamilyMember) {
         let ok = BankEngine.sell(member: investor, product: product, quantity: quantity, context: context)
         resultMessage = ok
-            ? String(localized: "\(product.name) \(quantity)주를 팔았어요! \((product.price * quantity).comma) \(settings.currencyName)이 지갑에 들어왔어요.")
+            ? String(localized: "\(product.displayName) \(quantity)주를 팔았어요! \((product.price * quantity).comma) \(settings.currencyName)이 지갑에 들어왔어요.")
             : String(localized: "보유 수량이 부족해요.")
         showResult = true
     }

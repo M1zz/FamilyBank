@@ -52,23 +52,29 @@ struct RootView: View {
 
 struct MainTabView: View {
     @Bindable var settings: FamilySettings
+    @State private var tab = ScreenshotDemo.startTab
 
     var body: some View {
-        TabView {
+        TabView(selection: $tab) {
             HomeView(settings: settings)
                 .tabItem { Label("대시보드", systemImage: "chart.bar.fill") }
+                .tag(0)
 
             ParentActionsView(settings: settings)
                 .tabItem { Label("액션", systemImage: "bolt.fill") }
+                .tag(1)
 
             MarketView(settings: settings)
                 .tabItem { Label("시장", systemImage: "chart.line.uptrend.xyaxis") }
+                .tag(2)
 
             HistoryView(settings: settings)
                 .tabItem { Label("기록", systemImage: "list.bullet.rectangle.fill") }
+                .tag(3)
 
             EducationView(settings: settings)
                 .tabItem { Label("배우기", systemImage: "graduationcap.fill") }
+                .tag(4)
         }
     }
 }
