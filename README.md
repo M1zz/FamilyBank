@@ -24,7 +24,7 @@
 ## 요구 사항
 
 - Xcode 16 이상
-- iOS 17.0 이상 (iPhone / iPad)
+- iOS 17.0 이상 (iPhone 전용)
 
 ## 실행 방법
 
