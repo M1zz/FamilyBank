@@ -14,6 +14,9 @@ enum FamilyBankSpec: LeeoAppSpec {
         marketingURL: URL(string: "https://m1zz.github.io/FamilyBank/")!
     )
 
+    /// App Store 앱 ID — 리뷰 남기기·친구에게 소개하기 링크.
+    static let appStoreID: String? = "6790130891"
+
     /// 수익모델 — 인앱 결제가 없는 완전 무료 앱.
     static let monetization = LeeoMonetization.free
 
