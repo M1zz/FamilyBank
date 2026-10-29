@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Fickpengar: föräldrarna är banken, barnen sparar och investerar",
+  "description": "Ge fickpengar i er egen familjevaluta. Barnen betalar själva, får ränta varje vecka och testar övningsfonder, så förstår de pengar. Allt är gratis.",
+  "hero": {
+    "headline": "Fickpengadagen blir\nen lektion om pengar",
+    "lead": "Du är familjens centralbank och barnen är kunderna. De får fickpengar i er egen valuta, köper godis, ser räntan landa på sparandet och känner av upp- och nedgångarna i en övningsfond.",
+    "cta": "Hämta gratis i App Store",
+    "note": "Alla funktioner är gratis. Riktiga pengar används aldrig."
+  },
+  "demo": {
+    "title": "Var skulle du lägga 1 000 mynt?",
+    "lead": "Samma 1 000 mynt ligger i en plånbok, på ett sparkonto och i tre fonder. Hoppa fram en vecka i taget och se vad som händer med var och en. Allt följer samma regler som appen.",
+    "currency": "mynt",
+    "week": "Vecka {n}",
+    "start": "Inte startat än",
+    "next": "En vecka framåt",
+    "reset": "Börja om",
+    "wallet": "Plånbok",
+    "savings": "Sparande · 5 % i veckan med ränta på ränta",
+    "funds": ["Sköldpadda Trygg fond", "Kanin Tillväxtaktier", "Raket Äventyrsaktier"],
+    "power": "Prisindex {i} · 1 000 mynt i plånboken köper nu bara det som {p} mynt köpte förut",
+    "note": "Precis som i appen svänger fondpriserna slumpmässigt, så varje omgång slutar olika. 5 % ränta och 2 % prisökning i veckan är appens startinställningar."
+  },
+  "problem": {
+    "title": "”Spara så växer det.” Går det verkligen fram till ett barn?",
+    "text": "Ränta, ränta på ränta, inflation: ju mer man förklarar, desto längre bort låter det. I SukSuk Fickpengar tjänar, spenderar och väntar barnen själva. När de upptäcker att förra veckans sparande har fått ränta åker nästa fickpeng direkt in på sparkontot."
+  },
+  "features": [
+    {
+      "title": "Se tålamodet löna sig",
+      "text": "Pengar på sparkontot får ränta på ränta varje vecka. Du bestämmer räntan, och ett diagram visar vad beloppet växer till på 12 veckor om det får ligga kvar.\nInte öppnat appen på några dagar? När den öppnas betalas alla veckor den är skyldig ut på en gång.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Se priserna äta upp plånboken",
+      "text": "Fliken Marknad samlar familjens prisindex, inflation, ränta, penningmängd och fondpriser på en skärm. När priserna stiger syns det hur mycket mindre 1 000 mynt i plånboken nu räcker till.\nBarnen ser i tydliga siffror att pengar som bara ligger krymper, medan sparade eller investerade pengar håller värdet.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Tio samtal att ta tillsammans",
+      "text": "Föräldraguiden tar er genom tio steg: varför vi behöver pengar, behov och önskningar, alternativkostnad, sparande och ränta, ränta på ränta, inflation, investering och risk och till sist en budget.\nEn ränta på ränta-kalkylator och en kalkylator för prisexperiment låter er ändra siffrorna och se vad som händer.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Igång i tre steg",
+    "items": [
+      {
+        "title": "Döp er valuta",
+        "text": "Bönor, Stjärnor, Mynt, eller vad familjen nu vill kalla den."
+      },
+      {
+        "title": "Välj en förälder-PIN",
+        "text": "Fyra siffror. Bara den som kan den kan ge fickpengar eller ändra bankinställningarna."
+      },
+      {
+        "title": "Lägg till familjen",
+        "text": "Lägg till barn och föräldrar, ge de första fickpengarna och sätt igång."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Vad finns var",
+    "rows": [
+      ["Översikt", "Allas plånbok, sparande och investeringar i en blick"],
+      ["Åtgärder", "Ge eller dra av fickpengar, Streckkod för vara, Lägg till vara, Bjud in barn, Barntelefonläge, Bankinställningar (kräver förälder-PIN)"],
+      ["Marknad", "Prisindex, inflation, växelkurs, sparränta, penningmängd, fondpriser"],
+      ["Historik", "Varje pengarörelse per datum, medlem eller typ"],
+      ["Lär dig", "Föräldraguide i tio steg, ränta på ränta-kalkylator, kalkylator för prisexperiment"],
+      ["🐢 Sköldpadda Trygg fond", "Små dagliga svängningar, långsam och jämn uppgång"],
+      ["🐰 Kanin Tillväxtaktier", "Upp och ner, men de växer"],
+      ["🚀 Raket Äventyrsaktier", "Kan skjuta i höjden, kan rasa"]
+    ],
+    "note": "Från start gäller 5 % sparränta och 2 % inflation per vecka. Båda ändras i Föräldraläge under Bankinställningar. Med 0 % inflation står priserna still."
+  },
+  "pricing": {
+    "title": "Alla funktioner är gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Er egen familjevaluta och ett PIN-låst Föräldraläge",
+        "Ge och dra av fickpengar, Hemmabutik och betalning med streckkod",
+        "Ett sparkonto med ränta på ränta varje vecka",
+        "Tre övningsfonder med avkastningsdiagram",
+        "Fliken Marknad och en daterad transaktionshistorik",
+        "Föräldraguiden i tio steg och två kalkylatorer",
+        "Barntelefonläge och synkning via iCloud"
+      ]
+    },
+    "pro": {
+      "name": "Stöd utvecklaren",
+      "items": [
+        "Skicka ett litet dricksbelopp av valfri storlek från Bankinställningar i Föräldraläge",
+        "Dricks låser inte upp något. Appen fungerar precis likadant"
+      ]
+    },
+    "note": "Ingen reklam, ingen prenumeration. Dricksknappen finns bara i Föräldraläge, så barnen ser aldrig någon köpknapp."
+  },
+  "faq": {
+    "title": "Frågor",
+    "items": [
+      {
+        "q": "Används riktiga pengar?",
+        "a": "Nej. Valutan och alla transaktioner i appen är på låtsas och bara till för lärande. Inget är kopplat till ett riktigt bankkonto, kort eller kontanter."
+      },
+      {
+        "q": "Hur ser vi samma konton i mitt barns telefon?",
+        "a": "Enheter som är inloggade med samma iCloud-konto synkar familjens konton automatiskt. Kontrollera att iCloud är på under Inställningar > Apple-konto > iCloud. Under Bjud in barn på fliken Åtgärder kan du skapa en QR-inbjudan som barnet skannar med kameran. Utan iCloud stannar datan bara på den enheten."
+      },
+      {
+        "q": "Vad är Barntelefonläge?",
+        "a": "Det gör barnets telefon till en skärm bara för barnet. Barnet ser bara sin egen plånbok, sina investeringar, sin historik och lektionerna, och det krävs förälder-PIN för att lämna läget."
+      },
+      {
+        "q": "Jag har glömt förälder-PIN:en.",
+        "a": "PIN:en sparas bara på enheten, så inte ens utvecklaren kan återställa den. Raderar du appen och installerar om den kan du ställa in allt från början, men då raderas också er befintliga data."
+      },
+      {
+        "q": "Hur fungerar sparräntan?",
+        "a": "Varje vecka läggs ränta på ränta automatiskt till sparsaldot. Du väljer räntan i Föräldraläge, och veckor som har gått räknas av nästa gång appen öppnas."
+      },
+      {
+        "q": "Följer fondpriserna den riktiga marknaden?",
+        "a": "Nej. Fondpriserna är övningsdata som ändras en gång om dagen i appen. Ju mer riskfylld fonden är, desto större svängningar. Det är inga riktiga finansiella produkter."
+      },
+      {
+        "q": "Varför stiger priserna?",
+        "a": "För att barnen ska känna av inflation stiger familjens prisindex lite varje vecka. Du kan ändra takten, eller sätta den till 0 % för att stänga av den, i Föräldraläge under Bankinställningar. Höjer du samtidigt priset på godis och leksaker i Hemmabutiken lite grann, fastnar lärdomen bättre."
+      },
+      {
+        "q": "Hur raderar jag allt?",
+        "a": "När du raderar appen försvinner datan på enheten. Data som synkats till iCloud raderar du under Inställningar > Apple-konto > iCloud > Hantera lagring."
+      },
+      {
+        "q": "Skickas min familjs uppgifter någonstans?",
+        "a": "Nej. Det finns ingen registrering, och all data stannar på din enhet och i ditt eget iCloud-konto. Utvecklaren får bara feedback som du själv skickar från Föräldraläge, plus anonym användningsstatistik och kraschrapporter."
+      },
+      {
+        "q": "Vilka enheter fungerar den på?",
+        "a": "iPhone med iOS 17.0 eller senare."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Öppna familjebanken\nmed veckans fickpengar",
+    "cta": "Hämta gratis i App Store"
+  },
+  "ui": {
+    "skip": "Hoppa till innehållet",
+    "languages": "Språk",
+    "privacy": "Integritetspolicy",
+    "contact": "Frågor, fel eller idéer? Skriv till {email}. Berätta gärna vilken enhetsmodell och iOS-version du har, så kan vi hjälpa dig snabbare."
+  }
+}

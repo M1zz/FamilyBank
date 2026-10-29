@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Taschengeld: Eltern sind die Bank, Kinder sparen und investieren",
+  "description": "Taschengeld in eurer Familienwährung: Kinder bezahlen, bekommen wöchentlich Zinsen und testen Übungsfonds. So verstehen sie Geld. Kostenlos.",
+  "hero": {
+    "headline": "Aus dem Taschengeldtag\nwird eine Geldstunde",
+    "lead": "Du bist die Zentralbank der Familie, deine Kinder sind die Kundschaft. Sie bekommen ihr Taschengeld in eurer eigenen Währung, kaufen sich Snacks, sehen Zinsen auf ihrem Ersparten landen und erleben das Auf und Ab eines Übungsfonds.",
+    "cta": "Kostenlos im App Store laden",
+    "note": "Alle Funktionen sind kostenlos. Echtes Geld fließt nie."
+  },
+  "demo": {
+    "title": "Wohin mit 1.000 Münzen?",
+    "lead": "Dieselben 1.000 Münzen liegen in der Geldbörse, auf dem Sparkonto und in drei Fonds. Spring Woche für Woche weiter und sieh zu, was jeweils passiert. Es gelten dieselben Regeln wie in der App.",
+    "currency": "Münzen",
+    "week": "Woche {n}",
+    "start": "Noch nicht gestartet",
+    "next": "Eine Woche weiter",
+    "reset": "Neu starten",
+    "wallet": "Geldbörse",
+    "savings": "Gespart · 5 % pro Woche mit Zinseszins",
+    "funds": ["Schildkröten-Sicherfonds", "Hasen-Wachstumsaktie", "Raketen-Abenteueraktie"],
+    "power": "Preisindex {i} · 1.000 Münzen in der Geldbörse kaufen jetzt nur noch so viel wie früher {p} Münzen",
+    "note": "Wie in der App schwanken die Fondspreise zufällig, jeder Durchlauf geht also anders aus. 5 % Zinsen und 2 % Preisanstieg pro Woche sind die Starteinstellungen der App."
+  },
+  "problem": {
+    "title": "„Spar es, dann wird es mehr.“ Kommt das bei Kindern wirklich an?",
+    "text": "Zinsen, Zinseszins, Inflation: Je mehr man erklärt, desto weiter weg klingt es. In SukSuk Taschengeld verdienen, verbrauchen und warten Kinder selbst. Sobald sie entdecken, dass auf dem Ersparten von letzter Woche Zinsen liegen, wandert das nächste Taschengeld direkt aufs Sparkonto."
+  },
+  "features": [
+    {
+      "title": "Geduld zahlt sich sichtbar aus",
+      "text": "Geld auf dem Sparkonto bekommt jede Woche Zinseszins. Den Zinssatz legst du fest, und ein Diagramm zeigt, wie viel es in 12 Wochen ist, wenn es liegen bleibt.\nEin paar Tage nicht reingeschaut? Beim nächsten Öffnen werden alle offenen Wochen auf einmal gutgeschrieben.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Sehen, wie Preise die Geldbörse leeren",
+      "text": "Der Tab Markt zeigt Preisindex, Inflationsrate, Zinssatz, Geldmenge und Fondspreise eurer Familie auf einem Bildschirm. Steigen die Preise, sieht man, wie viel weniger 1.000 Münzen in der Geldbörse noch kaufen.\nKinder erkennen an klaren Zahlen: Herumliegendes Geld schrumpft, gespartes oder angelegtes Geld hält seinen Wert.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Zehn Gespräche für euch beide",
+      "text": "Der Elternratgeber führt in zehn Schritten durch die Themen: wozu wir Geld brauchen, Bedürfnisse und Wünsche, Opportunitätskosten, Sparen und Zinsen, Zinseszins, Inflation, Anlegen und Risiko und schließlich ein eigenes Budget.\nMit einem Zinseszins-Rechner und einem Preis-Experiment-Rechner verändert ihr Zahlen und seht sofort, was passiert.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "In drei Schritten startklar",
+    "items": [
+      {
+        "title": "Währung benennen",
+        "text": "Bohnen, Sterne, Münzen: Wie eure Familie sie nennen will."
+      },
+      {
+        "title": "Eltern-PIN festlegen",
+        "text": "Vier Ziffern. Nur wer sie kennt, kann Taschengeld geben oder die Bank-Einstellungen ändern."
+      },
+      {
+        "title": "Familie hinzufügen",
+        "text": "Kinder und Eltern eintragen, das erste Taschengeld auszahlen, los geht’s."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Was ist wo?",
+    "rows": [
+      ["Übersicht", "Geldbörse, Erspartes und Anlagen aller Familienmitglieder auf einen Blick"],
+      ["Aktionen", "Taschengeld geben oder abziehen, Artikel-Barcode, Artikel hinzufügen, Kind einladen, Kinderhandy-Modus, Bank-Einstellungen (Eltern-PIN nötig)"],
+      ["Markt", "Preisindex, Inflationsrate, Wechselkurs, Sparzins, Geldmenge, Fondspreise"],
+      ["Verlauf", "Jede Geldbewegung nach Datum, Person oder Art"],
+      ["Lernen", "Elternratgeber in zehn Schritten, Zinseszins-Rechner, Preis-Experiment-Rechner"],
+      ["🐢 Schildkröten-Sicherfonds", "Kleine tägliche Schwankungen, steigt langsam und stetig"],
+      ["🐰 Hasen-Wachstumsaktie", "Mal rauf, mal runter, aber sie wächst"],
+      ["🚀 Raketen-Abenteueraktie", "Kann abheben, kann abstürzen"]
+    ],
+    "note": "Zum Start gelten 5 % Sparzins und 2 % Inflation pro Woche. Beides änderst du im Elternmodus unter Bank-Einstellungen. Bei 0 % Inflation bleiben die Preise gleich."
+  },
+  "pricing": {
+    "title": "Alle Funktionen kostenlos",
+    "free": {
+      "name": "Kostenlos",
+      "items": [
+        "Eure eigene Familienwährung und ein mit PIN gesicherter Elternmodus",
+        "Taschengeld geben und abziehen, Familienladen und Bezahlen per Barcode",
+        "Ein Sparkonto mit wöchentlichem Zinseszins",
+        "Drei Übungsfonds mit Renditediagrammen",
+        "Der Tab Markt und ein Verlauf aller Buchungen nach Datum",
+        "Der Elternratgeber in zehn Schritten und zwei Rechner",
+        "Kinderhandy-Modus und iCloud-Synchronisierung"
+      ]
+    },
+    "pro": {
+      "name": "Entwickler unterstützen",
+      "items": [
+        "Im Elternmodus unter Bank-Einstellungen ein kleines Trinkgeld in beliebiger Höhe geben",
+        "Trinkgeld schaltet nichts frei. Die App funktioniert genau gleich"
+      ]
+    },
+    "note": "Keine Werbung, kein Abo. Der Trinkgeld-Button steckt nur im Elternmodus, deine Kinder sehen also nie einen Kaufen-Button."
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "items": [
+      {
+        "q": "Ist echtes Geld im Spiel?",
+        "a": "Nein. Die Währung und alle Buchungen in der App sind nur gespielt und dienen dem Lernen. Es gibt keine Verbindung zu einem echten Bankkonto, einer Karte oder Bargeld."
+      },
+      {
+        "q": "Wie sehen wir dieselben Konten auf dem Handy meines Kindes?",
+        "a": "Geräte mit demselben iCloud-Account gleichen das Familienbuch automatisch ab. Prüfe unter Einstellungen > Apple Account > iCloud, ob iCloud eingeschaltet ist. Im Tab Aktionen kannst du unter Kind einladen eine QR-Einladung erstellen, die dein Kind mit der Kamera scannt. Ohne iCloud bleiben die Daten nur auf diesem einen Gerät."
+      },
+      {
+        "q": "Was ist der Kinderhandy-Modus?",
+        "a": "Er macht das Handy deines Kindes zu einem Bildschirm nur für es. Es sieht nur die eigene Geldbörse, Anlagen, den Verlauf und die Lektionen, und zum Verlassen braucht es die Eltern-PIN."
+      },
+      {
+        "q": "Ich habe die Eltern-PIN vergessen.",
+        "a": "Die PIN ist nur auf dem Gerät gespeichert, nicht einmal der Entwickler kann sie wiederherstellen. Wenn du die App löschst und neu installierst, kannst du sie neu einrichten. Dabei werden aber auch eure bisherigen Daten gelöscht."
+      },
+      {
+        "q": "Wie funktionieren die Sparzinsen?",
+        "a": "Jede Woche kommt automatisch Zinseszins auf das Ersparte. Den Zinssatz legst du im Elternmodus fest, und verpasste Wochen werden beim nächsten Öffnen der App verrechnet."
+      },
+      {
+        "q": "Hängen die Fondspreise am echten Markt?",
+        "a": "Nein. Die Fondspreise sind Übungsdaten, die sich in der App einmal am Tag ändern. Je riskanter der Fonds, desto stärker die Schwankungen. Es sind keine echten Finanzprodukte."
+      },
+      {
+        "q": "Warum steigen die Preise?",
+        "a": "Damit Kinder Inflation spüren, steigt euer Familien-Preisindex jede Woche ein wenig. Die Rate änderst du im Elternmodus unter Bank-Einstellungen, mit 0 % schaltest du sie ab. Wenn du die Preise für Snacks und Spielzeug im Familienladen passend etwas anhebst, bleibt die Lektion besser hängen."
+      },
+      {
+        "q": "Wie lösche ich alles?",
+        "a": "Wenn du die App löschst, verschwinden die Daten auf dem Gerät. Für Daten in iCloud gehst du zu Einstellungen > Apple Account > iCloud > Speicher verwalten und löschst dort die Daten der App."
+      },
+      {
+        "q": "Werden Daten meiner Familie irgendwohin gesendet?",
+        "a": "Nein. Es gibt keine Registrierung, alle Daten bleiben auf deinem Gerät und in deinem eigenen iCloud-Account. Der Entwickler bekommt nur Feedback, das du selbst aus dem Elternmodus schickst, sowie anonyme Nutzungsstatistiken und Absturzberichte."
+      },
+      {
+        "q": "Auf welchen Geräten läuft die App?",
+        "a": "Auf dem iPhone mit iOS 17.0 oder neuer."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Eröffnet die Familienbank\nmit dem Taschengeld dieser Woche",
+    "cta": "Kostenlos im App Store laden"
+  },
+  "ui": {
+    "skip": "Zum Inhalt springen",
+    "languages": "Sprache",
+    "privacy": "Datenschutz",
+    "contact": "Fragen, Fehler oder Ideen? Schreib an {email}. Mit Gerätemodell und iOS-Version können wir dir schneller helfen."
+  }
+}

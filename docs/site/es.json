@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Paga: tú eres el banco de casa y tus hijos ahorran e invierten",
+  "description": "Da la paga en la moneda de tu familia: tus hijos pagan, cobran intereses cada semana y prueban fondos de práctica. Todo gratis.",
+  "hero": {
+    "headline": "El día de la paga,\nuna clase de dinero",
+    "lead": "Tú haces de banco central de la familia y tus hijos son los clientes. Reciben la paga en vuestra propia moneda, se compran sus chuches, ven cómo los intereses llegan a su ahorro y viven las subidas y bajadas de un fondo de práctica.",
+    "cta": "Descárgala gratis en el App Store",
+    "note": "Todas las funciones son gratis. Nunca se mueve dinero real."
+  },
+  "demo": {
+    "title": "¿Dónde guardarías 1.000 monedas?",
+    "lead": "Las mismas 1.000 monedas, repartidas en un monedero, una cuenta de ahorro y tres fondos. Avanza semana a semana y mira qué le pasa a cada una. Todo sigue las mismas reglas que la app.",
+    "currency": "monedas",
+    "week": "Semana {n}",
+    "start": "Aún no ha empezado",
+    "next": "Avanzar una semana",
+    "reset": "Volver a empezar",
+    "wallet": "Monedero",
+    "savings": "Ahorro · 5 % semanal, interés compuesto",
+    "funds": ["Fondo Tortuga Seguro", "Acciones Conejo Crecimiento", "Acciones Cohete Aventura"],
+    "power": "Índice de precios {i} · Con 1.000 monedas del monedero ya solo compras lo que antes costaba {p}",
+    "note": "Igual que en la app, los precios de los fondos se mueven al azar, así que cada vez sale distinto. El 5 % de interés y el 2 % de subida de precios semanales son los ajustes iniciales de la app."
+  },
+  "problem": {
+    "title": "«Si lo ahorras, crece». ¿De verdad le llega a un niño?",
+    "text": "Interés, interés compuesto, inflación: cuanto más los explicas, más lejanos suenan. En SukSuk Paga, los niños lo ganan, lo gastan y lo esperan ellos mismos. En cuanto descubren que el ahorro de la semana pasada ha dado intereses, la siguiente paga va directa a la cuenta de ahorro."
+  },
+  "features": [
+    {
+      "title": "La paciencia tiene premio",
+      "text": "El dinero de la cuenta de ahorro gana interés compuesto cada semana. Tú decides el tipo, y un gráfico muestra cuánto habrá en 12 semanas si no lo tocan.\n¿Pasaron unos días sin abrir la app? Al abrirla se pagan de golpe todas las semanas pendientes.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Ver cómo los precios se comen el monedero",
+      "text": "La pestaña Mercado reúne en una pantalla el índice de precios de la familia, la inflación, el tipo de interés, el dinero en circulación y los precios de los fondos. A medida que suben los precios, muestra cuánto menos compran las 1.000 monedas del monedero.\nLos niños ven con números claros que el dinero parado encoge, y que el ahorrado o invertido aguanta.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Diez conversaciones para tener juntos",
+      "text": "La guía para padres te acompaña en diez pasos: para qué sirve el dinero, necesidades y caprichos, coste de oportunidad, ahorro e intereses, interés compuesto, inflación, inversión y riesgo, y cómo hacer un presupuesto.\nUna calculadora de interés compuesto y una de experimento de precios os dejan cambiar los números y ver qué pasa.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Tres pasos para empezar",
+    "items": [
+      {
+        "title": "Ponle nombre a tu moneda",
+        "text": "Judías, Estrellas, Monedas: como queráis llamarla en casa."
+      },
+      {
+        "title": "Elige un PIN de padres",
+        "text": "Cuatro cifras. Solo quien lo conozca puede dar la paga o cambiar los ajustes del banco."
+      },
+      {
+        "title": "Añade a la familia",
+        "text": "Añade a los hijos y a los padres, da la primera paga y listo."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Qué hay en cada sitio",
+    "rows": [
+      ["Panel", "El monedero, el ahorro y las inversiones de todos de un vistazo"],
+      ["Acciones", "Dar o descontar paga, Código de barras, Añadir artículo, Invitar a un hijo, Modo teléfono del hijo, Ajustes del banco (requiere el PIN de padres)"],
+      ["Mercado", "Índice de precios, inflación, tipo de cambio, interés del ahorro, dinero en circulación, precios de los fondos"],
+      ["Historial", "Cada movimiento de dinero por fecha, por miembro o por tipo"],
+      ["Aprender", "Guía para padres en diez pasos, calculadora de interés compuesto, calculadora de experimento de precios"],
+      ["🐢 Fondo Tortuga Seguro", "Pocos vaivenes al día, sube despacio y sin sustos"],
+      ["🐰 Acciones Conejo Crecimiento", "Sube y baja, pero va creciendo"],
+      ["🚀 Acciones Cohete Aventura", "Puede dispararse o desplomarse"]
+    ],
+    "note": "Empieza con un 5 % de interés semanal en el ahorro y un 2 % de inflación semanal. Puedes cambiar ambos en el Modo para padres, en Ajustes del banco. Con la inflación al 0 %, los precios no se mueven."
+  },
+  "pricing": {
+    "title": "Todas las funciones son gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Tu propia moneda familiar y un Modo para padres protegido con PIN",
+        "Dar y descontar paga, la Tienda de casa y pagos con código de barras",
+        "Una cuenta de ahorro con interés compuesto semanal",
+        "Tres fondos de práctica con gráficos de rentabilidad",
+        "La pestaña Mercado y un historial de movimientos por fecha",
+        "La guía para padres en diez pasos y dos calculadoras",
+        "Modo teléfono del hijo y sincronización con iCloud"
+      ]
+    },
+    "pro": {
+      "name": "Apoya al desarrollador",
+      "items": [
+        "Envía una propina de la cantidad que quieras desde Ajustes del banco, en el Modo para padres",
+        "La propina no desbloquea nada. La app funciona igual con o sin ella"
+      ]
+    },
+    "note": "Sin anuncios ni suscripciones. El botón de propina solo está dentro del Modo para padres, así que tus hijos nunca ven un botón de compra."
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Se usa dinero real?",
+        "a": "No. La moneda y todas las operaciones de la app son de mentira, solo para aprender. No hay conexión con ninguna cuenta bancaria, tarjeta ni efectivo."
+      },
+      {
+        "q": "¿Cómo vemos las mismas cuentas en el teléfono de mi hijo?",
+        "a": "Los dispositivos con la misma cuenta de iCloud sincronizan las cuentas familiares automáticamente. Comprueba que iCloud esté activado en Ajustes > Cuenta de Apple > iCloud. En la pestaña Acciones, desde Invitar a un hijo, puedes crear una invitación con código QR para que la escanee con la cámara. Sin iCloud, los datos se quedan solo en ese dispositivo."
+      },
+      {
+        "q": "¿Qué es el Modo teléfono del hijo?",
+        "a": "Convierte el teléfono de tu hijo en una pantalla hecha solo para él. Únicamente ve su monedero, sus inversiones, su historial y las lecciones, y para salir hace falta el PIN de padres."
+      },
+      {
+        "q": "He olvidado el PIN de padres.",
+        "a": "El PIN se guarda solo en el dispositivo, así que ni siquiera el desarrollador puede recuperarlo. Si eliminas y vuelves a instalar la app podrás configurarla de nuevo, pero también se borrarán los datos que tenías."
+      },
+      {
+        "q": "¿Cómo funcionan los intereses del ahorro?",
+        "a": "Cada semana se suma automáticamente interés compuesto al saldo de ahorro. Tú eliges el tipo en el Modo para padres, y las semanas que hayan pasado se liquidan la próxima vez que se abra la app."
+      },
+      {
+        "q": "¿Los precios de los fondos siguen al mercado real?",
+        "a": "No. Son datos de práctica que cambian una vez al día dentro de la app. Cuanto más arriesgado es el fondo, más se mueve. No son productos financieros reales."
+      },
+      {
+        "q": "¿Por qué suben los precios?",
+        "a": "Para que los niños noten la inflación, el índice de precios de la familia sube un poco cada semana. Puedes cambiar el ritmo, o ponerlo al 0 % para desactivarlo, en el Modo para padres, en Ajustes del banco. Si subes también un poco el precio de las chuches y los juguetes de la Tienda de casa, la lección cala mucho más."
+      },
+      {
+        "q": "¿Cómo lo borro todo?",
+        "a": "Al eliminar la app se borran los datos guardados en el dispositivo. Para los datos sincronizados con iCloud, ve a Ajustes > Cuenta de Apple > iCloud > Gestionar almacenamiento y elimina los datos de la app."
+      },
+      {
+        "q": "¿Se envía la información de mi familia a algún sitio?",
+        "a": "No. No hay registro y todos los datos se quedan en tu dispositivo y en tu propia cuenta de iCloud. El desarrollador solo recibe los comentarios que tú mismo envíes desde el Modo para padres, además de estadísticas de uso anónimas e informes de fallos."
+      },
+      {
+        "q": "¿En qué dispositivos funciona?",
+        "a": "En iPhone con iOS 17.0 o posterior."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Abre el banco de casa\ncon la paga de esta semana",
+    "cta": "Descárgala gratis en el App Store"
+  },
+  "ui": {
+    "skip": "Saltar al contenido",
+    "languages": "Idioma",
+    "privacy": "Política de privacidad",
+    "contact": "¿Dudas, fallos o ideas? Escríbenos a {email}. Si nos dices el modelo de tu dispositivo y la versión de iOS, podremos ayudarte antes."
+  }
+}

@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="th">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ซุกซุก ค่าขนม — แอปสอนเรื่องเงินสำหรับทั้งครอบครัว</title>
-  <meta name="description" content="ซุกซุก ค่าขนม แอปที่ให้พ่อแม่เป็นธนาคารของบ้าน ส่วนลูกได้รับค่าขนม ใช้จ่าย ออม และลงทุน เพื่อเรียนรู้เรื่องเศรษฐกิจด้วยตัวเอง">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ซุกซุก ค่าขนม: พ่อแม่เป็นธนาคาร ลูกฝึกออมและลงทุน</title>
+  <meta name="description" content="ให้ค่าขนมเป็นเงินสกุลของบ้านเรา ลูกได้จ่ายเงินเอง รับดอกเบี้ยทุกสัปดาห์ และลองลงทุนในกองทุนจำลอง เพื่อเข้าใจเรื่องเงิน ใช้ได้ฟรีทุกฟีเจอร์">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/th/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,59 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ซุกซุก ค่าขนม: พ่อแม่เป็นธนาคาร ลูกฝึกออมและลงทุน">
+  <meta property="og:description" content="ให้ค่าขนมเป็นเงินสกุลของบ้านเรา ลูกได้จ่ายเงินเอง รับดอกเบี้ยทุกสัปดาห์ และลองลงทุนในกองทุนจำลอง เพื่อเข้าใจเรื่องเงิน ใช้ได้ฟรีทุกฟีเจอร์">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/th/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/th/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th" aria-current="true" style="font-weight:700">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>ซุกซุก ค่าขนม</h1>
-    <p class="sub">แอปค่าขนมของครอบครัวที่ช่วยให้ลูกมีนิสัยการเงินที่ดีเติบโตขึ้นทุกวัน</p>
-    <nav class="top">
-      <a href="index.html">หน้าแรก</a>
-      <a href="support.html">ช่วยเหลือและติดต่อ</a>
-      <a href="privacy.html">นโยบายความเป็นส่วนตัว</a>
-    </nav>
+  <a class="skip" href="#main">ข้ามไปยังเนื้อหา</a>
+  <header class="bar">
+    <a class="brand" href="../th/"><img src="../icon.png" alt="" width="32" height="32">ซุกซุก ค่าขนม</a>
+    <a class="lang-link" href="#languages">ภาษา</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 ซุกซุก ค่าขนม คืออะไร</h2>
-      <p>
-        <strong>ซุกซุก ค่าขนม</strong> คือแอป iOS ที่สอนเด็กๆ เรื่องการเงินและเศรษฐกิจผ่านสกุลเงินของครอบครัวเอง
-        พ่อแม่รับบทเป็นธนาคารกลางที่ออกค่าขนมให้ ส่วนลูกได้ลองจ่ายเงิน ออมเงินเพื่อรับดอกเบี้ย
-        และลงทุนในกองทุนจำลอง ได้เรียนรู้หลักเศรษฐศาสตร์จากการลงมือทำจริง
-      </p>
-      <div class="key">
-        ข้อมูลทั้งหมดจัดเก็บ<strong>ไว้ในอุปกรณ์และบัญชี iCloud ของคุณเท่านั้น</strong>
-        ไม่ต้องสมัครสมาชิก และข้อมูลที่ครอบครัวกรอกจะไม่ถูกส่งไปยังผู้พัฒนา
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>วันให้ค่าขนม<br>คือบทเรียนเรื่องเงิน</h1>
+        <p class="lead">พ่อแม่เป็นธนาคารกลางของบ้าน ลูกๆ เป็นลูกค้า ลูกได้รับค่าขนมเป็นเงินสกุลของบ้านเรา ซื้อขนมเอง เห็นดอกเบี้ยเข้าบัญชีเงินออม และได้ลุ้นไปกับขึ้นลงของกองทุนจำลอง</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">ดาวน์โหลดฟรีบน App Store</a><a class="try" href="#try">ถ้ามี 1,000 เหรียญ จะเก็บไว้ที่ไหนดี ↓</a></div>
+        <p class="muted small">ใช้ได้ฟรีทุกฟีเจอร์ และไม่มีเงินจริงเกี่ยวข้องเลย</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/th/01-dashboard.jpg" alt="วันให้ค่าขนม คือบทเรียนเรื่องเงิน" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ ฟีเจอร์หลัก</h2>
-      <ul>
-        <li><strong>สกุลเงินของบ้านเรา</strong> — ตั้งชื่อเงินได้เอง เช่น ถั่ว ดาว เหรียญ</li>
-        <li><strong>ให้และหักค่าขนม</strong> — จัดการในโหมดผู้ปกครองที่ล็อกด้วย PIN</li>
-        <li><strong>จ่ายเงิน</strong> — ลูกจ่ายค่าขนม เวลาเล่นเกม และอื่นๆ ได้เอง รองรับการจ่ายด้วยบาร์โค้ด</li>
-        <li><strong>ดอกเบี้ยเงินออม</strong> — บัญชีออมทรัพย์ได้รับดอกเบี้ยทบต้นอัตโนมัติทุกสัปดาห์</li>
-        <li><strong>ลองลงทุน</strong> — กองทุนจำลองแบบมั่นคง 🐢 · สมดุล 🐰 · กล้าเสี่ยง 🚀</li>
-        <li><strong>ประวัติรายการ</strong> — ย้อนดูการเคลื่อนไหวของเงินทุกรายการแยกตามวัน</li>
-        <li><strong>ความรู้เศรษฐกิจ</strong> — คู่มือเรื่องเงิน การออม ดอกเบี้ยทบต้น การลงทุน ค่าเสียโอกาส และอื่นๆ</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 ต้องการความช่วยเหลือไหม</h2>
-      <p>หากมีข้อสงสัยหรือพบปัญหาระหว่างใช้งาน แจ้งเราได้ทุกเมื่อ</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5B%E0%B8%8B%E0%B8%B8%E0%B8%81%E0%B8%8B%E0%B8%B8%E0%B8%81%20%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%99%E0%B8%A1%5D%20%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%96%E0%B8%B2%E0%B8%A1">✉️ ติดต่อเรา</a>
-      </p>
-      <p class="muted">ดูคำถามที่พบบ่อยทั้งหมดได้ที่<a href="support.html">หน้าช่วยเหลือ</a></p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>ถ้ามี 1,000 เหรียญ จะเก็บไว้ที่ไหนดี</h2>
+      <p class="muted">เงิน 1,000 เหรียญเท่ากัน วางไว้ในกระเป๋าเงิน บัญชีเงินออม และกองทุนสามกอง ลองกดเลื่อนไปทีละสัปดาห์ แล้วดูว่าแต่ละที่เปลี่ยนไปอย่างไร ทุกอย่างใช้กติกาเดียวกับในแอป</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;ถ้ามี 1,000 เหรียญ จะเก็บไว้ที่ไหนดี&quot;, &quot;lead&quot;: &quot;เงิน 1,000 เหรียญเท่ากัน วางไว้ในกระเป๋าเงิน บัญชีเงินออม และกองทุนสามกอง ลองกดเลื่อนไปทีละสัปดาห์ แล้วดูว่าแต่ละที่เปลี่ยนไปอย่างไร ทุกอย่างใช้กติกาเดียวกับในแอป&quot;, &quot;currency&quot;: &quot;เหรียญ&quot;, &quot;week&quot;: &quot;สัปดาห์ที่ {n}&quot;, &quot;start&quot;: &quot;ยังไม่เริ่ม&quot;, &quot;next&quot;: &quot;ข้ามไปหนึ่งสัปดาห์&quot;, &quot;reset&quot;: &quot;เริ่มใหม่&quot;, &quot;wallet&quot;: &quot;กระเป๋าเงิน&quot;, &quot;savings&quot;: &quot;เงินออม · ดอกเบี้ยทบต้น 5% ต่อสัปดาห์&quot;, &quot;funds&quot;: [&quot;กองทุนเต่ามั่นคง&quot;, &quot;หุ้นกระต่ายเติบโต&quot;, &quot;หุ้นจรวดผจญภัย&quot;], &quot;power&quot;: &quot;ดัชนีราคา {i} · เงิน 1,000 เหรียญในกระเป๋า ตอนนี้ซื้อของได้เท่ากับ {p} เหรียญเมื่อก่อน&quot;, &quot;note&quot;: &quot;ราคากองทุนขึ้นลงแบบสุ่มเหมือนในแอป ผลลัพธ์จึงไม่เหมือนกันสักครั้ง ดอกเบี้ย 5% และราคาสินค้าขึ้น 2% ต่อสัปดาห์ คือค่าเริ่มต้นของแอป&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>"เก็บไว้แล้วเงินจะงอกเงย" เด็กเข้าใจจริงหรือเปล่า</h2>
+      <p>ดอกเบี้ย ดอกเบี้ยทบต้น เงินเฟ้อ ยิ่งอธิบายก็ยิ่งฟังดูไกลตัว ในซุกซุก ค่าขนม ลูกจะได้หาเงิน ใช้เงิน และรอคอยด้วยตัวเอง พอเห็นว่าเงินที่ออมไว้เมื่อสัปดาห์ก่อนมีดอกเบี้ยงอกขึ้นมา ค่าขนมครั้งต่อไปก็จะถูกเก็บเข้าบัญชีเงินออมทันที</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>เห็นผลของความอดทน</h2>
+        <p>เงินในบัญชีเงินออมได้ดอกเบี้ยทบต้นทุกสัปดาห์ พ่อแม่เป็นคนกำหนดอัตราดอกเบี้ย และกราฟจะบอกว่าถ้าไม่แตะเลย อีก 12 สัปดาห์จะเพิ่มเป็นเท่าไร<br>ไม่ได้เปิดแอปหลายวันก็ไม่เป็นไร พอเปิดแอป ดอกเบี้ยทุกสัปดาห์ที่ค้างอยู่จะเข้ามาพร้อมกัน</p>
+      </div>
+      <div class="phone"><img src="../img/th/03-savings.jpg" alt="เห็นผลของความอดทน" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>เห็นว่าราคาของกัดกินเงินในกระเป๋าอย่างไร</h2>
+        <p>แท็บตลาดรวมดัชนีราคาของบ้าน อัตราเงินเฟ้อ อัตราดอกเบี้ย ปริมาณเงิน และราคากองทุนไว้ในหน้าเดียว เมื่อราคาสินค้าสูงขึ้น ก็จะเห็นว่าเงิน 1,000 เหรียญในกระเป๋าซื้อของได้น้อยลงแค่ไหน<br>ลูกจะเห็นเป็นตัวเลขชัดๆ ว่าเงินที่วางไว้เฉยๆ มีค่าลดลง ส่วนเงินที่ออมหรือลงทุนไว้ยังรักษาค่าได้</p>
+      </div>
+      <div class="phone"><img src="../img/th/04-market.jpg" alt="เห็นว่าราคาของกัดกินเงินในกระเป๋าอย่างไร" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>สิบเรื่องที่ควรคุยกันในบ้าน</h2>
+        <p>คู่มือสำหรับพ่อแม่พาไปทีละขั้นทั้งสิบขั้น ตั้งแต่ทำไมเราต้องมีเงิน ของจำเป็นกับของที่อยากได้ ค่าเสียโอกาส การออมและดอกเบี้ย ดอกเบี้ยทบต้น เงินเฟ้อ การลงทุนและความเสี่ยง ไปจนถึงการวางงบประมาณ<br>มีเครื่องคิดดอกเบี้ยทบต้นและเครื่องคิดทดลองราคาสินค้า ให้ลองเปลี่ยนตัวเลขแล้วดูผลไปด้วยกัน</p>
+      </div>
+      <div class="phone"><img src="../img/th/06-learn.jpg" alt="สิบเรื่องที่ควรคุยกันในบ้าน" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>เริ่มได้ใน 3 ขั้นตอน</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>ตั้งชื่อสกุลเงิน</h3><p>ถั่ว ดาว เหรียญ หรือชื่ออะไรก็ได้ที่ครอบครัวชอบ</p></li>
+<li class="card"><span class="n">2</span><h3>ตั้ง PIN ของพ่อแม่</h3><p>ตัวเลข 4 หลัก เฉพาะคนที่รู้ PIN เท่านั้นที่ให้ค่าขนมหรือเปลี่ยนการตั้งค่าธนาคารได้</p></li>
+<li class="card"><span class="n">3</span><h3>เพิ่มสมาชิกในบ้าน</h3><p>เพิ่มลูกๆ และพ่อแม่ ให้ค่าขนมครั้งแรก แล้วก็เริ่มได้เลย</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>อะไรอยู่ตรงไหน</h2>
+      <div class="card table">
+        <dl><div><dt>ภาพรวม</dt><dd>ดูกระเป๋าเงิน เงินออม และเงินลงทุนของทุกคนได้ในหน้าเดียว</dd></div><div><dt>การดำเนินการ</dt><dd>ให้ / หักค่าขนม บาร์โค้ดสินค้า เพิ่มสินค้า ชวนลูก โหมดโทรศัพท์ของลูก ตั้งค่าธนาคาร (ต้องใช้ PIN ของพ่อแม่)</dd></div><div><dt>ตลาด</dt><dd>ดัชนีราคา อัตราเงินเฟ้อ อัตราแลกเปลี่ยน ดอกเบี้ยเงินออม ปริมาณเงิน ราคากองทุน</dd></div><div><dt>ประวัติ</dt><dd>ทุกความเคลื่อนไหวของเงิน แยกตามวันที่ ตามสมาชิก หรือตามประเภท</dd></div><div><dt>เรียนรู้</dt><dd>คู่มือสำหรับพ่อแม่ 10 ขั้น เครื่องคิดดอกเบี้ยทบต้น เครื่องคิดทดลองราคาสินค้า</dd></div><div><dt>🐢 กองทุนเต่ามั่นคง</dt><dd>ขึ้นลงรายวันเพียงเล็กน้อย ค่อยๆ โตอย่างมั่นคง</dd></div><div><dt>🐰 หุ้นกระต่ายเติบโต</dt><dd>มีขึ้นมีลง แต่โตขึ้นเรื่อยๆ</dd></div><div><dt>🚀 หุ้นจรวดผจญภัย</dt><dd>อาจพุ่งสูง หรืออาจดิ่งลงแรง</dd></div></dl>
+      </div>
+      <p class="muted">ค่าเริ่มต้นคือดอกเบี้ยเงินออม 5% และเงินเฟ้อ 2% ต่อสัปดาห์ ปรับได้ทั้งสองอย่างที่ตั้งค่าธนาคารในโหมดพ่อแม่ ถ้าตั้งเงินเฟ้อเป็น 0% ราคาสินค้าจะไม่เปลี่ยน</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>ใช้ได้ฟรีทุกฟีเจอร์</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>ฟรี</h3>
+          <ul><li>สกุลเงินของบ้านเราเอง และโหมดพ่อแม่ที่ล็อกด้วย PIN</li><li>ให้และหักค่าขนม ร้านค้าของบ้านเรา และจ่ายเงินด้วยบาร์โค้ด</li><li>บัญชีเงินออมที่ได้ดอกเบี้ยทบต้นทุกสัปดาห์</li><li>กองทุนจำลองสามกอง พร้อมกราฟผลตอบแทน</li><li>แท็บตลาด และประวัติรายการแยกตามวันที่</li><li>คู่มือสำหรับพ่อแม่ 10 ขั้น และเครื่องคิดเลขสองแบบ</li><li>โหมดโทรศัพท์ของลูก และการซิงค์ผ่าน iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>สนับสนุนผู้พัฒนา</h3>
+          <ul><li>ส่งทิปเล็กๆ จำนวนเท่าไรก็ได้ จากตั้งค่าธนาคารในโหมดพ่อแม่</li><li>ทิปไม่ได้ปลดล็อกอะไรเพิ่ม แอปใช้งานได้เหมือนเดิมทุกอย่าง</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">ไม่มีโฆษณา ไม่มีการสมัครสมาชิก ปุ่มทิปอยู่ในโหมดพ่อแม่เท่านั้น ลูกจึงไม่เคยเห็นปุ่มซื้อเลย</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>คำถามที่พบบ่อย</h2>
+      <div class="faq"><details><summary>ใช้เงินจริงหรือเปล่า</summary><p>ไม่ใช้ สกุลเงินและทุกรายการในแอปเป็นของสมมติเพื่อการเรียนรู้เท่านั้น ไม่ได้เชื่อมกับบัญชีธนาคาร บัตร หรือเงินสดจริงใดๆ</p></details>
+<details><summary>จะดูบัญชีเดียวกันบนโทรศัพท์ของลูกได้อย่างไร</summary><p>อุปกรณ์ที่ลงชื่อเข้าบัญชี iCloud เดียวกันจะซิงค์บัญชีของครอบครัวให้อัตโนมัติ ตรวจดูว่าเปิด iCloud ไว้ที่ การตั้งค่า &gt; บัญชี Apple &gt; iCloud ในแท็บการดำเนินการ เมนูชวนลูก สามารถสร้างคำเชิญแบบคิวอาร์โค้ดให้ลูกสแกนด้วยกล้องได้ ถ้าไม่ใช้ iCloud ข้อมูลจะอยู่แค่ในอุปกรณ์เครื่องนั้น</p></details>
+<details><summary>โหมดโทรศัพท์ของลูกคืออะไร</summary><p>เป็นการเปลี่ยนโทรศัพท์ของลูกให้เป็นหน้าจอสำหรับลูกคนนั้นโดยเฉพาะ ลูกจะเห็นแค่กระเป๋าเงิน เงินลงทุน ประวัติ และบทเรียนของตัวเอง และต้องใช้ PIN ของพ่อแม่จึงจะออกได้</p></details>
+<details><summary>ลืม PIN ของพ่อแม่</summary><p>PIN เก็บไว้ในอุปกรณ์เท่านั้น แม้แต่ผู้พัฒนาก็กู้คืนให้ไม่ได้ ถ้าลบแอปแล้วติดตั้งใหม่ จะตั้งค่าใหม่ได้ตั้งแต่ต้น แต่ข้อมูลเดิมก็จะถูกลบไปด้วย</p></details>
+<details><summary>ดอกเบี้ยเงินออมคิดอย่างไร</summary><p>ทุกสัปดาห์ ดอกเบี้ยทบต้นจะเพิ่มเข้ายอดเงินออมโดยอัตโนมัติ พ่อแม่กำหนดอัตราได้ในโหมดพ่อแม่ และสัปดาห์ที่ผ่านไปแล้วจะถูกคิดรวมให้ตอนเปิดแอปครั้งถัดไป</p></details>
+<details><summary>ราคากองทุนอิงกับตลาดจริงไหม</summary><p>ไม่อิง ราคากองทุนเป็นข้อมูลจำลองสำหรับฝึก ที่เปลี่ยนวันละครั้งในแอป กองทุนยิ่งเสี่ยงก็ยิ่งขึ้นลงแรง และไม่ใช่ผลิตภัณฑ์การเงินจริง</p></details>
+<details><summary>ทำไมราคาสินค้าถึงขึ้น</summary><p>เพื่อให้ลูกรู้สึกถึงเงินเฟ้อ ดัชนีราคาของบ้านจะขึ้นทีละนิดทุกสัปดาห์ ปรับอัตราหรือตั้งเป็น 0% เพื่อปิดได้ที่ตั้งค่าธนาคารในโหมดพ่อแม่ ถ้าขึ้นราคาขนมและของเล่นในร้านค้าของบ้านเราตามไปด้วยนิดหน่อย บทเรียนจะยิ่งติดใจ</p></details>
+<details><summary>ลบข้อมูลทั้งหมดได้อย่างไร</summary><p>การลบแอปจะลบข้อมูลที่เก็บไว้ในอุปกรณ์ ส่วนข้อมูลที่ซิงค์ไว้ใน iCloud ให้ไปที่ การตั้งค่า &gt; บัญชี Apple &gt; iCloud &gt; จัดการพื้นที่จัดเก็บ แล้วลบข้อมูลของแอปนี้</p></details>
+<details><summary>ข้อมูลของครอบครัวถูกส่งไปที่ไหนหรือเปล่า</summary><p>ไม่ถูกส่ง ไม่ต้องสมัครสมาชิก และข้อมูลทั้งหมดอยู่ในอุปกรณ์ของคุณกับบัญชี iCloud ของคุณเองเท่านั้น ผู้พัฒนาได้รับเพียงความคิดเห็นที่คุณส่งเองจากโหมดพ่อแม่ สถิติการใช้งานแบบไม่ระบุตัวตน และรายงานแอปขัดข้อง</p></details>
+<details><summary>ใช้กับอุปกรณ์อะไรได้บ้าง</summary><p>iPhone ที่ใช้ iOS 17.0 ขึ้นไป</p></details></div>
+      <p class="contact">มีคำถาม เจอปัญหา หรือมีไอเดีย เขียนมาได้ที่ <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> ถ้าบอกรุ่นอุปกรณ์และเวอร์ชัน iOS มาด้วย เราจะช่วยได้เร็วขึ้น</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>เปิดธนาคารของบ้าน<br>ด้วยค่าขนมสัปดาห์นี้</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">ดาวน์โหลดฟรีบน App Store</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 ซุกซุก ค่าขนม · <a href="privacy.html">นโยบายความเป็นส่วนตัว</a> · <a href="support.html">ช่วยเหลือ</a></p>
+    <nav id="languages" class="langs" aria-label="ภาษา"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th" aria-current="page">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">นโยบายความเป็นส่วนตัว</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

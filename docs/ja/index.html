@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>スクスクお小遣い — 家族で学ぶお金の教育アプリ</title>
-  <meta name="description" content="親が「銀行」になり、子どもはお小遣いを貯めたり、支払ったり、貯金や投資をしたりしながらお金のしくみを学べる家族向けアプリ、スクスクお小遣い。">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>スクスクお小遣い：親が銀行になって、子どもは貯金と投資を体験</title>
+  <meta name="description" content="わが家だけの通貨でお小遣いを渡し、子どもが自分で支払い、貯金の利息を受け取り、練習用ファンドに投資しながらお金のしくみを学べます。全機能無料。">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,59 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="スクスクお小遣い：親が銀行になって、子どもは貯金と投資を体験">
+  <meta property="og:description" content="わが家だけの通貨でお小遣いを渡し、子どもが自分で支払い、貯金の利息を受け取り、練習用ファンドに投資しながらお金のしくみを学べます。全機能無料。">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/ja/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/ja/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja" aria-current="true" style="font-weight:700">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>スクスクお小遣い</h1>
-    <p class="sub">子どものお金の習慣がスクスク育つ、家族のお小遣いアプリ</p>
-    <nav class="top">
-      <a href="index.html">ホーム</a>
-      <a href="support.html">サポート・お問い合わせ</a>
-      <a href="privacy.html">プライバシーポリシー</a>
-    </nav>
+  <a class="skip" href="#main">本文へスキップ</a>
+  <header class="bar">
+    <a class="brand" href="../ja/"><img src="../icon.png" alt="" width="32" height="32">スクスクお小遣い</a>
+    <a class="lang-link" href="#languages">言語</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 スクスクお小遣いとは？</h2>
-      <p>
-        <strong>スクスクお小遣い</strong>は、家族の中だけで使う通貨を通して、子どもにお金と経済を
-        教えるiOSアプリです。親は中央銀行となってお小遣いを発行し、子どもは支払いをしたり、
-        貯金して利息を受け取ったり、模擬ファンドに投資したりしながら、経済のしくみを体験して学びます。
-      </p>
-      <div class="key">
-        データはすべて<strong>お使いのデバイスとご自身のiCloudアカウントの中だけ</strong>に保存されます。
-        会員登録は不要で、ご家族が入力した情報が開発者に送られることはありません。
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>お小遣いの日が<br>お金の授業になる</h1>
+        <p class="lead">親は家族の中央銀行、子どもはそのお客さん。わが家の通貨でお小遣いを受け取り、おやつを買い、貯金に利息がつくのを見て、練習用ファンドの値動きにドキドキします。</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">App Storeで無料ダウンロード</a><a class="try" href="#try">1,000コイン、どこに置いておく？ ↓</a></div>
+        <p class="muted small">全機能無料。本物のお金は一切動きません。</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/ja/01-dashboard.jpg" alt="お小遣いの日が お金の授業になる" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ おもな機能</h2>
-      <ul>
-        <li><strong>わが家の通貨</strong> — 「マメ」「ホシ」「コイン」など、通貨の名前を自由に決められます</li>
-        <li><strong>お小遣いの支給・差し引き</strong> — 保護者モード（PINで保護）で管理</li>
-        <li><strong>支払い</strong> — おやつやゲーム時間などを子どもが自分で支払い。バーコード決済にも対応</li>
-        <li><strong>貯金の利息</strong> — 貯金口座に毎週、複利の利息が自動でつきます</li>
-        <li><strong>投資体験</strong> — 安定型 🐢 ・ バランス型 🐰 ・ チャレンジ型 🚀 の模擬ファンド</li>
-        <li><strong>取引の記録</strong> — お金の流れを日付ごとにふり返れます</li>
-        <li><strong>お金の学び</strong> — 通貨・貯金・複利・投資・機会費用などをやさしく解説</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 お困りですか？</h2>
-      <p>使い方でわからないことや不具合があれば、いつでもお気軽にお知らせください。</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5B%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%AF%E3%81%8A%E5%B0%8F%E9%81%A3%E3%81%84%5D%20%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B">✉️ お問い合わせ</a>
-      </p>
-      <p class="muted">よくある質問は<a href="support.html">サポートページ</a>でご確認いただけます。</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>1,000コイン、どこに置いておく？</h2>
+      <p class="muted">同じ1,000コインを、おさいふ、貯金、3つのファンドに分けて置いてみました。1週間ずつ進めて、それぞれがどう変わるか見てみましょう。ルールはアプリとまったく同じです。</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;1,000コイン、どこに置いておく？&quot;, &quot;lead&quot;: &quot;同じ1,000コインを、おさいふ、貯金、3つのファンドに分けて置いてみました。1週間ずつ進めて、それぞれがどう変わるか見てみましょう。ルールはアプリとまったく同じです。&quot;, &quot;currency&quot;: &quot;コイン&quot;, &quot;week&quot;: &quot;{n}週目&quot;, &quot;start&quot;: &quot;まだ始まっていません&quot;, &quot;next&quot;: &quot;1週間進める&quot;, &quot;reset&quot;: &quot;最初から&quot;, &quot;wallet&quot;: &quot;おさいふ&quot;, &quot;savings&quot;: &quot;貯金 · 週5%の複利&quot;, &quot;funds&quot;: [&quot;カメの安定ファンド&quot;, &quot;ウサギの成長株&quot;, &quot;ロケットの冒険株&quot;], &quot;power&quot;: &quot;物価指数 {i} · おさいふの1,000コインで、いまは以前の{p}コイン分しか買えません&quot;, &quot;note&quot;: &quot;ファンドの値段はアプリと同じようにランダムに動くので、毎回ちがう結果になります。週5%の利息と週2%の物価上昇は、アプリの初期設定です。&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>「貯金すると増えるよ」、子どもに本当に伝わっていますか？</h2>
+      <p>利息、複利、インフレ。言葉で説明するほど、子どもには遠い話になっていきます。スクスクお小遣いでは、子どもが自分で稼いで、使って、待ってみます。先週の貯金に利息がついているのを見つけたら、次のお小遣いは自分から貯金にまわすようになります。</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>待つほど増えるのが見える</h2>
+        <p>貯金に入れたお金には、毎週複利で利息がつきます。利率は親が決められ、このまま置いておくと12週間後にいくらになるかをグラフで見せてくれます。<br>何日かアプリを開かなくても大丈夫。次に開いたとき、たまった週の分がまとめて入ります。</p>
+      </div>
+      <div class="phone"><img src="../img/ja/03-savings.jpg" alt="待つほど増えるのが見える" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>物価が上がると、おさいふが目減りする</h2>
+        <p>マーケットタブでは、わが家の物価指数、インフレ率、金利、お金の量、ファンドの値段がひと目でわかります。物価が上がるにつれて、おさいふの1,000コインで買えるものがどれだけ減ったかも表示されます。<br>置きっぱなしのお金は目減りし、貯金や投資にまわしたお金は守られる。それを数字で実感できます。</p>
+      </div>
+      <div class="phone"><img src="../img/ja/04-market.jpg" alt="物価が上がると、おさいふが目減りする" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>親子で話したい10のテーマ</h2>
+        <p>保護者ガイドが、お金はなぜ必要かから始まり、必要なものと欲しいもの、機会費用、貯金と利息、複利、インフレ、投資とリスク、予算づくりまで10のステップで案内します。<br>複利計算機と物価の実験計算機で、数字を変えて結果を一緒に確かめられます。</p>
+      </div>
+      <div class="phone"><img src="../img/ja/06-learn.jpg" alt="親子で話したい10のテーマ" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>始めるのは3ステップ</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>通貨の名前を決める</h3><p>マメ、ホシ、コインなど、家族で好きな名前をつけましょう。</p></li>
+<li class="card"><span class="n">2</span><h3>保護者のPINを決める</h3><p>4けたの数字です。これを知っている人だけが、お小遣いを渡したり銀行の設定を変えたりできます。</p></li>
+<li class="card"><span class="n">3</span><h3>家族を登録する</h3><p>子どもと保護者を追加して、最初のお小遣いを渡せば準備完了です。</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>どこに何がある？</h2>
+      <div class="card table">
+        <dl><div><dt>ダッシュボード</dt><dd>家族みんなのおさいふ、貯金、投資をひと目で</dd></div><div><dt>アクション</dt><dd>お小遣いを渡す・引く、商品バーコード、商品を追加、子どもを招待、子どものスマホモード、銀行の設定（保護者のPINが必要）</dd></div><div><dt>マーケット</dt><dd>物価指数、インフレ率、為替レート、貯金の利率、お金の量、ファンドの値段</dd></div><div><dt>きろく</dt><dd>お金の動きを日付別、メンバー別、種類別にすべて確認</dd></div><div><dt>まなぶ</dt><dd>10ステップの保護者ガイド、複利計算機、物価の実験計算機</dd></div><div><dt>🐢 カメの安定ファンド</dt><dd>毎日の値動きは小さく、ゆっくり着実に上がる</dd></div><div><dt>🐰 ウサギの成長株</dt><dd>上がったり下がったりしながら成長する</dd></div><div><dt>🚀 ロケットの冒険株</dt><dd>大きく上がることも、大きく下がることも</dd></div></dl>
+      </div>
+      <p class="muted">初期設定は貯金の利率が週5%、インフレ率が週2%です。どちらも保護者モードの銀行の設定で変えられます。インフレ率を0%にすると物価は変わりません。</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>全機能無料</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>無料</h3>
+          <ul><li>わが家だけの通貨と、PINでロックされた保護者モード</li><li>お小遣いを渡す・引く、わが家のおみせ、バーコード払い</li><li>毎週複利で利息がつく貯金</li><li>収益グラフつきの練習用ファンド3種類</li><li>マーケットタブと、日付ごとの取引のきろく</li><li>10ステップの保護者ガイドと2つの計算機</li><li>子どものスマホモードとiCloud同期</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>開発者を応援する</h3>
+          <ul><li>保護者モードの銀行の設定から、好きな金額のチップを送れます</li><li>チップで解放される機能はありません。送っても送らなくてもアプリは同じです</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">広告も定期購入もありません。チップのボタンは保護者モードの中にしかないので、子どもが購入ボタンを目にすることはありません。</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>よくある質問</h2>
+      <div class="faq"><details><summary>本物のお金を使いますか？</summary><p>いいえ。アプリ内の通貨とやりとりはすべて学習用の仮のものです。実際の銀行口座、カード、現金とはつながっていません。</p></details>
+<details><summary>子どものiPhoneでも同じ家計簿を見るには？</summary><p>同じiCloudアカウントでサインインしている端末同士なら、家族の記録が自動で同期されます。設定 &gt; Apple アカウント &gt; iCloud でiCloudがオンになっているか確認してください。アクションタブの「子どもを招待」から、子どものカメラで読み取れるQRコードの招待状を作れます。iCloudを使わない場合、データはその端末の中だけに保存されます。</p></details>
+<details><summary>子どものスマホモードとは？</summary><p>子どものiPhoneを、その子専用の画面に切り替える機能です。自分のおさいふ、投資、きろく、学習だけが表示され、解除するには保護者のPINが必要です。</p></details>
+<details><summary>保護者のPINを忘れてしまいました。</summary><p>PINは端末の中にだけ保存されているため、開発者にも復元できません。アプリを削除して入れ直すと最初から設定し直せますが、それまでのデータも消えてしまいます。</p></details>
+<details><summary>貯金の利息はどうやってつきますか？</summary><p>毎週、貯金の残高に複利で利息が自動で加わります。利率は保護者モードで決められ、アプリを開いていなかった週の分は、次に開いたときにまとめて精算されます。</p></details>
+<details><summary>ファンドの値段は本物の市場と連動していますか？</summary><p>いいえ。ファンドの値段はアプリの中で1日1回変わる練習用のデータです。リスクの高いファンドほど値動きが大きくなります。実在する金融商品ではありません。</p></details>
+<details><summary>どうして物価が上がるの？</summary><p>子どもがインフレを体感できるように、わが家の物価指数が毎週少しずつ上がります。上がる割合は保護者モードの銀行の設定で変えられ、0%にすれば止まります。わが家のおみせのおやつやおもちゃの値段もそれに合わせて少し上げると、学びがぐっと深まります。</p></details>
+<details><summary>データをすべて消すには？</summary><p>アプリを削除すると、端末に保存されたデータは消えます。iCloudに同期されたデータは、設定 &gt; Apple アカウント &gt; iCloud &gt; ストレージを管理 からこのアプリのデータを削除してください。</p></details>
+<details><summary>家族の情報がどこかに送られることは？</summary><p>ありません。会員登録は不要で、データはすべてお使いの端末とご自身のiCloudアカウントの中だけに保存されます。開発者に届くのは、保護者モードからご自身で送ったフィードバックと、匿名の利用統計、クラッシュレポートだけです。</p></details>
+<details><summary>対応している端末は？</summary><p>iOS 17.0以降のiPhoneで使えます。</p></details></div>
+      <p class="contact">ご質問、不具合、ご提案は <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> までお寄せください。お使いの端末の機種とiOSのバージョンを書き添えていただくと、より早くお手伝いできます。</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>今週のお小遣いから<br>わが家の銀行を開こう</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">App Storeで無料ダウンロード</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 スクスクお小遣い · <a href="privacy.html">プライバシーポリシー</a> · <a href="support.html">サポート</a></p>
+    <nav id="languages" class="langs" aria-label="言語"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja" aria-current="page">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">プライバシーポリシー</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

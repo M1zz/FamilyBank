@@ -1,0 +1,162 @@
+{
+  "name": {
+    "cs": "SukSuk Kapesné",
+    "da": "SukSuk Lommepenge",
+    "de": "SukSuk Taschengeld",
+    "el": "SukSuk Χαρτζιλίκι",
+    "en": "SukSuk Allowance",
+    "es": "SukSuk Paga",
+    "fi": "SukSuk Viikkoraha",
+    "fr": "SukSuk Argent de poche",
+    "id": "SukSuk Uang Saku",
+    "it": "SukSuk Paghetta",
+    "ja": "スクスクお小遣い",
+    "ko": "쑥쑥용돈",
+    "nb": "SukSuk Lommepenger",
+    "nl": "SukSuk Zakgeld",
+    "pl": "SukSuk Kieszonkowe",
+    "pt-BR": "SukSuk Mesada",
+    "ru": "СукСук Карманные",
+    "sv": "SukSuk Fickpengar",
+    "th": "ซุกซุก ค่าขนม",
+    "tr": "SukSuk Harçlık",
+    "vi": "SukSuk Tiền Tiêu Vặt",
+    "zh-Hans": "茁壮零花钱",
+    "zh-Hant": "茁壯零用錢"
+  },
+  "url": "https://m1zz.github.io/FamilyBank/",
+  "appStoreId": "6790130891",
+  "email": "leeo@kakao.com",
+  "copyright": "SukSuk Allowance",
+  "year": 2026,
+  "color": {
+    "light": "#1B7F50",
+    "dark": "#4CC38A",
+    "darkBg": "#0b0f0d"
+  },
+  "shots": [
+    "01-dashboard",
+    "03-savings",
+    "04-market",
+    "06-learn"
+  ],
+  "shotsFallback": "en",
+  "locales": [
+    {
+      "code": "ko",
+      "path": "",
+      "name": "한국어"
+    },
+    {
+      "code": "en",
+      "path": "en/",
+      "name": "English",
+      "shots": "en"
+    },
+    {
+      "code": "ja",
+      "path": "ja/",
+      "name": "日本語"
+    },
+    {
+      "code": "zh-Hans",
+      "path": "zh-Hans/",
+      "name": "简体中文"
+    },
+    {
+      "code": "zh-Hant",
+      "path": "zh-Hant/",
+      "name": "繁體中文"
+    },
+    {
+      "code": "es",
+      "path": "es/",
+      "name": "Español"
+    },
+    {
+      "code": "de",
+      "path": "de/",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "path": "fr/",
+      "name": "Français"
+    },
+    {
+      "code": "it",
+      "path": "it/",
+      "name": "Italiano"
+    },
+    {
+      "code": "pt-BR",
+      "path": "pt-BR/",
+      "name": "Português (Brasil)"
+    },
+    {
+      "code": "ru",
+      "path": "ru/",
+      "name": "Русский"
+    },
+    {
+      "code": "th",
+      "path": "th/",
+      "name": "ไทย"
+    },
+    {
+      "code": "vi",
+      "path": "vi/",
+      "name": "Tiếng Việt"
+    },
+    {
+      "code": "cs",
+      "path": "cs/",
+      "name": "Čeština"
+    },
+    {
+      "code": "da",
+      "path": "da/",
+      "name": "Dansk"
+    },
+    {
+      "code": "el",
+      "path": "el/",
+      "name": "Ελληνικά"
+    },
+    {
+      "code": "fi",
+      "path": "fi/",
+      "name": "Suomi"
+    },
+    {
+      "code": "id",
+      "path": "id/",
+      "name": "Bahasa Indonesia"
+    },
+    {
+      "code": "nb",
+      "path": "nb/",
+      "name": "Norsk bokmål"
+    },
+    {
+      "code": "nl",
+      "path": "nl/",
+      "name": "Nederlands"
+    },
+    {
+      "code": "pl",
+      "path": "pl/",
+      "name": "Polski"
+    },
+    {
+      "code": "sv",
+      "path": "sv/",
+      "name": "Svenska"
+    },
+    {
+      "code": "tr",
+      "path": "tr/",
+      "name": "Türkçe"
+    }
+  ]
+}

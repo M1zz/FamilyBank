@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Viikkoraha — perheen talouskasvatussovellus</title>
-  <meta name="description" content="SukSuk Viikkoraha on perheen talouskasvatussovellus: vanhemmista tulee pankki, ja lapset keräävät viikkorahaa, maksavat, säästävät ja sijoittavat ja oppivat samalla, miten raha toimii.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Viikkoraha: vanhemmat pankkina, lapset säästävät ja sijoittavat</title>
+  <meta name="description" content="Anna viikkoraha perheen omana valuuttana. Lapset maksavat itse, saavat korkoa viikoittain ja kokeilevat harjoitusrahastoja. Kaikki ilmaista.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/fi/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,60 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Viikkoraha: vanhemmat pankkina, lapset säästävät ja sijoittavat">
+  <meta property="og:description" content="Anna viikkoraha perheen omana valuuttana. Lapset maksavat itse, saavat korkoa viikoittain ja kokeilevat harjoitusrahastoja. Kaikki ilmaista.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/fi/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/fi/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi" aria-current="true" style="font-weight:700">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Viikkoraha</h1>
-    <p class="sub">Perheen viikkorahasovellus, jonka avulla lapsen rahataidot kasvavat</p>
-    <nav class="top">
-      <a href="index.html">Etusivu</a>
-      <a href="support.html">Tuki ja yhteystiedot</a>
-      <a href="privacy.html">Tietosuojaseloste</a>
-    </nav>
+  <a class="skip" href="#main">Siirry sisältöön</a>
+  <header class="bar">
+    <a class="brand" href="../fi/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Viikkoraha</a>
+    <a class="lang-link" href="#languages">Kieli</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 Mikä on SukSuk Viikkoraha?</h2>
-      <p>
-        <strong>SukSuk Viikkoraha</strong> on iOS-sovellus, joka opettaa lapselle rahaa ja taloutta
-        perheen oman valuutan avulla. Vanhemmat toimivat keskuspankkina ja maksavat viikkorahaa, ja lapset
-        maksavat ostoksia, säästävät ja saavat korkoa sekä sijoittavat harjoitusrahastoihin ja oppivat näin
-        talouden perusasiat käytännössä.
-      </p>
-      <div class="key">
-        Kaikki tiedot tallennetaan <strong>vain omaan laitteeseesi ja omalle iCloud-tilillesi</strong>.
-        Rekisteröitymistä ei tarvita, eikä perheen syöttämiä tietoja lähetetä kehittäjälle.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Viikkorahapäivästä<br>tulee rahatunti</h1>
+        <p class="lead">Sinä olet perheen keskuspankki ja lapset ovat asiakkaita. He saavat viikkorahansa teidän omana valuuttananne, ostavat herkkuja, näkevät koron kertyvän säästöihin ja elävät mukana harjoitusrahaston nousuissa ja laskuissa.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Lataa ilmaiseksi App Storesta</a><a class="try" href="#try">Mihin laittaisit 1 000 kolikkoa? ↓</a></div>
+        <p class="muted small">Kaikki ominaisuudet ovat ilmaisia. Oikeaa rahaa ei liiku koskaan.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/fi/01-dashboard.jpg" alt="Viikkorahapäivästä tulee rahatunti" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Tärkeimmät ominaisuudet</h2>
-      <ul>
-        <li><strong>Perheen oma valuutta</strong> — nimeä valuutta itse, esimerkiksi Papuja, Tähtiä tai Kolikoita</li>
-        <li><strong>Viikkorahan maksaminen ja vähentäminen</strong> — hallinta PIN-koodilla suojatussa vanhempien tilassa</li>
-        <li><strong>Maksut</strong> — lapsi maksaa itse herkuista, peliajasta ja muusta, myös viivakoodilla</li>
-        <li><strong>Säästökorko</strong> — säästötilille lisätään automaattisesti korkoa korolle joka viikko</li>
-        <li><strong>Sijoittamisen harjoittelu</strong> — harjoitusrahastot Varovainen 🐢 · Tasapainoinen 🐰 · Rohkea 🚀</li>
-        <li><strong>Tapahtumahistoria</strong> — katso kaikki rahan liikkeet päivämäärän mukaan</li>
-        <li><strong>Talouskasvatus</strong> — opas käsitteisiin kuten raha, säästäminen, korkoa korolle, sijoittaminen ja vaihtoehtoiskustannus</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Tarvitsetko apua?</h2>
-      <p>Jos jokin mietityttää tai huomaat virheen, kerro siitä meille milloin tahansa.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Viikkoraha%5D%20Yhteydenotto">✉️ Ota yhteyttä</a>
-      </p>
-      <p class="muted">Usein kysytyt kysymykset löydät <a href="support.html">tukisivulta</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Mihin laittaisit 1 000 kolikkoa?</h2>
+      <p class="muted">Samat 1 000 kolikkoa ovat lompakossa, säästötilillä ja kolmessa rahastossa. Siirry viikko kerrallaan eteenpäin ja katso, mitä kullekin tapahtuu. Säännöt ovat samat kuin sovelluksessa.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Mihin laittaisit 1 000 kolikkoa?&quot;, &quot;lead&quot;: &quot;Samat 1 000 kolikkoa ovat lompakossa, säästötilillä ja kolmessa rahastossa. Siirry viikko kerrallaan eteenpäin ja katso, mitä kullekin tapahtuu. Säännöt ovat samat kuin sovelluksessa.&quot;, &quot;currency&quot;: &quot;kolikkoa&quot;, &quot;week&quot;: &quot;Viikko {n}&quot;, &quot;start&quot;: &quot;Ei vielä aloitettu&quot;, &quot;next&quot;: &quot;Viikko eteenpäin&quot;, &quot;reset&quot;: &quot;Aloita alusta&quot;, &quot;wallet&quot;: &quot;Lompakko&quot;, &quot;savings&quot;: &quot;Säästöt · 5 % viikossa, korkoa korolle&quot;, &quot;funds&quot;: [&quot;Kilpikonnan vakaa rahasto&quot;, &quot;Jäniksen kasvuosake&quot;, &quot;Raketin seikkailuosake&quot;], &quot;power&quot;: &quot;Hintaindeksi {i} · lompakon 1 000 kolikolla saa nyt vain sen, minkä ennen sai {p} kolikolla&quot;, &quot;note&quot;: &quot;Kuten sovelluksessa, rahastojen hinnat vaihtelevat sattumanvaraisesti, joten joka kerta käy eri tavalla. 5 %:n korko ja 2 %:n hinnannousu viikossa ovat sovelluksen alkuasetukset.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>”Säästä, niin se kasvaa.” Meneekö se lapselle oikeasti perille?</h2>
+      <p>Korko, korkoa korolle, inflaatio: mitä enemmän selittää, sitä kaukaisemmalta se kuulostaa. SukSuk Viikkorahassa lapset ansaitsevat, kuluttavat ja odottavat itse. Kun he huomaavat viime viikon säästöille kertyneen korkoa, seuraava viikkoraha menee suoraan säästötilille.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Kärsivällisyys näkyy</h2>
+        <p>Säästötilillä olevalle rahalle kertyy joka viikko korkoa korolle. Sinä päätät koron, ja kaavio näyttää, paljonko summa on 12 viikon päästä, jos siihen ei kosketa.<br>Sovellus jäi muutamaksi päiväksi avaamatta? Avattaessa kaikki rästissä olevat viikot maksetaan kerralla.</p>
+      </div>
+      <div class="phone"><img src="../img/fi/03-savings.jpg" alt="Kärsivällisyys näkyy" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Näe, miten hinnat syövät lompakkoa</h2>
+        <p>Markkina-välilehti kokoaa perheen hintaindeksin, inflaation, koron, rahamäärän ja rahastojen hinnat yhdelle näytölle. Hintojen noustessa näkee, kuinka paljon vähemmän lompakon 1 000 kolikolla saa.<br>Lapset näkevät selvistä luvuista, että makaava raha kutistuu ja säästetty tai sijoitettu raha pitää arvonsa.</p>
+      </div>
+      <div class="phone"><img src="../img/fi/04-market.jpg" alt="Näe, miten hinnat syövät lompakkoa" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Kymmenen keskustelua yhdessä</h2>
+        <p>Opas vanhemmille kulkee kymmenessä vaiheessa: miksi tarvitsemme rahaa, tarpeet ja halut, vaihtoehtoiskustannus, säästäminen ja korko, korkoa korolle, inflaatio, sijoittaminen ja riski sekä lopuksi oma budjetti.<br>Korkoa korolle -laskuri ja hintakokeilulaskuri antavat muuttaa lukuja ja katsoa, mitä tapahtuu.</p>
+      </div>
+      <div class="phone"><img src="../img/fi/06-learn.jpg" alt="Kymmenen keskustelua yhdessä" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Alkuun kolmessa vaiheessa</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Nimeä valuutta</h3><p>Pavut, Tähdet, Kolikot, ihan miksi perhe haluaa sitä kutsua.</p></li>
+<li class="card"><span class="n">2</span><h3>Aseta vanhemman PIN</h3><p>Neljä numeroa. Vain sen tietävä voi antaa viikkorahaa tai muuttaa pankin asetuksia.</p></li>
+<li class="card"><span class="n">3</span><h3>Lisää perhe</h3><p>Lisää lapset ja vanhemmat, anna ensimmäinen viikkoraha, ja homma käyntiin.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Mitä löytyy mistäkin</h2>
+      <div class="card table">
+        <dl><div><dt>Yleiskatsaus</dt><dd>Kaikkien lompakot, säästöt ja sijoitukset yhdellä silmäyksellä</dd></div><div><dt>Toiminnot</dt><dd>Anna tai vähennä viikkorahaa, Tuotteen viivakoodi, Lisää tuote, Kutsu lapsi, Lapsen puhelimen tila, Pankin asetukset (vaatii vanhemman PIN-koodin)</dd></div><div><dt>Markkina</dt><dd>Hintaindeksi, inflaatio, valuuttakurssi, säästökorko, rahamäärä, rahastojen hinnat</dd></div><div><dt>Historia</dt><dd>Jokainen rahaliike päivän, jäsenen tai tyypin mukaan</dd></div><div><dt>Opi</dt><dd>Kymmenvaiheinen opas vanhemmille, korkoa korolle -laskuri, hintakokeilulaskuri</dd></div><div><dt>🐢 Kilpikonnan vakaa rahasto</dt><dd>Pienet päivittäiset heilahdukset, hidas ja tasainen nousu</dd></div><div><dt>🐰 Jäniksen kasvuosake</dt><dd>Ylös ja alas, mutta kasvaa</dd></div><div><dt>🚀 Raketin seikkailuosake</dt><dd>Voi nousta taivaisiin tai syöksyä alas</dd></div></dl>
+      </div>
+      <p class="muted">Alussa säästökorko on 5 % ja inflaatio 2 % viikossa. Molempia voi muuttaa Vanhempaintilassa kohdassa Pankin asetukset. Kun inflaatio on 0 %, hinnat pysyvät ennallaan.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Kaikki ominaisuudet ilmaisia</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Ilmainen</h3>
+          <ul><li>Perheen oma valuutta ja PIN-koodilla lukittu Vanhempaintila</li><li>Viikkorahan antaminen ja vähentäminen, Kotikauppa ja viivakoodimaksut</li><li>Säästötili, jolle kertyy viikoittain korkoa korolle</li><li>Kolme harjoitusrahastoa tuottokaavioineen</li><li>Markkina-välilehti ja päivätty tapahtumahistoria</li><li>Kymmenvaiheinen opas vanhemmille ja kaksi laskuria</li><li>Lapsen puhelimen tila ja iCloud-synkronointi</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Tue kehittäjää</h3>
+          <ul><li>Lähetä haluamasi kokoinen tippi Vanhempaintilan kohdasta Pankin asetukset</li><li>Tippi ei avaa mitään. Sovellus toimii täsmälleen samoin</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Ei mainoksia, ei tilausta. Tippipainike on vain Vanhempaintilassa, joten lapset eivät koskaan näe ostopainiketta.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Kysymyksiä</h2>
+      <div class="faq"><details><summary>Liikkuuko oikeaa rahaa?</summary><p>Ei. Sovelluksen valuutta ja kaikki tapahtumat ovat leikkiä ja vain oppimista varten. Mikään ei ole yhteydessä oikeaan pankkitiliin, korttiin tai käteiseen.</p></details>
+<details><summary>Miten näemme samat tilit lapsen puhelimessa?</summary><p>Samalla iCloud-tilillä kirjautuneet laitteet synkronoivat perheen tilit automaattisesti. Tarkista, että iCloud on päällä kohdassa Asetukset &gt; Apple-tili &gt; iCloud. Toiminnot-välilehden kohdassa Kutsu lapsi voit luoda QR-kutsun, jonka lapsi skannaa kameralla. Ilman iCloudia tiedot pysyvät vain siinä yhdessä laitteessa.</p></details>
+<details><summary>Mikä on Lapsen puhelimen tila?</summary><p>Se tekee lapsen puhelimesta näkymän, joka on vain häntä varten. Lapsi näkee vain oman lompakkonsa, sijoituksensa, historiansa ja oppitunnit, ja tilasta poistuminen vaatii vanhemman PIN-koodin.</p></details>
+<details><summary>Unohdin vanhemman PIN-koodin.</summary><p>PIN tallennetaan vain laitteeseen, joten edes kehittäjä ei voi palauttaa sitä. Kun poistat sovelluksen ja asennat sen uudelleen, voit tehdä käyttöönoton alusta, mutta samalla myös nykyiset tiedot poistuvat.</p></details>
+<details><summary>Miten säästökorko toimii?</summary><p>Joka viikko säästöjen saldoon lisätään automaattisesti korkoa korolle. Koron asetat Vanhempaintilassa, ja kuluneet viikot tasataan, kun sovellus avataan seuraavan kerran.</p></details>
+<details><summary>Seuraavatko rahastojen hinnat oikeita markkinoita?</summary><p>Eivät. Ne ovat harjoitusdataa, joka muuttuu sovelluksessa kerran päivässä. Mitä riskisempi rahasto, sitä suuremmat heilahdukset. Ne eivät ole oikeita rahoitustuotteita.</p></details>
+<details><summary>Miksi hinnat nousevat?</summary><p>Jotta lapset tuntisivat inflaation, perheen hintaindeksi nousee hieman joka viikko. Tahtia voi muuttaa, tai sen voi asettaa 0 %:iin, Vanhempaintilan kohdassa Pankin asetukset. Kun nostat samalla vähän Kotikaupan herkkujen ja lelujen hintoja, oppi jää paremmin mieleen.</p></details>
+<details><summary>Miten poistan kaiken?</summary><p>Sovelluksen poistaminen poistaa laitteeseen tallennetut tiedot. iCloudiin synkronoidut tiedot poistat kohdassa Asetukset &gt; Apple-tili &gt; iCloud &gt; Hallitse tallennustilaa.</p></details>
+<details><summary>Lähetetäänkö perheeni tietoja jonnekin?</summary><p>Ei. Rekisteröitymistä ei ole, ja kaikki tiedot pysyvät laitteessasi ja omalla iCloud-tililläsi. Kehittäjä saa vain palautteen, jonka itse lähetät Vanhempaintilasta, sekä nimettömiä käyttötilastoja ja kaatumisraportteja.</p></details>
+<details><summary>Millä laitteilla sovellus toimii?</summary><p>iPhonella, jossa on iOS 17.0 tai uudempi.</p></details></div>
+      <p class="contact">Kysyttävää, virheitä tai ideoita? Kirjoita osoitteeseen <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Kun kerrot laitteesi mallin ja iOS-version, pystymme auttamaan nopeammin.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Avaa perheen pankki<br>tämän viikon viikkorahalla</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Lataa ilmaiseksi App Storesta</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Viikkoraha · <a href="privacy.html">Tietosuojaseloste</a> · <a href="support.html">Tuki</a></p>
+    <nav id="languages" class="langs" aria-label="Kieli"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi" aria-current="page">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Tietosuojakäytäntö</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

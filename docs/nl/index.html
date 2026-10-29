@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="nl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Zakgeld — leren omgaan met geld, met het hele gezin</title>
-  <meta name="description" content="SukSuk Zakgeld is een app waarmee het gezin samen leert over geld: ouders zijn de bank, kinderen sparen zakgeld, betalen, sparen en beleggen.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Zakgeld: ouders zijn de bank, kinderen sparen en beleggen</title>
+  <meta name="description" content="Geef zakgeld in je eigen gezinsmunt. Kinderen betalen zelf, krijgen elke week rente en proberen oefenfondsen, zo snappen ze geld. Alles is gratis.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/nl/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,59 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Zakgeld: ouders zijn de bank, kinderen sparen en beleggen">
+  <meta property="og:description" content="Geef zakgeld in je eigen gezinsmunt. Kinderen betalen zelf, krijgen elke week rente en proberen oefenfondsen, zo snappen ze geld. Alles is gratis.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/nl/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/nl/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl" aria-current="true" style="font-weight:700">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Zakgeld</h1>
-    <p class="sub">De zakgeldapp waarmee kinderen goede geldgewoontes opbouwen</p>
-    <nav class="top">
-      <a href="index.html">Home</a>
-      <a href="support.html">Hulp en contact</a>
-      <a href="privacy.html">Privacybeleid</a>
-    </nav>
+  <a class="skip" href="#main">Ga naar inhoud</a>
+  <header class="bar">
+    <a class="brand" href="../nl/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Zakgeld</a>
+    <a class="lang-link" href="#languages">Taal</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 Wat is SukSuk Zakgeld?</h2>
-      <p>
-        <strong>SukSuk Zakgeld</strong> is een iOS-app die kinderen leert over geld en economie met een eigen munt voor het gezin.
-        Ouders zijn de centrale bank en geven het zakgeld uit; kinderen betalen, sparen en krijgen rente,
-        en beleggen in oefenfondsen. Zo leren ze hoe geld werkt door het zelf te doen.
-      </p>
-      <div class="key">
-        Alle gegevens worden <strong>alleen op je eigen apparaat en in je eigen iCloud-account</strong> bewaard.
-        Je hoeft geen account aan te maken en wat je gezin invoert, gaat nooit naar de ontwikkelaar.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Zakgelddag wordt<br>een les over geld</h1>
+        <p class="lead">Jij bent de centrale bank van het gezin, je kinderen zijn de klanten. Ze krijgen zakgeld in jullie eigen munt, kopen er snoep van, zien rente binnenkomen op hun spaargeld en beleven de ups en downs van een oefenfonds.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Download gratis in de App Store</a><a class="try" href="#try">Waar zou jij 1.000 munten laten? ↓</a></div>
+        <p class="muted small">Alle functies zijn gratis. Er gaat nooit echt geld over de toonbank.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/nl/01-dashboard.jpg" alt="Zakgelddag wordt een les over geld" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Belangrijkste functies</h2>
-      <ul>
-        <li><strong>Een eigen gezinsmunt</strong> — kies zelf de naam, bijvoorbeeld Bonen, Sterren of Munten</li>
-        <li><strong>Zakgeld geven en afschrijven</strong> — geregeld in de ouderstand, beveiligd met een pincode</li>
-        <li><strong>Betalen</strong> — kinderen betalen zelf voor snoep, schermtijd en meer, ook met een barcode</li>
-        <li><strong>Spaarrente</strong> — de spaarrekening krijgt elke week automatisch rente op rente</li>
-        <li><strong>Oefenen met beleggen</strong> — oefenfondsen Rustig 🐢 · Gemiddeld 🐰 · Gedurfd 🚀</li>
-        <li><strong>Transactieoverzicht</strong> — bekijk per dag waar het geld naartoe is gegaan</li>
-        <li><strong>Leren over geld</strong> — uitleg over geld, sparen, rente op rente, beleggen en opportuniteitskosten</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Hulp nodig?</h2>
-      <p>Heb je een vraag of loop je tegen een fout aan? Laat het ons gerust weten.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Zakgeld%5D%20Vraag">✉️ Neem contact op</a>
-      </p>
-      <p class="muted">Meer antwoorden vind je op de <a href="support.html">hulppagina</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Waar zou jij 1.000 munten laten?</h2>
+      <p class="muted">Dezelfde 1.000 munten zitten in een portemonnee, op een spaarrekening en in drie fondsen. Spring telkens een week vooruit en kijk wat er met elk gebeurt. Alles volgt dezelfde regels als de app.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Waar zou jij 1.000 munten laten?&quot;, &quot;lead&quot;: &quot;Dezelfde 1.000 munten zitten in een portemonnee, op een spaarrekening en in drie fondsen. Spring telkens een week vooruit en kijk wat er met elk gebeurt. Alles volgt dezelfde regels als de app.&quot;, &quot;currency&quot;: &quot;munten&quot;, &quot;week&quot;: &quot;Week {n}&quot;, &quot;start&quot;: &quot;Nog niet begonnen&quot;, &quot;next&quot;: &quot;Week vooruit&quot;, &quot;reset&quot;: &quot;Opnieuw beginnen&quot;, &quot;wallet&quot;: &quot;Portemonnee&quot;, &quot;savings&quot;: &quot;Sparen · 5% per week, rente op rente&quot;, &quot;funds&quot;: [&quot;Schildpad Zeker Fonds&quot;, &quot;Konijn Groeiaandelen&quot;, &quot;Raket Avontuuraandelen&quot;], &quot;power&quot;: &quot;Prijsindex {i} · voor 1.000 munten in de portemonnee koop je nu wat vroeger {p} kostte&quot;, &quot;note&quot;: &quot;Net als in de app bewegen de fondsprijzen willekeurig, dus elke ronde loopt anders af. De 5% rente en 2% prijsstijging per week zijn de startinstellingen van de app.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>"Spaar het op, dan groeit het." Komt dat echt aan bij een kind?</h2>
+      <p>Rente, rente op rente, inflatie: hoe meer je uitlegt, hoe verder weg het klinkt. In SukSuk Zakgeld verdienen, besteden en wachten kinderen zelf. Zodra ze zien dat er rente op het spaargeld van vorige week staat, gaat het volgende zakgeld meteen naar de spaarrekening.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Geduld wordt zichtbaar beloond</h2>
+        <p>Geld op de spaarrekening krijgt elke week rente op rente. Jij kiest het percentage, en een grafiek laat zien hoeveel het over 12 weken is als niemand eraan komt.<br>Een paar dagen de app niet geopend? Bij de volgende keer worden alle openstaande weken in één keer uitbetaald.</p>
+      </div>
+      <div class="phone"><img src="../img/nl/03-savings.jpg" alt="Geduld wordt zichtbaar beloond" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Zie prijzen de portemonnee leegeten</h2>
+        <p>Het tabblad Markt zet de prijsindex van het gezin, inflatie, rente, geldhoeveelheid en fondsprijzen op één scherm. Als de prijzen stijgen, zie je hoeveel minder 1.000 munten in de portemonnee nog kopen.<br>Kinderen zien in duidelijke cijfers dat stilliggend geld krimpt, terwijl gespaard of belegd geld zijn waarde houdt.</p>
+      </div>
+      <div class="phone"><img src="../img/nl/04-market.jpg" alt="Zie prijzen de portemonnee leegeten" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Tien gesprekken om samen te voeren</h2>
+        <p>De ouderhandleiding neemt je in tien stappen mee: waarom we geld nodig hebben, behoeften en wensen, opportuniteitskosten, sparen en rente, rente op rente, inflatie, beleggen en risico, tot het maken van een budget.<br>Met een rente-op-rentecalculator en een prijsexperimentcalculator verander je samen de getallen en zie je wat er gebeurt.</p>
+      </div>
+      <div class="phone"><img src="../img/nl/06-learn.jpg" alt="Tien gesprekken om samen te voeren" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>In drie stappen aan de slag</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Geef je munt een naam</h3><p>Bonen, Sterren, Munten: hoe jullie gezin hem ook wil noemen.</p></li>
+<li class="card"><span class="n">2</span><h3>Kies een ouder-pincode</h3><p>Vier cijfers. Alleen wie hem kent, kan zakgeld geven of de bankinstellingen wijzigen.</p></li>
+<li class="card"><span class="n">3</span><h3>Voeg het gezin toe</h3><p>Voeg kinderen en ouders toe, geef het eerste zakgeld en je kunt beginnen.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Wat staat waar</h2>
+      <div class="card table">
+        <dl><div><dt>Overzicht</dt><dd>Ieders portemonnee, spaargeld en beleggingen in één oogopslag</dd></div><div><dt>Acties</dt><dd>Zakgeld geven of afschrijven, Streepjescode van artikel, Artikel toevoegen, Kind uitnodigen, Kindertelefoonstand, Bankinstellingen (ouder-pincode nodig)</dd></div><div><dt>Markt</dt><dd>Prijsindex, inflatie, wisselkoers, spaarrente, geldhoeveelheid, fondsprijzen</dd></div><div><dt>Geschiedenis</dt><dd>Elke geldbeweging per datum, per gezinslid of per soort</dd></div><div><dt>Leren</dt><dd>Ouderhandleiding in tien stappen, rente-op-rentecalculator, prijsexperimentcalculator</dd></div><div><dt>🐢 Schildpad Zeker Fonds</dt><dd>Kleine dagelijkse schommelingen, langzaam en gestaag omhoog</dd></div><div><dt>🐰 Konijn Groeiaandelen</dt><dd>Op en neer, maar ze groeien</dd></div><div><dt>🚀 Raket Avontuuraandelen</dt><dd>Kunnen de lucht in schieten of keihard dalen</dd></div></dl>
+      </div>
+      <p class="muted">Bij de start geldt 5% spaarrente en 2% inflatie per week. Beide pas je aan in de Ouderstand onder Bankinstellingen. Met 0% inflatie blijven de prijzen gelijk.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Alle functies zijn gratis</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Gratis</h3>
+          <ul><li>Jullie eigen gezinsmunt en een met pincode beveiligde Ouderstand</li><li>Zakgeld geven en afschrijven, Winkel thuis en betalen met streepjescode</li><li>Een spaarrekening met wekelijks rente op rente</li><li>Drie oefenfondsen met rendementsgrafieken</li><li>Het tabblad Markt en een geschiedenis van alle transacties per datum</li><li>De ouderhandleiding in tien stappen en twee calculators</li><li>Kindertelefoonstand en synchronisatie via iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Steun de ontwikkelaar</h3>
+          <ul><li>Geef een kleine fooi van elk bedrag via Bankinstellingen in de Ouderstand</li><li>Een fooi ontgrendelt niets. De app werkt precies hetzelfde</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Geen advertenties, geen abonnement. De fooiknop zit alleen in de Ouderstand, dus je kinderen zien nooit een koopknop.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Vragen</h2>
+      <div class="faq"><details><summary>Komt er echt geld aan te pas?</summary><p>Nee. De munt en alle transacties in de app zijn nep en alleen bedoeld om te leren. Niets is gekoppeld aan een echte bankrekening, pas of contant geld.</p></details>
+<details><summary>Hoe zien we dezelfde rekeningen op de telefoon van mijn kind?</summary><p>Apparaten die met hetzelfde iCloud-account zijn ingelogd, synchroniseren de gezinsrekeningen automatisch. Controleer of iCloud aanstaat via Instellingen &gt; Apple Account &gt; iCloud. Op het tabblad Acties kun je bij Kind uitnodigen een QR-uitnodiging maken die je kind met de camera scant. Zonder iCloud blijven de gegevens alleen op dat ene apparaat.</p></details>
+<details><summary>Wat is de Kindertelefoonstand?</summary><p>Die maakt van de telefoon van je kind een scherm speciaal voor hem of haar. Je kind ziet alleen de eigen portemonnee, beleggingen, geschiedenis en lessen, en om eruit te gaan is de ouder-pincode nodig.</p></details>
+<details><summary>Ik ben de ouder-pincode vergeten.</summary><p>De pincode staat alleen op het apparaat, dus zelfs de ontwikkelaar kan hem niet terughalen. Als je de app verwijdert en opnieuw installeert, kun je alles opnieuw instellen, maar dan worden ook je bestaande gegevens gewist.</p></details>
+<details><summary>Hoe werkt de spaarrente?</summary><p>Elke week wordt er automatisch rente op rente bij het spaarsaldo opgeteld. Je kiest het percentage in de Ouderstand, en verstreken weken worden verrekend zodra de app weer wordt geopend.</p></details>
+<details><summary>Volgen de fondsprijzen de echte markt?</summary><p>Nee. Fondsprijzen zijn oefengegevens die één keer per dag in de app veranderen. Hoe riskanter het fonds, hoe groter de schommelingen. Het zijn geen echte financiële producten.</p></details>
+<details><summary>Waarom stijgen de prijzen?</summary><p>Zodat kinderen inflatie voelen, stijgt de prijsindex van het gezin elke week een beetje. Pas het tempo aan, of zet het op 0% om het uit te zetten, in de Ouderstand onder Bankinstellingen. Verhoog je meteen ook de prijzen van snoep en speelgoed in de Winkel thuis een beetje, dan blijft de les beter hangen.</p></details>
+<details><summary>Hoe wis ik alles?</summary><p>Als je de app verwijdert, worden de gegevens op het apparaat gewist. Gegevens die naar iCloud zijn gesynchroniseerd, verwijder je via Instellingen &gt; Apple Account &gt; iCloud &gt; Beheer opslag.</p></details>
+<details><summary>Worden gegevens van mijn gezin ergens naartoe gestuurd?</summary><p>Nee. Er is geen registratie, en alle gegevens blijven op je apparaat en in je eigen iCloud-account. De ontwikkelaar ontvangt alleen feedback die je zelf vanuit de Ouderstand stuurt, plus anonieme gebruiksstatistieken en crashrapporten.</p></details>
+<details><summary>Op welke apparaten werkt het?</summary><p>Op iPhone met iOS 17.0 of nieuwer.</p></details></div>
+      <p class="contact">Vragen, fouten of ideeën? Mail naar <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Met je apparaatmodel en iOS-versie erbij kunnen we je sneller helpen.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Open de gezinsbank<br>met het zakgeld van deze week</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Download gratis in de App Store</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Zakgeld · <a href="privacy.html">Privacybeleid</a> · <a href="support.html">Hulp</a></p>
+    <nav id="languages" class="langs" aria-label="Taal"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl" aria-current="page">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Privacybeleid</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

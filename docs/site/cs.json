@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Kapesné: rodiče jsou banka, děti spoří a investují",
+  "description": "Dávejte kapesné v rodinné měně. Děti samy platí, každý týden dostávají úroky a zkoušejí cvičné fondy. Tak pochopí, jak fungují peníze. Vše zdarma.",
+  "hero": {
+    "headline": "Den výplaty kapesného\njako hodina o penězích",
+    "lead": "Vy jste centrální banka rodiny, děti jsou vaši klienti. Kapesné dostávají ve vaší vlastní měně, kupují si sladkosti, sledují, jak jim na spoření přibývají úroky, a zažívají vzestupy i pády cvičného fondu.",
+    "cta": "Stáhnout zdarma v App Storu",
+    "note": "Všechny funkce jsou zdarma. Skutečné peníze se nikdy nepoužívají."
+  },
+  "demo": {
+    "title": "Kam byste dali 1 000 mincí?",
+    "lead": "Stejných 1 000 mincí leží v peněžence, na spoření a ve třech fondech. Posouvejte se po týdnech a sledujte, co se s každou částkou děje. Platí stejná pravidla jako v aplikaci.",
+    "currency": "mincí",
+    "week": "Týden {n}",
+    "start": "Ještě nezačalo",
+    "next": "O týden dál",
+    "reset": "Začít znovu",
+    "wallet": "Peněženka",
+    "savings": "Spoření · 5 % týdně, složené úročení",
+    "funds": ["Želví jistý fond", "Králičí růstové akcie", "Raketové dobrodružné akcie"],
+    "power": "Cenový index {i} · za 1 000 mincí v peněžence se teď koupí jen tolik, co dřív za {p}",
+    "note": "Stejně jako v aplikaci se ceny fondů mění náhodně, takže každý pokus dopadne jinak. Úrok 5 % a růst cen 2 % týdně jsou výchozí nastavení aplikace."
+  },
+  "problem": {
+    "title": "„Ušetři a přibude.“ Opravdu to dítěti dojde?",
+    "text": "Úroky, složené úročení, inflace: čím víc to vysvětlujete, tím vzdálenější to zní. V SukSuk Kapesném děti samy vydělávají, utrácejí a čekají. Jakmile objeví úroky na spoření z minulého týdne, další kapesné míří rovnou na spoření."
+  },
+  "features": [
+    {
+      "title": "Trpělivost, která je vidět",
+      "text": "Peníze na spoření každý týden vydělávají složený úrok. Sazbu určujete vy a graf ukáže, kolik z nich bude za 12 týdnů, když se jich nikdo nedotkne.\nPár dní jste aplikaci neotevřeli? Při dalším spuštění se všechny dlužné týdny připíšou najednou.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Jak ceny ujídají z peněženky",
+      "text": "Karta Trh ukazuje na jedné obrazovce rodinný cenový index, inflaci, úrokovou sazbu, množství peněz a ceny fondů. Jak ceny rostou, je vidět, o kolik méně se koupí za 1 000 mincí v peněžence.\nDěti na číslech vidí, že ležící peníze ztrácejí hodnotu a ušetřené nebo investované ji udrží.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Deset rozhovorů pro vás oba",
+      "text": "Průvodce pro rodiče vás provede v deseti krocích: proč potřebujeme peníze, potřeby a přání, náklady obětované příležitosti, spoření a úroky, složené úročení, inflace, investování a riziko až po vlastní rozpočet.\nKalkulačka složeného úročení a kalkulačka cenového experimentu vám dovolí měnit čísla a hned vidět, co se stane.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Tři kroky na začátek",
+    "items": [
+      {
+        "title": "Pojmenujte měnu",
+        "text": "Fazole, Hvězdy, Mince: jak si ji vaše rodina pojmenuje."
+      },
+      {
+        "title": "Nastavte rodičovský PIN",
+        "text": "Čtyři číslice. Jen ten, kdo ho zná, může dávat kapesné nebo měnit nastavení banky."
+      },
+      {
+        "title": "Přidejte rodinu",
+        "text": "Přidejte děti a rodiče, vyplaťte první kapesné a můžete začít."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Co kde najdete",
+    "rows": [
+      ["Přehled", "Peněženky, spoření a investice celé rodiny na jeden pohled"],
+      ["Akce", "Dát nebo odečíst kapesné, Čárový kód položky, Přidat položku, Pozvat dítě, Režim telefonu dítěte, Nastavení banky (vyžaduje rodičovský PIN)"],
+      ["Trh", "Cenový index, inflace, směnný kurz, úrok ze spoření, množství peněz, ceny fondů"],
+      ["Historie", "Každý pohyb peněz podle data, člena nebo typu"],
+      ["Učení", "Průvodce pro rodiče v deseti krocích, kalkulačka složeného úročení, kalkulačka cenového experimentu"],
+      ["🐢 Želví jistý fond", "Malé denní výkyvy, pomalý a stálý růst"],
+      ["🐰 Králičí růstové akcie", "Nahoru i dolů, ale rostou"],
+      ["🚀 Raketové dobrodružné akcie", "Můžou vystřelit, můžou se zřítit"]
+    ],
+    "note": "Na začátku platí týdenní úrok ze spoření 5 % a týdenní inflace 2 %. Obojí změníte v Rodičovském režimu v Nastavení banky. Při inflaci 0 % se ceny nemění."
+  },
+  "pricing": {
+    "title": "Všechny funkce zdarma",
+    "free": {
+      "name": "Zdarma",
+      "items": [
+        "Vlastní rodinná měna a Rodičovský režim chráněný PINem",
+        "Dávání a odečítání kapesného, Domácí obchůdek a placení čárovým kódem",
+        "Spoření s týdenním složeným úročením",
+        "Tři cvičné fondy s grafy výnosů",
+        "Karta Trh a historie transakcí podle data",
+        "Průvodce pro rodiče v deseti krocích a dvě kalkulačky",
+        "Režim telefonu dítěte a synchronizace přes iCloud"
+      ]
+    },
+    "pro": {
+      "name": "Podpořit vývojáře",
+      "items": [
+        "V Rodičovském režimu v Nastavení banky můžete poslat malé spropitné v libovolné výši",
+        "Spropitné nic neodemyká. Aplikace funguje úplně stejně"
+      ]
+    },
+    "note": "Žádné reklamy, žádné předplatné. Tlačítko spropitného je jen v Rodičovském režimu, takže děti nikdy neuvidí tlačítko nákupu."
+  },
+  "faq": {
+    "title": "Časté otázky",
+    "items": [
+      {
+        "q": "Jde o skutečné peníze?",
+        "a": "Ne. Měna i všechny transakce v aplikaci jsou jen naoko a slouží k učení. Nic není propojené se skutečným bankovním účtem, kartou ani hotovostí."
+      },
+      {
+        "q": "Jak uvidíme stejné účty i na telefonu dítěte?",
+        "a": "Zařízení přihlášená ke stejnému účtu iCloud synchronizují rodinné účty automaticky. Zkontrolujte, že je iCloud zapnutý v Nastavení > Účet Apple > iCloud. Na kartě Akce v části Pozvat dítě můžete vytvořit pozvánku s QR kódem, kterou dítě naskenuje fotoaparátem. Bez iCloudu zůstanou data jen v tom jednom zařízení."
+      },
+      {
+        "q": "Co je Režim telefonu dítěte?",
+        "a": "Promění telefon dítěte v obrazovku jen pro něj. Dítě vidí pouze svou peněženku, investice, historii a lekce, a k opuštění režimu je potřeba rodičovský PIN."
+      },
+      {
+        "q": "Zapomněl jsem rodičovský PIN.",
+        "a": "PIN je uložený jen v zařízení, takže ho neobnoví ani vývojář. Když aplikaci smažete a znovu nainstalujete, můžete ji nastavit od začátku, ale smažou se i dosavadní data."
+      },
+      {
+        "q": "Jak fungují úroky ze spoření?",
+        "a": "Každý týden se ke zůstatku spoření automaticky připíše složený úrok. Sazbu nastavíte v Rodičovském režimu a zameškané týdny se vyrovnají při dalším otevření aplikace."
+      },
+      {
+        "q": "Odpovídají ceny fondů skutečnému trhu?",
+        "a": "Ne. Ceny fondů jsou cvičná data, která se v aplikaci mění jednou denně. Čím rizikovější fond, tím větší výkyvy. Nejde o skutečné finanční produkty."
+      },
+      {
+        "q": "Proč rostou ceny?",
+        "a": "Aby děti pocítily inflaci, rodinný cenový index každý týden trochu stoupne. Tempo změníte, nebo ho nastavením na 0 % vypnete, v Rodičovském režimu v Nastavení banky. Když zároveň trochu zdražíte sladkosti a hračky v Domácím obchůdku, lekce se lépe vryje do paměti."
+      },
+      {
+        "q": "Jak všechno smazat?",
+        "a": "Smazáním aplikace zmizí data uložená v zařízení. Data synchronizovaná do iCloudu smažete v Nastavení > Účet Apple > iCloud > Spravovat úložiště."
+      },
+      {
+        "q": "Posílají se někam informace o mé rodině?",
+        "a": "Ne. Žádná registrace, všechna data zůstávají ve vašem zařízení a ve vašem vlastním účtu iCloud. Vývojář dostává jen zpětnou vazbu, kterou sami pošlete z Rodičovského režimu, a k tomu anonymní statistiky používání a hlášení o pádech."
+      },
+      {
+        "q": "Na jakých zařízeních aplikace funguje?",
+        "a": "Na iPhonu se systémem iOS 17.0 nebo novějším."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Otevřete rodinnou banku\ns kapesným na tento týden",
+    "cta": "Stáhnout zdarma v App Storu"
+  },
+  "ui": {
+    "skip": "Přeskočit na obsah",
+    "languages": "Jazyk",
+    "privacy": "Zásady ochrany osobních údajů",
+    "contact": "Dotazy, chyby nebo nápady? Napište na {email}. Když uvedete model zařízení a verzi iOS, pomůžeme rychleji."
+  }
+}

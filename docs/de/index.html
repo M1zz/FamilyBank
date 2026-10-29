@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Taschengeld — Finanzbildung für die ganze Familie</title>
-  <meta name="description" content="SukSuk Taschengeld: Eltern werden zur Familienbank, Kinder sammeln Taschengeld, bezahlen, sparen und investieren – und lernen dabei spielerisch, wie Geld funktioniert.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Taschengeld: Eltern sind die Bank, Kinder sparen und investieren</title>
+  <meta name="description" content="Taschengeld in eurer Familienwährung: Kinder bezahlen, bekommen wöchentlich Zinsen und testen Übungsfonds. So verstehen sie Geld. Kostenlos.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/de/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,60 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Taschengeld: Eltern sind die Bank, Kinder sparen und investieren">
+  <meta property="og:description" content="Taschengeld in eurer Familienwährung: Kinder bezahlen, bekommen wöchentlich Zinsen und testen Übungsfonds. So verstehen sie Geld. Kostenlos.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/de/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/de/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de" aria-current="true" style="font-weight:700">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Taschengeld</h1>
-    <p class="sub">Die Taschengeld-App für Familien, mit der Kinder gute Geldgewohnheiten entwickeln</p>
-    <nav class="top">
-      <a href="index.html">Start</a>
-      <a href="support.html">Hilfe &amp; Kontakt</a>
-      <a href="privacy.html">Datenschutz</a>
-    </nav>
+  <a class="skip" href="#main">Zum Inhalt springen</a>
+  <header class="bar">
+    <a class="brand" href="../de/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Taschengeld</a>
+    <a class="lang-link" href="#languages">Sprache</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 Was ist SukSuk Taschengeld?</h2>
-      <p>
-        <strong>SukSuk Taschengeld</strong> ist eine iOS-App, die Kindern mit einer eigenen Familienwährung
-        Finanzen und Wirtschaft näherbringt. Eltern übernehmen die Rolle der Zentralbank und zahlen das
-        Taschengeld aus; Kinder bezahlen selbst, bekommen Zinsen aufs Ersparte und investieren in
-        Übungsfonds – so lernen sie wirtschaftliche Zusammenhänge ganz praktisch.
-      </p>
-      <div class="key">
-        Alle Daten bleiben <strong>ausschließlich auf deinem Gerät und in deinem eigenen iCloud-Account</strong>.
-        Es gibt keine Registrierung, und nichts, was deine Familie eingibt, wird an den Entwickler gesendet.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Aus dem Taschengeldtag<br>wird eine Geldstunde</h1>
+        <p class="lead">Du bist die Zentralbank der Familie, deine Kinder sind die Kundschaft. Sie bekommen ihr Taschengeld in eurer eigenen Währung, kaufen sich Snacks, sehen Zinsen auf ihrem Ersparten landen und erleben das Auf und Ab eines Übungsfonds.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Kostenlos im App Store laden</a><a class="try" href="#try">Wohin mit 1.000 Münzen? ↓</a></div>
+        <p class="muted small">Alle Funktionen sind kostenlos. Echtes Geld fließt nie.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/de/01-dashboard.jpg" alt="Aus dem Taschengeldtag wird eine Geldstunde" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Funktionen im Überblick</h2>
-      <ul>
-        <li><strong>Eigene Familienwährung</strong> — Bohnen, Sterne, Münzen: Den Namen bestimmt ihr selbst</li>
-        <li><strong>Taschengeld geben und abziehen</strong> — Verwaltet im Elternmodus, geschützt durch eine PIN</li>
-        <li><strong>Bezahlen</strong> — Kinder bezahlen Snacks, Spielzeit und mehr selbst, auch per Barcode</li>
-        <li><strong>Sparzinsen</strong> — Auf dem Sparkonto gibt es jede Woche automatisch Zinseszinsen</li>
-        <li><strong>Investieren üben</strong> — Übungsfonds Sicher 🐢 · Ausgewogen 🐰 · Mutig 🚀</li>
-        <li><strong>Verlauf</strong> — Jede Buchung nach Datum nachvollziehen</li>
-        <li><strong>Geldwissen</strong> — Einfache Erklärungen zu Geld, Sparen, Zinseszins, Investieren, Opportunitätskosten und mehr</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Brauchst du Hilfe?</h2>
-      <p>Wenn du Fragen hast oder auf einen Fehler stößt, melde dich jederzeit bei uns.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Taschengeld%5D%20Anfrage">✉️ Kontakt aufnehmen</a>
-      </p>
-      <p class="muted">Ausführliche Antworten auf häufige Fragen findest du auf der <a href="support.html">Hilfeseite</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Wohin mit 1.000 Münzen?</h2>
+      <p class="muted">Dieselben 1.000 Münzen liegen in der Geldbörse, auf dem Sparkonto und in drei Fonds. Spring Woche für Woche weiter und sieh zu, was jeweils passiert. Es gelten dieselben Regeln wie in der App.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Wohin mit 1.000 Münzen?&quot;, &quot;lead&quot;: &quot;Dieselben 1.000 Münzen liegen in der Geldbörse, auf dem Sparkonto und in drei Fonds. Spring Woche für Woche weiter und sieh zu, was jeweils passiert. Es gelten dieselben Regeln wie in der App.&quot;, &quot;currency&quot;: &quot;Münzen&quot;, &quot;week&quot;: &quot;Woche {n}&quot;, &quot;start&quot;: &quot;Noch nicht gestartet&quot;, &quot;next&quot;: &quot;Eine Woche weiter&quot;, &quot;reset&quot;: &quot;Neu starten&quot;, &quot;wallet&quot;: &quot;Geldbörse&quot;, &quot;savings&quot;: &quot;Gespart · 5 % pro Woche mit Zinseszins&quot;, &quot;funds&quot;: [&quot;Schildkröten-Sicherfonds&quot;, &quot;Hasen-Wachstumsaktie&quot;, &quot;Raketen-Abenteueraktie&quot;], &quot;power&quot;: &quot;Preisindex {i} · 1.000 Münzen in der Geldbörse kaufen jetzt nur noch so viel wie früher {p} Münzen&quot;, &quot;note&quot;: &quot;Wie in der App schwanken die Fondspreise zufällig, jeder Durchlauf geht also anders aus. 5 % Zinsen und 2 % Preisanstieg pro Woche sind die Starteinstellungen der App.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>„Spar es, dann wird es mehr.“ Kommt das bei Kindern wirklich an?</h2>
+      <p>Zinsen, Zinseszins, Inflation: Je mehr man erklärt, desto weiter weg klingt es. In SukSuk Taschengeld verdienen, verbrauchen und warten Kinder selbst. Sobald sie entdecken, dass auf dem Ersparten von letzter Woche Zinsen liegen, wandert das nächste Taschengeld direkt aufs Sparkonto.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Geduld zahlt sich sichtbar aus</h2>
+        <p>Geld auf dem Sparkonto bekommt jede Woche Zinseszins. Den Zinssatz legst du fest, und ein Diagramm zeigt, wie viel es in 12 Wochen ist, wenn es liegen bleibt.<br>Ein paar Tage nicht reingeschaut? Beim nächsten Öffnen werden alle offenen Wochen auf einmal gutgeschrieben.</p>
+      </div>
+      <div class="phone"><img src="../img/de/03-savings.jpg" alt="Geduld zahlt sich sichtbar aus" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Sehen, wie Preise die Geldbörse leeren</h2>
+        <p>Der Tab Markt zeigt Preisindex, Inflationsrate, Zinssatz, Geldmenge und Fondspreise eurer Familie auf einem Bildschirm. Steigen die Preise, sieht man, wie viel weniger 1.000 Münzen in der Geldbörse noch kaufen.<br>Kinder erkennen an klaren Zahlen: Herumliegendes Geld schrumpft, gespartes oder angelegtes Geld hält seinen Wert.</p>
+      </div>
+      <div class="phone"><img src="../img/de/04-market.jpg" alt="Sehen, wie Preise die Geldbörse leeren" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Zehn Gespräche für euch beide</h2>
+        <p>Der Elternratgeber führt in zehn Schritten durch die Themen: wozu wir Geld brauchen, Bedürfnisse und Wünsche, Opportunitätskosten, Sparen und Zinsen, Zinseszins, Inflation, Anlegen und Risiko und schließlich ein eigenes Budget.<br>Mit einem Zinseszins-Rechner und einem Preis-Experiment-Rechner verändert ihr Zahlen und seht sofort, was passiert.</p>
+      </div>
+      <div class="phone"><img src="../img/de/06-learn.jpg" alt="Zehn Gespräche für euch beide" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>In drei Schritten startklar</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Währung benennen</h3><p>Bohnen, Sterne, Münzen: Wie eure Familie sie nennen will.</p></li>
+<li class="card"><span class="n">2</span><h3>Eltern-PIN festlegen</h3><p>Vier Ziffern. Nur wer sie kennt, kann Taschengeld geben oder die Bank-Einstellungen ändern.</p></li>
+<li class="card"><span class="n">3</span><h3>Familie hinzufügen</h3><p>Kinder und Eltern eintragen, das erste Taschengeld auszahlen, los geht’s.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Was ist wo?</h2>
+      <div class="card table">
+        <dl><div><dt>Übersicht</dt><dd>Geldbörse, Erspartes und Anlagen aller Familienmitglieder auf einen Blick</dd></div><div><dt>Aktionen</dt><dd>Taschengeld geben oder abziehen, Artikel-Barcode, Artikel hinzufügen, Kind einladen, Kinderhandy-Modus, Bank-Einstellungen (Eltern-PIN nötig)</dd></div><div><dt>Markt</dt><dd>Preisindex, Inflationsrate, Wechselkurs, Sparzins, Geldmenge, Fondspreise</dd></div><div><dt>Verlauf</dt><dd>Jede Geldbewegung nach Datum, Person oder Art</dd></div><div><dt>Lernen</dt><dd>Elternratgeber in zehn Schritten, Zinseszins-Rechner, Preis-Experiment-Rechner</dd></div><div><dt>🐢 Schildkröten-Sicherfonds</dt><dd>Kleine tägliche Schwankungen, steigt langsam und stetig</dd></div><div><dt>🐰 Hasen-Wachstumsaktie</dt><dd>Mal rauf, mal runter, aber sie wächst</dd></div><div><dt>🚀 Raketen-Abenteueraktie</dt><dd>Kann abheben, kann abstürzen</dd></div></dl>
+      </div>
+      <p class="muted">Zum Start gelten 5 % Sparzins und 2 % Inflation pro Woche. Beides änderst du im Elternmodus unter Bank-Einstellungen. Bei 0 % Inflation bleiben die Preise gleich.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Alle Funktionen kostenlos</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Kostenlos</h3>
+          <ul><li>Eure eigene Familienwährung und ein mit PIN gesicherter Elternmodus</li><li>Taschengeld geben und abziehen, Familienladen und Bezahlen per Barcode</li><li>Ein Sparkonto mit wöchentlichem Zinseszins</li><li>Drei Übungsfonds mit Renditediagrammen</li><li>Der Tab Markt und ein Verlauf aller Buchungen nach Datum</li><li>Der Elternratgeber in zehn Schritten und zwei Rechner</li><li>Kinderhandy-Modus und iCloud-Synchronisierung</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Entwickler unterstützen</h3>
+          <ul><li>Im Elternmodus unter Bank-Einstellungen ein kleines Trinkgeld in beliebiger Höhe geben</li><li>Trinkgeld schaltet nichts frei. Die App funktioniert genau gleich</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Keine Werbung, kein Abo. Der Trinkgeld-Button steckt nur im Elternmodus, deine Kinder sehen also nie einen Kaufen-Button.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Häufige Fragen</h2>
+      <div class="faq"><details><summary>Ist echtes Geld im Spiel?</summary><p>Nein. Die Währung und alle Buchungen in der App sind nur gespielt und dienen dem Lernen. Es gibt keine Verbindung zu einem echten Bankkonto, einer Karte oder Bargeld.</p></details>
+<details><summary>Wie sehen wir dieselben Konten auf dem Handy meines Kindes?</summary><p>Geräte mit demselben iCloud-Account gleichen das Familienbuch automatisch ab. Prüfe unter Einstellungen &gt; Apple Account &gt; iCloud, ob iCloud eingeschaltet ist. Im Tab Aktionen kannst du unter Kind einladen eine QR-Einladung erstellen, die dein Kind mit der Kamera scannt. Ohne iCloud bleiben die Daten nur auf diesem einen Gerät.</p></details>
+<details><summary>Was ist der Kinderhandy-Modus?</summary><p>Er macht das Handy deines Kindes zu einem Bildschirm nur für es. Es sieht nur die eigene Geldbörse, Anlagen, den Verlauf und die Lektionen, und zum Verlassen braucht es die Eltern-PIN.</p></details>
+<details><summary>Ich habe die Eltern-PIN vergessen.</summary><p>Die PIN ist nur auf dem Gerät gespeichert, nicht einmal der Entwickler kann sie wiederherstellen. Wenn du die App löschst und neu installierst, kannst du sie neu einrichten. Dabei werden aber auch eure bisherigen Daten gelöscht.</p></details>
+<details><summary>Wie funktionieren die Sparzinsen?</summary><p>Jede Woche kommt automatisch Zinseszins auf das Ersparte. Den Zinssatz legst du im Elternmodus fest, und verpasste Wochen werden beim nächsten Öffnen der App verrechnet.</p></details>
+<details><summary>Hängen die Fondspreise am echten Markt?</summary><p>Nein. Die Fondspreise sind Übungsdaten, die sich in der App einmal am Tag ändern. Je riskanter der Fonds, desto stärker die Schwankungen. Es sind keine echten Finanzprodukte.</p></details>
+<details><summary>Warum steigen die Preise?</summary><p>Damit Kinder Inflation spüren, steigt euer Familien-Preisindex jede Woche ein wenig. Die Rate änderst du im Elternmodus unter Bank-Einstellungen, mit 0 % schaltest du sie ab. Wenn du die Preise für Snacks und Spielzeug im Familienladen passend etwas anhebst, bleibt die Lektion besser hängen.</p></details>
+<details><summary>Wie lösche ich alles?</summary><p>Wenn du die App löschst, verschwinden die Daten auf dem Gerät. Für Daten in iCloud gehst du zu Einstellungen &gt; Apple Account &gt; iCloud &gt; Speicher verwalten und löschst dort die Daten der App.</p></details>
+<details><summary>Werden Daten meiner Familie irgendwohin gesendet?</summary><p>Nein. Es gibt keine Registrierung, alle Daten bleiben auf deinem Gerät und in deinem eigenen iCloud-Account. Der Entwickler bekommt nur Feedback, das du selbst aus dem Elternmodus schickst, sowie anonyme Nutzungsstatistiken und Absturzberichte.</p></details>
+<details><summary>Auf welchen Geräten läuft die App?</summary><p>Auf dem iPhone mit iOS 17.0 oder neuer.</p></details></div>
+      <p class="contact">Fragen, Fehler oder Ideen? Schreib an <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Mit Gerätemodell und iOS-Version können wir dir schneller helfen.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Eröffnet die Familienbank<br>mit dem Taschengeld dieser Woche</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Kostenlos im App Store laden</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Taschengeld · <a href="privacy.html">Datenschutz</a> · <a href="support.html">Hilfe</a></p>
+    <nav id="languages" class="langs" aria-label="Sprache"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de" aria-current="page">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Datenschutz</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="el">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Χαρτζιλίκι — εφαρμογή οικονομικής εκπαίδευσης για την οικογένεια</title>
-  <meta name="description" content="Το SukSuk Χαρτζιλίκι είναι μια εφαρμογή οικονομικής εκπαίδευσης για την οικογένεια: οι γονείς γίνονται η τράπεζα και τα παιδιά μαζεύουν χαρτζιλίκι, πληρώνουν, αποταμιεύουν και επενδύουν, μαθαίνοντας πώς λειτουργούν τα χρήματα.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Χαρτζιλίκι: οι γονείς τράπεζα, τα παιδιά αποταμιεύουν</title>
+  <meta name="description" content="Δώστε χαρτζιλίκι στο νόμισμα της οικογένειας. Τα παιδιά πληρώνουν, παίρνουν τόκο κάθε εβδομάδα και δοκιμάζουν ταμεία εξάσκησης. Όλα δωρεάν.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/el/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,60 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Χαρτζιλίκι: οι γονείς τράπεζα, τα παιδιά αποταμιεύουν">
+  <meta property="og:description" content="Δώστε χαρτζιλίκι στο νόμισμα της οικογένειας. Τα παιδιά πληρώνουν, παίρνουν τόκο κάθε εβδομάδα και δοκιμάζουν ταμεία εξάσκησης. Όλα δωρεάν.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/el/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/el/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el" aria-current="true" style="font-weight:700">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Χαρτζιλίκι</h1>
-    <p class="sub">Η οικογενειακή εφαρμογή χαρτζιλικιού που καλλιεργεί σωστές συνήθειες με τα χρήματα</p>
-    <nav class="top">
-      <a href="index.html">Αρχική</a>
-      <a href="support.html">Υποστήριξη και επικοινωνία</a>
-      <a href="privacy.html">Πολιτική απορρήτου</a>
-    </nav>
+  <a class="skip" href="#main">Μετάβαση στο περιεχόμενο</a>
+  <header class="bar">
+    <a class="brand" href="../el/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Χαρτζιλίκι</a>
+    <a class="lang-link" href="#languages">Γλώσσα</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 Τι είναι το SukSuk Χαρτζιλίκι;</h2>
-      <p>
-        Το <strong>SukSuk Χαρτζιλίκι</strong> είναι μια εφαρμογή iOS που μαθαίνει στα παιδιά για τα χρήματα
-        και την οικονομία μέσα από ένα δικό σας οικογενειακό νόμισμα. Οι γονείς γίνονται η κεντρική τράπεζα και δίνουν
-        χαρτζιλίκι, ενώ τα παιδιά πληρώνουν, αποταμιεύουν και παίρνουν τόκους, επενδύουν σε εικονικά αμοιβαία κεφάλαια
-        και κατανοούν στην πράξη πώς λειτουργεί η οικονομία.
-      </p>
-      <div class="key">
-        Όλα τα δεδομένα αποθηκεύονται <strong>μόνο στη συσκευή σας και στον δικό σας λογαριασμό iCloud</strong>.
-        Δεν χρειάζεται εγγραφή και όσα καταχωρεί η οικογένεια δεν αποστέλλονται στον προγραμματιστή.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Το χαρτζιλίκι<br>γίνεται μάθημα</h1>
+        <p class="lead">Εσείς είστε η κεντρική τράπεζα της οικογένειας και τα παιδιά οι πελάτες. Παίρνουν χαρτζιλίκι στο δικό σας νόμισμα, αγοράζουν λιχουδιές, βλέπουν τον τόκο να μπαίνει στην αποταμίευση και ζουν τα σκαμπανεβάσματα ενός ταμείου εξάσκησης.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Κατεβάστε το δωρεάν στο App Store</a><a class="try" href="#try">Πού θα κρατούσατε 1.000 κέρματα; ↓</a></div>
+        <p class="muted small">Όλες οι λειτουργίες είναι δωρεάν. Δεν κινούνται ποτέ αληθινά χρήματα.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/el/01-dashboard.jpg" alt="Το χαρτζιλίκι γίνεται μάθημα" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Κύριες λειτουργίες</h2>
-      <ul>
-        <li><strong>Το νόμισμα του σπιτιού μας</strong> — διαλέγετε μόνοι σας το όνομα, π.χ. Φασόλια, Αστέρια ή Νομίσματα</li>
-        <li><strong>Δόσιμο και αφαίρεση χαρτζιλικιού</strong> — διαχείριση από τη λειτουργία γονέα, που προστατεύεται με PIN</li>
-        <li><strong>Πληρωμές</strong> — το παιδί πληρώνει μόνο του για λιχουδιές, χρόνο παιχνιδιού κ.ά., με υποστήριξη πληρωμής με barcode</li>
-        <li><strong>Τόκοι αποταμίευσης</strong> — ο λογαριασμός ταμιευτηρίου παίρνει αυτόματα ανατοκισμό κάθε εβδομάδα</li>
-        <li><strong>Γνωριμία με τις επενδύσεις</strong> — εικονικά αμοιβαία κεφάλαια Σταθερό 🐢 · Ισορροπημένο 🐰 · Τολμηρό 🚀</li>
-        <li><strong>Ιστορικό συναλλαγών</strong> — δείτε ξανά κάθε κίνηση χρημάτων ανά ημερομηνία</li>
-        <li><strong>Οικονομική εκπαίδευση</strong> — οδηγός για έννοιες όπως χρήμα, αποταμίευση, ανατοκισμός, επένδυση και κόστος ευκαιρίας</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Χρειάζεστε βοήθεια;</h2>
-      <p>Αν έχετε κάποια απορία ή εντοπίσετε κάποιο σφάλμα, ενημερώστε μας όποτε θέλετε.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20%CE%A7%CE%B1%CF%81%CF%84%CE%B6%CE%B9%CE%BB%CE%AF%CE%BA%CE%B9%5D%20%CE%95%CF%81%CF%8E%CF%84%CE%B7%CF%83%CE%B7">✉️ Επικοινωνήστε μαζί μας</a>
-      </p>
-      <p class="muted">Αναλυτικές συχνές ερωτήσεις θα βρείτε στη <a href="support.html">σελίδα υποστήριξης</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Πού θα κρατούσατε 1.000 κέρματα;</h2>
+      <p class="muted">Τα ίδια 1.000 κέρματα βρίσκονται σε πορτοφόλι, σε αποταμίευση και σε τρία ταμεία. Προχωρήστε μία εβδομάδα τη φορά και δείτε τι γίνεται με το καθένα. Ισχύουν οι ίδιοι κανόνες με την εφαρμογή.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Πού θα κρατούσατε 1.000 κέρματα;&quot;, &quot;lead&quot;: &quot;Τα ίδια 1.000 κέρματα βρίσκονται σε πορτοφόλι, σε αποταμίευση και σε τρία ταμεία. Προχωρήστε μία εβδομάδα τη φορά και δείτε τι γίνεται με το καθένα. Ισχύουν οι ίδιοι κανόνες με την εφαρμογή.&quot;, &quot;currency&quot;: &quot;κέρματα&quot;, &quot;week&quot;: &quot;Εβδομάδα {n}&quot;, &quot;start&quot;: &quot;Δεν ξεκίνησε ακόμα&quot;, &quot;next&quot;: &quot;Μία εβδομάδα μπροστά&quot;, &quot;reset&quot;: &quot;Από την αρχή&quot;, &quot;wallet&quot;: &quot;Πορτοφόλι&quot;, &quot;savings&quot;: &quot;Αποταμίευση · 5% την εβδομάδα, ανατοκισμός&quot;, &quot;funds&quot;: [&quot;Σταθερό Ταμείο Χελώνα&quot;, &quot;Μετοχές Ανάπτυξης Λαγός&quot;, &quot;Μετοχές Περιπέτειας Πύραυλος&quot;], &quot;power&quot;: &quot;Δείκτης τιμών {i} · Τα 1.000 κέρματα του πορτοφολιού αγοράζουν πλέον όσα αγόραζαν παλιά {p}&quot;, &quot;note&quot;: &quot;Όπως στην εφαρμογή, οι τιμές των ταμείων κινούνται τυχαία, οπότε κάθε φορά βγαίνει διαφορετικό αποτέλεσμα. Ο τόκος 5% και η αύξηση τιμών 2% την εβδομάδα είναι οι αρχικές ρυθμίσεις της εφαρμογής.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>«Μάζεψέ τα και θα αυξηθούν». Το καταλαβαίνει στ’ αλήθεια ένα παιδί;</h2>
+      <p>Τόκος, ανατοκισμός, πληθωρισμός: όσο περισσότερο τα εξηγείς, τόσο πιο μακρινά ακούγονται. Στο SukSuk Χαρτζιλίκι τα παιδιά κερδίζουν, ξοδεύουν και περιμένουν μόνα τους. Μόλις δουν τόκο πάνω στις αποταμιεύσεις της προηγούμενης εβδομάδας, το επόμενο χαρτζιλίκι πηγαίνει κατευθείαν στην αποταμίευση.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Η υπομονή φαίνεται</h2>
+        <p>Τα χρήματα στην αποταμίευση παίρνουν ανατοκισμό κάθε εβδομάδα. Εσείς ορίζετε το επιτόκιο και ένα γράφημα δείχνει πόσα θα γίνουν σε 12 εβδομάδες αν μείνουν ανέγγιχτα.<br>Πέρασαν μέρες χωρίς να ανοίξει η εφαρμογή; Μόλις ανοίξει, πληρώνονται όλες οι εβδομάδες που χρωστάει μαζί.</p>
+      </div>
+      <div class="phone"><img src="../img/el/03-savings.jpg" alt="Η υπομονή φαίνεται" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Δείτε τις τιμές να τρώνε το πορτοφόλι</h2>
+        <p>Η καρτέλα Αγορά συγκεντρώνει σε μία οθόνη τον δείκτη τιμών της οικογένειας, τον πληθωρισμό, το επιτόκιο, την ποσότητα χρήματος και τις τιμές των ταμείων. Καθώς ανεβαίνουν οι τιμές, φαίνεται πόσα λιγότερα αγοράζουν τα 1.000 κέρματα του πορτοφολιού.<br>Τα παιδιά βλέπουν με καθαρούς αριθμούς ότι τα χρήματα που μένουν αδρανή μικραίνουν, ενώ όσα αποταμιεύονται ή επενδύονται αντέχουν.</p>
+      </div>
+      <div class="phone"><img src="../img/el/04-market.jpg" alt="Δείτε τις τιμές να τρώνε το πορτοφόλι" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Δέκα κουβέντες να κάνετε μαζί</h2>
+        <p>Ο οδηγός για γονείς σας καθοδηγεί σε δέκα βήματα: γιατί χρειαζόμαστε χρήματα, ανάγκες και επιθυμίες, κόστος ευκαιρίας, αποταμίευση και τόκος, ανατοκισμός, πληθωρισμός, επένδυση και ρίσκο, μέχρι τον προϋπολογισμό.<br>Ένας υπολογιστής ανατοκισμού και ένας υπολογιστής πειράματος τιμών σάς αφήνουν να αλλάζετε αριθμούς και να βλέπετε τι γίνεται.</p>
+      </div>
+      <div class="phone"><img src="../img/el/06-learn.jpg" alt="Δέκα κουβέντες να κάνετε μαζί" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Τρία βήματα για να ξεκινήσετε</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Δώστε όνομα στο νόμισμα</h3><p>Φασόλια, Αστέρια, Νομίσματα: όπως θέλει να το λέει η οικογένεια.</p></li>
+<li class="card"><span class="n">2</span><h3>Ορίστε PIN γονέα</h3><p>Τέσσερα ψηφία. Μόνο όποιος το ξέρει μπορεί να δίνει χαρτζιλίκι ή να αλλάζει τις ρυθμίσεις τράπεζας.</p></li>
+<li class="card"><span class="n">3</span><h3>Προσθέστε την οικογένεια</h3><p>Προσθέστε παιδιά και γονείς, δώστε το πρώτο χαρτζιλίκι και ξεκινήσατε.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Τι βρίσκεται πού</h2>
+      <div class="card table">
+        <dl><div><dt>Επισκόπηση</dt><dd>Πορτοφόλι, αποταμίευση και επενδύσεις όλων με μια ματιά</dd></div><div><dt>Ενέργειες</dt><dd>Δώσε ή αφαίρεσε χαρτζιλίκι, Γραμμωτός κώδικας προϊόντος, Προσθήκη προϊόντος, Πρόσκληση παιδιού, Λειτουργία κινητού παιδιού, Ρυθμίσεις τράπεζας (απαιτείται PIN γονέα)</dd></div><div><dt>Αγορά</dt><dd>Δείκτης τιμών, πληθωρισμός, ισοτιμία, επιτόκιο αποταμίευσης, ποσότητα χρήματος, τιμές ταμείων</dd></div><div><dt>Ιστορικό</dt><dd>Κάθε κίνηση χρημάτων ανά ημερομηνία, μέλος ή είδος</dd></div><div><dt>Μάθε</dt><dd>Οδηγός για γονείς σε δέκα βήματα, υπολογιστής ανατοκισμού, υπολογιστής πειράματος τιμών</dd></div><div><dt>🐢 Σταθερό Ταμείο Χελώνα</dt><dd>Μικρές ημερήσιες διακυμάνσεις, αργή και σταθερή άνοδος</dd></div><div><dt>🐰 Μετοχές Ανάπτυξης Λαγός</dt><dd>Πάνω κάτω, αλλά μεγαλώνουν</dd></div><div><dt>🚀 Μετοχές Περιπέτειας Πύραυλος</dt><dd>Μπορεί να εκτοξευτούν, μπορεί να βουτήξουν</dd></div></dl>
+      </div>
+      <p class="muted">Ξεκινά με εβδομαδιαίο επιτόκιο αποταμίευσης 5% και εβδομαδιαίο πληθωρισμό 2%. Αλλάζετε και τα δύο στη Λειτουργία γονέα, στις Ρυθμίσεις τράπεζας. Με πληθωρισμό 0% οι τιμές μένουν σταθερές.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Όλες οι λειτουργίες είναι δωρεάν</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Δωρεάν</h3>
+          <ul><li>Δικό σας οικογενειακό νόμισμα και Λειτουργία γονέα κλειδωμένη με PIN</li><li>Χαρτζιλίκι και αφαιρέσεις, Το μαγαζί του σπιτιού και πληρωμές με γραμμωτό κώδικα</li><li>Αποταμίευση με εβδομαδιαίο ανατοκισμό</li><li>Τρία ταμεία εξάσκησης με γραφήματα απόδοσης</li><li>Η καρτέλα Αγορά και ιστορικό συναλλαγών ανά ημερομηνία</li><li>Ο οδηγός για γονείς σε δέκα βήματα και δύο υπολογιστές</li><li>Λειτουργία κινητού παιδιού και συγχρονισμός μέσω iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Στηρίξτε τον δημιουργό</h3>
+          <ul><li>Στείλτε ένα μικρό φιλοδώρημα όποιου ποσού θέλετε από τις Ρυθμίσεις τράπεζας στη Λειτουργία γονέα</li><li>Το φιλοδώρημα δεν ξεκλειδώνει τίποτα. Η εφαρμογή λειτουργεί ακριβώς το ίδιο</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Χωρίς διαφημίσεις, χωρίς συνδρομή. Το κουμπί φιλοδωρήματος υπάρχει μόνο μέσα στη Λειτουργία γονέα, έτσι τα παιδιά δεν βλέπουν ποτέ κουμπί αγοράς.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Ερωτήσεις</h2>
+      <div class="faq"><details><summary>Χρησιμοποιούνται αληθινά χρήματα;</summary><p>Όχι. Το νόμισμα και όλες οι συναλλαγές στην εφαρμογή είναι ψεύτικα και υπάρχουν μόνο για μάθηση. Τίποτα δεν συνδέεται με πραγματικό τραπεζικό λογαριασμό, κάρτα ή μετρητά.</p></details>
+<details><summary>Πώς βλέπουμε τους ίδιους λογαριασμούς στο κινητό του παιδιού;</summary><p>Οι συσκευές με τον ίδιο λογαριασμό iCloud συγχρονίζουν αυτόματα τους λογαριασμούς της οικογένειας. Ελέγξτε ότι το iCloud είναι ενεργό στις Ρυθμίσεις &gt; Λογαριασμός Apple &gt; iCloud. Στην καρτέλα Ενέργειες, από την Πρόσκληση παιδιού, μπορείτε να φτιάξετε πρόσκληση με κωδικό QR που το παιδί σαρώνει με την κάμερα. Χωρίς iCloud, τα δεδομένα μένουν μόνο σε εκείνη τη συσκευή.</p></details>
+<details><summary>Τι είναι η Λειτουργία κινητού παιδιού;</summary><p>Κάνει το κινητό του παιδιού μια οθόνη μόνο για εκείνο. Βλέπει μόνο το δικό του πορτοφόλι, τις επενδύσεις, το ιστορικό και τα μαθήματα, και για να βγει χρειάζεται το PIN γονέα.</p></details>
+<details><summary>Ξέχασα το PIN γονέα.</summary><p>Το PIN αποθηκεύεται μόνο στη συσκευή, οπότε ούτε ο δημιουργός μπορεί να το ανακτήσει. Αν διαγράψετε και εγκαταστήσετε ξανά την εφαρμογή, μπορείτε να τη ρυθμίσετε από την αρχή, αλλά θα σβηστούν και τα υπάρχοντα δεδομένα.</p></details>
+<details><summary>Πώς λειτουργεί ο τόκος αποταμίευσης;</summary><p>Κάθε εβδομάδα προστίθεται αυτόματα ανατοκισμός στο υπόλοιπο της αποταμίευσης. Το επιτόκιο το ορίζετε στη Λειτουργία γονέα, και οι εβδομάδες που πέρασαν εκκαθαρίζονται την επόμενη φορά που θα ανοίξει η εφαρμογή.</p></details>
+<details><summary>Οι τιμές των ταμείων ακολουθούν την πραγματική αγορά;</summary><p>Όχι. Είναι δεδομένα εξάσκησης που αλλάζουν μία φορά τη μέρα μέσα στην εφαρμογή. Όσο πιο ριψοκίνδυνο το ταμείο, τόσο μεγαλύτερες οι διακυμάνσεις. Δεν είναι πραγματικά χρηματοοικονομικά προϊόντα.</p></details>
+<details><summary>Γιατί ανεβαίνουν οι τιμές;</summary><p>Για να νιώσουν τα παιδιά τον πληθωρισμό, ο δείκτης τιμών της οικογένειας ανεβαίνει λίγο κάθε εβδομάδα. Αλλάζετε τον ρυθμό, ή τον βάζετε στο 0% για να σταματήσει, στη Λειτουργία γονέα, στις Ρυθμίσεις τράπεζας. Αν ανεβάσετε λίγο και τις τιμές για λιχουδιές και παιχνίδια στο μαγαζί του σπιτιού, το μάθημα μένει πιο βαθιά.</p></details>
+<details><summary>Πώς τα σβήνω όλα;</summary><p>Με τη διαγραφή της εφαρμογής σβήνονται τα δεδομένα της συσκευής. Για όσα έχουν συγχρονιστεί στο iCloud, πηγαίνετε στις Ρυθμίσεις &gt; Λογαριασμός Apple &gt; iCloud &gt; Διαχείριση αποθηκευτικού χώρου και διαγράψτε τα δεδομένα της εφαρμογής.</p></details>
+<details><summary>Στέλνονται κάπου τα στοιχεία της οικογένειάς μου;</summary><p>Όχι. Δεν υπάρχει εγγραφή, και όλα τα δεδομένα μένουν στη συσκευή σας και στον δικό σας λογαριασμό iCloud. Ο δημιουργός λαμβάνει μόνο σχόλια που στέλνετε εσείς από τη Λειτουργία γονέα, καθώς και ανώνυμα στατιστικά χρήσης και αναφορές σφαλμάτων.</p></details>
+<details><summary>Σε ποιες συσκευές λειτουργεί;</summary><p>Σε iPhone με iOS 17.0 ή νεότερο.</p></details></div>
+      <p class="contact">Ερωτήσεις, σφάλματα ή ιδέες; Γράψτε στο <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Αν αναφέρετε το μοντέλο της συσκευής και την έκδοση iOS, θα βοηθήσουμε πιο γρήγορα.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Ανοίξτε την τράπεζα του σπιτιού<br>με το χαρτζιλίκι της εβδομάδας</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Κατεβάστε το δωρεάν στο App Store</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Χαρτζιλίκι · <a href="privacy.html">Πολιτική απορρήτου</a> · <a href="support.html">Υποστήριξη</a></p>
+    <nav id="languages" class="langs" aria-label="Γλώσσα"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el" aria-current="page">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Πολιτική απορρήτου</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

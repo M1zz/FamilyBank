@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="it">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Paghetta — Educazione finanziaria per tutta la famiglia</title>
-  <meta name="description" content="Con SukSuk Paghetta i genitori diventano la banca di casa e i bambini imparano l’economia ricevendo, spendendo, risparmiando e investendo la loro paghetta.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Paghetta: tu fai da banca, i tuoi figli risparmiano e investono</title>
+  <meta name="description" content="Dai la paghetta nella moneta di famiglia: i figli pagano, ricevono interessi ogni settimana e provano fondi di prova. Tutto gratis.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/it/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,60 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Paghetta: tu fai da banca, i tuoi figli risparmiano e investono">
+  <meta property="og:description" content="Dai la paghetta nella moneta di famiglia: i figli pagano, ricevono interessi ogni settimana e provano fondi di prova. Tutto gratis.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/it/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/it/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it" aria-current="true" style="font-weight:700">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Paghetta</h1>
-    <p class="sub">L’app della paghetta che fa crescere le buone abitudini con il denaro</p>
-    <nav class="top">
-      <a href="index.html">Home</a>
-      <a href="support.html">Assistenza e contatti</a>
-      <a href="privacy.html">Informativa sulla privacy</a>
-    </nav>
+  <a class="skip" href="#main">Vai al contenuto</a>
+  <header class="bar">
+    <a class="brand" href="../it/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Paghetta</a>
+    <a class="lang-link" href="#languages">Lingua</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 Che cos’è SukSuk Paghetta?</h2>
-      <p>
-        <strong>SukSuk Paghetta</strong> è un’app per iOS che insegna ai bambini finanza ed economia
-        attraverso una moneta tutta di famiglia. I genitori fanno da banca centrale e distribuiscono la paghetta;
-        i figli pagano, risparmiano per ottenere interessi e investono in fondi simulati, imparando i principi
-        dell’economia sul campo.
-      </p>
-      <div class="key">
-        Tutti i dati restano <strong>solo sul tuo dispositivo e nel tuo account iCloud</strong>.
-        Non serve registrarsi e le informazioni inserite dalla famiglia non vengono inviate allo sviluppatore.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>La paghetta<br>diventa una lezione</h1>
+        <p class="lead">Tu sei la banca centrale di famiglia, i tuoi figli sono i clienti. Ricevono la paghetta nella vostra moneta, si comprano la merenda, vedono arrivare gli interessi sul risparmio e vivono i su e giù di un fondo di prova.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Scarica gratis su App Store</a><a class="try" href="#try">Dove terresti 1.000 monete? ↓</a></div>
+        <p class="muted small">Tutte le funzioni sono gratuite. Non passa mai di mano denaro vero.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/it/01-dashboard.jpg" alt="La paghetta diventa una lezione" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Funzioni principali</h2>
-      <ul>
-        <li><strong>La moneta di casa</strong> — Fagioli, Stelle, Monete… scegli tu il nome della valuta</li>
-        <li><strong>Dare e togliere la paghetta</strong> — tutto si gestisce nella modalità genitore, protetta da PIN</li>
-        <li><strong>Pagamenti</strong> — il bambino paga da solo merende, tempo per i videogiochi e altro, anche con codice a barre</li>
-        <li><strong>Interessi sul risparmio</strong> — ogni settimana il libretto di risparmio matura interessi composti in automatico</li>
-        <li><strong>Prova a investire</strong> — fondi simulati Prudente 🐢 · Bilanciato 🐰 · Audace 🚀</li>
-        <li><strong>Storico dei movimenti</strong> — rivedi giorno per giorno ogni entrata e uscita</li>
-        <li><strong>Educazione economica</strong> — guide su moneta, risparmio, interesse composto, investimenti, costo opportunità e altro</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Ti serve aiuto?</h2>
-      <p>Hai dubbi o hai trovato un errore? Scrivici quando vuoi.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Paghetta%5D%20Richiesta">✉️ Contattaci</a>
-      </p>
-      <p class="muted">Le domande frequenti complete sono nella <a href="support.html">pagina di assistenza</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Dove terresti 1.000 monete?</h2>
+      <p class="muted">Le stesse 1.000 monete stanno nel portafoglio, su un conto di risparmio e in tre fondi. Vai avanti una settimana alla volta e guarda cosa succede a ciascuna. Le regole sono le stesse dell’app.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Dove terresti 1.000 monete?&quot;, &quot;lead&quot;: &quot;Le stesse 1.000 monete stanno nel portafoglio, su un conto di risparmio e in tre fondi. Vai avanti una settimana alla volta e guarda cosa succede a ciascuna. Le regole sono le stesse dell’app.&quot;, &quot;currency&quot;: &quot;monete&quot;, &quot;week&quot;: &quot;Settimana {n}&quot;, &quot;start&quot;: &quot;Non ancora iniziato&quot;, &quot;next&quot;: &quot;Avanti di una settimana&quot;, &quot;reset&quot;: &quot;Ricomincia&quot;, &quot;wallet&quot;: &quot;Portafoglio&quot;, &quot;savings&quot;: &quot;Risparmio · 5% a settimana, interesse composto&quot;, &quot;funds&quot;: [&quot;Fondo Tartaruga Sicuro&quot;, &quot;Azioni Coniglio Crescita&quot;, &quot;Azioni Razzo Avventura&quot;], &quot;power&quot;: &quot;Indice dei prezzi {i} · Con 1.000 monete nel portafoglio ora compri solo quello che prima costava {p}&quot;, &quot;note&quot;: &quot;Come nell’app, i prezzi dei fondi si muovono a caso, quindi ogni prova va in modo diverso. Il 5% di interesse e il 2% di aumento dei prezzi a settimana sono le impostazioni iniziali dell’app.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>«Mettilo da parte e crescerà»: un bambino ci crede davvero?</h2>
+      <p>Interessi, interesse composto, inflazione: più li spieghi, più sembrano lontani. Con SukSuk Paghetta i bambini guadagnano, spendono e aspettano da soli. Quando scoprono gli interessi sul risparmio della settimana scorsa, la paghetta successiva finisce dritta nel conto di risparmio.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>La pazienza si vede</h2>
+        <p>I soldi nel conto di risparmio maturano interesse composto ogni settimana. Il tasso lo decidi tu, e un grafico mostra quanto diventeranno tra 12 settimane se restano lì.<br>Qualche giorno senza aprire l’app? Alla prossima apertura arrivano tutte insieme le settimane arretrate.</p>
+      </div>
+      <div class="phone"><img src="../img/it/03-savings.jpg" alt="La pazienza si vede" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Vedere i prezzi mangiarsi il portafoglio</h2>
+        <p>La scheda Mercato riunisce in una sola schermata l’indice dei prezzi di famiglia, l’inflazione, il tasso di interesse, la quantità di moneta e i prezzi dei fondi. Man mano che i prezzi salgono, mostra quanto meno comprano le 1.000 monete nel portafoglio.<br>I bambini vedono con numeri chiari che i soldi fermi si rimpiccioliscono, mentre quelli risparmiati o investiti tengono.</p>
+      </div>
+      <div class="phone"><img src="../img/it/04-market.jpg" alt="Vedere i prezzi mangiarsi il portafoglio" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Dieci chiacchierate da fare insieme</h2>
+        <p>La guida per i genitori ti accompagna in dieci passi: perché serve il denaro, bisogni e desideri, costo opportunità, risparmio e interessi, interesse composto, inflazione, investimenti e rischio, fino a preparare un budget.<br>Un calcolatore di interesse composto e un calcolatore per l’esperimento sui prezzi vi permettono di cambiare i numeri e vedere cosa succede.</p>
+      </div>
+      <div class="phone"><img src="../img/it/06-learn.jpg" alt="Dieci chiacchierate da fare insieme" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Tre passi per iniziare</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Dai un nome alla moneta</h3><p>Fagioli, Stelle, Monete: come preferisce chiamarla la tua famiglia.</p></li>
+<li class="card"><span class="n">2</span><h3>Scegli un PIN per i genitori</h3><p>Quattro cifre. Solo chi lo conosce può dare la paghetta o cambiare le impostazioni della banca.</p></li>
+<li class="card"><span class="n">3</span><h3>Aggiungi la famiglia</h3><p>Aggiungi figli e genitori, dai la prima paghetta e si parte.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Cosa trovi e dove</h2>
+      <div class="card table">
+        <dl><div><dt>Panoramica</dt><dd>Portafoglio, risparmio e investimenti di tutti a colpo d’occhio</dd></div><div><dt>Azioni</dt><dd>Dai o togli la paghetta, Codice a barre, Aggiungi articolo, Invita un figlio, Modalità telefono del figlio, Impostazioni della banca (serve il PIN dei genitori)</dd></div><div><dt>Mercato</dt><dd>Indice dei prezzi, inflazione, tasso di cambio, interesse del risparmio, quantità di moneta, prezzi dei fondi</dd></div><div><dt>Storico</dt><dd>Ogni movimento di denaro per data, per membro o per tipo</dd></div><div><dt>Impara</dt><dd>Guida per i genitori in dieci passi, calcolatore di interesse composto, calcolatore per l’esperimento sui prezzi</dd></div><div><dt>🐢 Fondo Tartaruga Sicuro</dt><dd>Piccole oscillazioni ogni giorno, sale piano e con costanza</dd></div><div><dt>🐰 Azioni Coniglio Crescita</dt><dd>Sale e scende, ma cresce</dd></div><div><dt>🚀 Azioni Razzo Avventura</dt><dd>Può volare alto o precipitare</dd></div></dl>
+      </div>
+      <p class="muted">Si parte con il 5% di interesse settimanale sul risparmio e il 2% di inflazione settimanale. Puoi cambiarli entrambi nella Modalità genitore, in Impostazioni della banca. Con l’inflazione allo 0% i prezzi restano fermi.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Tutte le funzioni sono gratuite</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Gratis</h3>
+          <ul><li>La vostra moneta di famiglia e una Modalità genitore protetta da PIN</li><li>Dare e togliere la paghetta, il Negozio di casa e i pagamenti con codice a barre</li><li>Un conto di risparmio con interesse composto settimanale</li><li>Tre fondi di prova con grafici dei rendimenti</li><li>La scheda Mercato e lo storico dei movimenti per data</li><li>La guida per i genitori in dieci passi e due calcolatori</li><li>Modalità telefono del figlio e sincronizzazione con iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Sostieni lo sviluppatore</h3>
+          <ul><li>Lascia una mancia dell’importo che vuoi da Impostazioni della banca, nella Modalità genitore</li><li>La mancia non sblocca nulla. L’app funziona allo stesso modo</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Niente pubblicità, niente abbonamenti. Il pulsante della mancia è solo dentro la Modalità genitore, così i tuoi figli non vedono mai un pulsante di acquisto.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Domande frequenti</h2>
+      <div class="faq"><details><summary>Si usano soldi veri?</summary><p>No. La moneta e tutte le operazioni nell’app sono finte e servono solo per imparare. Non c’è alcun collegamento con conti bancari, carte o contanti reali.</p></details>
+<details><summary>Come vediamo gli stessi conti sul telefono di mio figlio?</summary><p>I dispositivi collegati allo stesso account iCloud sincronizzano automaticamente i conti di famiglia. Controlla che iCloud sia attivo in Impostazioni &gt; Account Apple &gt; iCloud. Nella scheda Azioni, da Invita un figlio, puoi creare un invito con codice QR da inquadrare con la fotocamera. Senza iCloud i dati restano solo su quel dispositivo.</p></details>
+<details><summary>Cos’è la Modalità telefono del figlio?</summary><p>Trasforma il telefono di tuo figlio in una schermata tutta sua. Vede solo il proprio portafoglio, gli investimenti, lo storico e le lezioni, e per uscire serve il PIN dei genitori.</p></details>
+<details><summary>Ho dimenticato il PIN dei genitori.</summary><p>Il PIN è salvato solo sul dispositivo, quindi nemmeno lo sviluppatore può recuperarlo. Se elimini e reinstalli l’app puoi rifare la configurazione, ma verranno cancellati anche i dati esistenti.</p></details>
+<details><summary>Come funzionano gli interessi sul risparmio?</summary><p>Ogni settimana l’interesse composto viene aggiunto in automatico al saldo del risparmio. Il tasso lo scegli nella Modalità genitore, e le settimane trascorse vengono saldate alla successiva apertura dell’app.</p></details>
+<details><summary>I prezzi dei fondi seguono il mercato reale?</summary><p>No. Sono dati di prova che cambiano una volta al giorno dentro l’app. Più il fondo è rischioso, più oscilla. Non sono prodotti finanziari reali.</p></details>
+<details><summary>Perché i prezzi salgono?</summary><p>Per far toccare con mano l’inflazione, l’indice dei prezzi di famiglia sale un po’ ogni settimana. Puoi cambiarne il ritmo, o metterlo allo 0% per fermarlo, nella Modalità genitore, in Impostazioni della banca. Se alzi un po’ anche i prezzi di merendine e giocattoli nel Negozio di casa, la lezione resta impressa.</p></details>
+<details><summary>Come cancello tutto?</summary><p>Eliminando l’app si cancellano i dati salvati sul dispositivo. Per i dati sincronizzati su iCloud, vai in Impostazioni &gt; Account Apple &gt; iCloud &gt; Gestisci spazio ed elimina i dati dell’app.</p></details>
+<details><summary>Le informazioni della mia famiglia vengono inviate da qualche parte?</summary><p>No. Non serve registrarsi e tutti i dati restano sul tuo dispositivo e nel tuo account iCloud. Lo sviluppatore riceve solo i feedback che invii tu dalla Modalità genitore, oltre a statistiche d’uso anonime e rapporti sugli arresti anomali.</p></details>
+<details><summary>Su quali dispositivi funziona?</summary><p>Su iPhone con iOS 17.0 o versioni successive.</p></details></div>
+      <p class="contact">Domande, problemi o idee? Scrivi a <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Indicando il modello del dispositivo e la versione di iOS potremo aiutarti più in fretta.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Apri la banca di famiglia<br>con la paghetta di questa settimana</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Scarica gratis su App Store</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Paghetta · <a href="privacy.html">Informativa sulla privacy</a> · <a href="support.html">Assistenza</a></p>
+    <nav id="languages" class="langs" aria-label="Lingua"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it" aria-current="page">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Informativa sulla privacy</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

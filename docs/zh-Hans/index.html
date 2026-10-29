@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-Hans">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>茁壮零花钱 — 家庭财商启蒙 App</title>
-  <meta name="description" content="茁壮零花钱：父母当“银行”，孩子在攒零花钱、付款、储蓄和投资的过程中学习金钱知识的家庭财商教育 App。">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>茁壮零花钱：爸妈当银行，孩子学存钱、学投资</title>
+  <meta name="description" content="用家里自己的货币发零花钱，孩子自己付款、拿储蓄利息、试试模拟基金，在实践中弄懂钱是怎么运作的。所有功能免费。">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,59 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="茁壮零花钱：爸妈当银行，孩子学存钱、学投资">
+  <meta property="og:description" content="用家里自己的货币发零花钱，孩子自己付款、拿储蓄利息、试试模拟基金，在实践中弄懂钱是怎么运作的。所有功能免费。">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/zh-Hans/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/zh-Hans/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans" aria-current="true" style="font-weight:700">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>茁壮零花钱</h1>
-    <p class="sub">让孩子的理财习惯茁壮成长的家庭零花钱 App</p>
-    <nav class="top">
-      <a href="index.html">首页</a>
-      <a href="support.html">支持与联系</a>
-      <a href="privacy.html">隐私政策</a>
-    </nav>
+  <a class="skip" href="#main">跳到正文</a>
+  <header class="bar">
+    <a class="brand" href="../zh-Hans/"><img src="../icon.png" alt="" width="32" height="32">茁壮零花钱</a>
+    <a class="lang-link" href="#languages">语言</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 什么是茁壮零花钱？</h2>
-      <p>
-        <strong>茁壮零花钱</strong>是一款 iOS App，通过只在家里流通的“家庭货币”，教孩子认识金钱与经济。
-        父母扮演中央银行发放零花钱，孩子自己付款、存钱赚利息、投资模拟基金，
-        在亲身实践中理解经济的运作方式。
-      </p>
-      <div class="key">
-        所有数据都<strong>只保存在你的设备和你自己的 iCloud 账户中</strong>。
-        无需注册账号，家人输入的信息也不会发送给开发者。
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>发零花钱的日子<br>变成一堂财商课</h1>
+        <p class="lead">爸妈是家里的中央银行，孩子是银行的客户。孩子领到的是你们家自己的货币，可以买零食，看着储蓄里的利息一点点变多，也能在模拟基金的涨跌里体会投资的心跳。</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">在 App Store 免费下载</a><a class="try" href="#try">1,000 金币，你会放在哪里？ ↓</a></div>
+        <p class="muted small">所有功能免费，全程不涉及真钱。</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/zh-Hans/01-dashboard.jpg" alt="发零花钱的日子 变成一堂财商课" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ 主要功能</h2>
-      <ul>
-        <li><strong>家庭专属货币</strong> — 豆豆、星星、金币……货币名称由你来定</li>
-        <li><strong>发放 / 扣除零花钱</strong> — 在家长模式（PIN 码保护）中管理</li>
-        <li><strong>付款</strong> — 零食、游戏时间等由孩子自己付款，支持扫码付款</li>
-        <li><strong>储蓄利息</strong> — 储蓄账户每周自动计入复利利息</li>
-        <li><strong>投资体验</strong> — 稳健型 🐢 · 平衡型 🐰 · 进取型 🚀 模拟基金</li>
-        <li><strong>交易记录</strong> — 按日期回顾每一笔钱的去向</li>
-        <li><strong>财商课堂</strong> — 货币、储蓄、复利、投资、机会成本等概念讲解</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 需要帮助吗？</h2>
-      <p>使用中有任何疑问或遇到问题，欢迎随时告诉我们。</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5B%E8%8C%81%E5%A3%AE%E9%9B%B6%E8%8A%B1%E9%92%B1%5D%20%E5%92%A8%E8%AF%A2">✉️ 联系我们</a>
-      </p>
-      <p class="muted">更多常见问题请查看<a href="support.html">支持页面</a>。</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>1,000 金币，你会放在哪里？</h2>
+      <p class="muted">同样的 1,000 金币，分别放在钱包、储蓄和三只基金里。每次往后跳一周，看看它们各自会怎样变化。规则和 App 里完全一样。</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;1,000 金币，你会放在哪里？&quot;, &quot;lead&quot;: &quot;同样的 1,000 金币，分别放在钱包、储蓄和三只基金里。每次往后跳一周，看看它们各自会怎样变化。规则和 App 里完全一样。&quot;, &quot;currency&quot;: &quot;金币&quot;, &quot;week&quot;: &quot;第 {n} 周&quot;, &quot;start&quot;: &quot;还没开始&quot;, &quot;next&quot;: &quot;跳过一周&quot;, &quot;reset&quot;: &quot;重新开始&quot;, &quot;wallet&quot;: &quot;钱包&quot;, &quot;savings&quot;: &quot;储蓄 · 每周 5% 复利&quot;, &quot;funds&quot;: [&quot;乌龟稳健基金&quot;, &quot;兔子成长股&quot;, &quot;火箭冒险股&quot;], &quot;power&quot;: &quot;物价指数 {i} · 钱包里的 1,000 金币，现在只能买到以前 {p} 金币的东西&quot;, &quot;note&quot;: &quot;和 App 里一样，基金价格随机涨跌，所以每次结果都不同。每周 5% 的利息和每周 2% 的物价上涨，是 App 的初始设置。&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>“存起来钱会变多”，孩子真的听懂了吗？</h2>
+      <p>利息、复利、通货膨胀，越讲越像是离孩子很远的事。在茁壮零花钱里，孩子自己挣、自己花、自己等。等他发现上周存的钱多出了利息，下一次的零花钱就会主动存进储蓄。</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>看得见耐心的回报</h2>
+        <p>存进储蓄的钱每周按复利计息。利率由爸妈来定，图表还会告诉孩子：一直不动的话，12 周后会变成多少。<br>几天没打开也没关系，下次打开 App 时，欠下的每一周利息都会一次补齐。</p>
+      </div>
+      <div class="phone"><img src="../img/zh-Hans/03-savings.jpg" alt="看得见耐心的回报" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>看见物价怎样吃掉钱包</h2>
+        <p>市场页把家里的物价指数、通胀率、利率、货币量和基金价格放在同一个画面里。物价越涨，就越能看出钱包里的 1,000 金币能买的东西少了多少。<br>放着不动的钱会缩水，存起来或投出去的钱能保住价值，孩子用数字就能看明白。</p>
+      </div>
+      <div class="phone"><img src="../img/zh-Hans/04-market.jpg" alt="看见物价怎样吃掉钱包" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>十个值得一起聊的话题</h2>
+        <p>家长指南分十步带你和孩子聊：为什么需要钱、需要和想要、机会成本、储蓄和利息、复利、通货膨胀、投资和风险，再到做预算。<br>还有复利计算器和物价实验计算器，改改数字就能一起看到结果。</p>
+      </div>
+      <div class="phone"><img src="../img/zh-Hans/06-learn.jpg" alt="十个值得一起聊的话题" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>三步就能开始</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>给货币起个名字</h3><p>豆豆、星星、金币，全家喜欢什么就叫什么。</p></li>
+<li class="card"><span class="n">2</span><h3>设置家长 PIN</h3><p>4 位数字。只有知道它的人，才能发零花钱或修改银行设置。</p></li>
+<li class="card"><span class="n">3</span><h3>添加家庭成员</h3><p>加上孩子和爸妈，发出第一笔零花钱，就可以开始了。</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>功能在哪里</h2>
+      <div class="card table">
+        <dl><div><dt>总览</dt><dd>一眼看到每位家人的钱包、储蓄和投资</dd></div><div><dt>操作</dt><dd>发放 / 扣除零花钱、商品条形码、添加商品、邀请孩子、孩子手机模式、银行设置（需要家长 PIN）</dd></div><div><dt>市场</dt><dd>物价指数、通胀率、汇率、储蓄利率、货币量、基金价格</dd></div><div><dt>记录</dt><dd>每一笔钱的进出，可按日期、成员或类型查看</dd></div><div><dt>学习</dt><dd>十步家长指南、复利计算器、物价实验计算器</dd></div><div><dt>🐢 乌龟稳健基金</dt><dd>每天波动很小，慢慢稳稳往上走</dd></div><div><dt>🐰 兔子成长股</dt><dd>有涨有跌，但整体在成长</dd></div><div><dt>🚀 火箭冒险股</dt><dd>可能一飞冲天，也可能大幅下跌</dd></div></dl>
+      </div>
+      <p class="muted">初始设置是每周 5% 的储蓄利率和每周 2% 的通胀率，两者都可以在家长模式的银行设置里修改。通胀率设为 0%，物价就不会变。</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>所有功能免费</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>免费</h3>
+          <ul><li>家里专属的货币，以及用 PIN 锁住的家长模式</li><li>发放和扣除零花钱、我们家的小店、扫码付款</li><li>每周按复利计息的储蓄</li><li>三只带收益图表的模拟基金</li><li>市场页和按日期记录的收支明细</li><li>十步家长指南和两个计算器</li><li>孩子手机模式和 iCloud 同步</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>支持开发者</h3>
+          <ul><li>可以在家长模式的银行设置里，随心送一笔小小的打赏</li><li>打赏不会解锁任何功能，送不送 App 都一样好用</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">没有广告，没有订阅。打赏按钮只在家长模式里，孩子永远不会看到购买按钮。</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>常见问题</h2>
+      <div class="faq"><details><summary>会用到真钱吗？</summary><p>不会。App 里的货币和每一笔交易都是虚拟的，只用来学习，不连接任何真实的银行账户、银行卡或现金。</p></details>
+<details><summary>怎样在孩子的手机上看到同一本家庭账本？</summary><p>登录同一个 iCloud 账户的设备会自动同步家庭账本。请在“设置 &gt; Apple 账户 &gt; iCloud”里确认 iCloud 已开启。在操作页的“邀请孩子”里，可以生成二维码邀请，让孩子用相机扫一扫。不用 iCloud 的话，数据只保存在那一台设备上。</p></details>
+<details><summary>孩子手机模式是什么？</summary><p>把孩子的手机变成专属于他的画面。孩子只能看到自己的钱包、投资、记录和学习内容，退出需要家长 PIN。</p></details>
+<details><summary>忘记家长 PIN 了怎么办？</summary><p>PIN 只保存在设备上，开发者也无法找回。删除并重新安装 App 就能重新设置，但原有数据也会一起清除。</p></details>
+<details><summary>储蓄利息是怎么算的？</summary><p>每周自动按复利把利息加到储蓄余额里。利率在家长模式中设置，错过的周数会在下次打开 App 时一起结算。</p></details>
+<details><summary>基金价格跟真实市场挂钩吗？</summary><p>不挂钩。基金价格是 App 里每天变动一次的练习数据，风险越高的基金涨跌越大。它们都不是真实的金融产品。</p></details>
+<details><summary>为什么物价会上涨？</summary><p>为了让孩子体会通货膨胀，家里的物价指数每周会小幅上涨。涨幅可以在家长模式的银行设置里调整，设为 0% 就会停止。把我们家的小店里零食和玩具的价格也跟着调高一点，效果会更明显。</p></details>
+<details><summary>怎样删除所有数据？</summary><p>删除 App 会清除保存在设备上的数据。已同步到 iCloud 的数据，请前往“设置 &gt; Apple 账户 &gt; iCloud &gt; 管理储存空间”，删除本 App 的数据。</p></details>
+<details><summary>家里的信息会被发送出去吗？</summary><p>不会。无需注册，所有数据只保存在你的设备和你自己的 iCloud 账户中。开发者只会收到你在家长模式里主动发送的反馈，以及匿名的使用统计和崩溃报告。</p></details>
+<details><summary>支持哪些设备？</summary><p>运行 iOS 17.0 或更高版本的 iPhone。</p></details></div>
+      <p class="contact">有疑问、遇到故障，或者有好点子？欢迎写信到 <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>。附上设备型号和 iOS 版本，我们能更快帮到你。</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>从这周的零花钱开始<br>开一家家庭银行</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">在 App Store 免费下载</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 茁壮零花钱 · <a href="privacy.html">隐私政策</a> · <a href="support.html">支持</a></p>
+    <nav id="languages" class="langs" aria-label="语言"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans" aria-current="page">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">隐私政策</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

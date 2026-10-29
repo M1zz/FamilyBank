@@ -1,0 +1,39 @@
+/* 쑥쑥용돈 웹 데모. 오름 빨강, 내림 파랑은 앱(InvestView)과 같다. */
+.demo-card { display: grid; grid-template-columns: 3fr 2fr; gap: var(--s5); align-items: center; }
+.demo-stage { background: var(--bg); border-radius: var(--r-inner); padding: var(--s5); }
+
+.bank-rows { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s4); }
+.bank-rows li { display: grid; grid-template-columns: 1fr auto; grid-template-areas: "name value" "bar bar"; gap: var(--s1) var(--s3); }
+.bank-name { grid-area: name; font-weight: 600; }
+.bank-value { grid-area: value; text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.bank-value small { color: var(--muted); font-weight: 600; }
+.bank-value small.up { color: #E5484D; }
+.bank-value small.down { color: #3B82F6; }
+.bank-bar { grid-area: bar; height: 10px; border-radius: 999px; background: var(--line); overflow: hidden; }
+.bank-bar i { display: block; height: 100%; border-radius: inherit; background: var(--accent);
+              transition: width .6s var(--ease); }
+[data-key="wallet"] .bank-bar i { background: var(--muted); }
+
+.bank-week { font-size: clamp(2rem, 5vw, 2.75rem); font-weight: 800; letter-spacing: -0.02em; line-height: 1.15; margin: 0 0 var(--s4); }
+.bank-week.bump { animation: bump .45s var(--ease); }
+@keyframes bump { 0% { transform: scale(.92); opacity: .5; } 100% { transform: none; opacity: 1; } }
+.bank-buttons { display: flex; flex-wrap: wrap; gap: var(--s2); margin-bottom: var(--s4); }
+.bank-power { font-weight: 600; margin: 0 0 var(--s3); }
+
+.chip { font: inherit; font-weight: 600; color: var(--accent); background: var(--bg); border: 0;
+        border-radius: 999px; padding: var(--s2) var(--s5); min-height: 44px; cursor: pointer;
+        transition: transform .15s var(--ease), background .15s var(--ease); }
+.chip:hover { background: color-mix(in srgb, var(--accent) 14%, var(--bg)); }
+.chip:active { transform: scale(.95); }
+.chip:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.bank-next { background: var(--accent); color: var(--on-accent); }
+.bank-next:hover { background: color-mix(in srgb, var(--accent) 88%, var(--text)); }
+.chip.hint { animation: hint 1.6s var(--ease) infinite; }
+@keyframes hint { 50% { box-shadow: 0 0 0 8px color-mix(in srgb, var(--accent) 22%, transparent); } }
+.demo-note { margin-top: var(--s3); }
+
+@media (prefers-reduced-motion: reduce) {
+  .bank-week.bump, .chip.hint { animation: none; }
+  .bank-bar i { transition: none; }
+}
+@media (max-width: 760px) { .demo-card { grid-template-columns: 1fr; } }

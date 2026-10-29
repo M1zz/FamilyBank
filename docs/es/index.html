@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Paga — Educación financiera en familia</title>
-  <meta name="description" content="SukSuk Paga es la app de educación financiera en familia: los padres hacen de banco y los niños ahorran su paga, pagan, ahorran con intereses e invierten mientras aprenden cómo funciona el dinero.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Paga: tú eres el banco de casa y tus hijos ahorran e invierten</title>
+  <meta name="description" content="Da la paga en la moneda de tu familia: tus hijos pagan, cobran intereses cada semana y prueban fondos de práctica. Todo gratis.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/es/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,60 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Paga: tú eres el banco de casa y tus hijos ahorran e invierten">
+  <meta property="og:description" content="Da la paga en la moneda de tu familia: tus hijos pagan, cobran intereses cada semana y prueban fondos de práctica. Todo gratis.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/es/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/es/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es" aria-current="true" style="font-weight:700">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Paga</h1>
-    <p class="sub">La app de la paga familiar que ayuda a los niños a crecer con buenos hábitos con el dinero</p>
-    <nav class="top">
-      <a href="index.html">Inicio</a>
-      <a href="support.html">Ayuda y contacto</a>
-      <a href="privacy.html">Política de privacidad</a>
-    </nav>
+  <a class="skip" href="#main">Saltar al contenido</a>
+  <header class="bar">
+    <a class="brand" href="../es/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Paga</a>
+    <a class="lang-link" href="#languages">Idioma</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 ¿Qué es SukSuk Paga?</h2>
-      <p>
-        <strong>SukSuk Paga</strong> es una app para iOS que enseña a los niños finanzas y economía
-        con una moneda que solo existe dentro de tu familia. Los padres hacen de banco central y
-        reparten la paga; los niños pagan sus compras, ahorran y cobran intereses e invierten en
-        fondos simulados, aprendiendo cómo funciona la economía con la práctica.
-      </p>
-      <div class="key">
-        Todos los datos se guardan <strong>solo en tu dispositivo y en tu propia cuenta de iCloud</strong>.
-        No hace falta registrarse, y nada de lo que introduce tu familia se envía al desarrollador.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>El día de la paga,<br>una clase de dinero</h1>
+        <p class="lead">Tú haces de banco central de la familia y tus hijos son los clientes. Reciben la paga en vuestra propia moneda, se compran sus chuches, ven cómo los intereses llegan a su ahorro y viven las subidas y bajadas de un fondo de práctica.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Descárgala gratis en el App Store</a><a class="try" href="#try">¿Dónde guardarías 1.000 monedas? ↓</a></div>
+        <p class="muted small">Todas las funciones son gratis. Nunca se mueve dinero real.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/es/01-dashboard.jpg" alt="El día de la paga, una clase de dinero" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Funciones principales</h2>
-      <ul>
-        <li><strong>La moneda de casa</strong> — Ponle el nombre que quieras: Judías, Estrellas, Monedas…</li>
-        <li><strong>Dar o descontar paga</strong> — Se gestiona desde el modo padres, protegido con PIN</li>
-        <li><strong>Pagos</strong> — Los niños pagan ellos mismos chuches, tiempo de juego y más, también con código de barras</li>
-        <li><strong>Intereses del ahorro</strong> — La cuenta de ahorro suma interés compuesto automáticamente cada semana</li>
-        <li><strong>Prácticas de inversión</strong> — Fondos simulados Prudente 🐢 · Equilibrado 🐰 · Atrevido 🚀</li>
-        <li><strong>Historial de movimientos</strong> — Repasa día a día adónde ha ido cada moneda</li>
-        <li><strong>Aprender sobre dinero</strong> — Guías sobre dinero, ahorro, interés compuesto, inversión, coste de oportunidad y más</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 ¿Necesitas ayuda?</h2>
-      <p>Si tienes alguna duda o encuentras un error, escríbenos cuando quieras.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Paga%5D%20Consulta">✉️ Contactar</a>
-      </p>
-      <p class="muted">Encontrarás las preguntas frecuentes en la <a href="support.html">página de ayuda</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>¿Dónde guardarías 1.000 monedas?</h2>
+      <p class="muted">Las mismas 1.000 monedas, repartidas en un monedero, una cuenta de ahorro y tres fondos. Avanza semana a semana y mira qué le pasa a cada una. Todo sigue las mismas reglas que la app.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;¿Dónde guardarías 1.000 monedas?&quot;, &quot;lead&quot;: &quot;Las mismas 1.000 monedas, repartidas en un monedero, una cuenta de ahorro y tres fondos. Avanza semana a semana y mira qué le pasa a cada una. Todo sigue las mismas reglas que la app.&quot;, &quot;currency&quot;: &quot;monedas&quot;, &quot;week&quot;: &quot;Semana {n}&quot;, &quot;start&quot;: &quot;Aún no ha empezado&quot;, &quot;next&quot;: &quot;Avanzar una semana&quot;, &quot;reset&quot;: &quot;Volver a empezar&quot;, &quot;wallet&quot;: &quot;Monedero&quot;, &quot;savings&quot;: &quot;Ahorro · 5 % semanal, interés compuesto&quot;, &quot;funds&quot;: [&quot;Fondo Tortuga Seguro&quot;, &quot;Acciones Conejo Crecimiento&quot;, &quot;Acciones Cohete Aventura&quot;], &quot;power&quot;: &quot;Índice de precios {i} · Con 1.000 monedas del monedero ya solo compras lo que antes costaba {p}&quot;, &quot;note&quot;: &quot;Igual que en la app, los precios de los fondos se mueven al azar, así que cada vez sale distinto. El 5 % de interés y el 2 % de subida de precios semanales son los ajustes iniciales de la app.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>«Si lo ahorras, crece». ¿De verdad le llega a un niño?</h2>
+      <p>Interés, interés compuesto, inflación: cuanto más los explicas, más lejanos suenan. En SukSuk Paga, los niños lo ganan, lo gastan y lo esperan ellos mismos. En cuanto descubren que el ahorro de la semana pasada ha dado intereses, la siguiente paga va directa a la cuenta de ahorro.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>La paciencia tiene premio</h2>
+        <p>El dinero de la cuenta de ahorro gana interés compuesto cada semana. Tú decides el tipo, y un gráfico muestra cuánto habrá en 12 semanas si no lo tocan.<br>¿Pasaron unos días sin abrir la app? Al abrirla se pagan de golpe todas las semanas pendientes.</p>
+      </div>
+      <div class="phone"><img src="../img/es/03-savings.jpg" alt="La paciencia tiene premio" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Ver cómo los precios se comen el monedero</h2>
+        <p>La pestaña Mercado reúne en una pantalla el índice de precios de la familia, la inflación, el tipo de interés, el dinero en circulación y los precios de los fondos. A medida que suben los precios, muestra cuánto menos compran las 1.000 monedas del monedero.<br>Los niños ven con números claros que el dinero parado encoge, y que el ahorrado o invertido aguanta.</p>
+      </div>
+      <div class="phone"><img src="../img/es/04-market.jpg" alt="Ver cómo los precios se comen el monedero" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Diez conversaciones para tener juntos</h2>
+        <p>La guía para padres te acompaña en diez pasos: para qué sirve el dinero, necesidades y caprichos, coste de oportunidad, ahorro e intereses, interés compuesto, inflación, inversión y riesgo, y cómo hacer un presupuesto.<br>Una calculadora de interés compuesto y una de experimento de precios os dejan cambiar los números y ver qué pasa.</p>
+      </div>
+      <div class="phone"><img src="../img/es/06-learn.jpg" alt="Diez conversaciones para tener juntos" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Tres pasos para empezar</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Ponle nombre a tu moneda</h3><p>Judías, Estrellas, Monedas: como queráis llamarla en casa.</p></li>
+<li class="card"><span class="n">2</span><h3>Elige un PIN de padres</h3><p>Cuatro cifras. Solo quien lo conozca puede dar la paga o cambiar los ajustes del banco.</p></li>
+<li class="card"><span class="n">3</span><h3>Añade a la familia</h3><p>Añade a los hijos y a los padres, da la primera paga y listo.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Qué hay en cada sitio</h2>
+      <div class="card table">
+        <dl><div><dt>Panel</dt><dd>El monedero, el ahorro y las inversiones de todos de un vistazo</dd></div><div><dt>Acciones</dt><dd>Dar o descontar paga, Código de barras, Añadir artículo, Invitar a un hijo, Modo teléfono del hijo, Ajustes del banco (requiere el PIN de padres)</dd></div><div><dt>Mercado</dt><dd>Índice de precios, inflación, tipo de cambio, interés del ahorro, dinero en circulación, precios de los fondos</dd></div><div><dt>Historial</dt><dd>Cada movimiento de dinero por fecha, por miembro o por tipo</dd></div><div><dt>Aprender</dt><dd>Guía para padres en diez pasos, calculadora de interés compuesto, calculadora de experimento de precios</dd></div><div><dt>🐢 Fondo Tortuga Seguro</dt><dd>Pocos vaivenes al día, sube despacio y sin sustos</dd></div><div><dt>🐰 Acciones Conejo Crecimiento</dt><dd>Sube y baja, pero va creciendo</dd></div><div><dt>🚀 Acciones Cohete Aventura</dt><dd>Puede dispararse o desplomarse</dd></div></dl>
+      </div>
+      <p class="muted">Empieza con un 5 % de interés semanal en el ahorro y un 2 % de inflación semanal. Puedes cambiar ambos en el Modo para padres, en Ajustes del banco. Con la inflación al 0 %, los precios no se mueven.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Todas las funciones son gratis</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Gratis</h3>
+          <ul><li>Tu propia moneda familiar y un Modo para padres protegido con PIN</li><li>Dar y descontar paga, la Tienda de casa y pagos con código de barras</li><li>Una cuenta de ahorro con interés compuesto semanal</li><li>Tres fondos de práctica con gráficos de rentabilidad</li><li>La pestaña Mercado y un historial de movimientos por fecha</li><li>La guía para padres en diez pasos y dos calculadoras</li><li>Modo teléfono del hijo y sincronización con iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Apoya al desarrollador</h3>
+          <ul><li>Envía una propina de la cantidad que quieras desde Ajustes del banco, en el Modo para padres</li><li>La propina no desbloquea nada. La app funciona igual con o sin ella</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Sin anuncios ni suscripciones. El botón de propina solo está dentro del Modo para padres, así que tus hijos nunca ven un botón de compra.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Preguntas frecuentes</h2>
+      <div class="faq"><details><summary>¿Se usa dinero real?</summary><p>No. La moneda y todas las operaciones de la app son de mentira, solo para aprender. No hay conexión con ninguna cuenta bancaria, tarjeta ni efectivo.</p></details>
+<details><summary>¿Cómo vemos las mismas cuentas en el teléfono de mi hijo?</summary><p>Los dispositivos con la misma cuenta de iCloud sincronizan las cuentas familiares automáticamente. Comprueba que iCloud esté activado en Ajustes &gt; Cuenta de Apple &gt; iCloud. En la pestaña Acciones, desde Invitar a un hijo, puedes crear una invitación con código QR para que la escanee con la cámara. Sin iCloud, los datos se quedan solo en ese dispositivo.</p></details>
+<details><summary>¿Qué es el Modo teléfono del hijo?</summary><p>Convierte el teléfono de tu hijo en una pantalla hecha solo para él. Únicamente ve su monedero, sus inversiones, su historial y las lecciones, y para salir hace falta el PIN de padres.</p></details>
+<details><summary>He olvidado el PIN de padres.</summary><p>El PIN se guarda solo en el dispositivo, así que ni siquiera el desarrollador puede recuperarlo. Si eliminas y vuelves a instalar la app podrás configurarla de nuevo, pero también se borrarán los datos que tenías.</p></details>
+<details><summary>¿Cómo funcionan los intereses del ahorro?</summary><p>Cada semana se suma automáticamente interés compuesto al saldo de ahorro. Tú eliges el tipo en el Modo para padres, y las semanas que hayan pasado se liquidan la próxima vez que se abra la app.</p></details>
+<details><summary>¿Los precios de los fondos siguen al mercado real?</summary><p>No. Son datos de práctica que cambian una vez al día dentro de la app. Cuanto más arriesgado es el fondo, más se mueve. No son productos financieros reales.</p></details>
+<details><summary>¿Por qué suben los precios?</summary><p>Para que los niños noten la inflación, el índice de precios de la familia sube un poco cada semana. Puedes cambiar el ritmo, o ponerlo al 0 % para desactivarlo, en el Modo para padres, en Ajustes del banco. Si subes también un poco el precio de las chuches y los juguetes de la Tienda de casa, la lección cala mucho más.</p></details>
+<details><summary>¿Cómo lo borro todo?</summary><p>Al eliminar la app se borran los datos guardados en el dispositivo. Para los datos sincronizados con iCloud, ve a Ajustes &gt; Cuenta de Apple &gt; iCloud &gt; Gestionar almacenamiento y elimina los datos de la app.</p></details>
+<details><summary>¿Se envía la información de mi familia a algún sitio?</summary><p>No. No hay registro y todos los datos se quedan en tu dispositivo y en tu propia cuenta de iCloud. El desarrollador solo recibe los comentarios que tú mismo envíes desde el Modo para padres, además de estadísticas de uso anónimas e informes de fallos.</p></details>
+<details><summary>¿En qué dispositivos funciona?</summary><p>En iPhone con iOS 17.0 o posterior.</p></details></div>
+      <p class="contact">¿Dudas, fallos o ideas? Escríbenos a <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Si nos dices el modelo de tu dispositivo y la versión de iOS, podremos ayudarte antes.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Abre el banco de casa<br>con la paga de esta semana</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Descárgala gratis en el App Store</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Paga · <a href="privacy.html">Política de privacidad</a> · <a href="support.html">Ayuda</a></p>
+    <nav id="languages" class="langs" aria-label="Idioma"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es" aria-current="page">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Política de privacidad</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

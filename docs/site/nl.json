@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Zakgeld: ouders zijn de bank, kinderen sparen en beleggen",
+  "description": "Geef zakgeld in je eigen gezinsmunt. Kinderen betalen zelf, krijgen elke week rente en proberen oefenfondsen, zo snappen ze geld. Alles is gratis.",
+  "hero": {
+    "headline": "Zakgelddag wordt\neen les over geld",
+    "lead": "Jij bent de centrale bank van het gezin, je kinderen zijn de klanten. Ze krijgen zakgeld in jullie eigen munt, kopen er snoep van, zien rente binnenkomen op hun spaargeld en beleven de ups en downs van een oefenfonds.",
+    "cta": "Download gratis in de App Store",
+    "note": "Alle functies zijn gratis. Er gaat nooit echt geld over de toonbank."
+  },
+  "demo": {
+    "title": "Waar zou jij 1.000 munten laten?",
+    "lead": "Dezelfde 1.000 munten zitten in een portemonnee, op een spaarrekening en in drie fondsen. Spring telkens een week vooruit en kijk wat er met elk gebeurt. Alles volgt dezelfde regels als de app.",
+    "currency": "munten",
+    "week": "Week {n}",
+    "start": "Nog niet begonnen",
+    "next": "Week vooruit",
+    "reset": "Opnieuw beginnen",
+    "wallet": "Portemonnee",
+    "savings": "Sparen · 5% per week, rente op rente",
+    "funds": ["Schildpad Zeker Fonds", "Konijn Groeiaandelen", "Raket Avontuuraandelen"],
+    "power": "Prijsindex {i} · voor 1.000 munten in de portemonnee koop je nu wat vroeger {p} kostte",
+    "note": "Net als in de app bewegen de fondsprijzen willekeurig, dus elke ronde loopt anders af. De 5% rente en 2% prijsstijging per week zijn de startinstellingen van de app."
+  },
+  "problem": {
+    "title": "\"Spaar het op, dan groeit het.\" Komt dat echt aan bij een kind?",
+    "text": "Rente, rente op rente, inflatie: hoe meer je uitlegt, hoe verder weg het klinkt. In SukSuk Zakgeld verdienen, besteden en wachten kinderen zelf. Zodra ze zien dat er rente op het spaargeld van vorige week staat, gaat het volgende zakgeld meteen naar de spaarrekening."
+  },
+  "features": [
+    {
+      "title": "Geduld wordt zichtbaar beloond",
+      "text": "Geld op de spaarrekening krijgt elke week rente op rente. Jij kiest het percentage, en een grafiek laat zien hoeveel het over 12 weken is als niemand eraan komt.\nEen paar dagen de app niet geopend? Bij de volgende keer worden alle openstaande weken in één keer uitbetaald.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Zie prijzen de portemonnee leegeten",
+      "text": "Het tabblad Markt zet de prijsindex van het gezin, inflatie, rente, geldhoeveelheid en fondsprijzen op één scherm. Als de prijzen stijgen, zie je hoeveel minder 1.000 munten in de portemonnee nog kopen.\nKinderen zien in duidelijke cijfers dat stilliggend geld krimpt, terwijl gespaard of belegd geld zijn waarde houdt.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Tien gesprekken om samen te voeren",
+      "text": "De ouderhandleiding neemt je in tien stappen mee: waarom we geld nodig hebben, behoeften en wensen, opportuniteitskosten, sparen en rente, rente op rente, inflatie, beleggen en risico, tot het maken van een budget.\nMet een rente-op-rentecalculator en een prijsexperimentcalculator verander je samen de getallen en zie je wat er gebeurt.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "In drie stappen aan de slag",
+    "items": [
+      {
+        "title": "Geef je munt een naam",
+        "text": "Bonen, Sterren, Munten: hoe jullie gezin hem ook wil noemen."
+      },
+      {
+        "title": "Kies een ouder-pincode",
+        "text": "Vier cijfers. Alleen wie hem kent, kan zakgeld geven of de bankinstellingen wijzigen."
+      },
+      {
+        "title": "Voeg het gezin toe",
+        "text": "Voeg kinderen en ouders toe, geef het eerste zakgeld en je kunt beginnen."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Wat staat waar",
+    "rows": [
+      ["Overzicht", "Ieders portemonnee, spaargeld en beleggingen in één oogopslag"],
+      ["Acties", "Zakgeld geven of afschrijven, Streepjescode van artikel, Artikel toevoegen, Kind uitnodigen, Kindertelefoonstand, Bankinstellingen (ouder-pincode nodig)"],
+      ["Markt", "Prijsindex, inflatie, wisselkoers, spaarrente, geldhoeveelheid, fondsprijzen"],
+      ["Geschiedenis", "Elke geldbeweging per datum, per gezinslid of per soort"],
+      ["Leren", "Ouderhandleiding in tien stappen, rente-op-rentecalculator, prijsexperimentcalculator"],
+      ["🐢 Schildpad Zeker Fonds", "Kleine dagelijkse schommelingen, langzaam en gestaag omhoog"],
+      ["🐰 Konijn Groeiaandelen", "Op en neer, maar ze groeien"],
+      ["🚀 Raket Avontuuraandelen", "Kunnen de lucht in schieten of keihard dalen"]
+    ],
+    "note": "Bij de start geldt 5% spaarrente en 2% inflatie per week. Beide pas je aan in de Ouderstand onder Bankinstellingen. Met 0% inflatie blijven de prijzen gelijk."
+  },
+  "pricing": {
+    "title": "Alle functies zijn gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Jullie eigen gezinsmunt en een met pincode beveiligde Ouderstand",
+        "Zakgeld geven en afschrijven, Winkel thuis en betalen met streepjescode",
+        "Een spaarrekening met wekelijks rente op rente",
+        "Drie oefenfondsen met rendementsgrafieken",
+        "Het tabblad Markt en een geschiedenis van alle transacties per datum",
+        "De ouderhandleiding in tien stappen en twee calculators",
+        "Kindertelefoonstand en synchronisatie via iCloud"
+      ]
+    },
+    "pro": {
+      "name": "Steun de ontwikkelaar",
+      "items": [
+        "Geef een kleine fooi van elk bedrag via Bankinstellingen in de Ouderstand",
+        "Een fooi ontgrendelt niets. De app werkt precies hetzelfde"
+      ]
+    },
+    "note": "Geen advertenties, geen abonnement. De fooiknop zit alleen in de Ouderstand, dus je kinderen zien nooit een koopknop."
+  },
+  "faq": {
+    "title": "Vragen",
+    "items": [
+      {
+        "q": "Komt er echt geld aan te pas?",
+        "a": "Nee. De munt en alle transacties in de app zijn nep en alleen bedoeld om te leren. Niets is gekoppeld aan een echte bankrekening, pas of contant geld."
+      },
+      {
+        "q": "Hoe zien we dezelfde rekeningen op de telefoon van mijn kind?",
+        "a": "Apparaten die met hetzelfde iCloud-account zijn ingelogd, synchroniseren de gezinsrekeningen automatisch. Controleer of iCloud aanstaat via Instellingen > Apple Account > iCloud. Op het tabblad Acties kun je bij Kind uitnodigen een QR-uitnodiging maken die je kind met de camera scant. Zonder iCloud blijven de gegevens alleen op dat ene apparaat."
+      },
+      {
+        "q": "Wat is de Kindertelefoonstand?",
+        "a": "Die maakt van de telefoon van je kind een scherm speciaal voor hem of haar. Je kind ziet alleen de eigen portemonnee, beleggingen, geschiedenis en lessen, en om eruit te gaan is de ouder-pincode nodig."
+      },
+      {
+        "q": "Ik ben de ouder-pincode vergeten.",
+        "a": "De pincode staat alleen op het apparaat, dus zelfs de ontwikkelaar kan hem niet terughalen. Als je de app verwijdert en opnieuw installeert, kun je alles opnieuw instellen, maar dan worden ook je bestaande gegevens gewist."
+      },
+      {
+        "q": "Hoe werkt de spaarrente?",
+        "a": "Elke week wordt er automatisch rente op rente bij het spaarsaldo opgeteld. Je kiest het percentage in de Ouderstand, en verstreken weken worden verrekend zodra de app weer wordt geopend."
+      },
+      {
+        "q": "Volgen de fondsprijzen de echte markt?",
+        "a": "Nee. Fondsprijzen zijn oefengegevens die één keer per dag in de app veranderen. Hoe riskanter het fonds, hoe groter de schommelingen. Het zijn geen echte financiële producten."
+      },
+      {
+        "q": "Waarom stijgen de prijzen?",
+        "a": "Zodat kinderen inflatie voelen, stijgt de prijsindex van het gezin elke week een beetje. Pas het tempo aan, of zet het op 0% om het uit te zetten, in de Ouderstand onder Bankinstellingen. Verhoog je meteen ook de prijzen van snoep en speelgoed in de Winkel thuis een beetje, dan blijft de les beter hangen."
+      },
+      {
+        "q": "Hoe wis ik alles?",
+        "a": "Als je de app verwijdert, worden de gegevens op het apparaat gewist. Gegevens die naar iCloud zijn gesynchroniseerd, verwijder je via Instellingen > Apple Account > iCloud > Beheer opslag."
+      },
+      {
+        "q": "Worden gegevens van mijn gezin ergens naartoe gestuurd?",
+        "a": "Nee. Er is geen registratie, en alle gegevens blijven op je apparaat en in je eigen iCloud-account. De ontwikkelaar ontvangt alleen feedback die je zelf vanuit de Ouderstand stuurt, plus anonieme gebruiksstatistieken en crashrapporten."
+      },
+      {
+        "q": "Op welke apparaten werkt het?",
+        "a": "Op iPhone met iOS 17.0 of nieuwer."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Open de gezinsbank\nmet het zakgeld van deze week",
+    "cta": "Download gratis in de App Store"
+  },
+  "ui": {
+    "skip": "Ga naar inhoud",
+    "languages": "Taal",
+    "privacy": "Privacybeleid",
+    "contact": "Vragen, fouten of ideeën? Mail naar {email}. Met je apparaatmodel en iOS-versie erbij kunnen we je sneller helpen."
+  }
+}

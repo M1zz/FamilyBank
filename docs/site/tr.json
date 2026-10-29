@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Harçlık: ebeveynler banka, çocuklar biriktirip yatırım yapıyor",
+  "description": "Harçlığı ailenizin kendi parasıyla verin. Çocuklar kendileri öder, her hafta faiz alır, deneme fonlarını dener ve parayı öğrenir. Ücretsiz.",
+  "hero": {
+    "headline": "Harçlık günü\nbir para dersine dönüşsün",
+    "lead": "Siz ailenin merkez bankasısınız, çocuklar da müşterileri. Harçlıklarını sizin kendi paranızla alıyor, atıştırmalık satın alıyor, birikimlerine faiz eklendiğini görüyor ve bir deneme fonunun inişlerini çıkışlarını yaşıyorlar.",
+    "cta": "App Store'dan ücretsiz indirin",
+    "note": "Tüm özellikler ücretsiz. Gerçek para asla el değiştirmez."
+  },
+  "demo": {
+    "title": "1.000 jetonu nerede tutardınız?",
+    "lead": "Aynı 1.000 jeton bir cüzdanda, bir tasarruf hesabında ve üç fonda duruyor. Haftayı birer birer ilerletin ve her birine ne olduğunu izleyin. Hepsi uygulamadaki kurallarla aynı.",
+    "currency": "jeton",
+    "week": "{n}. hafta",
+    "start": "Henüz başlamadı",
+    "next": "Bir hafta ilerlet",
+    "reset": "Baştan başla",
+    "wallet": "Cüzdan",
+    "savings": "Tasarruf · haftalık %5 bileşik faiz",
+    "funds": ["Kaplumbağa Güvenli Fon", "Tavşan Büyüme Hissesi", "Roket Macera Hissesi"],
+    "power": "Fiyat endeksi {i} · cüzdandaki 1.000 jeton artık eskiden {p} jetonla alınanı alabiliyor",
+    "note": "Uygulamadaki gibi fon fiyatları rastgele değişir, bu yüzden her deneme farklı sonuçlanır. Haftalık %5 faiz ve %2 fiyat artışı uygulamanın başlangıç ayarlarıdır."
+  },
+  "problem": {
+    "title": "\"Biriktirirsen büyür\" sözü bir çocuğa gerçekten ulaşıyor mu?",
+    "text": "Faiz, bileşik faiz, enflasyon: anlattıkça daha da uzak geliyor. SukSuk Harçlık'ta çocuklar kendileri kazanıyor, harcıyor ve bekliyor. Geçen haftaki birikimlerinin faiz getirdiğini fark ettikleri anda, bir sonraki harçlık doğrudan tasarruf hesabına gidiyor."
+  },
+  "features": [
+    {
+      "title": "Sabrın karşılığını görün",
+      "text": "Tasarruf hesabındaki para her hafta bileşik faiz kazanır. Oranı siz belirlersiniz; grafik de dokunulmazsa 12 hafta sonra ne kadar olacağını gösterir.\nBirkaç gün uygulamayı açmadınız mı? Açıldığında birikmiş tüm haftalar tek seferde ödenir.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Fiyatların cüzdanı nasıl erittiğini görün",
+      "text": "Pazar sekmesi ailenin fiyat endeksini, enflasyonu, faiz oranını, para miktarını ve fon fiyatlarını tek ekranda toplar. Fiyatlar yükseldikçe cüzdandaki 1.000 jetonun ne kadar daha az şey alabildiği görünür.\nÇocuklar net rakamlarla görür: boşta duran para erir, biriktirilen ya da yatırılan para değerini korur.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Birlikte yapılacak on sohbet",
+      "text": "Ebeveyn rehberi sizi on adımda götürür: paraya neden ihtiyacımız var, ihtiyaçlar ve istekler, fırsat maliyeti, tasarruf ve faiz, bileşik faiz, enflasyon, yatırım ve risk, en sonunda da bütçe yapmak.\nBileşik faiz hesaplayıcısı ve fiyat deneyi hesaplayıcısıyla sayıları değiştirip neler olduğunu birlikte görebilirsiniz.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Üç adımda başlayın",
+    "items": [
+      {
+        "title": "Paranıza bir ad verin",
+        "text": "Fasulye, Yıldız, Jeton; aileniz ne derse o."
+      },
+      {
+        "title": "Ebeveyn PIN'i belirleyin",
+        "text": "Dört haneli. Yalnızca bilen kişi harçlık verebilir ya da banka ayarlarını değiştirebilir."
+      },
+      {
+        "title": "Aileyi ekleyin",
+        "text": "Çocukları ve ebeveynleri ekleyin, ilk harçlığı verin, hazırsınız."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Ne nerede",
+    "rows": [
+      ["Genel bakış", "Herkesin cüzdanı, tasarrufu ve yatırımları tek bakışta"],
+      ["Eylemler", "Harçlık ver ya da düş, Ürün barkodu, Ürün ekle, Çocuğu davet et, Çocuk telefonu modu, Banka ayarları (ebeveyn PIN'i gerekir)"],
+      ["Pazar", "Fiyat endeksi, enflasyon, döviz kuru, tasarruf faizi, para miktarı, fon fiyatları"],
+      ["Geçmiş", "Her para hareketi tarihe, kişiye ya da türe göre"],
+      ["Öğren", "On adımlık ebeveyn rehberi, bileşik faiz hesaplayıcısı, fiyat deneyi hesaplayıcısı"],
+      ["🐢 Kaplumbağa Güvenli Fon", "Günlük küçük dalgalanmalar, yavaş ve istikrarlı yükseliş"],
+      ["🐰 Tavşan Büyüme Hissesi", "İner çıkar ama büyür"],
+      ["🚀 Roket Macera Hissesi", "Uçabilir de, çakılabilir de"]
+    ],
+    "note": "Başlangıçta haftalık %5 tasarruf faizi ve haftalık %2 enflasyon vardır. İkisini de Ebeveyn modunda, Banka ayarları altında değiştirebilirsiniz. Enflasyonu %0 yaparsanız fiyatlar sabit kalır."
+  },
+  "pricing": {
+    "title": "Tüm özellikler ücretsiz",
+    "free": {
+      "name": "Ücretsiz",
+      "items": [
+        "Ailenizin kendi parası ve PIN ile kilitli Ebeveyn modu",
+        "Harçlık verme ve düşme, Ev dükkânı ve barkodla ödeme",
+        "Her hafta bileşik faiz kazanan tasarruf hesabı",
+        "Getiri grafikleriyle üç deneme fonu",
+        "Pazar sekmesi ve tarihli işlem geçmişi",
+        "On adımlık ebeveyn rehberi ve iki hesaplayıcı",
+        "Çocuk telefonu modu ve iCloud eşzamanlaması"
+      ]
+    },
+    "pro": {
+      "name": "Geliştiriciyi destekleyin",
+      "items": [
+        "Ebeveyn modunda Banka ayarları'ndan dilediğiniz tutarda küçük bir bahşiş gönderin",
+        "Bahşiş hiçbir şeyin kilidini açmaz. Uygulama aynı şekilde çalışır"
+      ]
+    },
+    "note": "Reklam yok, abonelik yok. Bahşiş düğmesi yalnızca Ebeveyn modunun içinde olduğu için çocuklar hiçbir zaman satın alma düğmesi görmez."
+  },
+  "faq": {
+    "title": "Sorular",
+    "items": [
+      {
+        "q": "Gerçek para kullanılıyor mu?",
+        "a": "Hayır. Uygulamadaki para ve tüm işlemler oyun amaçlıdır, yalnızca öğrenmek için. Hiçbir şey gerçek bir banka hesabına, karta ya da nakde bağlı değildir."
+      },
+      {
+        "q": "Çocuğumun telefonunda aynı hesapları nasıl görürüz?",
+        "a": "Aynı iCloud hesabıyla oturum açılmış aygıtlar aile hesaplarını otomatik olarak eşzamanlar. Ayarlar > Apple Hesabı > iCloud bölümünde iCloud'un açık olduğunu kontrol edin. Eylemler sekmesindeki Çocuğu davet et bölümünden, çocuğunuzun kamerayla tarayacağı bir QR davetiyesi oluşturabilirsiniz. iCloud olmadan veriler yalnızca o aygıtta kalır."
+      },
+      {
+        "q": "Çocuk telefonu modu nedir?",
+        "a": "Çocuğunuzun telefonunu yalnızca ona ait bir ekrana dönüştürür. Çocuk sadece kendi cüzdanını, yatırımlarını, geçmişini ve derslerini görür; moddan çıkmak için ebeveyn PIN'i gerekir."
+      },
+      {
+        "q": "Ebeveyn PIN'ini unuttum.",
+        "a": "PIN yalnızca aygıtta saklanır, bu yüzden geliştirici bile onu kurtaramaz. Uygulamayı silip yeniden yüklerseniz kurulumu baştan yapabilirsiniz, ancak mevcut verileriniz de silinir."
+      },
+      {
+        "q": "Tasarruf faizi nasıl işliyor?",
+        "a": "Her hafta tasarruf bakiyesine otomatik olarak bileşik faiz eklenir. Oranı Ebeveyn modunda belirlersiniz; geçen haftalar uygulama bir sonraki açılışta hesaplanır."
+      },
+      {
+        "q": "Fon fiyatları gerçek piyasaya bağlı mı?",
+        "a": "Hayır. Fon fiyatları uygulamanın içinde günde bir kez değişen deneme verileridir. Fon ne kadar riskliyse dalgalanma o kadar büyük olur. Gerçek finansal ürünler değildir."
+      },
+      {
+        "q": "Fiyatlar neden artıyor?",
+        "a": "Çocuklar enflasyonu hissetsin diye ailenin fiyat endeksi her hafta biraz yükselir. Hızı değiştirebilir ya da %0 yaparak kapatabilirsiniz; bunun için Ebeveyn modunda Banka ayarları'na gidin. Ev dükkânındaki atıştırmalık ve oyuncakların fiyatlarını da biraz artırırsanız ders daha kalıcı olur."
+      },
+      {
+        "q": "Her şeyi nasıl silerim?",
+        "a": "Uygulamayı silmek aygıttaki verileri kaldırır. iCloud'a eşzamanlanmış veriler için Ayarlar > Apple Hesabı > iCloud > Saklama Alanını Yönet bölümüne gidip uygulamanın verilerini silin."
+      },
+      {
+        "q": "Ailemin bilgileri bir yere gönderiliyor mu?",
+        "a": "Hayır. Kayıt yok; tüm veriler aygıtınızda ve kendi iCloud hesabınızda kalır. Geliştiriciye yalnızca Ebeveyn modundan kendi gönderdiğiniz geri bildirimler, anonim kullanım istatistikleri ve çökme raporları ulaşır."
+      },
+      {
+        "q": "Hangi aygıtlarda çalışır?",
+        "a": "iOS 17.0 veya sonrası yüklü iPhone'da."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Aile bankasını\nbu haftanın harçlığıyla açın",
+    "cta": "App Store'dan ücretsiz indirin"
+  },
+  "ui": {
+    "skip": "İçeriğe geç",
+    "languages": "Dil",
+    "privacy": "Gizlilik Politikası",
+    "contact": "Sorunuz, hata bildiriminiz ya da fikriniz mi var? {email} adresine yazın. Aygıt modelinizi ve iOS sürümünüzü belirtirseniz size daha hızlı yardımcı olabiliriz."
+  }
+}

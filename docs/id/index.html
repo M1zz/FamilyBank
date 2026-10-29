@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Uang Saku — aplikasi edukasi keuangan keluarga</title>
-  <meta name="description" content="SukSuk Uang Saku adalah aplikasi edukasi keuangan keluarga: orang tua menjadi bank, dan anak mengumpulkan uang saku, membayar, menabung, serta berinvestasi sambil belajar cara kerja uang.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Uang Saku: orang tua jadi bank, anak menabung dan berinvestasi</title>
+  <meta name="description" content="Beri uang saku dengan mata uang keluarga sendiri. Anak membayar, dapat bunga tiap minggu, dan mencoba reksa dana latihan. Semua fitur gratis.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/id/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,60 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Uang Saku: orang tua jadi bank, anak menabung dan berinvestasi">
+  <meta property="og:description" content="Beri uang saku dengan mata uang keluarga sendiri. Anak membayar, dapat bunga tiap minggu, dan mencoba reksa dana latihan. Semua fitur gratis.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/id/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/id/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id" aria-current="true" style="font-weight:700">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Uang Saku</h1>
-    <p class="sub">Aplikasi uang saku keluarga yang menumbuhkan kebiasaan finansial anak</p>
-    <nav class="top">
-      <a href="index.html">Beranda</a>
-      <a href="support.html">Bantuan & Kontak</a>
-      <a href="privacy.html">Kebijakan Privasi</a>
-    </nav>
+  <a class="skip" href="#main">Langsung ke konten</a>
+  <header class="bar">
+    <a class="brand" href="../id/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Uang Saku</a>
+    <a class="lang-link" href="#languages">Bahasa</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 Apa itu SukSuk Uang Saku?</h2>
-      <p>
-        <strong>SukSuk Uang Saku</strong> adalah aplikasi iOS yang mengajarkan keuangan dan ekonomi kepada anak
-        melalui mata uang milik keluarga sendiri. Orang tua berperan sebagai bank sentral yang mengeluarkan uang saku, sementara anak
-        membayar, menabung dan mendapat bunga, serta berinvestasi di reksa dana simulasi, sehingga mereka memahami
-        prinsip ekonomi lewat pengalaman langsung.
-      </p>
-      <div class="key">
-        Semua data disimpan <strong>hanya di perangkat Anda dan di akun iCloud Anda sendiri</strong>.
-        Tidak perlu mendaftar, dan informasi yang dimasukkan keluarga tidak dikirim ke pengembang.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Hari uang saku jadi<br>pelajaran soal uang</h1>
+        <p class="lead">Anda jadi bank sentral keluarga, anak-anak jadi nasabahnya. Mereka menerima uang saku dalam mata uang keluarga sendiri, membeli jajanan, melihat bunga masuk ke tabungan, dan ikut deg-degan melihat naik turunnya reksa dana latihan.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Unduh gratis di App Store</a><a class="try" href="#try">Kalau punya 1.000 koin, disimpan di mana? ↓</a></div>
+        <p class="muted small">Semua fitur gratis. Tidak ada uang sungguhan yang berpindah tangan.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/id/01-dashboard.jpg" alt="Hari uang saku jadi pelajaran soal uang" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Fitur utama</h2>
-      <ul>
-        <li><strong>Mata uang keluarga</strong> — tentukan sendiri namanya, misalnya Kacang, Bintang, atau Koin</li>
-        <li><strong>Beri dan potong uang saku</strong> — dikelola di mode orang tua yang dilindungi PIN</li>
-        <li><strong>Pembayaran</strong> — anak membayar sendiri untuk camilan, waktu main gim, dan lainnya, termasuk dengan barcode</li>
-        <li><strong>Bunga tabungan</strong> — bunga majemuk otomatis ditambahkan ke rekening tabungan setiap minggu</li>
-        <li><strong>Belajar berinvestasi</strong> — reksa dana simulasi Stabil 🐢 · Seimbang 🐰 · Berani 🚀</li>
-        <li><strong>Riwayat transaksi</strong> — lihat kembali semua aliran uang berdasarkan tanggal</li>
-        <li><strong>Edukasi keuangan</strong> — panduan konsep seperti uang, menabung, bunga majemuk, investasi, dan biaya peluang</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Butuh bantuan?</h2>
-      <p>Jika ada pertanyaan atau menemukan kesalahan saat menggunakan aplikasi, kabari kami kapan saja.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Uang%20Saku%5D%20Pertanyaan">✉️ Hubungi kami</a>
-      </p>
-      <p class="muted">Pertanyaan umum selengkapnya dapat dilihat di <a href="support.html">halaman bantuan</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Kalau punya 1.000 koin, disimpan di mana?</h2>
+      <p class="muted">1.000 koin yang sama ditaruh di dompet, tabungan, dan tiga reksa dana. Majukan satu minggu demi satu minggu dan lihat apa yang terjadi pada masing-masing. Semuanya mengikuti aturan yang sama dengan aplikasi.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Kalau punya 1.000 koin, disimpan di mana?&quot;, &quot;lead&quot;: &quot;1.000 koin yang sama ditaruh di dompet, tabungan, dan tiga reksa dana. Majukan satu minggu demi satu minggu dan lihat apa yang terjadi pada masing-masing. Semuanya mengikuti aturan yang sama dengan aplikasi.&quot;, &quot;currency&quot;: &quot;koin&quot;, &quot;week&quot;: &quot;Minggu ke-{n}&quot;, &quot;start&quot;: &quot;Belum dimulai&quot;, &quot;next&quot;: &quot;Maju seminggu&quot;, &quot;reset&quot;: &quot;Ulangi dari awal&quot;, &quot;wallet&quot;: &quot;Dompet&quot;, &quot;savings&quot;: &quot;Tabungan · bunga majemuk 5% per minggu&quot;, &quot;funds&quot;: [&quot;Reksa Dana Kura-kura Aman&quot;, &quot;Saham Kelinci Bertumbuh&quot;, &quot;Saham Roket Petualang&quot;], &quot;power&quot;: &quot;Indeks harga {i} · 1.000 koin di dompet sekarang hanya bisa membeli seharga {p} koin dulu&quot;, &quot;note&quot;: &quot;Sama seperti di aplikasi, harga reksa dana bergerak acak, jadi hasilnya selalu berbeda. Bunga 5% dan kenaikan harga 2% per minggu adalah pengaturan awal aplikasi.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>"Ditabung nanti bertambah", apakah anak benar-benar paham?</h2>
+      <p>Bunga, bunga majemuk, inflasi: makin dijelaskan, makin terdengar jauh. Di SukSuk Uang Saku, anak menghasilkan, membelanjakan, dan menunggu sendiri. Begitu mereka melihat tabungan minggu lalu sudah berbunga, uang saku berikutnya langsung masuk ke tabungan.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Kesabaran yang terlihat hasilnya</h2>
+        <p>Uang di tabungan mendapat bunga majemuk setiap minggu. Anda yang menentukan sukunya, dan grafik menunjukkan jadi berapa dalam 12 minggu kalau tidak diambil.<br>Beberapa hari tidak membuka aplikasi? Saat dibuka, semua minggu yang terlewat dibayar sekaligus.</p>
+      </div>
+      <div class="phone"><img src="../img/id/03-savings.jpg" alt="Kesabaran yang terlihat hasilnya" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Lihat harga menggerus isi dompet</h2>
+        <p>Tab Pasar menampilkan indeks harga keluarga, inflasi, suku bunga, jumlah uang beredar, dan harga reksa dana dalam satu layar. Saat harga naik, terlihat berapa banyak berkurangnya barang yang bisa dibeli dengan 1.000 koin di dompet.<br>Anak melihat dengan angka yang jelas: uang yang didiamkan menyusut, sedangkan uang yang ditabung atau diinvestasikan tetap bertahan.</p>
+      </div>
+      <div class="phone"><img src="../img/id/04-market.jpg" alt="Lihat harga menggerus isi dompet" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Sepuluh obrolan untuk dilakukan bersama</h2>
+        <p>Panduan untuk orang tua mengajak Anda melalui sepuluh langkah: kenapa kita butuh uang, kebutuhan dan keinginan, biaya peluang, menabung dan bunga, bunga majemuk, inflasi, investasi dan risiko, sampai menyusun anggaran.<br>Kalkulator bunga majemuk dan kalkulator eksperimen harga membuat Anda bisa mengubah angka dan melihat hasilnya bersama.</p>
+      </div>
+      <div class="phone"><img src="../img/id/06-learn.jpg" alt="Sepuluh obrolan untuk dilakukan bersama" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Mulai dalam tiga langkah</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Beri nama mata uang</h3><p>Kacang, Bintang, Koin, apa pun sebutan yang disukai keluarga.</p></li>
+<li class="card"><span class="n">2</span><h3>Atur PIN orang tua</h3><p>Empat angka. Hanya yang tahu PIN bisa memberi uang saku atau mengubah pengaturan bank.</p></li>
+<li class="card"><span class="n">3</span><h3>Tambahkan keluarga</h3><p>Tambahkan anak dan orang tua, beri uang saku pertama, dan selesai.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Apa ada di mana</h2>
+      <div class="card table">
+        <dl><div><dt>Dasbor</dt><dd>Dompet, tabungan, dan investasi semua anggota dalam sekali lihat</dd></div><div><dt>Aksi</dt><dd>Beri atau kurangi uang saku, Barcode barang, Tambah barang, Undang anak, Mode ponsel anak, Pengaturan bank (perlu PIN orang tua)</dd></div><div><dt>Pasar</dt><dd>Indeks harga, inflasi, kurs, bunga tabungan, jumlah uang beredar, harga reksa dana</dd></div><div><dt>Riwayat</dt><dd>Setiap pergerakan uang menurut tanggal, anggota, atau jenis</dd></div><div><dt>Belajar</dt><dd>Panduan untuk orang tua sepuluh langkah, kalkulator bunga majemuk, kalkulator eksperimen harga</dd></div><div><dt>🐢 Reksa Dana Kura-kura Aman</dt><dd>Naik turun harian kecil, naik pelan tapi pasti</dd></div><div><dt>🐰 Saham Kelinci Bertumbuh</dt><dd>Naik turun, tapi terus tumbuh</dd></div><div><dt>🚀 Saham Roket Petualang</dt><dd>Bisa melesat, bisa anjlok</dd></div></dl>
+      </div>
+      <p class="muted">Awalnya bunga tabungan 5% dan inflasi 2% per minggu. Keduanya bisa diubah di Mode orang tua, bagian Pengaturan bank. Kalau inflasi diatur 0%, harga tidak berubah.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Semua fitur gratis</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Gratis</h3>
+          <ul><li>Mata uang keluarga sendiri dan Mode orang tua yang dikunci PIN</li><li>Memberi dan mengurangi uang saku, Toko rumah, dan bayar dengan barcode</li><li>Tabungan dengan bunga majemuk mingguan</li><li>Tiga reksa dana latihan dengan grafik imbal hasil</li><li>Tab Pasar dan riwayat transaksi per tanggal</li><li>Panduan untuk orang tua sepuluh langkah dan dua kalkulator</li><li>Mode ponsel anak dan sinkronisasi iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Dukung pengembang</h3>
+          <ul><li>Kirim tip kecil berapa pun dari Pengaturan bank di Mode orang tua</li><li>Tip tidak membuka fitur apa pun. Aplikasi tetap sama saja</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Tanpa iklan, tanpa langganan. Tombol tip hanya ada di dalam Mode orang tua, jadi anak tidak pernah melihat tombol beli.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Pertanyaan</h2>
+      <div class="faq"><details><summary>Apakah memakai uang sungguhan?</summary><p>Tidak. Mata uang dan semua transaksi di aplikasi hanya pura-pura, untuk belajar. Tidak ada yang terhubung ke rekening bank, kartu, atau uang tunai sungguhan.</p></details>
+<details><summary>Bagaimana melihat catatan yang sama di ponsel anak?</summary><p>Perangkat yang masuk dengan akun iCloud yang sama menyinkronkan catatan keluarga secara otomatis. Pastikan iCloud aktif di Pengaturan &gt; Akun Apple &gt; iCloud. Di tab Aksi, lewat Undang anak, Anda bisa membuat undangan kode QR untuk dipindai anak dengan kamera. Tanpa iCloud, data hanya tersimpan di perangkat itu.</p></details>
+<details><summary>Apa itu Mode ponsel anak?</summary><p>Mode ini mengubah ponsel anak menjadi layar khusus untuknya. Anak hanya melihat dompet, investasi, riwayat, dan pelajarannya sendiri, dan untuk keluar perlu PIN orang tua.</p></details>
+<details><summary>Saya lupa PIN orang tua.</summary><p>PIN hanya disimpan di perangkat, jadi pengembang pun tidak bisa memulihkannya. Menghapus lalu memasang ulang aplikasi memungkinkan Anda mengatur dari awal, tetapi data yang ada juga ikut terhapus.</p></details>
+<details><summary>Bagaimana cara kerja bunga tabungan?</summary><p>Setiap minggu, bunga majemuk otomatis ditambahkan ke saldo tabungan. Sukunya Anda atur di Mode orang tua, dan minggu yang terlewat diselesaikan saat aplikasi dibuka berikutnya.</p></details>
+<details><summary>Apakah harga reksa dana mengikuti pasar sungguhan?</summary><p>Tidak. Harga reksa dana adalah data latihan yang berubah sekali sehari di dalam aplikasi. Makin berisiko, makin besar naik turunnya. Ini bukan produk keuangan sungguhan.</p></details>
+<details><summary>Kenapa harga naik?</summary><p>Supaya anak merasakan inflasi, indeks harga keluarga naik sedikit setiap minggu. Ubah lajunya, atau atur ke 0% untuk mematikannya, di Mode orang tua bagian Pengaturan bank. Kalau harga jajanan dan mainan di Toko rumah ikut dinaikkan sedikit, pelajarannya makin melekat.</p></details>
+<details><summary>Bagaimana menghapus semuanya?</summary><p>Menghapus aplikasi akan menghapus data di perangkat. Untuk data yang tersinkron ke iCloud, buka Pengaturan &gt; Akun Apple &gt; iCloud &gt; Kelola Penyimpanan, lalu hapus data aplikasi ini.</p></details>
+<details><summary>Apakah informasi keluarga saya dikirim ke mana-mana?</summary><p>Tidak. Tidak perlu daftar, dan semua data tetap di perangkat Anda dan di akun iCloud Anda sendiri. Pengembang hanya menerima masukan yang Anda kirim sendiri dari Mode orang tua, serta statistik penggunaan anonim dan laporan kerusakan.</p></details>
+<details><summary>Bisa dipakai di perangkat apa?</summary><p>iPhone dengan iOS 17.0 atau lebih baru.</p></details></div>
+      <p class="contact">Ada pertanyaan, kendala, atau ide? Tulis ke <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Sertakan model perangkat dan versi iOS agar kami bisa membantu lebih cepat.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Buka bank keluarga<br>dengan uang saku minggu ini</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Unduh gratis di App Store</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Uang Saku · <a href="privacy.html">Kebijakan Privasi</a> · <a href="support.html">Bantuan</a></p>
+    <nav id="languages" class="langs" aria-label="Bahasa"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id" aria-current="page">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Kebijakan Privasi</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Viikkoraha: vanhemmat pankkina, lapset säästävät ja sijoittavat",
+  "description": "Anna viikkoraha perheen omana valuuttana. Lapset maksavat itse, saavat korkoa viikoittain ja kokeilevat harjoitusrahastoja. Kaikki ilmaista.",
+  "hero": {
+    "headline": "Viikkorahapäivästä\ntulee rahatunti",
+    "lead": "Sinä olet perheen keskuspankki ja lapset ovat asiakkaita. He saavat viikkorahansa teidän omana valuuttananne, ostavat herkkuja, näkevät koron kertyvän säästöihin ja elävät mukana harjoitusrahaston nousuissa ja laskuissa.",
+    "cta": "Lataa ilmaiseksi App Storesta",
+    "note": "Kaikki ominaisuudet ovat ilmaisia. Oikeaa rahaa ei liiku koskaan."
+  },
+  "demo": {
+    "title": "Mihin laittaisit 1 000 kolikkoa?",
+    "lead": "Samat 1 000 kolikkoa ovat lompakossa, säästötilillä ja kolmessa rahastossa. Siirry viikko kerrallaan eteenpäin ja katso, mitä kullekin tapahtuu. Säännöt ovat samat kuin sovelluksessa.",
+    "currency": "kolikkoa",
+    "week": "Viikko {n}",
+    "start": "Ei vielä aloitettu",
+    "next": "Viikko eteenpäin",
+    "reset": "Aloita alusta",
+    "wallet": "Lompakko",
+    "savings": "Säästöt · 5 % viikossa, korkoa korolle",
+    "funds": ["Kilpikonnan vakaa rahasto", "Jäniksen kasvuosake", "Raketin seikkailuosake"],
+    "power": "Hintaindeksi {i} · lompakon 1 000 kolikolla saa nyt vain sen, minkä ennen sai {p} kolikolla",
+    "note": "Kuten sovelluksessa, rahastojen hinnat vaihtelevat sattumanvaraisesti, joten joka kerta käy eri tavalla. 5 %:n korko ja 2 %:n hinnannousu viikossa ovat sovelluksen alkuasetukset."
+  },
+  "problem": {
+    "title": "”Säästä, niin se kasvaa.” Meneekö se lapselle oikeasti perille?",
+    "text": "Korko, korkoa korolle, inflaatio: mitä enemmän selittää, sitä kaukaisemmalta se kuulostaa. SukSuk Viikkorahassa lapset ansaitsevat, kuluttavat ja odottavat itse. Kun he huomaavat viime viikon säästöille kertyneen korkoa, seuraava viikkoraha menee suoraan säästötilille."
+  },
+  "features": [
+    {
+      "title": "Kärsivällisyys näkyy",
+      "text": "Säästötilillä olevalle rahalle kertyy joka viikko korkoa korolle. Sinä päätät koron, ja kaavio näyttää, paljonko summa on 12 viikon päästä, jos siihen ei kosketa.\nSovellus jäi muutamaksi päiväksi avaamatta? Avattaessa kaikki rästissä olevat viikot maksetaan kerralla.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Näe, miten hinnat syövät lompakkoa",
+      "text": "Markkina-välilehti kokoaa perheen hintaindeksin, inflaation, koron, rahamäärän ja rahastojen hinnat yhdelle näytölle. Hintojen noustessa näkee, kuinka paljon vähemmän lompakon 1 000 kolikolla saa.\nLapset näkevät selvistä luvuista, että makaava raha kutistuu ja säästetty tai sijoitettu raha pitää arvonsa.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Kymmenen keskustelua yhdessä",
+      "text": "Opas vanhemmille kulkee kymmenessä vaiheessa: miksi tarvitsemme rahaa, tarpeet ja halut, vaihtoehtoiskustannus, säästäminen ja korko, korkoa korolle, inflaatio, sijoittaminen ja riski sekä lopuksi oma budjetti.\nKorkoa korolle -laskuri ja hintakokeilulaskuri antavat muuttaa lukuja ja katsoa, mitä tapahtuu.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Alkuun kolmessa vaiheessa",
+    "items": [
+      {
+        "title": "Nimeä valuutta",
+        "text": "Pavut, Tähdet, Kolikot, ihan miksi perhe haluaa sitä kutsua."
+      },
+      {
+        "title": "Aseta vanhemman PIN",
+        "text": "Neljä numeroa. Vain sen tietävä voi antaa viikkorahaa tai muuttaa pankin asetuksia."
+      },
+      {
+        "title": "Lisää perhe",
+        "text": "Lisää lapset ja vanhemmat, anna ensimmäinen viikkoraha, ja homma käyntiin."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Mitä löytyy mistäkin",
+    "rows": [
+      ["Yleiskatsaus", "Kaikkien lompakot, säästöt ja sijoitukset yhdellä silmäyksellä"],
+      ["Toiminnot", "Anna tai vähennä viikkorahaa, Tuotteen viivakoodi, Lisää tuote, Kutsu lapsi, Lapsen puhelimen tila, Pankin asetukset (vaatii vanhemman PIN-koodin)"],
+      ["Markkina", "Hintaindeksi, inflaatio, valuuttakurssi, säästökorko, rahamäärä, rahastojen hinnat"],
+      ["Historia", "Jokainen rahaliike päivän, jäsenen tai tyypin mukaan"],
+      ["Opi", "Kymmenvaiheinen opas vanhemmille, korkoa korolle -laskuri, hintakokeilulaskuri"],
+      ["🐢 Kilpikonnan vakaa rahasto", "Pienet päivittäiset heilahdukset, hidas ja tasainen nousu"],
+      ["🐰 Jäniksen kasvuosake", "Ylös ja alas, mutta kasvaa"],
+      ["🚀 Raketin seikkailuosake", "Voi nousta taivaisiin tai syöksyä alas"]
+    ],
+    "note": "Alussa säästökorko on 5 % ja inflaatio 2 % viikossa. Molempia voi muuttaa Vanhempaintilassa kohdassa Pankin asetukset. Kun inflaatio on 0 %, hinnat pysyvät ennallaan."
+  },
+  "pricing": {
+    "title": "Kaikki ominaisuudet ilmaisia",
+    "free": {
+      "name": "Ilmainen",
+      "items": [
+        "Perheen oma valuutta ja PIN-koodilla lukittu Vanhempaintila",
+        "Viikkorahan antaminen ja vähentäminen, Kotikauppa ja viivakoodimaksut",
+        "Säästötili, jolle kertyy viikoittain korkoa korolle",
+        "Kolme harjoitusrahastoa tuottokaavioineen",
+        "Markkina-välilehti ja päivätty tapahtumahistoria",
+        "Kymmenvaiheinen opas vanhemmille ja kaksi laskuria",
+        "Lapsen puhelimen tila ja iCloud-synkronointi"
+      ]
+    },
+    "pro": {
+      "name": "Tue kehittäjää",
+      "items": [
+        "Lähetä haluamasi kokoinen tippi Vanhempaintilan kohdasta Pankin asetukset",
+        "Tippi ei avaa mitään. Sovellus toimii täsmälleen samoin"
+      ]
+    },
+    "note": "Ei mainoksia, ei tilausta. Tippipainike on vain Vanhempaintilassa, joten lapset eivät koskaan näe ostopainiketta."
+  },
+  "faq": {
+    "title": "Kysymyksiä",
+    "items": [
+      {
+        "q": "Liikkuuko oikeaa rahaa?",
+        "a": "Ei. Sovelluksen valuutta ja kaikki tapahtumat ovat leikkiä ja vain oppimista varten. Mikään ei ole yhteydessä oikeaan pankkitiliin, korttiin tai käteiseen."
+      },
+      {
+        "q": "Miten näemme samat tilit lapsen puhelimessa?",
+        "a": "Samalla iCloud-tilillä kirjautuneet laitteet synkronoivat perheen tilit automaattisesti. Tarkista, että iCloud on päällä kohdassa Asetukset > Apple-tili > iCloud. Toiminnot-välilehden kohdassa Kutsu lapsi voit luoda QR-kutsun, jonka lapsi skannaa kameralla. Ilman iCloudia tiedot pysyvät vain siinä yhdessä laitteessa."
+      },
+      {
+        "q": "Mikä on Lapsen puhelimen tila?",
+        "a": "Se tekee lapsen puhelimesta näkymän, joka on vain häntä varten. Lapsi näkee vain oman lompakkonsa, sijoituksensa, historiansa ja oppitunnit, ja tilasta poistuminen vaatii vanhemman PIN-koodin."
+      },
+      {
+        "q": "Unohdin vanhemman PIN-koodin.",
+        "a": "PIN tallennetaan vain laitteeseen, joten edes kehittäjä ei voi palauttaa sitä. Kun poistat sovelluksen ja asennat sen uudelleen, voit tehdä käyttöönoton alusta, mutta samalla myös nykyiset tiedot poistuvat."
+      },
+      {
+        "q": "Miten säästökorko toimii?",
+        "a": "Joka viikko säästöjen saldoon lisätään automaattisesti korkoa korolle. Koron asetat Vanhempaintilassa, ja kuluneet viikot tasataan, kun sovellus avataan seuraavan kerran."
+      },
+      {
+        "q": "Seuraavatko rahastojen hinnat oikeita markkinoita?",
+        "a": "Eivät. Ne ovat harjoitusdataa, joka muuttuu sovelluksessa kerran päivässä. Mitä riskisempi rahasto, sitä suuremmat heilahdukset. Ne eivät ole oikeita rahoitustuotteita."
+      },
+      {
+        "q": "Miksi hinnat nousevat?",
+        "a": "Jotta lapset tuntisivat inflaation, perheen hintaindeksi nousee hieman joka viikko. Tahtia voi muuttaa, tai sen voi asettaa 0 %:iin, Vanhempaintilan kohdassa Pankin asetukset. Kun nostat samalla vähän Kotikaupan herkkujen ja lelujen hintoja, oppi jää paremmin mieleen."
+      },
+      {
+        "q": "Miten poistan kaiken?",
+        "a": "Sovelluksen poistaminen poistaa laitteeseen tallennetut tiedot. iCloudiin synkronoidut tiedot poistat kohdassa Asetukset > Apple-tili > iCloud > Hallitse tallennustilaa."
+      },
+      {
+        "q": "Lähetetäänkö perheeni tietoja jonnekin?",
+        "a": "Ei. Rekisteröitymistä ei ole, ja kaikki tiedot pysyvät laitteessasi ja omalla iCloud-tililläsi. Kehittäjä saa vain palautteen, jonka itse lähetät Vanhempaintilasta, sekä nimettömiä käyttötilastoja ja kaatumisraportteja."
+      },
+      {
+        "q": "Millä laitteilla sovellus toimii?",
+        "a": "iPhonella, jossa on iOS 17.0 tai uudempi."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Avaa perheen pankki\ntämän viikon viikkorahalla",
+    "cta": "Lataa ilmaiseksi App Storesta"
+  },
+  "ui": {
+    "skip": "Siirry sisältöön",
+    "languages": "Kieli",
+    "privacy": "Tietosuojakäytäntö",
+    "contact": "Kysyttävää, virheitä tai ideoita? Kirjoita osoitteeseen {email}. Kun kerrot laitteesi mallin ja iOS-version, pystymme auttamaan nopeammin."
+  }
+}

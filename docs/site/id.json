@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Uang Saku: orang tua jadi bank, anak menabung dan berinvestasi",
+  "description": "Beri uang saku dengan mata uang keluarga sendiri. Anak membayar, dapat bunga tiap minggu, dan mencoba reksa dana latihan. Semua fitur gratis.",
+  "hero": {
+    "headline": "Hari uang saku jadi\npelajaran soal uang",
+    "lead": "Anda jadi bank sentral keluarga, anak-anak jadi nasabahnya. Mereka menerima uang saku dalam mata uang keluarga sendiri, membeli jajanan, melihat bunga masuk ke tabungan, dan ikut deg-degan melihat naik turunnya reksa dana latihan.",
+    "cta": "Unduh gratis di App Store",
+    "note": "Semua fitur gratis. Tidak ada uang sungguhan yang berpindah tangan."
+  },
+  "demo": {
+    "title": "Kalau punya 1.000 koin, disimpan di mana?",
+    "lead": "1.000 koin yang sama ditaruh di dompet, tabungan, dan tiga reksa dana. Majukan satu minggu demi satu minggu dan lihat apa yang terjadi pada masing-masing. Semuanya mengikuti aturan yang sama dengan aplikasi.",
+    "currency": "koin",
+    "week": "Minggu ke-{n}",
+    "start": "Belum dimulai",
+    "next": "Maju seminggu",
+    "reset": "Ulangi dari awal",
+    "wallet": "Dompet",
+    "savings": "Tabungan · bunga majemuk 5% per minggu",
+    "funds": ["Reksa Dana Kura-kura Aman", "Saham Kelinci Bertumbuh", "Saham Roket Petualang"],
+    "power": "Indeks harga {i} · 1.000 koin di dompet sekarang hanya bisa membeli seharga {p} koin dulu",
+    "note": "Sama seperti di aplikasi, harga reksa dana bergerak acak, jadi hasilnya selalu berbeda. Bunga 5% dan kenaikan harga 2% per minggu adalah pengaturan awal aplikasi."
+  },
+  "problem": {
+    "title": "\"Ditabung nanti bertambah\", apakah anak benar-benar paham?",
+    "text": "Bunga, bunga majemuk, inflasi: makin dijelaskan, makin terdengar jauh. Di SukSuk Uang Saku, anak menghasilkan, membelanjakan, dan menunggu sendiri. Begitu mereka melihat tabungan minggu lalu sudah berbunga, uang saku berikutnya langsung masuk ke tabungan."
+  },
+  "features": [
+    {
+      "title": "Kesabaran yang terlihat hasilnya",
+      "text": "Uang di tabungan mendapat bunga majemuk setiap minggu. Anda yang menentukan sukunya, dan grafik menunjukkan jadi berapa dalam 12 minggu kalau tidak diambil.\nBeberapa hari tidak membuka aplikasi? Saat dibuka, semua minggu yang terlewat dibayar sekaligus.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Lihat harga menggerus isi dompet",
+      "text": "Tab Pasar menampilkan indeks harga keluarga, inflasi, suku bunga, jumlah uang beredar, dan harga reksa dana dalam satu layar. Saat harga naik, terlihat berapa banyak berkurangnya barang yang bisa dibeli dengan 1.000 koin di dompet.\nAnak melihat dengan angka yang jelas: uang yang didiamkan menyusut, sedangkan uang yang ditabung atau diinvestasikan tetap bertahan.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Sepuluh obrolan untuk dilakukan bersama",
+      "text": "Panduan untuk orang tua mengajak Anda melalui sepuluh langkah: kenapa kita butuh uang, kebutuhan dan keinginan, biaya peluang, menabung dan bunga, bunga majemuk, inflasi, investasi dan risiko, sampai menyusun anggaran.\nKalkulator bunga majemuk dan kalkulator eksperimen harga membuat Anda bisa mengubah angka dan melihat hasilnya bersama.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Mulai dalam tiga langkah",
+    "items": [
+      {
+        "title": "Beri nama mata uang",
+        "text": "Kacang, Bintang, Koin, apa pun sebutan yang disukai keluarga."
+      },
+      {
+        "title": "Atur PIN orang tua",
+        "text": "Empat angka. Hanya yang tahu PIN bisa memberi uang saku atau mengubah pengaturan bank."
+      },
+      {
+        "title": "Tambahkan keluarga",
+        "text": "Tambahkan anak dan orang tua, beri uang saku pertama, dan selesai."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Apa ada di mana",
+    "rows": [
+      ["Dasbor", "Dompet, tabungan, dan investasi semua anggota dalam sekali lihat"],
+      ["Aksi", "Beri atau kurangi uang saku, Barcode barang, Tambah barang, Undang anak, Mode ponsel anak, Pengaturan bank (perlu PIN orang tua)"],
+      ["Pasar", "Indeks harga, inflasi, kurs, bunga tabungan, jumlah uang beredar, harga reksa dana"],
+      ["Riwayat", "Setiap pergerakan uang menurut tanggal, anggota, atau jenis"],
+      ["Belajar", "Panduan untuk orang tua sepuluh langkah, kalkulator bunga majemuk, kalkulator eksperimen harga"],
+      ["🐢 Reksa Dana Kura-kura Aman", "Naik turun harian kecil, naik pelan tapi pasti"],
+      ["🐰 Saham Kelinci Bertumbuh", "Naik turun, tapi terus tumbuh"],
+      ["🚀 Saham Roket Petualang", "Bisa melesat, bisa anjlok"]
+    ],
+    "note": "Awalnya bunga tabungan 5% dan inflasi 2% per minggu. Keduanya bisa diubah di Mode orang tua, bagian Pengaturan bank. Kalau inflasi diatur 0%, harga tidak berubah."
+  },
+  "pricing": {
+    "title": "Semua fitur gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Mata uang keluarga sendiri dan Mode orang tua yang dikunci PIN",
+        "Memberi dan mengurangi uang saku, Toko rumah, dan bayar dengan barcode",
+        "Tabungan dengan bunga majemuk mingguan",
+        "Tiga reksa dana latihan dengan grafik imbal hasil",
+        "Tab Pasar dan riwayat transaksi per tanggal",
+        "Panduan untuk orang tua sepuluh langkah dan dua kalkulator",
+        "Mode ponsel anak dan sinkronisasi iCloud"
+      ]
+    },
+    "pro": {
+      "name": "Dukung pengembang",
+      "items": [
+        "Kirim tip kecil berapa pun dari Pengaturan bank di Mode orang tua",
+        "Tip tidak membuka fitur apa pun. Aplikasi tetap sama saja"
+      ]
+    },
+    "note": "Tanpa iklan, tanpa langganan. Tombol tip hanya ada di dalam Mode orang tua, jadi anak tidak pernah melihat tombol beli."
+  },
+  "faq": {
+    "title": "Pertanyaan",
+    "items": [
+      {
+        "q": "Apakah memakai uang sungguhan?",
+        "a": "Tidak. Mata uang dan semua transaksi di aplikasi hanya pura-pura, untuk belajar. Tidak ada yang terhubung ke rekening bank, kartu, atau uang tunai sungguhan."
+      },
+      {
+        "q": "Bagaimana melihat catatan yang sama di ponsel anak?",
+        "a": "Perangkat yang masuk dengan akun iCloud yang sama menyinkronkan catatan keluarga secara otomatis. Pastikan iCloud aktif di Pengaturan > Akun Apple > iCloud. Di tab Aksi, lewat Undang anak, Anda bisa membuat undangan kode QR untuk dipindai anak dengan kamera. Tanpa iCloud, data hanya tersimpan di perangkat itu."
+      },
+      {
+        "q": "Apa itu Mode ponsel anak?",
+        "a": "Mode ini mengubah ponsel anak menjadi layar khusus untuknya. Anak hanya melihat dompet, investasi, riwayat, dan pelajarannya sendiri, dan untuk keluar perlu PIN orang tua."
+      },
+      {
+        "q": "Saya lupa PIN orang tua.",
+        "a": "PIN hanya disimpan di perangkat, jadi pengembang pun tidak bisa memulihkannya. Menghapus lalu memasang ulang aplikasi memungkinkan Anda mengatur dari awal, tetapi data yang ada juga ikut terhapus."
+      },
+      {
+        "q": "Bagaimana cara kerja bunga tabungan?",
+        "a": "Setiap minggu, bunga majemuk otomatis ditambahkan ke saldo tabungan. Sukunya Anda atur di Mode orang tua, dan minggu yang terlewat diselesaikan saat aplikasi dibuka berikutnya."
+      },
+      {
+        "q": "Apakah harga reksa dana mengikuti pasar sungguhan?",
+        "a": "Tidak. Harga reksa dana adalah data latihan yang berubah sekali sehari di dalam aplikasi. Makin berisiko, makin besar naik turunnya. Ini bukan produk keuangan sungguhan."
+      },
+      {
+        "q": "Kenapa harga naik?",
+        "a": "Supaya anak merasakan inflasi, indeks harga keluarga naik sedikit setiap minggu. Ubah lajunya, atau atur ke 0% untuk mematikannya, di Mode orang tua bagian Pengaturan bank. Kalau harga jajanan dan mainan di Toko rumah ikut dinaikkan sedikit, pelajarannya makin melekat."
+      },
+      {
+        "q": "Bagaimana menghapus semuanya?",
+        "a": "Menghapus aplikasi akan menghapus data di perangkat. Untuk data yang tersinkron ke iCloud, buka Pengaturan > Akun Apple > iCloud > Kelola Penyimpanan, lalu hapus data aplikasi ini."
+      },
+      {
+        "q": "Apakah informasi keluarga saya dikirim ke mana-mana?",
+        "a": "Tidak. Tidak perlu daftar, dan semua data tetap di perangkat Anda dan di akun iCloud Anda sendiri. Pengembang hanya menerima masukan yang Anda kirim sendiri dari Mode orang tua, serta statistik penggunaan anonim dan laporan kerusakan."
+      },
+      {
+        "q": "Bisa dipakai di perangkat apa?",
+        "a": "iPhone dengan iOS 17.0 atau lebih baru."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Buka bank keluarga\ndengan uang saku minggu ini",
+    "cta": "Unduh gratis di App Store"
+  },
+  "ui": {
+    "skip": "Langsung ke konten",
+    "languages": "Bahasa",
+    "privacy": "Kebijakan Privasi",
+    "contact": "Ada pertanyaan, kendala, atau ide? Tulis ke {email}. Sertakan model perangkat dan versi iOS agar kami bisa membantu lebih cepat."
+  }
+}

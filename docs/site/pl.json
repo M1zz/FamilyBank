@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Kieszonkowe: rodzice są bankiem, dzieci oszczędzają i inwestują",
+  "description": "Dawaj kieszonkowe w rodzinnej walucie. Dzieci same płacą, co tydzień dostają odsetki i testują fundusze treningowe. Tak rozumieją pieniądze. Za darmo.",
+  "hero": {
+    "headline": "Dzień kieszonkowego\nto lekcja o pieniądzach",
+    "lead": "Ty jesteś bankiem centralnym rodziny, a dzieci klientami. Dostają kieszonkowe w waszej własnej walucie, kupują słodycze, widzą, jak na oszczędności spływają odsetki, i przeżywają wzloty i upadki funduszu treningowego.",
+    "cta": "Pobierz za darmo z App Store",
+    "note": "Wszystkie funkcje są darmowe. Prawdziwe pieniądze nigdy nie zmieniają właściciela."
+  },
+  "demo": {
+    "title": "Gdzie trzymać 1000 monet?",
+    "lead": "Te same 1000 monet leży w portfelu, na koncie oszczędnościowym i w trzech funduszach. Przeskakuj o tydzień i patrz, co dzieje się z każdą kwotą. Wszystko według tych samych zasad co w aplikacji.",
+    "currency": "monet",
+    "week": "Tydzień {n}",
+    "start": "Jeszcze nie rozpoczęto",
+    "next": "Tydzień dalej",
+    "reset": "Zacznij od nowa",
+    "wallet": "Portfel",
+    "savings": "Oszczędności · 5% tygodniowo, procent składany",
+    "funds": ["Fundusz Żółw Stabilny", "Akcje Królik Wzrost", "Akcje Rakieta Przygoda"],
+    "power": "Wskaźnik cen {i} · za 1000 monet z portfela kupisz teraz tyle, co kiedyś za {p}",
+    "note": "Tak jak w aplikacji ceny funduszy zmieniają się losowo, więc każda próba kończy się inaczej. 5% odsetek i 2% wzrostu cen tygodniowo to ustawienia startowe aplikacji."
+  },
+  "problem": {
+    "title": "„Odłóż, to urośnie”. Czy dziecko naprawdę to rozumie?",
+    "text": "Odsetki, procent składany, inflacja: im dłużej tłumaczysz, tym bardziej odlegle to brzmi. W SukSuk Kieszonkowe dzieci same zarabiają, wydają i czekają. Gdy odkryją odsetki na oszczędnościach z zeszłego tygodnia, kolejne kieszonkowe trafia prosto na konto oszczędnościowe."
+  },
+  "features": [
+    {
+      "title": "Cierpliwość, którą widać",
+      "text": "Pieniądze na koncie oszczędnościowym co tydzień zarabiają procent składany. Oprocentowanie ustalasz ty, a wykres pokazuje, ile będzie za 12 tygodni, jeśli nikt ich nie ruszy.\nKilka dni bez otwierania aplikacji? Przy następnym uruchomieniu wszystkie zaległe tygodnie zostaną wypłacone naraz.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Zobacz, jak ceny zjadają portfel",
+      "text": "Karta Rynek zbiera na jednym ekranie rodzinny wskaźnik cen, inflację, oprocentowanie, ilość pieniędzy i ceny funduszy. Gdy ceny rosną, widać, o ile mniej da się kupić za 1000 monet z portfela.\nDzieci widzą w prostych liczbach, że leżące pieniądze tracą wartość, a odłożone lub zainwestowane ją utrzymują.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Dziesięć rozmów na wspólny czas",
+      "text": "Przewodnik dla rodziców prowadzi przez dziesięć kroków: po co nam pieniądze, potrzeby i zachcianki, koszt alternatywny, oszczędzanie i odsetki, procent składany, inflacja, inwestowanie i ryzyko, aż po własny budżet.\nKalkulator procentu składanego i kalkulator eksperymentu cenowego pozwalają zmieniać liczby i od razu widzieć efekt.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Trzy kroki na start",
+    "items": [
+      {
+        "title": "Nazwij walutę",
+        "text": "Fasolki, Gwiazdki, Monety: jak tylko rodzina zechce."
+      },
+      {
+        "title": "Ustaw PIN rodzica",
+        "text": "Cztery cyfry. Tylko ten, kto go zna, może dawać kieszonkowe i zmieniać ustawienia banku."
+      },
+      {
+        "title": "Dodaj rodzinę",
+        "text": "Dodaj dzieci i rodziców, wypłać pierwsze kieszonkowe i gotowe."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Co gdzie jest",
+    "rows": [
+      ["Przegląd", "Portfele, oszczędności i inwestycje całej rodziny w jednym miejscu"],
+      ["Akcje", "Daj lub odejmij kieszonkowe, Kod kreskowy artykułu, Dodaj artykuł, Zaproś dziecko, Tryb telefonu dziecka, Ustawienia banku (wymagany PIN rodzica)"],
+      ["Rynek", "Wskaźnik cen, inflacja, kurs wymiany, oprocentowanie oszczędności, ilość pieniędzy, ceny funduszy"],
+      ["Historia", "Każdy ruch pieniędzy według daty, osoby lub rodzaju"],
+      ["Nauka", "Przewodnik dla rodziców w dziesięciu krokach, kalkulator procentu składanego, kalkulator eksperymentu cenowego"],
+      ["🐢 Fundusz Żółw Stabilny", "Małe dzienne wahania, powolny i stały wzrost"],
+      ["🐰 Akcje Królik Wzrost", "Raz w górę, raz w dół, ale rosną"],
+      ["🚀 Akcje Rakieta Przygoda", "Mogą wystrzelić, mogą runąć"]
+    ],
+    "note": "Na start: 5% tygodniowych odsetek od oszczędności i 2% tygodniowej inflacji. Oba zmienisz w Trybie rodzica, w Ustawieniach banku. Przy inflacji 0% ceny stoją w miejscu."
+  },
+  "pricing": {
+    "title": "Wszystkie funkcje za darmo",
+    "free": {
+      "name": "Za darmo",
+      "items": [
+        "Własna rodzinna waluta i Tryb rodzica chroniony PIN-em",
+        "Dawanie i odejmowanie kieszonkowego, Domowy sklepik i płatności kodem kreskowym",
+        "Konto oszczędnościowe z cotygodniowym procentem składanym",
+        "Trzy fundusze treningowe z wykresami zysków",
+        "Karta Rynek i historia transakcji według daty",
+        "Przewodnik dla rodziców w dziesięciu krokach i dwa kalkulatory",
+        "Tryb telefonu dziecka i synchronizacja przez iCloud"
+      ]
+    },
+    "pro": {
+      "name": "Wesprzyj twórcę",
+      "items": [
+        "Wyślij drobny napiwek w dowolnej kwocie z Ustawień banku w Trybie rodzica",
+        "Napiwek niczego nie odblokowuje. Aplikacja działa tak samo"
+      ]
+    },
+    "note": "Bez reklam, bez subskrypcji. Przycisk napiwku jest tylko w Trybie rodzica, więc dzieci nigdy nie zobaczą przycisku zakupu."
+  },
+  "faq": {
+    "title": "Pytania",
+    "items": [
+      {
+        "q": "Czy chodzi o prawdziwe pieniądze?",
+        "a": "Nie. Waluta i wszystkie transakcje w aplikacji są na niby i służą tylko nauce. Nic nie jest połączone z prawdziwym kontem bankowym, kartą ani gotówką."
+      },
+      {
+        "q": "Jak widzieć te same konta na telefonie dziecka?",
+        "a": "Urządzenia zalogowane na to samo konto iCloud automatycznie synchronizują rodzinne konta. Sprawdź, czy iCloud jest włączony w Ustawienia > Konto Apple > iCloud. Na karcie Akcje, w opcji Zaproś dziecko, możesz utworzyć zaproszenie z kodem QR, które dziecko zeskanuje aparatem. Bez iCloud dane zostają tylko na tym jednym urządzeniu."
+      },
+      {
+        "q": "Czym jest Tryb telefonu dziecka?",
+        "a": "Zmienia telefon dziecka w ekran przeznaczony tylko dla niego. Dziecko widzi wyłącznie swój portfel, inwestycje, historię i lekcje, a do wyjścia potrzebny jest PIN rodzica."
+      },
+      {
+        "q": "Zapomniałem PIN-u rodzica.",
+        "a": "PIN jest zapisany tylko na urządzeniu, więc nawet twórca nie może go odzyskać. Po usunięciu i ponownej instalacji aplikacji można ją skonfigurować od nowa, ale zostaną też usunięte dotychczasowe dane."
+      },
+      {
+        "q": "Jak działają odsetki od oszczędności?",
+        "a": "Co tydzień do salda oszczędności automatycznie dopisywany jest procent składany. Oprocentowanie ustalasz w Trybie rodzica, a minione tygodnie rozliczają się przy następnym otwarciu aplikacji."
+      },
+      {
+        "q": "Czy ceny funduszy są powiązane z prawdziwym rynkiem?",
+        "a": "Nie. To dane treningowe, które zmieniają się w aplikacji raz dziennie. Im bardziej ryzykowny fundusz, tym większe wahania. To nie są prawdziwe produkty finansowe."
+      },
+      {
+        "q": "Dlaczego ceny rosną?",
+        "a": "Żeby dzieci poczuły inflację, rodzinny wskaźnik cen co tydzień trochę rośnie. Tempo zmienisz albo wyłączysz, ustawiając 0%, w Trybie rodzica, w Ustawieniach banku. Jeśli przy okazji podniesiesz trochę ceny słodyczy i zabawek w Domowym sklepiku, lekcja lepiej zapadnie w pamięć."
+      },
+      {
+        "q": "Jak usunąć wszystko?",
+        "a": "Usunięcie aplikacji kasuje dane zapisane na urządzeniu. Dane zsynchronizowane z iCloud usuniesz w Ustawienia > Konto Apple > iCloud > Zarządzaj pamięcią."
+      },
+      {
+        "q": "Czy dane mojej rodziny są gdzieś wysyłane?",
+        "a": "Nie. Nie ma rejestracji, a wszystkie dane zostają na twoim urządzeniu i na twoim własnym koncie iCloud. Twórca dostaje tylko opinie, które sam wyślesz z Trybu rodzica, oraz anonimowe statystyki użycia i raporty o awariach."
+      },
+      {
+        "q": "Na jakich urządzeniach działa?",
+        "a": "Na iPhonie z iOS 17.0 lub nowszym."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Otwórz rodzinny bank\nz kieszonkowym na ten tydzień",
+    "cta": "Pobierz za darmo z App Store"
+  },
+  "ui": {
+    "skip": "Przejdź do treści",
+    "languages": "Język",
+    "privacy": "Polityka prywatności",
+    "contact": "Pytania, błędy albo pomysły? Napisz na {email}. Podaj model urządzenia i wersję iOS, a pomożemy szybciej."
+  }
+}

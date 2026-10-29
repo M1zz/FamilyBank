@@ -1,0 +1,182 @@
+{
+  "title": "SukSuk Allowance: be the family bank while your kids save and invest",
+  "description": "Pay allowance in your own family currency. Kids pay, earn weekly interest on savings and try practice funds to learn how money works. All free.",
+  "hero": {
+    "headline": "Turn allowance day\ninto a money lesson",
+    "lead": "You become the family's central bank and your kids become the customers. They get paid in your own family currency, buy snacks, watch interest land in their savings and ride the ups and downs of a practice fund.",
+    "cta": "Get it free on the App Store",
+    "note": "Every feature is free. No real money ever changes hands."
+  },
+  "demo": {
+    "title": "Where would you keep 1,000 coins?",
+    "lead": "The same 1,000 coins sit in a wallet, a savings account and three funds. Skip ahead one week at a time and watch what happens to each. It all follows the same rules as the app.",
+    "currency": "coins",
+    "week": "Week {n}",
+    "start": "Not started yet",
+    "next": "Skip a week",
+    "reset": "Start over",
+    "wallet": "Wallet",
+    "savings": "Savings · 5% a week, compounded",
+    "funds": [
+      "Turtle Steady Fund",
+      "Rabbit Growth Shares",
+      "Rocket Adventure Shares"
+    ],
+    "power": "Price index {i} · 1,000 coins in the wallet now only buy what {p} coins used to",
+    "note": "Fund prices move at random, just like in the app, so every run turns out different. The 5% weekly interest and 2% weekly price rise are the app's starting settings."
+  },
+  "problem": {
+    "title": "Does \"save it and it grows\" ever really land with a kid?",
+    "text": "Interest, compounding and inflation sound further away the more you explain them. In SukSuk Allowance, kids earn it, spend it and wait for it themselves. Once they spot interest sitting on last week's savings, the next allowance goes straight into the savings account."
+  },
+  "features": [
+    {
+      "title": "Watch patience pay off",
+      "text": "Money in the savings account earns compound interest every week. You set the rate, and a chart shows what it will grow to in 12 weeks if they leave it alone.\nMissed a few days? When the app opens, every week it owes gets paid at once.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "See prices eat into a wallet",
+      "text": "The Market tab puts your family's price index, inflation rate, interest rate, money supply and fund prices on one screen. As prices climb, it shows how much less 1,000 coins in the wallet will now buy.\nKids see in plain numbers that money left idle shrinks, and money saved or invested holds up.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Ten talks to have together",
+      "text": "A parent guide walks you through ten steps, from why we need money to needs and wants, opportunity cost, saving and interest, compounding, inflation, investing and risk, and making a budget.\nA compound interest calculator and a price experiment calculator let you change the numbers and see what happens.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Three steps to start",
+    "items": [
+      {
+        "title": "Name your currency",
+        "text": "Beans, Stars, Coins, whatever your family wants to call it."
+      },
+      {
+        "title": "Set a parent PIN",
+        "text": "Four digits. Only someone who knows it can give allowance or change bank settings."
+      },
+      {
+        "title": "Add your family",
+        "text": "Add the kids and parents, hand out the first allowance, and you're off."
+      }
+    ]
+  },
+  "reference": {
+    "title": "What's where",
+    "rows": [
+      [
+        "Dashboard",
+        "Everyone's wallet, savings and investments at a glance"
+      ],
+      [
+        "Actions",
+        "Give or deduct allowance, Item Barcode, Add Item, Invite Child, Child Phone Mode, Bank Settings (parent PIN required)"
+      ],
+      [
+        "Market",
+        "Price index, inflation rate, exchange rate, savings rate, money supply, fund prices"
+      ],
+      [
+        "History",
+        "Every move of money by date, by member or by type"
+      ],
+      [
+        "Learn",
+        "Ten-step parent guide, compound interest calculator, price experiment calculator"
+      ],
+      [
+        "🐢 Turtle Steady Fund",
+        "Small daily swings, slow and steady climb"
+      ],
+      [
+        "🐰 Rabbit Growth Shares",
+        "Up and down, but growing"
+      ],
+      [
+        "🚀 Rocket Adventure Shares",
+        "Could soar, could plunge"
+      ]
+    ],
+    "note": "It starts at 5% weekly savings interest and 2% weekly inflation. Change both in Parent Mode under Bank Settings. Set inflation to 0% and prices stay put."
+  },
+  "pricing": {
+    "title": "Every feature is free",
+    "free": {
+      "name": "Free",
+      "items": [
+        "Your own family currency and a PIN-locked Parent Mode",
+        "Giving and deducting allowance, the Family Shop and barcode payments",
+        "A savings account that earns compound interest weekly",
+        "Three practice funds with return charts",
+        "The Market tab and a dated transaction history",
+        "The ten-step parent guide and two calculators",
+        "Child Phone Mode and iCloud sync"
+      ]
+    },
+    "pro": {
+      "name": "Support the developer",
+      "items": [
+        "Send a small tip of any size from Bank Settings in Parent Mode",
+        "Tips don't unlock anything. The app works the same either way"
+      ]
+    },
+    "note": "No ads, no subscription. The tip button lives only inside Parent Mode, so your kids never see a purchase button."
+  },
+  "faq": {
+    "title": "Questions",
+    "items": [
+      {
+        "q": "Is any real money involved?",
+        "a": "No. The currency and every transaction in the app are pretend, for learning only. Nothing connects to a real bank account, card or cash."
+      },
+      {
+        "q": "How do we see the same ledger on my child's phone?",
+        "a": "Devices signed in to the same iCloud account keep the family ledger in sync automatically. Check that iCloud is on in Settings > Apple Account > iCloud. Under Invite Child on the Actions tab, you can make a QR invitation for your child's camera to scan. Without iCloud, data stays on that one device."
+      },
+      {
+        "q": "What is Child Phone Mode?",
+        "a": "It turns your child's phone into a screen made just for them. They only see their own wallet, investments, history and lessons, and leaving it takes the parent PIN."
+      },
+      {
+        "q": "I forgot the parent PIN.",
+        "a": "The PIN is stored only on the device, so not even the developer can recover it. Deleting and reinstalling the app lets you start setup again, but this also erases your existing data."
+      },
+      {
+        "q": "How does savings interest work?",
+        "a": "Compound interest is added to the savings balance every week, automatically. You set the rate in Parent Mode, and any weeks that passed are settled the next time the app opens."
+      },
+      {
+        "q": "Are fund prices tied to the real market?",
+        "a": "No. Fund prices are practice data that change once a day inside the app. The riskier the fund, the bigger the swings. They are not real financial products."
+      },
+      {
+        "q": "Why do prices go up?",
+        "a": "So kids can feel inflation, your family price index rises a little each week. Change the rate, or set it to 0% to turn it off, in Parent Mode under Bank Settings. Nudging up the prices of snacks and toys in the Family Shop to match makes the lesson stick."
+      },
+      {
+        "q": "How do I delete everything?",
+        "a": "Deleting the app removes the data stored on the device. For data synced to iCloud, go to Settings > Apple Account > iCloud > Manage Storage and delete the app's data."
+      },
+      {
+        "q": "Is my family's information sent anywhere?",
+        "a": "No. There's no sign-up, and all data stays on your device and in your own iCloud account. The developer only receives feedback you send yourself from Parent Mode, plus anonymous usage stats and crash reports."
+      },
+      {
+        "q": "Which devices does it run on?",
+        "a": "iPhone with iOS 17.0 or later."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Open the family bank\nwith this week's allowance",
+    "cta": "Get it free on the App Store"
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "languages": "Language",
+    "privacy": "Privacy Policy",
+    "contact": "Questions, bugs or ideas? Write to {email}. Including your device model and iOS version helps us help you faster."
+  }
+}

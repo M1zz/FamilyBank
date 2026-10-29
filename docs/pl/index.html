@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Kieszonkowe — rodzinna nauka o pieniądzach</title>
-  <meta name="description" content="SukSuk Kieszonkowe to aplikacja, w której cała rodzina uczy się o pieniądzach: rodzice są bankiem, a dzieci zbierają kieszonkowe, płacą, oszczędzają i inwestują.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Kieszonkowe: rodzice są bankiem, dzieci oszczędzają i inwestują</title>
+  <meta name="description" content="Dawaj kieszonkowe w rodzinnej walucie. Dzieci same płacą, co tydzień dostają odsetki i testują fundusze treningowe. Tak rozumieją pieniądze. Za darmo.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/pl/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,59 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Kieszonkowe: rodzice są bankiem, dzieci oszczędzają i inwestują">
+  <meta property="og:description" content="Dawaj kieszonkowe w rodzinnej walucie. Dzieci same płacą, co tydzień dostają odsetki i testują fundusze treningowe. Tak rozumieją pieniądze. Za darmo.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/pl/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/pl/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl" aria-current="true" style="font-weight:700">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Kieszonkowe</h1>
-    <p class="sub">Aplikacja z kieszonkowym, dzięki której dzieci uczą się dobrych nawyków finansowych</p>
-    <nav class="top">
-      <a href="index.html">Strona główna</a>
-      <a href="support.html">Pomoc i kontakt</a>
-      <a href="privacy.html">Polityka prywatności</a>
-    </nav>
+  <a class="skip" href="#main">Przejdź do treści</a>
+  <header class="bar">
+    <a class="brand" href="../pl/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Kieszonkowe</a>
+    <a class="lang-link" href="#languages">Język</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 Czym jest SukSuk Kieszonkowe?</h2>
-      <p>
-        <strong>SukSuk Kieszonkowe</strong> to aplikacja na iOS, która uczy dzieci finansów i ekonomii dzięki własnej rodzinnej walucie.
-        Rodzice są bankiem centralnym i wypłacają kieszonkowe, a dzieci płacą, oszczędzają i dostają odsetki
-        oraz inwestują w fundusze ćwiczeniowe. W ten sposób uczą się ekonomii w praktyce.
-      </p>
-      <div class="key">
-        Wszystkie dane są zapisywane <strong>wyłącznie na Twoim urządzeniu i na Twoim koncie iCloud</strong>.
-        Nie trzeba zakładać konta, a informacje wpisane przez rodzinę nie trafiają do twórcy aplikacji.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Dzień kieszonkowego<br>to lekcja o pieniądzach</h1>
+        <p class="lead">Ty jesteś bankiem centralnym rodziny, a dzieci klientami. Dostają kieszonkowe w waszej własnej walucie, kupują słodycze, widzą, jak na oszczędności spływają odsetki, i przeżywają wzloty i upadki funduszu treningowego.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Pobierz za darmo z App Store</a><a class="try" href="#try">Gdzie trzymać 1000 monet? ↓</a></div>
+        <p class="muted small">Wszystkie funkcje są darmowe. Prawdziwe pieniądze nigdy nie zmieniają właściciela.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/pl/01-dashboard.jpg" alt="Dzień kieszonkowego to lekcja o pieniądzach" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Najważniejsze funkcje</h2>
-      <ul>
-        <li><strong>Własna rodzinna waluta</strong> — sami wybieracie nazwę, np. Fasolki, Gwiazdki albo Monety</li>
-        <li><strong>Wypłacanie i odejmowanie kieszonkowego</strong> — w trybie rodzica chronionym kodem PIN</li>
-        <li><strong>Płatności</strong> — dziecko samo płaci za słodycze, czas na gry i inne rzeczy, także kodem kreskowym</li>
-        <li><strong>Odsetki od oszczędności</strong> — na koncie oszczędnościowym co tydzień automatycznie naliczane są odsetki składane</li>
-        <li><strong>Nauka inwestowania</strong> — fundusze ćwiczeniowe: Bezpieczny 🐢 · Umiarkowany 🐰 · Odważny 🚀</li>
-        <li><strong>Historia transakcji</strong> — sprawdzisz dzień po dniu, na co poszły pieniądze</li>
-        <li><strong>Edukacja finansowa</strong> — proste wyjaśnienia: pieniądz, oszczędzanie, procent składany, inwestowanie, koszt alternatywny</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Potrzebujesz pomocy?</h2>
-      <p>Masz pytanie albo coś nie działa? Napisz do nas w dowolnej chwili.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Kieszonkowe%5D%20Pytanie">✉️ Napisz do nas</a>
-      </p>
-      <p class="muted">Więcej odpowiedzi znajdziesz na <a href="support.html">stronie pomocy</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Gdzie trzymać 1000 monet?</h2>
+      <p class="muted">Te same 1000 monet leży w portfelu, na koncie oszczędnościowym i w trzech funduszach. Przeskakuj o tydzień i patrz, co dzieje się z każdą kwotą. Wszystko według tych samych zasad co w aplikacji.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Gdzie trzymać 1000 monet?&quot;, &quot;lead&quot;: &quot;Te same 1000 monet leży w portfelu, na koncie oszczędnościowym i w trzech funduszach. Przeskakuj o tydzień i patrz, co dzieje się z każdą kwotą. Wszystko według tych samych zasad co w aplikacji.&quot;, &quot;currency&quot;: &quot;monet&quot;, &quot;week&quot;: &quot;Tydzień {n}&quot;, &quot;start&quot;: &quot;Jeszcze nie rozpoczęto&quot;, &quot;next&quot;: &quot;Tydzień dalej&quot;, &quot;reset&quot;: &quot;Zacznij od nowa&quot;, &quot;wallet&quot;: &quot;Portfel&quot;, &quot;savings&quot;: &quot;Oszczędności · 5% tygodniowo, procent składany&quot;, &quot;funds&quot;: [&quot;Fundusz Żółw Stabilny&quot;, &quot;Akcje Królik Wzrost&quot;, &quot;Akcje Rakieta Przygoda&quot;], &quot;power&quot;: &quot;Wskaźnik cen {i} · za 1000 monet z portfela kupisz teraz tyle, co kiedyś za {p}&quot;, &quot;note&quot;: &quot;Tak jak w aplikacji ceny funduszy zmieniają się losowo, więc każda próba kończy się inaczej. 5% odsetek i 2% wzrostu cen tygodniowo to ustawienia startowe aplikacji.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>„Odłóż, to urośnie”. Czy dziecko naprawdę to rozumie?</h2>
+      <p>Odsetki, procent składany, inflacja: im dłużej tłumaczysz, tym bardziej odlegle to brzmi. W SukSuk Kieszonkowe dzieci same zarabiają, wydają i czekają. Gdy odkryją odsetki na oszczędnościach z zeszłego tygodnia, kolejne kieszonkowe trafia prosto na konto oszczędnościowe.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Cierpliwość, którą widać</h2>
+        <p>Pieniądze na koncie oszczędnościowym co tydzień zarabiają procent składany. Oprocentowanie ustalasz ty, a wykres pokazuje, ile będzie za 12 tygodni, jeśli nikt ich nie ruszy.<br>Kilka dni bez otwierania aplikacji? Przy następnym uruchomieniu wszystkie zaległe tygodnie zostaną wypłacone naraz.</p>
+      </div>
+      <div class="phone"><img src="../img/pl/03-savings.jpg" alt="Cierpliwość, którą widać" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Zobacz, jak ceny zjadają portfel</h2>
+        <p>Karta Rynek zbiera na jednym ekranie rodzinny wskaźnik cen, inflację, oprocentowanie, ilość pieniędzy i ceny funduszy. Gdy ceny rosną, widać, o ile mniej da się kupić za 1000 monet z portfela.<br>Dzieci widzą w prostych liczbach, że leżące pieniądze tracą wartość, a odłożone lub zainwestowane ją utrzymują.</p>
+      </div>
+      <div class="phone"><img src="../img/pl/04-market.jpg" alt="Zobacz, jak ceny zjadają portfel" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Dziesięć rozmów na wspólny czas</h2>
+        <p>Przewodnik dla rodziców prowadzi przez dziesięć kroków: po co nam pieniądze, potrzeby i zachcianki, koszt alternatywny, oszczędzanie i odsetki, procent składany, inflacja, inwestowanie i ryzyko, aż po własny budżet.<br>Kalkulator procentu składanego i kalkulator eksperymentu cenowego pozwalają zmieniać liczby i od razu widzieć efekt.</p>
+      </div>
+      <div class="phone"><img src="../img/pl/06-learn.jpg" alt="Dziesięć rozmów na wspólny czas" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Trzy kroki na start</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Nazwij walutę</h3><p>Fasolki, Gwiazdki, Monety: jak tylko rodzina zechce.</p></li>
+<li class="card"><span class="n">2</span><h3>Ustaw PIN rodzica</h3><p>Cztery cyfry. Tylko ten, kto go zna, może dawać kieszonkowe i zmieniać ustawienia banku.</p></li>
+<li class="card"><span class="n">3</span><h3>Dodaj rodzinę</h3><p>Dodaj dzieci i rodziców, wypłać pierwsze kieszonkowe i gotowe.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Co gdzie jest</h2>
+      <div class="card table">
+        <dl><div><dt>Przegląd</dt><dd>Portfele, oszczędności i inwestycje całej rodziny w jednym miejscu</dd></div><div><dt>Akcje</dt><dd>Daj lub odejmij kieszonkowe, Kod kreskowy artykułu, Dodaj artykuł, Zaproś dziecko, Tryb telefonu dziecka, Ustawienia banku (wymagany PIN rodzica)</dd></div><div><dt>Rynek</dt><dd>Wskaźnik cen, inflacja, kurs wymiany, oprocentowanie oszczędności, ilość pieniędzy, ceny funduszy</dd></div><div><dt>Historia</dt><dd>Każdy ruch pieniędzy według daty, osoby lub rodzaju</dd></div><div><dt>Nauka</dt><dd>Przewodnik dla rodziców w dziesięciu krokach, kalkulator procentu składanego, kalkulator eksperymentu cenowego</dd></div><div><dt>🐢 Fundusz Żółw Stabilny</dt><dd>Małe dzienne wahania, powolny i stały wzrost</dd></div><div><dt>🐰 Akcje Królik Wzrost</dt><dd>Raz w górę, raz w dół, ale rosną</dd></div><div><dt>🚀 Akcje Rakieta Przygoda</dt><dd>Mogą wystrzelić, mogą runąć</dd></div></dl>
+      </div>
+      <p class="muted">Na start: 5% tygodniowych odsetek od oszczędności i 2% tygodniowej inflacji. Oba zmienisz w Trybie rodzica, w Ustawieniach banku. Przy inflacji 0% ceny stoją w miejscu.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Wszystkie funkcje za darmo</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Za darmo</h3>
+          <ul><li>Własna rodzinna waluta i Tryb rodzica chroniony PIN-em</li><li>Dawanie i odejmowanie kieszonkowego, Domowy sklepik i płatności kodem kreskowym</li><li>Konto oszczędnościowe z cotygodniowym procentem składanym</li><li>Trzy fundusze treningowe z wykresami zysków</li><li>Karta Rynek i historia transakcji według daty</li><li>Przewodnik dla rodziców w dziesięciu krokach i dwa kalkulatory</li><li>Tryb telefonu dziecka i synchronizacja przez iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Wesprzyj twórcę</h3>
+          <ul><li>Wyślij drobny napiwek w dowolnej kwocie z Ustawień banku w Trybie rodzica</li><li>Napiwek niczego nie odblokowuje. Aplikacja działa tak samo</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Bez reklam, bez subskrypcji. Przycisk napiwku jest tylko w Trybie rodzica, więc dzieci nigdy nie zobaczą przycisku zakupu.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Pytania</h2>
+      <div class="faq"><details><summary>Czy chodzi o prawdziwe pieniądze?</summary><p>Nie. Waluta i wszystkie transakcje w aplikacji są na niby i służą tylko nauce. Nic nie jest połączone z prawdziwym kontem bankowym, kartą ani gotówką.</p></details>
+<details><summary>Jak widzieć te same konta na telefonie dziecka?</summary><p>Urządzenia zalogowane na to samo konto iCloud automatycznie synchronizują rodzinne konta. Sprawdź, czy iCloud jest włączony w Ustawienia &gt; Konto Apple &gt; iCloud. Na karcie Akcje, w opcji Zaproś dziecko, możesz utworzyć zaproszenie z kodem QR, które dziecko zeskanuje aparatem. Bez iCloud dane zostają tylko na tym jednym urządzeniu.</p></details>
+<details><summary>Czym jest Tryb telefonu dziecka?</summary><p>Zmienia telefon dziecka w ekran przeznaczony tylko dla niego. Dziecko widzi wyłącznie swój portfel, inwestycje, historię i lekcje, a do wyjścia potrzebny jest PIN rodzica.</p></details>
+<details><summary>Zapomniałem PIN-u rodzica.</summary><p>PIN jest zapisany tylko na urządzeniu, więc nawet twórca nie może go odzyskać. Po usunięciu i ponownej instalacji aplikacji można ją skonfigurować od nowa, ale zostaną też usunięte dotychczasowe dane.</p></details>
+<details><summary>Jak działają odsetki od oszczędności?</summary><p>Co tydzień do salda oszczędności automatycznie dopisywany jest procent składany. Oprocentowanie ustalasz w Trybie rodzica, a minione tygodnie rozliczają się przy następnym otwarciu aplikacji.</p></details>
+<details><summary>Czy ceny funduszy są powiązane z prawdziwym rynkiem?</summary><p>Nie. To dane treningowe, które zmieniają się w aplikacji raz dziennie. Im bardziej ryzykowny fundusz, tym większe wahania. To nie są prawdziwe produkty finansowe.</p></details>
+<details><summary>Dlaczego ceny rosną?</summary><p>Żeby dzieci poczuły inflację, rodzinny wskaźnik cen co tydzień trochę rośnie. Tempo zmienisz albo wyłączysz, ustawiając 0%, w Trybie rodzica, w Ustawieniach banku. Jeśli przy okazji podniesiesz trochę ceny słodyczy i zabawek w Domowym sklepiku, lekcja lepiej zapadnie w pamięć.</p></details>
+<details><summary>Jak usunąć wszystko?</summary><p>Usunięcie aplikacji kasuje dane zapisane na urządzeniu. Dane zsynchronizowane z iCloud usuniesz w Ustawienia &gt; Konto Apple &gt; iCloud &gt; Zarządzaj pamięcią.</p></details>
+<details><summary>Czy dane mojej rodziny są gdzieś wysyłane?</summary><p>Nie. Nie ma rejestracji, a wszystkie dane zostają na twoim urządzeniu i na twoim własnym koncie iCloud. Twórca dostaje tylko opinie, które sam wyślesz z Trybu rodzica, oraz anonimowe statystyki użycia i raporty o awariach.</p></details>
+<details><summary>Na jakich urządzeniach działa?</summary><p>Na iPhonie z iOS 17.0 lub nowszym.</p></details></div>
+      <p class="contact">Pytania, błędy albo pomysły? Napisz na <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Podaj model urządzenia i wersję iOS, a pomożemy szybciej.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Otwórz rodzinny bank<br>z kieszonkowym na ten tydzień</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Pobierz za darmo z App Store</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Kieszonkowe · <a href="privacy.html">Polityka prywatności</a> · <a href="support.html">Pomoc</a></p>
+    <nav id="languages" class="langs" aria-label="Język"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl" aria-current="page">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Polityka prywatności</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

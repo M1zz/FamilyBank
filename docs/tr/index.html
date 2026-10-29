@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Harçlık — aile için para eğitimi uygulaması</title>
-  <meta name="description" content="SukSuk Harçlık, ailece parayı öğrenmenizi sağlayan bir uygulamadır: ebeveynler banka olur, çocuklar harçlık biriktirir, ödeme yapar, tasarruf eder ve yatırım yapar.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Harçlık: ebeveynler banka, çocuklar biriktirip yatırım yapıyor</title>
+  <meta name="description" content="Harçlığı ailenizin kendi parasıyla verin. Çocuklar kendileri öder, her hafta faiz alır, deneme fonlarını dener ve parayı öğrenir. Ücretsiz.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,59 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Harçlık: ebeveynler banka, çocuklar biriktirip yatırım yapıyor">
+  <meta property="og:description" content="Harçlığı ailenizin kendi parasıyla verin. Çocuklar kendileri öder, her hafta faiz alır, deneme fonlarını dener ve parayı öğrenir. Ücretsiz.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/tr/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/tr/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr" aria-current="true" style="font-weight:700">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Harçlık</h1>
-    <p class="sub">Çocukların para alışkanlıklarını büyüten aile harçlık uygulaması</p>
-    <nav class="top">
-      <a href="index.html">Ana Sayfa</a>
-      <a href="support.html">Destek ve İletişim</a>
-      <a href="privacy.html">Gizlilik Politikası</a>
-    </nav>
+  <a class="skip" href="#main">İçeriğe geç</a>
+  <header class="bar">
+    <a class="brand" href="../tr/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Harçlık</a>
+    <a class="lang-link" href="#languages">Dil</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 SukSuk Harçlık nedir?</h2>
-      <p>
-        <strong>SukSuk Harçlık</strong>, aileye özel bir para birimiyle çocuklara finans ve ekonomiyi öğreten bir iOS uygulamasıdır.
-        Ebeveynler merkez bankası olup harçlığı çıkarır; çocuklar ödeme yapar, birikim yapıp faiz kazanır
-        ve deneme fonlarına yatırım yapar. Böylece ekonomiyi yaşayarak öğrenirler.
-      </p>
-      <div class="key">
-        Tüm veriler <strong>yalnızca cihazınızda ve kendi iCloud hesabınızda</strong> saklanır.
-        Üyelik gerekmez ve ailenizin girdiği bilgiler geliştiriciye gönderilmez.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Harçlık günü<br>bir para dersine dönüşsün</h1>
+        <p class="lead">Siz ailenin merkez bankasısınız, çocuklar da müşterileri. Harçlıklarını sizin kendi paranızla alıyor, atıştırmalık satın alıyor, birikimlerine faiz eklendiğini görüyor ve bir deneme fonunun inişlerini çıkışlarını yaşıyorlar.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">App Store'dan ücretsiz indirin</a><a class="try" href="#try">1.000 jetonu nerede tutardınız? ↓</a></div>
+        <p class="muted small">Tüm özellikler ücretsiz. Gerçek para asla el değiştirmez.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/tr/01-dashboard.jpg" alt="Harçlık günü bir para dersine dönüşsün" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Temel özellikler</h2>
-      <ul>
-        <li><strong>Ailenizin para birimi</strong> — adını siz koyun: Fasulye, Yıldız, Madeni para gibi</li>
-        <li><strong>Harçlık verme ve düşme</strong> — PIN ile korunan ebeveyn modunda yönetilir</li>
-        <li><strong>Ödeme</strong> — çocuk atıştırmalık, oyun süresi gibi şeyleri kendisi öder, barkodla ödeme de var</li>
-        <li><strong>Birikim faizi</strong> — birikim hesabına her hafta otomatik olarak bileşik faiz işler</li>
-        <li><strong>Yatırım deneyimi</strong> — Temkinli 🐢 · Dengeli 🐰 · Cesur 🚀 deneme fonları</li>
-        <li><strong>İşlem geçmişi</strong> — paranın nereye gittiğini gün gün geriye dönüp görün</li>
-        <li><strong>Para eğitimi</strong> — para, birikim, bileşik faiz, yatırım ve fırsat maliyeti gibi kavramlara rehber</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Yardıma mı ihtiyacınız var?</h2>
-      <p>Aklınıza takılan bir şey olursa ya da bir hatayla karşılaşırsanız bize istediğiniz zaman yazın.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Har%C3%A7l%C4%B1k%5D%20Soru">✉️ Bize yazın</a>
-      </p>
-      <p class="muted">Daha fazla yanıtı <a href="support.html">destek sayfasında</a> bulabilirsiniz.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>1.000 jetonu nerede tutardınız?</h2>
+      <p class="muted">Aynı 1.000 jeton bir cüzdanda, bir tasarruf hesabında ve üç fonda duruyor. Haftayı birer birer ilerletin ve her birine ne olduğunu izleyin. Hepsi uygulamadaki kurallarla aynı.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;1.000 jetonu nerede tutardınız?&quot;, &quot;lead&quot;: &quot;Aynı 1.000 jeton bir cüzdanda, bir tasarruf hesabında ve üç fonda duruyor. Haftayı birer birer ilerletin ve her birine ne olduğunu izleyin. Hepsi uygulamadaki kurallarla aynı.&quot;, &quot;currency&quot;: &quot;jeton&quot;, &quot;week&quot;: &quot;{n}. hafta&quot;, &quot;start&quot;: &quot;Henüz başlamadı&quot;, &quot;next&quot;: &quot;Bir hafta ilerlet&quot;, &quot;reset&quot;: &quot;Baştan başla&quot;, &quot;wallet&quot;: &quot;Cüzdan&quot;, &quot;savings&quot;: &quot;Tasarruf · haftalık %5 bileşik faiz&quot;, &quot;funds&quot;: [&quot;Kaplumbağa Güvenli Fon&quot;, &quot;Tavşan Büyüme Hissesi&quot;, &quot;Roket Macera Hissesi&quot;], &quot;power&quot;: &quot;Fiyat endeksi {i} · cüzdandaki 1.000 jeton artık eskiden {p} jetonla alınanı alabiliyor&quot;, &quot;note&quot;: &quot;Uygulamadaki gibi fon fiyatları rastgele değişir, bu yüzden her deneme farklı sonuçlanır. Haftalık %5 faiz ve %2 fiyat artışı uygulamanın başlangıç ayarlarıdır.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>"Biriktirirsen büyür" sözü bir çocuğa gerçekten ulaşıyor mu?</h2>
+      <p>Faiz, bileşik faiz, enflasyon: anlattıkça daha da uzak geliyor. SukSuk Harçlık'ta çocuklar kendileri kazanıyor, harcıyor ve bekliyor. Geçen haftaki birikimlerinin faiz getirdiğini fark ettikleri anda, bir sonraki harçlık doğrudan tasarruf hesabına gidiyor.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Sabrın karşılığını görün</h2>
+        <p>Tasarruf hesabındaki para her hafta bileşik faiz kazanır. Oranı siz belirlersiniz; grafik de dokunulmazsa 12 hafta sonra ne kadar olacağını gösterir.<br>Birkaç gün uygulamayı açmadınız mı? Açıldığında birikmiş tüm haftalar tek seferde ödenir.</p>
+      </div>
+      <div class="phone"><img src="../img/tr/03-savings.jpg" alt="Sabrın karşılığını görün" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Fiyatların cüzdanı nasıl erittiğini görün</h2>
+        <p>Pazar sekmesi ailenin fiyat endeksini, enflasyonu, faiz oranını, para miktarını ve fon fiyatlarını tek ekranda toplar. Fiyatlar yükseldikçe cüzdandaki 1.000 jetonun ne kadar daha az şey alabildiği görünür.<br>Çocuklar net rakamlarla görür: boşta duran para erir, biriktirilen ya da yatırılan para değerini korur.</p>
+      </div>
+      <div class="phone"><img src="../img/tr/04-market.jpg" alt="Fiyatların cüzdanı nasıl erittiğini görün" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Birlikte yapılacak on sohbet</h2>
+        <p>Ebeveyn rehberi sizi on adımda götürür: paraya neden ihtiyacımız var, ihtiyaçlar ve istekler, fırsat maliyeti, tasarruf ve faiz, bileşik faiz, enflasyon, yatırım ve risk, en sonunda da bütçe yapmak.<br>Bileşik faiz hesaplayıcısı ve fiyat deneyi hesaplayıcısıyla sayıları değiştirip neler olduğunu birlikte görebilirsiniz.</p>
+      </div>
+      <div class="phone"><img src="../img/tr/06-learn.jpg" alt="Birlikte yapılacak on sohbet" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Üç adımda başlayın</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Paranıza bir ad verin</h3><p>Fasulye, Yıldız, Jeton; aileniz ne derse o.</p></li>
+<li class="card"><span class="n">2</span><h3>Ebeveyn PIN'i belirleyin</h3><p>Dört haneli. Yalnızca bilen kişi harçlık verebilir ya da banka ayarlarını değiştirebilir.</p></li>
+<li class="card"><span class="n">3</span><h3>Aileyi ekleyin</h3><p>Çocukları ve ebeveynleri ekleyin, ilk harçlığı verin, hazırsınız.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Ne nerede</h2>
+      <div class="card table">
+        <dl><div><dt>Genel bakış</dt><dd>Herkesin cüzdanı, tasarrufu ve yatırımları tek bakışta</dd></div><div><dt>Eylemler</dt><dd>Harçlık ver ya da düş, Ürün barkodu, Ürün ekle, Çocuğu davet et, Çocuk telefonu modu, Banka ayarları (ebeveyn PIN'i gerekir)</dd></div><div><dt>Pazar</dt><dd>Fiyat endeksi, enflasyon, döviz kuru, tasarruf faizi, para miktarı, fon fiyatları</dd></div><div><dt>Geçmiş</dt><dd>Her para hareketi tarihe, kişiye ya da türe göre</dd></div><div><dt>Öğren</dt><dd>On adımlık ebeveyn rehberi, bileşik faiz hesaplayıcısı, fiyat deneyi hesaplayıcısı</dd></div><div><dt>🐢 Kaplumbağa Güvenli Fon</dt><dd>Günlük küçük dalgalanmalar, yavaş ve istikrarlı yükseliş</dd></div><div><dt>🐰 Tavşan Büyüme Hissesi</dt><dd>İner çıkar ama büyür</dd></div><div><dt>🚀 Roket Macera Hissesi</dt><dd>Uçabilir de, çakılabilir de</dd></div></dl>
+      </div>
+      <p class="muted">Başlangıçta haftalık %5 tasarruf faizi ve haftalık %2 enflasyon vardır. İkisini de Ebeveyn modunda, Banka ayarları altında değiştirebilirsiniz. Enflasyonu %0 yaparsanız fiyatlar sabit kalır.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Tüm özellikler ücretsiz</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Ücretsiz</h3>
+          <ul><li>Ailenizin kendi parası ve PIN ile kilitli Ebeveyn modu</li><li>Harçlık verme ve düşme, Ev dükkânı ve barkodla ödeme</li><li>Her hafta bileşik faiz kazanan tasarruf hesabı</li><li>Getiri grafikleriyle üç deneme fonu</li><li>Pazar sekmesi ve tarihli işlem geçmişi</li><li>On adımlık ebeveyn rehberi ve iki hesaplayıcı</li><li>Çocuk telefonu modu ve iCloud eşzamanlaması</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Geliştiriciyi destekleyin</h3>
+          <ul><li>Ebeveyn modunda Banka ayarları'ndan dilediğiniz tutarda küçük bir bahşiş gönderin</li><li>Bahşiş hiçbir şeyin kilidini açmaz. Uygulama aynı şekilde çalışır</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Reklam yok, abonelik yok. Bahşiş düğmesi yalnızca Ebeveyn modunun içinde olduğu için çocuklar hiçbir zaman satın alma düğmesi görmez.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Sorular</h2>
+      <div class="faq"><details><summary>Gerçek para kullanılıyor mu?</summary><p>Hayır. Uygulamadaki para ve tüm işlemler oyun amaçlıdır, yalnızca öğrenmek için. Hiçbir şey gerçek bir banka hesabına, karta ya da nakde bağlı değildir.</p></details>
+<details><summary>Çocuğumun telefonunda aynı hesapları nasıl görürüz?</summary><p>Aynı iCloud hesabıyla oturum açılmış aygıtlar aile hesaplarını otomatik olarak eşzamanlar. Ayarlar &gt; Apple Hesabı &gt; iCloud bölümünde iCloud'un açık olduğunu kontrol edin. Eylemler sekmesindeki Çocuğu davet et bölümünden, çocuğunuzun kamerayla tarayacağı bir QR davetiyesi oluşturabilirsiniz. iCloud olmadan veriler yalnızca o aygıtta kalır.</p></details>
+<details><summary>Çocuk telefonu modu nedir?</summary><p>Çocuğunuzun telefonunu yalnızca ona ait bir ekrana dönüştürür. Çocuk sadece kendi cüzdanını, yatırımlarını, geçmişini ve derslerini görür; moddan çıkmak için ebeveyn PIN'i gerekir.</p></details>
+<details><summary>Ebeveyn PIN'ini unuttum.</summary><p>PIN yalnızca aygıtta saklanır, bu yüzden geliştirici bile onu kurtaramaz. Uygulamayı silip yeniden yüklerseniz kurulumu baştan yapabilirsiniz, ancak mevcut verileriniz de silinir.</p></details>
+<details><summary>Tasarruf faizi nasıl işliyor?</summary><p>Her hafta tasarruf bakiyesine otomatik olarak bileşik faiz eklenir. Oranı Ebeveyn modunda belirlersiniz; geçen haftalar uygulama bir sonraki açılışta hesaplanır.</p></details>
+<details><summary>Fon fiyatları gerçek piyasaya bağlı mı?</summary><p>Hayır. Fon fiyatları uygulamanın içinde günde bir kez değişen deneme verileridir. Fon ne kadar riskliyse dalgalanma o kadar büyük olur. Gerçek finansal ürünler değildir.</p></details>
+<details><summary>Fiyatlar neden artıyor?</summary><p>Çocuklar enflasyonu hissetsin diye ailenin fiyat endeksi her hafta biraz yükselir. Hızı değiştirebilir ya da %0 yaparak kapatabilirsiniz; bunun için Ebeveyn modunda Banka ayarları'na gidin. Ev dükkânındaki atıştırmalık ve oyuncakların fiyatlarını da biraz artırırsanız ders daha kalıcı olur.</p></details>
+<details><summary>Her şeyi nasıl silerim?</summary><p>Uygulamayı silmek aygıttaki verileri kaldırır. iCloud'a eşzamanlanmış veriler için Ayarlar &gt; Apple Hesabı &gt; iCloud &gt; Saklama Alanını Yönet bölümüne gidip uygulamanın verilerini silin.</p></details>
+<details><summary>Ailemin bilgileri bir yere gönderiliyor mu?</summary><p>Hayır. Kayıt yok; tüm veriler aygıtınızda ve kendi iCloud hesabınızda kalır. Geliştiriciye yalnızca Ebeveyn modundan kendi gönderdiğiniz geri bildirimler, anonim kullanım istatistikleri ve çökme raporları ulaşır.</p></details>
+<details><summary>Hangi aygıtlarda çalışır?</summary><p>iOS 17.0 veya sonrası yüklü iPhone'da.</p></details></div>
+      <p class="contact">Sorunuz, hata bildiriminiz ya da fikriniz mi var? <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> adresine yazın. Aygıt modelinizi ve iOS sürümünüzü belirtirseniz size daha hızlı yardımcı olabiliriz.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Aile bankasını<br>bu haftanın harçlığıyla açın</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">App Store'dan ücretsiz indirin</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Harçlık · <a href="privacy.html">Gizlilik Politikası</a> · <a href="support.html">Destek</a></p>
+    <nav id="languages" class="langs" aria-label="Dil"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr" aria-current="page">Türkçe</a></nav>
+    <p><a href="privacy.html">Gizlilik Politikası</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

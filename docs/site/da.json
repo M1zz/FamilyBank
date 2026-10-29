@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Lommepenge: forældrene er banken, børnene sparer og investerer",
+  "description": "Giv lommepenge i jeres egen familievaluta. Børnene betaler selv, får rente hver uge og prøver øvefonde, så de forstår penge. Alt er gratis.",
+  "hero": {
+    "headline": "Lommepengedagen bliver\ntil en time om penge",
+    "lead": "Du er familiens centralbank, og børnene er kunderne. De får lommepenge i jeres egen valuta, køber slik, ser renten lande på opsparingen og mærker op- og nedturene i en øvefond.",
+    "cta": "Hent gratis i App Store",
+    "note": "Alle funktioner er gratis. Der bruges aldrig rigtige penge."
+  },
+  "demo": {
+    "title": "Hvor ville du gemme 1.000 mønter?",
+    "lead": "De samme 1.000 mønter ligger i en pung, på en opsparing og i tre fonde. Spring en uge frem ad gangen, og se hvad der sker med hver af dem. Det hele følger de samme regler som appen.",
+    "currency": "mønter",
+    "week": "Uge {n}",
+    "start": "Ikke startet endnu",
+    "next": "En uge frem",
+    "reset": "Start forfra",
+    "wallet": "Pung",
+    "savings": "Opsparing · 5 % om ugen med rentes rente",
+    "funds": ["Skildpadde Tryg Fond", "Kanin Vækstaktier", "Raket Eventyraktier"],
+    "power": "Prisindeks {i} · 1.000 mønter i pungen køber nu kun det, {p} mønter købte før",
+    "note": "Ligesom i appen svinger fondspriserne tilfældigt, så hver omgang ender forskelligt. 5 % rente og 2 % prisstigning om ugen er appens startindstillinger."
+  },
+  "problem": {
+    "title": "\"Spar op, så vokser de.\" Forstår et barn det egentlig?",
+    "text": "Rente, rentes rente, inflation: Jo mere man forklarer, jo fjernere lyder det. I SukSuk Lommepenge tjener, bruger og venter børnene selv. Når de opdager, at sidste uges opsparing har fået rente, ryger de næste lommepenge direkte ind på opsparingen."
+  },
+  "features": [
+    {
+      "title": "Se tålmodighed betale sig",
+      "text": "Penge på opsparingen får rentes rente hver uge. Du bestemmer renten, og en graf viser, hvad beløbet vokser til på 12 uger, hvis det får lov at ligge.\nIkke åbnet appen i nogle dage? Når den åbnes, bliver alle skyldige uger udbetalt på én gang.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Se priserne tære på pungen",
+      "text": "Fanen Marked samler familiens prisindeks, inflation, rente, pengemængde og fondspriser på én skærm. Når priserne stiger, kan man se, hvor meget mindre 1.000 mønter i pungen nu kan købe.\nBørnene ser i klare tal, at penge, der bare ligger, skrumper, mens sparede eller investerede penge holder værdien.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Ti samtaler at tage sammen",
+      "text": "Forældreguiden fører jer gennem ti trin: hvorfor vi har brug for penge, behov og ønsker, alternativomkostninger, opsparing og rente, rentes rente, inflation, investering og risiko og til sidst et budget.\nEn rentes rente-beregner og en beregner til priseksperimenter lader jer ændre tallene og se, hvad der sker.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Kom i gang på tre trin",
+    "items": [
+      {
+        "title": "Navngiv jeres valuta",
+        "text": "Bønner, Stjerner, Mønter, eller hvad familien nu vil kalde den."
+      },
+      {
+        "title": "Vælg en forældre-PIN",
+        "text": "Fire cifre. Kun den, der kender den, kan give lommepenge eller ændre bankindstillingerne."
+      },
+      {
+        "title": "Tilføj familien",
+        "text": "Tilføj børn og forældre, giv de første lommepenge, og så er I i gang."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Hvad ligger hvor",
+    "rows": [
+      ["Overblik", "Alles pung, opsparing og investeringer på ét blik"],
+      ["Handlinger", "Giv eller træk lommepenge fra, Stregkode til vare, Tilføj vare, Inviter barn, Børnetelefon-tilstand, Bankindstillinger (kræver forældre-PIN)"],
+      ["Marked", "Prisindeks, inflation, valutakurs, sparerente, pengemængde, fondspriser"],
+      ["Historik", "Hver pengebevægelse efter dato, medlem eller type"],
+      ["Lær", "Forældreguide i ti trin, rentes rente-beregner, beregner til priseksperimenter"],
+      ["🐢 Skildpadde Tryg Fond", "Små daglige udsving, langsom og stabil stigning"],
+      ["🐰 Kanin Vækstaktier", "Op og ned, men de vokser"],
+      ["🚀 Raket Eventyraktier", "Kan stige til himmels, kan styrtdykke"]
+    ],
+    "note": "Fra start er der 5 % ugentlig sparerente og 2 % ugentlig inflation. Begge ændres i Forældretilstand under Bankindstillinger. Med 0 % inflation står priserne stille."
+  },
+  "pricing": {
+    "title": "Alle funktioner er gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Jeres egen familievaluta og en PIN-låst Forældretilstand",
+        "Give og trække lommepenge fra, Hjemmebutik og betaling med stregkode",
+        "En opsparing med ugentlig rentes rente",
+        "Tre øvefonde med afkastgrafer",
+        "Fanen Marked og en dateret transaktionshistorik",
+        "Forældreguiden i ti trin og to beregnere",
+        "Børnetelefon-tilstand og synkronisering via iCloud"
+      ]
+    },
+    "pro": {
+      "name": "Støt udvikleren",
+      "items": [
+        "Send et lille drikkepengebeløb i valgfri størrelse fra Bankindstillinger i Forældretilstand",
+        "Drikkepenge låser ikke noget op. Appen virker på samme måde"
+      ]
+    },
+    "note": "Ingen reklamer, intet abonnement. Knappen til drikkepenge findes kun i Forældretilstand, så børnene ser aldrig en købsknap."
+  },
+  "faq": {
+    "title": "Spørgsmål",
+    "items": [
+      {
+        "q": "Indgår der rigtige penge?",
+        "a": "Nej. Valutaen og alle transaktioner i appen er på skrømt og kun til læring. Intet er forbundet med en rigtig bankkonto, et kort eller kontanter."
+      },
+      {
+        "q": "Hvordan ser vi de samme konti på mit barns telefon?",
+        "a": "Enheder, der er logget ind med samme iCloud-konto, synkroniserer familiens konti automatisk. Tjek, at iCloud er slået til under Indstillinger > Apple-konto > iCloud. Under Inviter barn på fanen Handlinger kan du lave en QR-invitation, som barnet scanner med kameraet. Uden iCloud bliver dataene kun på den ene enhed."
+      },
+      {
+        "q": "Hvad er Børnetelefon-tilstand?",
+        "a": "Den gør barnets telefon til en skærm, der kun er til barnet. Barnet ser kun sin egen pung, sine investeringer, sin historik og lektionerne, og det kræver forældre-PIN at forlade den."
+      },
+      {
+        "q": "Jeg har glemt forældre-PIN'en.",
+        "a": "PIN'en gemmes kun på enheden, så ikke engang udvikleren kan gendanne den. Sletter du appen og installerer den igen, kan du sætte den op forfra, men så slettes jeres eksisterende data også."
+      },
+      {
+        "q": "Hvordan fungerer renten på opsparingen?",
+        "a": "Hver uge lægges der automatisk rentes rente til opsparingen. Du vælger renten i Forældretilstand, og uger, der er gået, gøres op, næste gang appen åbnes."
+      },
+      {
+        "q": "Følger fondspriserne det rigtige marked?",
+        "a": "Nej. Fondspriserne er øvedata, der ændrer sig én gang om dagen i appen. Jo mere risikabel fonden er, jo større udsving. Det er ikke rigtige finansielle produkter."
+      },
+      {
+        "q": "Hvorfor stiger priserne?",
+        "a": "For at børnene kan mærke inflation, stiger familiens prisindeks lidt hver uge. Du kan ændre takten eller sætte den til 0 % for at slå den fra i Forældretilstand under Bankindstillinger. Hæver du samtidig prisen på slik og legetøj i Hjemmebutikken en smule, sidder lektien bedre fast."
+      },
+      {
+        "q": "Hvordan sletter jeg alt?",
+        "a": "Når du sletter appen, forsvinder dataene på enheden. Data, der er synkroniseret til iCloud, sletter du under Indstillinger > Apple-konto > iCloud > Administrer lagringsplads."
+      },
+      {
+        "q": "Bliver min families oplysninger sendt nogen steder hen?",
+        "a": "Nej. Der er ingen tilmelding, og alle data bliver på din enhed og i din egen iCloud-konto. Udvikleren modtager kun den feedback, du selv sender fra Forældretilstand, samt anonym brugsstatistik og nedbrudsrapporter."
+      },
+      {
+        "q": "Hvilke enheder kører den på?",
+        "a": "iPhone med iOS 17.0 eller nyere."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Åbn familiebanken\nmed denne uges lommepenge",
+    "cta": "Hent gratis i App Store"
+  },
+  "ui": {
+    "skip": "Spring til indhold",
+    "languages": "Sprog",
+    "privacy": "Privatlivspolitik",
+    "contact": "Spørgsmål, fejl eller idéer? Skriv til {email}. Skriv gerne din enhedsmodel og iOS-version med, så kan vi hjælpe hurtigere."
+  }
+}

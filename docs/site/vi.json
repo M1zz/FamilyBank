@@ -1,0 +1,154 @@
+{
+  "title": "SukSuk Tiền Tiêu Vặt: bố mẹ làm ngân hàng, con tập tiết kiệm và đầu tư",
+  "description": "Cho con tiền tiêu vặt bằng đồng tiền riêng của nhà. Con tự trả tiền, nhận lãi mỗi tuần, thử quỹ đầu tư tập và hiểu tiền vận hành ra sao. Miễn phí.",
+  "hero": {
+    "headline": "Ngày phát tiền tiêu vặt\nthành buổi học về tiền",
+    "lead": "Bố mẹ là ngân hàng trung ương của gia đình, các con là khách hàng. Con nhận tiền tiêu vặt bằng đồng tiền riêng của nhà, tự mua quà vặt, thấy tiền lãi rơi vào khoản tiết kiệm và hồi hộp theo từng lần lên xuống của quỹ đầu tư tập.",
+    "cta": "Tải miễn phí trên App Store",
+    "note": "Mọi tính năng đều miễn phí. Không có tiền thật nào được trao tay."
+  },
+  "demo": {
+    "title": "Có 1.000 xu, con sẽ để ở đâu?",
+    "lead": "Cùng 1.000 xu, để trong ví, trong khoản tiết kiệm và trong ba quỹ. Bấm qua từng tuần để xem mỗi chỗ thay đổi thế nào. Mọi thứ theo đúng quy tắc trong ứng dụng.",
+    "currency": "xu",
+    "week": "Tuần {n}",
+    "start": "Chưa bắt đầu",
+    "next": "Qua một tuần",
+    "reset": "Làm lại từ đầu",
+    "wallet": "Ví",
+    "savings": "Tiết kiệm · lãi kép 5% mỗi tuần",
+    "funds": ["Quỹ Rùa An Toàn", "Cổ phiếu Thỏ Tăng Trưởng", "Cổ phiếu Tên Lửa Mạo Hiểm"],
+    "power": "Chỉ số giá {i} · 1.000 xu trong ví giờ chỉ mua được bằng {p} xu ngày trước",
+    "note": "Giống trong ứng dụng, giá quỹ lên xuống ngẫu nhiên nên mỗi lần chạy lại ra kết quả khác. Lãi 5% và giá tăng 2% mỗi tuần là thiết lập ban đầu của ứng dụng."
+  },
+  "problem": {
+    "title": "\"Để dành thì tiền sẽ lớn\", trẻ có thật sự hiểu không?",
+    "text": "Lãi suất, lãi kép, lạm phát: càng giải thích càng nghe xa vời. Trong SukSuk Tiền Tiêu Vặt, con tự kiếm, tự tiêu và tự chờ đợi. Khi con phát hiện khoản tiết kiệm tuần trước đã có thêm tiền lãi, lần tiền tiêu vặt sau sẽ được con bỏ thẳng vào tiết kiệm."
+  },
+  "features": [
+    {
+      "title": "Thấy rõ kiên nhẫn được đền đáp",
+      "text": "Tiền trong khoản tiết kiệm được tính lãi kép mỗi tuần. Bố mẹ đặt lãi suất, và biểu đồ cho thấy nếu để yên thì sau 12 tuần số tiền sẽ thành bao nhiêu.\nVài ngày không mở ứng dụng cũng không sao. Khi mở lại, mọi tuần còn thiếu đều được trả một lần.",
+      "shot": "03-savings"
+    },
+    {
+      "title": "Thấy giá cả bào mòn chiếc ví",
+      "text": "Thẻ Thị trường gom chỉ số giá của nhà, lạm phát, lãi suất, lượng tiền và giá quỹ vào một màn hình. Khi giá tăng, con thấy 1.000 xu trong ví mua được ít đi bao nhiêu.\nCon nhìn bằng con số rõ ràng: tiền để không sẽ teo dần, còn tiền tiết kiệm hay đầu tư thì giữ được giá trị.",
+      "shot": "04-market"
+    },
+    {
+      "title": "Mười câu chuyện để cùng trò chuyện",
+      "text": "Hướng dẫn cho cha mẹ đi qua mười bước: vì sao cần tiền, cần và muốn, chi phí cơ hội, tiết kiệm và lãi suất, lãi kép, lạm phát, đầu tư và rủi ro, rồi tới lập ngân sách.\nCó máy tính lãi kép và máy tính thử nghiệm giá cả để cả nhà đổi con số và xem điều gì xảy ra.",
+      "shot": "06-learn"
+    }
+  ],
+  "steps": {
+    "title": "Bắt đầu với ba bước",
+    "items": [
+      {
+        "title": "Đặt tên cho đồng tiền",
+        "text": "Đậu, Sao, Xu, cả nhà thích gọi là gì cũng được."
+      },
+      {
+        "title": "Đặt mã PIN của bố mẹ",
+        "text": "Bốn chữ số. Chỉ người biết mã mới phát tiền tiêu vặt hoặc đổi cài đặt ngân hàng được."
+      },
+      {
+        "title": "Thêm các thành viên",
+        "text": "Thêm các con và bố mẹ, phát khoản tiền tiêu vặt đầu tiên là xong."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Cái gì nằm ở đâu",
+    "rows": [
+      ["Tổng quan", "Ví, tiết kiệm và đầu tư của cả nhà trong một màn hình"],
+      ["Thao tác", "Phát hoặc trừ tiền tiêu vặt, Mã vạch món hàng, Thêm món hàng, Mời con, Chế độ điện thoại của con, Cài đặt ngân hàng (cần mã PIN của bố mẹ)"],
+      ["Thị trường", "Chỉ số giá, lạm phát, tỷ giá, lãi suất tiết kiệm, lượng tiền, giá quỹ"],
+      ["Lịch sử", "Mọi khoản tiền ra vào theo ngày, theo thành viên hoặc theo loại"],
+      ["Học", "Hướng dẫn cho cha mẹ mười bước, máy tính lãi kép, máy tính thử nghiệm giá cả"],
+      ["🐢 Quỹ Rùa An Toàn", "Mỗi ngày dao động ít, đi lên chậm mà chắc"],
+      ["🐰 Cổ phiếu Thỏ Tăng Trưởng", "Lúc lên lúc xuống, nhưng vẫn lớn dần"],
+      ["🚀 Cổ phiếu Tên Lửa Mạo Hiểm", "Có thể vọt lên, cũng có thể lao dốc"]
+    ],
+    "note": "Ban đầu là lãi tiết kiệm 5% và lạm phát 2% mỗi tuần. Đổi cả hai trong Chế độ bố mẹ, mục Cài đặt ngân hàng. Đặt lạm phát 0% thì giá cả đứng yên."
+  },
+  "pricing": {
+    "title": "Mọi tính năng đều miễn phí",
+    "free": {
+      "name": "Miễn phí",
+      "items": [
+        "Đồng tiền riêng của gia đình và Chế độ bố mẹ khóa bằng mã PIN",
+        "Phát và trừ tiền tiêu vặt, Cửa hàng của nhà và trả tiền bằng mã vạch",
+        "Khoản tiết kiệm tính lãi kép mỗi tuần",
+        "Ba quỹ đầu tư tập kèm biểu đồ lợi nhuận",
+        "Thẻ Thị trường và lịch sử giao dịch theo ngày",
+        "Hướng dẫn cho cha mẹ mười bước và hai máy tính",
+        "Chế độ điện thoại của con và đồng bộ iCloud"
+      ]
+    },
+    "pro": {
+      "name": "Ủng hộ nhà phát triển",
+      "items": [
+        "Gửi một khoản tiền tip nhỏ tùy ý từ Cài đặt ngân hàng trong Chế độ bố mẹ",
+        "Tiền tip không mở khóa gì thêm. Ứng dụng vẫn hoạt động y như cũ"
+      ]
+    },
+    "note": "Không quảng cáo, không gói đăng ký. Nút tip chỉ nằm trong Chế độ bố mẹ nên các con không bao giờ thấy nút mua."
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "items": [
+      {
+        "q": "Có dùng tiền thật không?",
+        "a": "Không. Đồng tiền và mọi giao dịch trong ứng dụng đều là giả lập, chỉ để học. Không có gì kết nối với tài khoản ngân hàng, thẻ hay tiền mặt thật."
+      },
+      {
+        "q": "Làm sao xem cùng một sổ sách trên điện thoại của con?",
+        "a": "Các thiết bị đăng nhập cùng một tài khoản iCloud sẽ tự đồng bộ sổ sách gia đình. Hãy kiểm tra iCloud đã bật trong Cài đặt > Tài khoản Apple > iCloud. Ở thẻ Thao tác, mục Mời con, bạn có thể tạo lời mời bằng mã QR để con quét bằng camera. Nếu không dùng iCloud, dữ liệu chỉ nằm trên thiết bị đó."
+      },
+      {
+        "q": "Chế độ điện thoại của con là gì?",
+        "a": "Chế độ này biến điện thoại của con thành màn hình dành riêng cho con. Con chỉ thấy ví, khoản đầu tư, lịch sử và bài học của mình, và muốn thoát ra phải có mã PIN của bố mẹ."
+      },
+      {
+        "q": "Tôi quên mã PIN của bố mẹ.",
+        "a": "Mã PIN chỉ được lưu trên thiết bị, nên ngay cả nhà phát triển cũng không khôi phục được. Xóa rồi cài lại ứng dụng sẽ cho bạn thiết lập lại từ đầu, nhưng dữ liệu cũ cũng bị xóa theo."
+      },
+      {
+        "q": "Lãi tiết kiệm được tính thế nào?",
+        "a": "Mỗi tuần, lãi kép tự động được cộng vào số dư tiết kiệm. Bạn đặt lãi suất trong Chế độ bố mẹ, và những tuần đã trôi qua sẽ được tính bù vào lần mở ứng dụng tiếp theo."
+      },
+      {
+        "q": "Giá quỹ có theo thị trường thật không?",
+        "a": "Không. Giá quỹ là dữ liệu tập luyện, thay đổi mỗi ngày một lần trong ứng dụng. Quỹ càng mạo hiểm thì dao động càng mạnh. Đây không phải sản phẩm tài chính thật."
+      },
+      {
+        "q": "Vì sao giá cả lại tăng?",
+        "a": "Để con cảm nhận được lạm phát, chỉ số giá của nhà tăng nhẹ mỗi tuần. Bạn đổi mức tăng, hoặc đặt 0% để tắt, trong Chế độ bố mẹ, mục Cài đặt ngân hàng. Nếu nâng nhẹ giá bánh kẹo và đồ chơi ở Cửa hàng của nhà theo, bài học sẽ thấm hơn."
+      },
+      {
+        "q": "Làm sao xóa toàn bộ dữ liệu?",
+        "a": "Xóa ứng dụng sẽ xóa dữ liệu lưu trên thiết bị. Với dữ liệu đã đồng bộ lên iCloud, vào Cài đặt > Tài khoản Apple > iCloud > Quản lý dung lượng và xóa dữ liệu của ứng dụng."
+      },
+      {
+        "q": "Thông tin gia đình tôi có bị gửi đi đâu không?",
+        "a": "Không. Không cần đăng ký, mọi dữ liệu chỉ nằm trên thiết bị của bạn và trong tài khoản iCloud của chính bạn. Nhà phát triển chỉ nhận góp ý do bạn tự gửi từ Chế độ bố mẹ, cùng thống kê sử dụng ẩn danh và báo cáo sự cố."
+      },
+      {
+        "q": "Ứng dụng chạy trên thiết bị nào?",
+        "a": "iPhone chạy iOS 17.0 trở lên."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Mở ngân hàng gia đình\nvới tiền tiêu vặt tuần này",
+    "cta": "Tải miễn phí trên App Store"
+  },
+  "ui": {
+    "skip": "Bỏ qua đến nội dung",
+    "languages": "Ngôn ngữ",
+    "privacy": "Chính sách quyền riêng tư",
+    "contact": "Có câu hỏi, gặp lỗi hay có ý tưởng? Hãy viết cho chúng tôi qua {email}. Ghi kèm đời máy và phiên bản iOS sẽ giúp chúng tôi hỗ trợ nhanh hơn."
+  }
+}

@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Mesada — Educação financeira para toda a família</title>
-  <meta name="description" content="No SukSuk Mesada, os pais viram o banco da família e as crianças aprendem sobre dinheiro recebendo, gastando, guardando e investindo a mesada.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Mesada: você é o banco da família e os filhos poupam e investem</title>
+  <meta name="description" content="Dê a mesada na moeda da sua família. Os filhos pagam, ganham juros toda semana e testam fundos de treino para entender o dinheiro. Tudo grátis.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/pt-BR/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,60 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Mesada: você é o banco da família e os filhos poupam e investem">
+  <meta property="og:description" content="Dê a mesada na moeda da sua família. Os filhos pagam, ganham juros toda semana e testam fundos de treino para entender o dinheiro. Tudo grátis.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/pt-BR/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/pt-BR/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR" aria-current="true" style="font-weight:700">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Mesada</h1>
-    <p class="sub">O app de mesada que faz os bons hábitos financeiros das crianças crescerem</p>
-    <nav class="top">
-      <a href="index.html">Início</a>
-      <a href="support.html">Suporte e contato</a>
-      <a href="privacy.html">Política de Privacidade</a>
-    </nav>
+  <a class="skip" href="#main">Pular para o conteúdo</a>
+  <header class="bar">
+    <a class="brand" href="../pt-BR/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Mesada</a>
+    <a class="lang-link" href="#languages">Idioma</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 O que é o SukSuk Mesada?</h2>
-      <p>
-        O <strong>SukSuk Mesada</strong> é um app para iOS que ensina finanças e economia às crianças
-        usando uma moeda própria da família. Os pais fazem o papel de banco central e pagam a mesada;
-        os filhos fazem pagamentos, guardam dinheiro para ganhar juros e investem em fundos de mentirinha,
-        aprendendo na prática como a economia funciona.
-      </p>
-      <div class="key">
-        Todos os dados ficam <strong>somente no seu aparelho e na sua conta do iCloud</strong>.
-        Não é preciso criar cadastro, e nada do que a família digita é enviado ao desenvolvedor.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>O dia da mesada vira<br>uma aula sobre dinheiro</h1>
+        <p class="lead">Você é o banco central da família, e seus filhos são os clientes. Eles recebem a mesada na moeda de vocês, compram o lanchinho, veem os juros caírem na poupança e sentem o sobe e desce de um fundo de treino.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Baixe grátis na App Store</a><a class="try" href="#try">Onde você guardaria 1.000 moedas? ↓</a></div>
+        <p class="muted small">Todos os recursos são grátis. Nenhum dinheiro de verdade troca de mãos.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/pt-BR/01-dashboard.jpg" alt="O dia da mesada vira uma aula sobre dinheiro" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Principais recursos</h2>
-      <ul>
-        <li><strong>A moeda da sua casa</strong> — Feijões, Estrelas, Moedas… vocês escolhem o nome do dinheiro</li>
-        <li><strong>Dar e descontar mesada</strong> — tudo é feito no modo pais, protegido por PIN</li>
-        <li><strong>Pagamentos</strong> — a criança mesma paga lanches, tempo de videogame e mais, inclusive por código de barras</li>
-        <li><strong>Juros da poupança</strong> — a poupança rende juros compostos automaticamente toda semana</li>
-        <li><strong>Experiência de investimento</strong> — fundos simulados Tranquilo 🐢 · Moderado 🐰 · Ousado 🚀</li>
-        <li><strong>Extrato</strong> — veja, dia a dia, para onde foi cada centavo</li>
-        <li><strong>Educação financeira</strong> — guias sobre dinheiro, poupança, juros compostos, investimento, custo de oportunidade e mais</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Precisa de ajuda?</h2>
-      <p>Ficou com alguma dúvida ou encontrou um erro? Fale com a gente quando quiser.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Mesada%5D%20Contato">✉️ Fale conosco</a>
-      </p>
-      <p class="muted">Veja as perguntas frequentes completas na <a href="support.html">página de suporte</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Onde você guardaria 1.000 moedas?</h2>
+      <p class="muted">As mesmas 1.000 moedas estão na carteira, na poupança e em três fundos. Avance uma semana de cada vez e veja o que acontece com cada uma. Tudo segue as mesmas regras do app.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Onde você guardaria 1.000 moedas?&quot;, &quot;lead&quot;: &quot;As mesmas 1.000 moedas estão na carteira, na poupança e em três fundos. Avance uma semana de cada vez e veja o que acontece com cada uma. Tudo segue as mesmas regras do app.&quot;, &quot;currency&quot;: &quot;moedas&quot;, &quot;week&quot;: &quot;Semana {n}&quot;, &quot;start&quot;: &quot;Ainda não começou&quot;, &quot;next&quot;: &quot;Avançar uma semana&quot;, &quot;reset&quot;: &quot;Começar de novo&quot;, &quot;wallet&quot;: &quot;Carteira&quot;, &quot;savings&quot;: &quot;Poupança · 5% por semana, juros compostos&quot;, &quot;funds&quot;: [&quot;Fundo Tartaruga Seguro&quot;, &quot;Ações Coelho Crescimento&quot;, &quot;Ações Foguete Aventura&quot;], &quot;power&quot;: &quot;Índice de preços {i} · 1.000 moedas na carteira agora só compram o que {p} moedas compravam&quot;, &quot;note&quot;: &quot;Assim como no app, os preços dos fundos variam ao acaso, então cada rodada termina diferente. Os juros de 5% e a alta de preços de 2% por semana são os ajustes iniciais do app.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>"Guarde que ele cresce": será que a criança entende mesmo?</h2>
+      <p>Juros, juros compostos, inflação: quanto mais você explica, mais distante parece. No SukSuk Mesada, a criança ganha, gasta e espera por conta própria. Quando ela percebe que a poupança da semana passada rendeu juros, a próxima mesada vai direto para a poupança.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>A paciência aparece no saldo</h2>
+        <p>O dinheiro na poupança rende juros compostos toda semana. Você define a taxa, e um gráfico mostra quanto ele vai virar em 12 semanas se ninguém mexer.<br>Ficou uns dias sem abrir? Quando o app abre, todas as semanas em atraso são pagas de uma vez.</p>
+      </div>
+      <div class="phone"><img src="../img/pt-BR/03-savings.jpg" alt="A paciência aparece no saldo" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Veja os preços comerem a carteira</h2>
+        <p>A aba Mercado reúne numa tela só o índice de preços da família, a inflação, a taxa de juros, o dinheiro em circulação e os preços dos fundos. Conforme os preços sobem, ela mostra quanto menos 1.000 moedas na carteira conseguem comprar.<br>A criança vê em números simples que dinheiro parado encolhe, e dinheiro poupado ou investido se mantém.</p>
+      </div>
+      <div class="phone"><img src="../img/pt-BR/04-market.jpg" alt="Veja os preços comerem a carteira" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Dez conversas para ter juntos</h2>
+        <p>O guia para os pais conduz você em dez passos: por que precisamos de dinheiro, necessidades e desejos, custo de oportunidade, poupança e juros, juros compostos, inflação, investimento e risco, até montar um orçamento.<br>Uma calculadora de juros compostos e uma calculadora de experimento de preços deixam vocês mudar os números e ver o que acontece.</p>
+      </div>
+      <div class="phone"><img src="../img/pt-BR/06-learn.jpg" alt="Dez conversas para ter juntos" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Três passos para começar</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Dê um nome à moeda</h3><p>Feijões, Estrelas, Moedas: como a família quiser chamar.</p></li>
+<li class="card"><span class="n">2</span><h3>Crie um PIN dos pais</h3><p>Quatro dígitos. Só quem sabe o PIN pode dar mesada ou mudar os ajustes do banco.</p></li>
+<li class="card"><span class="n">3</span><h3>Adicione a família</h3><p>Adicione os filhos e os pais, dê a primeira mesada e pronto.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>O que fica onde</h2>
+      <div class="card table">
+        <dl><div><dt>Painel</dt><dd>Carteira, poupança e investimentos de todo mundo num relance</dd></div><div><dt>Ações</dt><dd>Dar ou descontar mesada, Código de barras do item, Adicionar item, Convidar filho, Modo celular do filho, Ajustes do banco (exige o PIN dos pais)</dd></div><div><dt>Mercado</dt><dd>Índice de preços, inflação, taxa de câmbio, juros da poupança, dinheiro em circulação, preços dos fundos</dd></div><div><dt>Histórico</dt><dd>Cada movimentação de dinheiro por data, por membro ou por tipo</dd></div><div><dt>Aprender</dt><dd>Guia para os pais em dez passos, calculadora de juros compostos, calculadora de experimento de preços</dd></div><div><dt>🐢 Fundo Tartaruga Seguro</dt><dd>Oscila pouco no dia a dia, sobe devagar e sempre</dd></div><div><dt>🐰 Ações Coelho Crescimento</dt><dd>Sobe e desce, mas vai crescendo</dd></div><div><dt>🚀 Ações Foguete Aventura</dt><dd>Pode decolar, pode despencar</dd></div></dl>
+      </div>
+      <p class="muted">Começa com juros de 5% por semana na poupança e inflação de 2% por semana. Mude os dois no Modo dos pais, em Ajustes do banco. Com a inflação em 0%, os preços ficam parados.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Todos os recursos são grátis</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Grátis</h3>
+          <ul><li>A moeda própria da família e um Modo dos pais protegido por PIN</li><li>Dar e descontar mesada, a Loja de casa e pagamentos por código de barras</li><li>Uma poupança que rende juros compostos toda semana</li><li>Três fundos de treino com gráficos de rendimento</li><li>A aba Mercado e um histórico de transações por data</li><li>O guia para os pais em dez passos e duas calculadoras</li><li>Modo celular do filho e sincronização com o iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Apoie o desenvolvedor</h3>
+          <ul><li>Mande uma gorjeta do valor que quiser em Ajustes do banco, no Modo dos pais</li><li>A gorjeta não libera nada. O app funciona igual de qualquer jeito</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Sem anúncios, sem assinatura. O botão de gorjeta fica só dentro do Modo dos pais, então seus filhos nunca veem um botão de compra.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Perguntas frequentes</h2>
+      <div class="faq"><details><summary>Envolve dinheiro de verdade?</summary><p>Não. A moeda e todas as transações do app são de mentirinha, só para aprender. Nada se conecta a conta bancária, cartão ou dinheiro de verdade.</p></details>
+<details><summary>Como vemos as mesmas contas no celular do meu filho?</summary><p>Aparelhos com a mesma conta do iCloud sincronizam as contas da família automaticamente. Confira se o iCloud está ativado em Ajustes &gt; Conta Apple &gt; iCloud. Na aba Ações, em Convidar filho, você cria um convite com QR code para a criança escanear com a câmera. Sem iCloud, os dados ficam só naquele aparelho.</p></details>
+<details><summary>O que é o Modo celular do filho?</summary><p>Ele transforma o celular do seu filho numa tela feita só para ele. A criança vê apenas a própria carteira, os investimentos, o histórico e as lições, e para sair é preciso o PIN dos pais.</p></details>
+<details><summary>Esqueci o PIN dos pais.</summary><p>O PIN fica guardado só no aparelho, então nem o desenvolvedor consegue recuperá-lo. Apagar e reinstalar o app permite configurar tudo de novo, mas isso também apaga os dados que você já tem.</p></details>
+<details><summary>Como funcionam os juros da poupança?</summary><p>Toda semana, juros compostos são somados automaticamente ao saldo da poupança. Você define a taxa no Modo dos pais, e as semanas que passaram são acertadas na próxima vez que o app for aberto.</p></details>
+<details><summary>Os preços dos fundos seguem o mercado real?</summary><p>Não. São dados de treino que mudam uma vez por dia dentro do app. Quanto mais arriscado o fundo, maiores as oscilações. Não são produtos financeiros reais.</p></details>
+<details><summary>Por que os preços sobem?</summary><p>Para a criança sentir a inflação, o índice de preços da família sobe um pouco toda semana. Mude a taxa, ou coloque em 0% para desligar, no Modo dos pais, em Ajustes do banco. Se você também subir um pouco os preços dos lanches e brinquedos da Loja de casa, a lição fica marcada.</p></details>
+<details><summary>Como apago tudo?</summary><p>Apagar o app remove os dados guardados no aparelho. Para os dados sincronizados no iCloud, vá em Ajustes &gt; Conta Apple &gt; iCloud &gt; Gerenciar Armazenamento e apague os dados do app.</p></details>
+<details><summary>As informações da minha família são enviadas para algum lugar?</summary><p>Não. Não há cadastro, e todos os dados ficam no seu aparelho e na sua própria conta do iCloud. O desenvolvedor só recebe o feedback que você mesmo envia pelo Modo dos pais, além de estatísticas de uso anônimas e relatórios de falhas.</p></details>
+<details><summary>Em quais aparelhos funciona?</summary><p>iPhone com iOS 17.0 ou posterior.</p></details></div>
+      <p class="contact">Dúvidas, problemas ou ideias? Escreva para <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Informar o modelo do aparelho e a versão do iOS ajuda a gente a responder mais rápido.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Abra o banco da família<br>com a mesada desta semana</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Baixe grátis na App Store</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Mesada · <a href="privacy.html">Política de Privacidade</a> · <a href="support.html">Suporte</a></p>
+    <nav id="languages" class="langs" aria-label="Idioma"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR" aria-current="page">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Política de Privacidade</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

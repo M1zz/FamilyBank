@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="cs">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SukSuk Kapesné — aplikace pro finanční výchovu v rodině</title>
-  <meta name="description" content="SukSuk Kapesné je aplikace pro finanční výchovu v rodině: rodiče se stanou bankou a děti si spoří kapesné, platí, šetří a investují, a tak se učí, jak fungují peníze.">
-  <link rel="stylesheet" href="../style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SukSuk Kapesné: rodiče jsou banka, děti spoří a investují</title>
+  <meta name="description" content="Dávejte kapesné v rodinné měně. Děti samy platí, každý týden dostávají úroky a zkoušejí cvičné fondy. Tak pochopí, jak fungují peníze. Vše zdarma.">
+  <meta name="theme-color" content="#1B7F50" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f0d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6790130891">
   <link rel="canonical" href="https://m1zz.github.io/FamilyBank/cs/">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/FamilyBank/">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/FamilyBank/en/">
-  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/FamilyBank/en/">
   <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/FamilyBank/ja/">
   <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/FamilyBank/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/FamilyBank/zh-Hant/">
@@ -32,60 +33,160 @@
   <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/FamilyBank/sv/">
   <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/FamilyBank/tr/">
   <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/FamilyBank/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SukSuk Kapesné: rodiče jsou banka, děti spoří a investují">
+  <meta property="og:description" content="Dávejte kapesné v rodinné měně. Děti samy platí, každý týden dostávají úroky a zkoušejí cvičné fondy. Tak pochopí, jak fungují peníze. Vše zdarma.">
+  <meta property="og:url" content="https://m1zz.github.io/FamilyBank/cs/">
+  <meta property="og:image" content="https://m1zz.github.io/FamilyBank/img/cs/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#1B7F50}@media (prefers-color-scheme:dark){:root{--accent:#4CC38A}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="langs" aria-label="Language" style="max-width:760px;margin:12px auto 0;padding:0 20px;font-size:.85rem;text-align:right;line-height:1.9"><a href="../index.html" hreflang="ko" lang="ko">한국어</a> · <a href="../en/index.html" hreflang="en" lang="en">English</a> · <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> · <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> · <a href="../es/index.html" hreflang="es" lang="es">Español</a> · <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> · <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> · <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> · <a href="../cs/index.html" hreflang="cs" lang="cs" aria-current="true" style="font-weight:700">Čeština</a> · <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> · <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> · <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> · <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> · <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> · <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> · <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> · <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> · <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a></nav>
-  <header class="hero">
-    <div class="badge">🌱</div>
-    <h1>SukSuk Kapesné</h1>
-    <p class="sub">Rodinná aplikace na kapesné, se kterou dětem rostou dobré návyky s penězi</p>
-    <nav class="top">
-      <a href="index.html">Domů</a>
-      <a href="support.html">Podpora a kontakt</a>
-      <a href="privacy.html">Zásady ochrany osobních údajů</a>
-    </nav>
+  <a class="skip" href="#main">Přeskočit na obsah</a>
+  <header class="bar">
+    <a class="brand" href="../cs/"><img src="../icon.png" alt="" width="32" height="32">SukSuk Kapesné</a>
+    <a class="lang-link" href="#languages">Jazyk</a>
   </header>
 
-  <main class="wrap">
-    <div class="card">
-      <h2>🐣 Co je SukSuk Kapesné?</h2>
-      <p>
-        <strong>SukSuk Kapesné</strong> je aplikace pro iOS, která děti učí o financích a ekonomice
-        pomocí vlastní rodinné měny. Rodiče se stanou centrální bankou a vydávají kapesné, děti
-        platí, spoří a dostávají úroky, investují do cvičných fondů a principy ekonomiky si tak
-        osahají v praxi.
-      </p>
-      <div class="key">
-        Všechna data se ukládají <strong>jen ve vašem zařízení a ve vašem účtu iCloud</strong>.
-        Není potřeba žádná registrace a údaje, které rodina zadá, se vývojáři neodesílají.
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Den výplaty kapesného<br>jako hodina o penězích</h1>
+        <p class="lead">Vy jste centrální banka rodiny, děti jsou vaši klienti. Kapesné dostávají ve vaší vlastní měně, kupují si sladkosti, sledují, jak jim na spoření přibývají úroky, a zažívají vzestupy i pády cvičného fondu.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6790130891">Stáhnout zdarma v App Storu</a><a class="try" href="#try">Kam byste dali 1 000 mincí? ↓</a></div>
+        <p class="muted small">Všechny funkce jsou zdarma. Skutečné peníze se nikdy nepoužívají.</p>
       </div>
-    </div>
+      <div class="phone"><img src="../img/cs/01-dashboard.jpg" alt="Den výplaty kapesného jako hodina o penězích" width="720" height="1564" decoding="async"></div>
+    </section>
 
-    <div class="card">
-      <h2>✨ Hlavní funkce</h2>
-      <ul>
-        <li><strong>Naše rodinná měna</strong> — název měny si zvolíte sami, třeba Fazolky, Hvězdičky nebo Mince</li>
-        <li><strong>Přidávání a odebírání kapesného</strong> — vše spravujete v rodičovském režimu chráněném PINem</li>
-        <li><strong>Platby</strong> — dítě samo platí za sladkosti, čas na hraní a další, podporuje i platbu čárovým kódem</li>
-        <li><strong>Úroky ze spoření</strong> — na spořicí účet se každý týden automaticky připisuje složený úrok</li>
-        <li><strong>Zkušenost s investováním</strong> — cvičné fondy Opatrný 🐢 · Vyvážený 🐰 · Odvážný 🚀</li>
-        <li><strong>Historie transakcí</strong> — každý pohyb peněz si můžete zpětně projít podle data</li>
-        <li><strong>Finanční vzdělávání</strong> — srozumitelný průvodce pojmy jako peníze, spoření, složené úročení, investice a náklady obětované příležitosti</li>
-      </ul>
-    </div>
 
-    <div class="card">
-      <h2>💬 Potřebujete pomoc?</h2>
-      <p>Pokud vás cokoli zajímá nebo narazíte na chybu, dejte nám kdykoli vědět.</p>
-      <p>
-        <a class="contact-btn" href="mailto:leeo@kakao.com?subject=%5BSukSuk%20Kapesn%C3%A9%5D%20Dotaz">✉️ Napište nám</a>
-      </p>
-      <p class="muted">Podrobné odpovědi na časté dotazy najdete na <a href="support.html">stránce podpory</a>.</p>
-    </div>
+    <section class="reveal" id="try">
+      <h2>Kam byste dali 1 000 mincí?</h2>
+      <p class="muted">Stejných 1 000 mincí leží v peněžence, na spoření a ve třech fondech. Posouvejte se po týdnech a sledujte, co se s každou částkou děje. Platí stejná pravidla jako v aplikaci.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Kam byste dali 1 000 mincí?&quot;, &quot;lead&quot;: &quot;Stejných 1 000 mincí leží v peněžence, na spoření a ve třech fondech. Posouvejte se po týdnech a sledujte, co se s každou částkou děje. Platí stejná pravidla jako v aplikaci.&quot;, &quot;currency&quot;: &quot;mincí&quot;, &quot;week&quot;: &quot;Týden {n}&quot;, &quot;start&quot;: &quot;Ještě nezačalo&quot;, &quot;next&quot;: &quot;O týden dál&quot;, &quot;reset&quot;: &quot;Začít znovu&quot;, &quot;wallet&quot;: &quot;Peněženka&quot;, &quot;savings&quot;: &quot;Spoření · 5 % týdně, složené úročení&quot;, &quot;funds&quot;: [&quot;Želví jistý fond&quot;, &quot;Králičí růstové akcie&quot;, &quot;Raketové dobrodružné akcie&quot;], &quot;power&quot;: &quot;Cenový index {i} · za 1 000 mincí v peněžence se teď koupí jen tolik, co dřív za {p}&quot;, &quot;note&quot;: &quot;Stejně jako v aplikaci se ceny fondů mění náhodně, takže každý pokus dopadne jinak. Úrok 5 % a růst cen 2 % týdně jsou výchozí nastavení aplikace.&quot;}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>„Ušetři a přibude.“ Opravdu to dítěti dojde?</h2>
+      <p>Úroky, složené úročení, inflace: čím víc to vysvětlujete, tím vzdálenější to zní. V SukSuk Kapesném děti samy vydělávají, utrácejí a čekají. Jakmile objeví úroky na spoření z minulého týdne, další kapesné míří rovnou na spoření.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Trpělivost, která je vidět</h2>
+        <p>Peníze na spoření každý týden vydělávají složený úrok. Sazbu určujete vy a graf ukáže, kolik z nich bude za 12 týdnů, když se jich nikdo nedotkne.<br>Pár dní jste aplikaci neotevřeli? Při dalším spuštění se všechny dlužné týdny připíšou najednou.</p>
+      </div>
+      <div class="phone"><img src="../img/cs/03-savings.jpg" alt="Trpělivost, která je vidět" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Jak ceny ujídají z peněženky</h2>
+        <p>Karta Trh ukazuje na jedné obrazovce rodinný cenový index, inflaci, úrokovou sazbu, množství peněz a ceny fondů. Jak ceny rostou, je vidět, o kolik méně se koupí za 1 000 mincí v peněžence.<br>Děti na číslech vidí, že ležící peníze ztrácejí hodnotu a ušetřené nebo investované ji udrží.</p>
+      </div>
+      <div class="phone"><img src="../img/cs/04-market.jpg" alt="Jak ceny ujídají z peněženky" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Deset rozhovorů pro vás oba</h2>
+        <p>Průvodce pro rodiče vás provede v deseti krocích: proč potřebujeme peníze, potřeby a přání, náklady obětované příležitosti, spoření a úroky, složené úročení, inflace, investování a riziko až po vlastní rozpočet.<br>Kalkulačka složeného úročení a kalkulačka cenového experimentu vám dovolí měnit čísla a hned vidět, co se stane.</p>
+      </div>
+      <div class="phone"><img src="../img/cs/06-learn.jpg" alt="Deset rozhovorů pro vás oba" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Tři kroky na začátek</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Pojmenujte měnu</h3><p>Fazole, Hvězdy, Mince: jak si ji vaše rodina pojmenuje.</p></li>
+<li class="card"><span class="n">2</span><h3>Nastavte rodičovský PIN</h3><p>Čtyři číslice. Jen ten, kdo ho zná, může dávat kapesné nebo měnit nastavení banky.</p></li>
+<li class="card"><span class="n">3</span><h3>Přidejte rodinu</h3><p>Přidejte děti a rodiče, vyplaťte první kapesné a můžete začít.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Co kde najdete</h2>
+      <div class="card table">
+        <dl><div><dt>Přehled</dt><dd>Peněženky, spoření a investice celé rodiny na jeden pohled</dd></div><div><dt>Akce</dt><dd>Dát nebo odečíst kapesné, Čárový kód položky, Přidat položku, Pozvat dítě, Režim telefonu dítěte, Nastavení banky (vyžaduje rodičovský PIN)</dd></div><div><dt>Trh</dt><dd>Cenový index, inflace, směnný kurz, úrok ze spoření, množství peněz, ceny fondů</dd></div><div><dt>Historie</dt><dd>Každý pohyb peněz podle data, člena nebo typu</dd></div><div><dt>Učení</dt><dd>Průvodce pro rodiče v deseti krocích, kalkulačka složeného úročení, kalkulačka cenového experimentu</dd></div><div><dt>🐢 Želví jistý fond</dt><dd>Malé denní výkyvy, pomalý a stálý růst</dd></div><div><dt>🐰 Králičí růstové akcie</dt><dd>Nahoru i dolů, ale rostou</dd></div><div><dt>🚀 Raketové dobrodružné akcie</dt><dd>Můžou vystřelit, můžou se zřítit</dd></div></dl>
+      </div>
+      <p class="muted">Na začátku platí týdenní úrok ze spoření 5 % a týdenní inflace 2 %. Obojí změníte v Rodičovském režimu v Nastavení banky. Při inflaci 0 % se ceny nemění.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Všechny funkce zdarma</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Zdarma</h3>
+          <ul><li>Vlastní rodinná měna a Rodičovský režim chráněný PINem</li><li>Dávání a odečítání kapesného, Domácí obchůdek a placení čárovým kódem</li><li>Spoření s týdenním složeným úročením</li><li>Tři cvičné fondy s grafy výnosů</li><li>Karta Trh a historie transakcí podle data</li><li>Průvodce pro rodiče v deseti krocích a dvě kalkulačky</li><li>Režim telefonu dítěte a synchronizace přes iCloud</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Podpořit vývojáře</h3>
+          <ul><li>V Rodičovském režimu v Nastavení banky můžete poslat malé spropitné v libovolné výši</li><li>Spropitné nic neodemyká. Aplikace funguje úplně stejně</li></ul>
+          
+        </div>
+      </div>
+      <p class="muted">Žádné reklamy, žádné předplatné. Tlačítko spropitného je jen v Rodičovském režimu, takže děti nikdy neuvidí tlačítko nákupu.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Časté otázky</h2>
+      <div class="faq"><details><summary>Jde o skutečné peníze?</summary><p>Ne. Měna i všechny transakce v aplikaci jsou jen naoko a slouží k učení. Nic není propojené se skutečným bankovním účtem, kartou ani hotovostí.</p></details>
+<details><summary>Jak uvidíme stejné účty i na telefonu dítěte?</summary><p>Zařízení přihlášená ke stejnému účtu iCloud synchronizují rodinné účty automaticky. Zkontrolujte, že je iCloud zapnutý v Nastavení &gt; Účet Apple &gt; iCloud. Na kartě Akce v části Pozvat dítě můžete vytvořit pozvánku s QR kódem, kterou dítě naskenuje fotoaparátem. Bez iCloudu zůstanou data jen v tom jednom zařízení.</p></details>
+<details><summary>Co je Režim telefonu dítěte?</summary><p>Promění telefon dítěte v obrazovku jen pro něj. Dítě vidí pouze svou peněženku, investice, historii a lekce, a k opuštění režimu je potřeba rodičovský PIN.</p></details>
+<details><summary>Zapomněl jsem rodičovský PIN.</summary><p>PIN je uložený jen v zařízení, takže ho neobnoví ani vývojář. Když aplikaci smažete a znovu nainstalujete, můžete ji nastavit od začátku, ale smažou se i dosavadní data.</p></details>
+<details><summary>Jak fungují úroky ze spoření?</summary><p>Každý týden se ke zůstatku spoření automaticky připíše složený úrok. Sazbu nastavíte v Rodičovském režimu a zameškané týdny se vyrovnají při dalším otevření aplikace.</p></details>
+<details><summary>Odpovídají ceny fondů skutečnému trhu?</summary><p>Ne. Ceny fondů jsou cvičná data, která se v aplikaci mění jednou denně. Čím rizikovější fond, tím větší výkyvy. Nejde o skutečné finanční produkty.</p></details>
+<details><summary>Proč rostou ceny?</summary><p>Aby děti pocítily inflaci, rodinný cenový index každý týden trochu stoupne. Tempo změníte, nebo ho nastavením na 0 % vypnete, v Rodičovském režimu v Nastavení banky. Když zároveň trochu zdražíte sladkosti a hračky v Domácím obchůdku, lekce se lépe vryje do paměti.</p></details>
+<details><summary>Jak všechno smazat?</summary><p>Smazáním aplikace zmizí data uložená v zařízení. Data synchronizovaná do iCloudu smažete v Nastavení &gt; Účet Apple &gt; iCloud &gt; Spravovat úložiště.</p></details>
+<details><summary>Posílají se někam informace o mé rodině?</summary><p>Ne. Žádná registrace, všechna data zůstávají ve vašem zařízení a ve vašem vlastním účtu iCloud. Vývojář dostává jen zpětnou vazbu, kterou sami pošlete z Rodičovského režimu, a k tomu anonymní statistiky používání a hlášení o pádech.</p></details>
+<details><summary>Na jakých zařízeních aplikace funguje?</summary><p>Na iPhonu se systémem iOS 17.0 nebo novějším.</p></details></div>
+      <p class="contact">Dotazy, chyby nebo nápady? Napište na <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>. Když uvedete model zařízení a verzi iOS, pomůžeme rychleji.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Otevřete rodinnou banku<br>s kapesným na tento týden</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6790130891">Stáhnout zdarma v App Storu</a>
+    </section>
   </main>
 
   <footer>
-    <p>© 2026 SukSuk Kapesné · <a href="privacy.html">Zásady ochrany osobních údajů</a> · <a href="support.html">Podpora</a></p>
+    <nav id="languages" class="langs" aria-label="Jazyk"><a href="../" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs" aria-current="page">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Zásady ochrany osobních údajů</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 SukSuk Allowance</p>
   </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>
