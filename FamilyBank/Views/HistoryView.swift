@@ -59,6 +59,7 @@ struct HistoryView: View {
                     VStack(spacing: 8) {
                         Text("🧾")
                             .font(.system(size: 56))
+                            .accessibilityHidden(true)
                         Text("거래 기록이 없어요")
                             .font(.headline)
                         Text("용돈을 주거나 결제하면 여기에 기록돼요")

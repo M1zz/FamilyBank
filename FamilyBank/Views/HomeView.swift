@@ -32,6 +32,7 @@ struct HomeView: View {
                             .foregroundStyle(.secondary)
                     }
                     .card()
+                    .accessibilityElement(children: .combine)
 
                     if !children.isEmpty {
                         sectionHeader(String(localized: "자녀 👧"))
@@ -42,6 +43,7 @@ struct HomeView: View {
                                 MemberCard(member: member, settings: settings)
                             }
                             .buttonStyle(.plain)
+                            .accessibilityInputLabels([member.name])
                         }
                     }
 
@@ -54,6 +56,7 @@ struct HomeView: View {
                                 MemberCard(member: member, settings: settings)
                             }
                             .buttonStyle(.plain)
+                            .accessibilityInputLabels([member.name])
                         }
                     }
                 }
@@ -73,6 +76,7 @@ struct HomeView: View {
         Text(title)
             .font(.headline)
             .frame(maxWidth: .infinity, alignment: .leading)
+            .accessibilityAddTraits(.isHeader)
     }
 }
 
@@ -111,6 +115,7 @@ struct InflationCard: View {
             }
         }
         .card()
+        .accessibilityElement(children: .combine)
     }
 }
 
@@ -122,9 +127,10 @@ struct MemberCard: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
-            HStack {
+            AdaptiveStack(alignment: .leading) {
                 Text(member.emoji)
                     .font(.system(size: 36))
+                    .accessibilityHidden(true)
                 VStack(alignment: .leading, spacing: 2) {
                     Text(member.name)
                         .font(.headline)
@@ -141,13 +147,14 @@ struct MemberCard: View {
                 }
             }
 
-            HStack(spacing: 8) {
+            AdaptiveStack(spacing: 8) {
                 assetChip(String(localized: "지갑"), member.balance, .green)
                 assetChip(String(localized: "저축"), member.savings, .blue)
                 assetChip(String(localized: "투자"), member.investValue, .indigo)
             }
         }
         .card()
+        .accessibilityElement(children: .combine)
     }
 
     private func assetChip(_ label: String, _ amount: Int, _ color: Color) -> some View {
@@ -164,5 +171,6 @@ struct MemberCard: View {
         .padding(.vertical, 8)
         .background(color.opacity(0.1))
         .clipShape(RoundedRectangle(cornerRadius: 10))
+        .accessibilityElement(children: .combine)
     }
 }

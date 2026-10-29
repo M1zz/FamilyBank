@@ -51,6 +51,7 @@ struct InviteCardView: View {
                 VStack(spacing: 12) {
                     Text(member.emoji)
                         .font(.system(size: 64))
+                        .accessibilityHidden(true)
                     Text("\(member.name)님을\n쑥쑥용돈에 초대해요!")
                         .font(.title3.weight(.bold))
                         .multilineTextAlignment(.center)
@@ -60,6 +61,7 @@ struct InviteCardView: View {
                 }
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 24)
+                .accessibilityElement(children: .combine)
                 .background(
                     LinearGradient(colors: [Color.blue.opacity(0.12), Color.purple.opacity(0.12)],
                                    startPoint: .topLeading, endPoint: .bottomTrailing)
@@ -77,6 +79,7 @@ struct InviteCardView: View {
                             .padding(12)
                             .background(Color.white)
                             .clipShape(RoundedRectangle(cornerRadius: 16))
+                            .accessibilityLabel(Text("QR 코드"))
                     }
                     Text("자녀 기기의 카메라로 스캔하면 초대장이 보여요")
                         .font(.caption)

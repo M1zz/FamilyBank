@@ -29,12 +29,16 @@ struct OnboardingView: View {
         NavigationStack {
             VStack {
                 switch step {
-                case 0: welcomeStep
-                case 1: pinStep
+                case 0: welcomeStep.scrollIfNeeded()
+                case 1: pinStep.scrollIfNeeded()
                 default: membersStep
                 }
             }
             .padding()
+            // 빨간 안내 글은 눈으로만 보이니 VoiceOver 에는 말로 알린다
+            .onChange(of: errorMessage) { _, message in
+                if let message { AccessibilityNotification.Announcement(message).post() }
+            }
             .navigationTitle("쑥쑥용돈 시작하기")
             .navigationBarTitleDisplayMode(.inline)
         }
@@ -47,8 +51,10 @@ struct OnboardingView: View {
             Spacer()
             Text("🌱")
                 .font(.system(size: 72))
+                .accessibilityHidden(true)
             Text("쑥쑥용돈에 오신 걸 환영해요!")
                 .font(.title2.weight(.bold))
+                .accessibilityAddTraits(.isHeader)
                 .multilineTextAlignment(.center)
             Text("용돈을 주고, 결제하고, 저축 이자를 받고,\n투자도 해 보는 우리 가족만의 경제 시스템이에요.")
                 .font(.subheadline)
@@ -88,8 +94,10 @@ struct OnboardingView: View {
             Spacer()
             Text("🔐")
                 .font(.system(size: 64))
+                .accessibilityHidden(true)
             Text("부모 모드 비밀번호(PIN)를 정해 주세요")
                 .font(.title3.weight(.bold))
+                .accessibilityAddTraits(.isHeader)
                 .multilineTextAlignment(.center)
             Text("용돈 지급, 이자율 설정 등은\n이 PIN을 아는 사람만 할 수 있어요.")
                 .font(.subheadline)
@@ -145,8 +153,10 @@ struct OnboardingView: View {
         VStack(spacing: 16) {
             Text("👨‍👩‍👧‍👦")
                 .font(.system(size: 56))
+                .accessibilityHidden(true)
             Text("가족 구성원을 등록해 주세요")
                 .font(.title3.weight(.bold))
+                .accessibilityAddTraits(.isHeader)
             Text("부모는 은행(중앙은행) 역할, 자녀는 고객이 돼요.")
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
@@ -155,6 +165,7 @@ struct OnboardingView: View {
                 ForEach(draftMembers) { m in
                     HStack {
                         Text(m.emoji)
+                            .accessibilityHidden(true)
                         Text(m.name)
                         Spacer()
                         Text(LocalizedStringKey(m.role.rawValue))
@@ -250,6 +261,7 @@ struct MemberQuickAddRow: View {
                                 .clipShape(Circle())
                         }
                         .buttonStyle(.plain)
+                        .accessibilityAddTraits(emoji == e ? .isSelected : [])
                     }
                 }
             }

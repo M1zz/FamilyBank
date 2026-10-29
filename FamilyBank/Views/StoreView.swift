@@ -58,6 +58,7 @@ struct StoreListView: View {
                         HStack(spacing: 12) {
                             Text(item.emoji)
                                 .font(.title2)
+                                .accessibilityHidden(true)
                             VStack(alignment: .leading, spacing: 2) {
                                 Text(item.name)
                                     .font(.subheadline.weight(.medium))

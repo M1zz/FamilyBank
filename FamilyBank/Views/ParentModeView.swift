@@ -70,6 +70,7 @@ struct ParentDashboardView: View {
                 ForEach(members) { member in
                     HStack {
                         Text(member.emoji)
+                            .accessibilityHidden(true)
                         Text(member.name)
                         Spacer()
                         Text(LocalizedStringKey(member.role.rawValue))
@@ -84,6 +85,7 @@ struct ParentDashboardView: View {
                                     .foregroundStyle(.tint)
                             }
                             .buttonStyle(.borderless)
+                            .accessibilityLabel(Text("초대장 보내기"))
                         }
                     }
                 }
@@ -113,10 +115,12 @@ struct ParentDashboardView: View {
                                 .foregroundStyle(.secondary)
                         }
                         Spacer()
-                        Toggle("", isOn: Binding(
+                        Toggle(isOn: Binding(
                             get: { product.isActive },
                             set: { product.isActive = $0; try? context.save() }
-                        ))
+                        )) {
+                            Text(product.displayName)
+                        }
                         .labelsHidden()
                     }
                 }
@@ -166,10 +170,12 @@ struct ParentDashboardView: View {
                                 .foregroundStyle(.secondary)
                         }
                         Spacer()
-                        Toggle("", isOn: Binding(
+                        Toggle(isOn: Binding(
                             get: { item.isActive },
                             set: { item.isActive = $0; try? context.save() }
-                        ))
+                        )) {
+                            Text(item.name)
+                        }
                         .labelsHidden()
                     }
                 }
@@ -204,6 +210,7 @@ struct ParentDashboardView: View {
                         .keyboardType(.numberPad)
                         .multilineTextAlignment(.trailing)
                         .frame(maxWidth: 60)
+                        .accessibilityLabel(Text("환율"))
                         Text("원")
                     }
                     Text("예: 실제 1,000원짜리 물건 = \(settings.coinPrice(forWon: 1000).comma) \(settings.currencyName). 가게 물품의 \(settings.currencyName) 가격이 이 환율로 자동 계산돼요.")
@@ -227,6 +234,8 @@ struct ParentDashboardView: View {
                         get: { settings.weeklyInterestRate },
                         set: { settings.weeklyInterestRate = $0; try? context.save() }
                     ), in: 0...20, step: 0.5)
+                    .accessibilityLabel(Text("주간 저축 이자율"))
+                    .accessibilityValue(Text(verbatim: "\(settings.weeklyInterestRate.cleanPercent)%"))
                 }
 
                 VStack(alignment: .leading, spacing: 4) {
@@ -235,6 +244,8 @@ struct ParentDashboardView: View {
                         get: { settings.weeklyInflationRate },
                         set: { settings.weeklyInflationRate = $0; try? context.save() }
                     ), in: 0...10, step: 0.5)
+                    .accessibilityLabel(Text("주간 물가 상승률"))
+                    .accessibilityValue(Text(verbatim: "\(settings.weeklyInflationRate.cleanPercent)%"))
                     Text("매주 우리집 물가지수가 이만큼 올라요 (현재 지수 \(Int(settings.priceIndex.rounded()))). 0%로 두면 인플레이션이 없어요. 물가에 맞춰 실제 간식·장난감 가격도 조금씩 올려 주면 아이가 돈의 가치 변화를 몸으로 배워요.")
                         .font(.caption)
                         .foregroundStyle(.secondary)
@@ -519,6 +530,7 @@ struct AddMemberSheet: View {
                                     .clipShape(Circle())
                             }
                             .buttonStyle(.plain)
+                            .accessibilityAddTraits(emoji == e ? .isSelected : [])
                         }
                     }
                 }
@@ -590,6 +602,7 @@ struct AddStoreItemSheet: View {
                                         .clipShape(Circle())
                                 }
                                 .buttonStyle(.plain)
+                                .accessibilityAddTraits(emoji == e ? .isSelected : [])
                             }
                         }
                     }
@@ -685,6 +698,7 @@ struct AddProductSheet: View {
                                         .clipShape(Circle())
                                 }
                                 .buttonStyle(.plain)
+                                .accessibilityAddTraits(emoji == e ? .isSelected : [])
                             }
                         }
                     }

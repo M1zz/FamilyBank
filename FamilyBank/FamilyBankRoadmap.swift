@@ -18,16 +18,16 @@ import LeeoKit
 extension FamilyBankSpec {
     static var roadmap: [LeeoRoadmapItem] {[
         // MARK: 다음에 만들어요
-        .init(id: "a11y.voiceover", status: .planned,
+        .init(id: "a11y.voiceover", status: .building,
               title: NSLocalizedString("VoiceOver로 더 편하게", comment: "Roadmap item: better VoiceOver support"),
               detail: NSLocalizedString("VoiceOver가 잔액과 단추를 빠짐없이, 알맞은 순서로 읽어 줘요.", comment: "Roadmap item detail: better VoiceOver support")),
-        .init(id: "a11y.largetext", status: .planned,
+        .init(id: "a11y.largetext", status: .building,
               title: NSLocalizedString("큰 글씨에 맞춘 화면", comment: "Roadmap item: layouts for larger text"),
               detail: NSLocalizedString("글자 크기를 키워도 잘리지 않고 보기 좋게 다시 배치돼요.", comment: "Roadmap item detail: layouts for larger text")),
-        .init(id: "a11y.contrast", status: .planned,
+        .init(id: "a11y.contrast", status: .building,
               title: NSLocalizedString("보기 편한 색과 대비", comment: "Roadmap item: better colors and contrast"),
               detail: NSLocalizedString("대비를 높이거나 색을 구별하기 어려워도 잔액과 기록을 알아볼 수 있어요.", comment: "Roadmap item detail: better colors and contrast")),
-        .init(id: "a11y.motion", status: .planned,
+        .init(id: "a11y.motion", status: .building,
               title: NSLocalizedString("움직임 줄이기", comment: "Roadmap item: respect Reduce Motion"),
               detail: NSLocalizedString("움직임 줄이기를 켜면 화면 효과가 차분해져요.", comment: "Roadmap item detail: respect Reduce Motion")),
         .init(id: "lang.english", status: .planned,

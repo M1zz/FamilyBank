@@ -67,6 +67,42 @@ extension View {
     }
 }
 
+// MARK: - 아주 큰 글씨 배치
+
+/// 평소엔 가로로, 손쉬운 사용 글자 크기에서는 세로로 쌓는다 — 숫자가 잘리거나 한 글자씩 꺾이지 않게.
+struct AdaptiveStack<Content: View>: View {
+    var alignment: HorizontalAlignment = .center
+    var verticalAlignment: VerticalAlignment = .center
+    var spacing: CGFloat? = nil
+    @ViewBuilder var content: Content
+
+    @Environment(\.dynamicTypeSize) private var typeSize
+
+    var body: some View {
+        let layout = typeSize.isAccessibilitySize
+            ? AnyLayout(VStackLayout(alignment: alignment, spacing: spacing))
+            : AnyLayout(HStackLayout(alignment: verticalAlignment, spacing: spacing))
+        layout { content }
+    }
+}
+
+extension View {
+    /// 화면에 다 들어가면 그대로, 아주 큰 글씨로 넘치면 스크롤되게
+    func scrollIfNeeded() -> some View {
+        ViewThatFits(in: .vertical) {
+            self
+            ScrollView { self }
+        }
+    }
+}
+
+extension DynamicTypeSize {
+    /// 카드 격자의 열 수 — 아주 큰 글씨에서는 한 줄에 하나
+    var gridColumns: [GridItem] {
+        Array(repeating: GridItem(.flexible(), spacing: 12), count: isAccessibilitySize ? 1 : 2)
+    }
+}
+
 // MARK: - 차트용 데이터 포인트
 
 struct ChartPoint: Identifiable {
@@ -163,6 +199,7 @@ struct TransactionRow: View {
                 .foregroundStyle(.white)
                 .frame(width: 34, height: 34)
                 .background(tx.kind.color.gradient, in: Circle())
+                .accessibilityLabel(Text(LocalizedStringKey(tx.kind.rawValue)))
 
             VStack(alignment: .leading, spacing: 2) {
                 Text(tx.displayMemo)
@@ -176,7 +213,7 @@ struct TransactionRow: View {
                     }
                     Text(tx.date, format: .dateTime.month().day().hour().minute())
                         .font(.caption)
-                        .foregroundStyle(.tertiary)
+                        .foregroundStyle(.secondary)
                 }
             }
             Spacer()
@@ -186,6 +223,7 @@ struct TransactionRow: View {
                 .foregroundStyle(tx.kind.isIncome ? Color.green : Color.red)
         }
         .padding(.vertical, 2)
+        .accessibilityElement(children: .combine)
     }
 }
 
@@ -198,14 +236,18 @@ struct PINEntryView: View {
 
     @State private var input = ""
     @State private var shake = false
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     var body: some View {
         VStack(spacing: 24) {
             Image(systemName: "lock.shield.fill")
                 .font(.system(size: 48))
                 .foregroundStyle(.tint)
+                .accessibilityHidden(true)
             Text(title)
                 .font(.title3.weight(.semibold))
+                .multilineTextAlignment(.center)
+                .accessibilityAddTraits(.isHeader)
 
             // PIN 점 표시
             HStack(spacing: 16) {
@@ -216,6 +258,9 @@ struct PINEntryView: View {
                 }
             }
             .offset(x: shake ? -8 : 0)
+            .accessibilityElement()
+            .accessibilityLabel(Text("입력한 숫자"))
+            .accessibilityValue(Text(verbatim: "\(input.count)/4"))
 
             // 숫자 패드
             VStack(spacing: 12) {
@@ -237,8 +282,11 @@ struct PINEntryView: View {
                             .font(.title2)
                             .frame(width: 72, height: 56)
                     }
+                    .accessibilityLabel(Text("지우기"))
                 }
             }
+            // 버튼 크기가 고정이라 숫자가 넘치지 않을 만큼만 키운다 (이미 큰 글씨)
+            .dynamicTypeSize(...DynamicTypeSize.xxxLarge)
         }
         .padding()
     }
@@ -261,7 +309,11 @@ struct PINEntryView: View {
             if input == correctPIN {
                 onSuccess()
             } else {
-                withAnimation(.spring(duration: 0.15)) { shake = true }
+                // 흔들림은 눈으로만 알 수 있으니 VoiceOver 에는 말로 알린다
+                AccessibilityNotification.Announcement(String(localized: "PIN이 맞지 않아요. 다시 입력해 주세요.")).post()
+                if !reduceMotion {
+                    withAnimation(.spring(duration: 0.15)) { shake = true }
+                }
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
                     withAnimation { shake = false }
                     input = ""

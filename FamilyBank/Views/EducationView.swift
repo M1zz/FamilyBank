@@ -141,6 +141,7 @@ struct EducationView: View {
                             HStack(spacing: 12) {
                                 Text(lesson.emoji)
                                     .font(.title2)
+                                    .accessibilityHidden(true)
                                 VStack(alignment: .leading, spacing: 2) {
                                     Text("\(lesson.step)단계 · \(lesson.title)")
                                         .font(.subheadline.weight(.semibold))
@@ -151,6 +152,7 @@ struct EducationView: View {
                             }
                             .padding(.vertical, 2)
                         }
+                        .accessibilityInputLabels([lesson.title])
                     }
                 } header: {
                     Text("부모 가이드 📖")
@@ -184,6 +186,7 @@ struct LessonDetailView: View {
                 HStack {
                     Text(lesson.emoji)
                         .font(.system(size: 48))
+                        .accessibilityHidden(true)
                     VStack(alignment: .leading) {
                         Text("\(lesson.step)단계")
                             .font(.caption.weight(.bold))
@@ -191,6 +194,8 @@ struct LessonDetailView: View {
                         Text(lesson.title)
                             .font(.title2.weight(.bold))
                     }
+                    .accessibilityElement(children: .combine)
+                    .accessibilityAddTraits(.isHeader)
                 }
 
                 // 학습 목표
@@ -214,6 +219,7 @@ struct LessonDetailView: View {
                                 Text("❝")
                                     .font(.headline)
                                     .foregroundStyle(.tint)
+                                    .accessibilityHidden(true)
                                 Text(q)
                                     .font(.subheadline)
                             }
@@ -232,6 +238,7 @@ struct LessonDetailView: View {
                 HStack(spacing: 10) {
                     Text("⭐️")
                         .font(.title3)
+                        .accessibilityHidden(true)
                     Text(lesson.keyPoint)
                         .font(.subheadline.weight(.bold))
                 }
@@ -251,9 +258,11 @@ struct LessonDetailView: View {
         VStack(alignment: .leading, spacing: 10) {
             HStack(spacing: 6) {
                 Text(icon)
+                    .accessibilityHidden(true)
                 Text(title)
                     .font(.subheadline.weight(.bold))
                     .foregroundStyle(tint)
+                    .accessibilityAddTraits(.isHeader)
             }
             content()
         }
@@ -290,17 +299,26 @@ struct CompoundCalculatorView: View {
             VStack(alignment: .leading, spacing: 4) {
                 Text("처음 금액: \(Int(principal).comma) \(settings.currencyName)")
                     .font(.subheadline.weight(.medium))
+                    .accessibilityHidden(true)
                 Slider(value: $principal, in: 100...50000, step: 100)
+                    .accessibilityLabel(Text("처음 금액"))
+                    .accessibilityValue(Text(verbatim: "\(Int(principal).comma) \(settings.currencyName)"))
             }
             VStack(alignment: .leading, spacing: 4) {
                 Text("주간 이자율: \(rate.cleanPercent)%")
                     .font(.subheadline.weight(.medium))
+                    .accessibilityHidden(true)
                 Slider(value: $rate, in: 1...20, step: 0.5)
+                    .accessibilityLabel(Text("주간 이자율"))
+                    .accessibilityValue(Text(verbatim: "\(rate.cleanPercent)%"))
             }
             VStack(alignment: .leading, spacing: 4) {
                 Text("기간: \(Int(weeks))주")
                     .font(.subheadline.weight(.medium))
+                    .accessibilityHidden(true)
                 Slider(value: $weeks, in: 4...52, step: 1)
+                    .accessibilityLabel(Text("기간"))
+                    .accessibilityValue(Text("\(Int(weeks))주"))
             }
 
             Chart(projection) { point in
@@ -386,17 +404,26 @@ struct InflationSimulatorView: View {
             VStack(alignment: .leading, spacing: 4) {
                 Text("주간 물가 상승률: \(inflationRate.cleanPercent)%")
                     .font(.subheadline.weight(.medium))
+                    .accessibilityHidden(true)
                 Slider(value: $inflationRate, in: 0.5...10, step: 0.5)
+                    .accessibilityLabel(Text("주간 물가 상승률"))
+                    .accessibilityValue(Text(verbatim: "\(inflationRate.cleanPercent)%"))
             }
             VStack(alignment: .leading, spacing: 4) {
                 Text("주간 저축 이자율: \(interestRate.cleanPercent)%")
                     .font(.subheadline.weight(.medium))
+                    .accessibilityHidden(true)
                 Slider(value: $interestRate, in: 0.5...20, step: 0.5)
+                    .accessibilityLabel(Text("주간 저축 이자율"))
+                    .accessibilityValue(Text(verbatim: "\(interestRate.cleanPercent)%"))
             }
             VStack(alignment: .leading, spacing: 4) {
                 Text("기간: \(Int(weeks))주")
                     .font(.subheadline.weight(.medium))
+                    .accessibilityHidden(true)
                 Slider(value: $weeks, in: 4...52, step: 1)
+                    .accessibilityLabel(Text("기간"))
+                    .accessibilityValue(Text("\(Int(weeks))주"))
             }
 
             Chart(points) { point in
@@ -405,11 +432,19 @@ struct InflationSimulatorView: View {
                     y: .value("실질 가치", point.value)
                 )
                 .foregroundStyle(by: .value("구분", point.series))
+                // 색만으로 두 선을 가르지 않게 — 선 모양(실선·점선)과 점 모양도 다르게
+                .lineStyle(by: .value("구분", point.series))
+                .symbol(by: .value("구분", point.series))
+                .symbolSize(18)
                 .interpolationMethod(.catmullRom)
             }
             .chartForegroundStyleScale([
                 String(localized: "지갑에 둔 돈"): Color.orange,
                 String(localized: "저축한 돈"): Color.blue
+            ])
+            .chartLineStyleScale([
+                String(localized: "지갑에 둔 돈"): StrokeStyle(lineWidth: 2, dash: [5, 4]),
+                String(localized: "저축한 돈"): StrokeStyle(lineWidth: 2)
             ])
             .frame(height: 160)
 
@@ -417,7 +452,7 @@ struct InflationSimulatorView: View {
                 Text("\(Int(weeks))주 뒤 살 수 있는 것의 가치")
                     .font(.caption)
                     .foregroundStyle(.secondary)
-                HStack(spacing: 16) {
+                AdaptiveStack(alignment: .leading, spacing: 16) {
                     Label("지갑: \(walletFinal.comma)", systemImage: "wallet.pass.fill")
                         .font(.subheadline.weight(.bold))
                         .foregroundStyle(.orange)

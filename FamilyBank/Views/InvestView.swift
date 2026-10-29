@@ -50,7 +50,7 @@ struct InvestSectionView: View {
                 VStack(spacing: 16) {
                     // 투자자 선택 (자녀 폰 모드에서는 내 지갑 요약만)
                     if let fixedInvestor {
-                        HStack {
+                        AdaptiveStack(alignment: .leading) {
                             Text("지갑: \(fixedInvestor.balance.comma) \(settings.currencyName)")
                             Spacer()
                             Text("투자 평가액: \(fixedInvestor.investValue.comma) \(settings.currencyName)")
@@ -71,7 +71,7 @@ struct InvestSectionView: View {
                             .pickerStyle(.segmented)
 
                             if let investor {
-                                HStack {
+                                AdaptiveStack(alignment: .leading) {
                                     Text("지갑: \(investor.balance.comma) \(settings.currencyName)")
                                     Spacer()
                                     Text("투자 평가액: \(investor.investValue.comma) \(settings.currencyName)")
@@ -88,12 +88,13 @@ struct InvestSectionView: View {
                         VStack(spacing: 8) {
                             Text("📭")
                                 .font(.system(size: 48))
+                                .accessibilityHidden(true)
                             Text("판매 중인 투자 상품이 없어요")
                                 .font(.subheadline)
                                 .foregroundStyle(.secondary)
                             Text("부모 모드에서 상품을 추가할 수 있어요")
                                 .font(.caption)
-                                .foregroundStyle(.tertiary)
+                                .foregroundStyle(.secondary)
                         }
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 40)
@@ -105,6 +106,7 @@ struct InvestSectionView: View {
                                 ProductCard(product: product, settings: settings)
                             }
                             .buttonStyle(.plain)
+                            .accessibilityInputLabels([product.displayName])
                         }
                     }
 
@@ -131,6 +133,7 @@ struct ProductCard: View {
             HStack {
                 Text(product.emoji)
                     .font(.system(size: 32))
+                    .accessibilityHidden(true)
                 VStack(alignment: .leading, spacing: 2) {
                     Text(product.displayName)
                         .font(.headline)
@@ -162,6 +165,8 @@ struct ProductCard: View {
                 .chartYAxis(.hidden)
                 .chartYScale(domain: .automatic(includesZero: false))
                 .frame(height: 44)
+                // 등락은 위의 ▲▼ 글자가 말해 준다 — 미니 차트는 장식
+                .accessibilityHidden(true)
             }
         }
         .card()
@@ -195,8 +200,10 @@ struct ProductDetailView: View {
                     VStack(spacing: 8) {
                         Text(product.emoji)
                             .font(.system(size: 56))
+                            .accessibilityHidden(true)
                         Text(product.displayName)
                             .font(.title2.weight(.bold))
+                            .accessibilityAddTraits(.isHeader)
                         Text(product.riskLabel)
                             .font(.caption.weight(.semibold))
                             .padding(.horizontal, 10)
@@ -212,7 +219,7 @@ struct ProductDetailView: View {
 
                     // 가격 차트
                     VStack(alignment: .leading, spacing: 8) {
-                        HStack(alignment: .firstTextBaseline) {
+                        AdaptiveStack(alignment: .leading, verticalAlignment: .firstTextBaseline) {
                             Text("현재 가격")
                                 .font(.subheadline.weight(.semibold))
                                 .foregroundStyle(.secondary)
@@ -253,7 +260,7 @@ struct ProductDetailView: View {
                                 HStack {
                                     Text("\(holding.quantity)주 · 평균 \(holding.avgPrice.comma)")
                                         .font(.subheadline)
-                                    Spacer()
+                                    Spacer(minLength: 8)
                                     Text("\(holding.profit >= 0 ? "+" : "")\(holding.profit.comma) (\(String(format: "%.1f", holding.profitRate))%)")
                                         .font(.subheadline.weight(.bold))
                                         .foregroundStyle(holding.profit >= 0 ? Color.red : Color.blue)

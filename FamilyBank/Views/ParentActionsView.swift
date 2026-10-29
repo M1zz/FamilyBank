@@ -88,11 +88,11 @@ struct ActionGridView: View {
 
     private var children: [FamilyMember] { members.filter { $0.isChild } }
 
-    private let columns = [GridItem(.flexible(), spacing: 12), GridItem(.flexible(), spacing: 12)]
+    @Environment(\.dynamicTypeSize) private var typeSize
 
     var body: some View {
         ScrollView {
-            LazyVGrid(columns: columns, spacing: 12) {
+            LazyVGrid(columns: typeSize.gridColumns, spacing: 12) {
                 NavigationLink {
                     GiveMoneyView(settings: settings)
                 } label: {
@@ -195,6 +195,7 @@ struct ActionGridView: View {
         VStack(alignment: .leading, spacing: 8) {
             Text(emoji)
                 .font(.system(size: 34))
+                .accessibilityHidden(true)
             Text(title)
                 .font(.headline)
                 .foregroundStyle(.primary)
@@ -206,5 +207,8 @@ struct ActionGridView: View {
         .padding()
         .background(color.opacity(0.12))
         .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+        .contentShape(Rectangle())
+        // 음성 명령은 보이는 제목만 말해도 누를 수 있게
+        .accessibilityInputLabels([title])
     }
 }

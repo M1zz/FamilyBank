@@ -23,14 +23,14 @@ struct MarketView: View {
     private var totalCirculation: Int { totalWallet + totalSavings + totalInvest }
     private var activeItemCount: Int { storeItems.filter { $0.isActive }.count }
 
-    private let columns = [GridItem(.flexible(), spacing: 12), GridItem(.flexible(), spacing: 12)]
+    @Environment(\.dynamicTypeSize) private var typeSize
 
     var body: some View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 16) {
                     // 핵심 지표
-                    LazyVGrid(columns: columns, spacing: 12) {
+                    LazyVGrid(columns: typeSize.gridColumns, spacing: 12) {
                         indicatorCard("🏷️", String(localized: "물가지수"),
                                       "\(Int(settings.priceIndex.rounded()))",
                                       settings.inflationSinceStart >= 0.5
@@ -56,6 +56,7 @@ struct MarketView: View {
                         VStack(alignment: .leading, spacing: 8) {
                             Text("물가 추이 📊")
                                 .font(.headline)
+                                .accessibilityAddTraits(.isHeader)
                             Chart(chartPoints(settings.priceIndexHistory.map { Int($0.rounded()) })) { point in
                                 LineMark(
                                     x: .value("주", point.id),
@@ -89,13 +90,14 @@ struct MarketView: View {
                         HStack {
                             Text("우리집 통화량 💰")
                                 .font(.headline)
+                                .accessibilityAddTraits(.isHeader)
                             Spacer()
                             Text("≈ \(settings.wonValue(ofCoins: totalCirculation).comma)원")
                                 .font(.caption)
                                 .foregroundStyle(.secondary)
                         }
                         MoneyText(amount: totalCirculation, currencyName: settings.currencyName, font: .title2)
-                        HStack(spacing: 8) {
+                        AdaptiveStack(spacing: 8) {
                             supplyChip(String(localized: "지갑"), totalWallet, .green)
                             supplyChip(String(localized: "저축"), totalSavings, .blue)
                             supplyChip(String(localized: "투자"), totalInvest, .indigo)
@@ -112,6 +114,7 @@ struct MarketView: View {
                         HStack {
                             Text("🏪")
                                 .font(.system(size: 36))
+                                .accessibilityHidden(true)
                             VStack(alignment: .leading, spacing: 2) {
                                 Text("우리집 가게")
                                     .font(.headline)
@@ -125,16 +128,19 @@ struct MarketView: View {
                             Image(systemName: "chevron.right")
                                 .font(.caption.weight(.semibold))
                                 .foregroundStyle(.tertiary)
+                                .accessibilityHidden(true)
                         }
                         .card()
                     }
                     .buttonStyle(.plain)
+                    .accessibilityInputLabels([Text("우리집 가게")])
 
                     // 투자 시세
                     if embedInvest {
                         VStack(alignment: .leading, spacing: 4) {
                             Text("투자 시장 📈")
                                 .font(.headline)
+                                .accessibilityAddTraits(.isHeader)
                                 .frame(maxWidth: .infinity, alignment: .leading)
                         }
                         InvestSectionView(settings: settings)
@@ -152,6 +158,7 @@ struct MarketView: View {
         VStack(alignment: .leading, spacing: 6) {
             HStack {
                 Text(emoji)
+                    .accessibilityHidden(true)
                 Text(title)
                     .font(.caption)
                     .foregroundStyle(.secondary)
@@ -164,12 +171,13 @@ struct MarketView: View {
                 .foregroundStyle(color)
             Text(caption)
                 .font(.caption2)
-                .foregroundStyle(.tertiary)
+                .foregroundStyle(.secondary)
         }
         .frame(maxWidth: .infinity, alignment: .leading)
         .padding()
         .background(Color(.secondarySystemGroupedBackground))
         .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
+        .accessibilityElement(children: .combine)
     }
 
     private func supplyChip(_ label: String, _ amount: Int, _ color: Color) -> some View {
@@ -186,5 +194,6 @@ struct MarketView: View {
         .padding(.vertical, 8)
         .background(color.opacity(0.1))
         .clipShape(RoundedRectangle(cornerRadius: 10))
+        .accessibilityElement(children: .combine)
     }
 }

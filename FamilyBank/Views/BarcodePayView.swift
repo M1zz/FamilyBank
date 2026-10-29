@@ -49,6 +49,7 @@ struct ItemBarcodeListSheet: View {
                             HStack(spacing: 12) {
                                 Text(item.emoji)
                                     .font(.title2)
+                                    .accessibilityHidden(true)
                                 VStack(alignment: .leading, spacing: 2) {
                                     Text(item.name)
                                         .font(.subheadline.weight(.medium))
@@ -89,13 +90,15 @@ struct ItemBarcodeView: View {
 
     var body: some View {
         VStack(spacing: 24) {
-            Spacer()
+            Spacer(minLength: 0)
 
             VStack(spacing: 10) {
                 Text(item.emoji)
                     .font(.system(size: 64))
+                    .accessibilityHidden(true)
                 Text(item.name)
                     .font(.title2.weight(.bold))
+                    .accessibilityAddTraits(.isHeader)
                 Text("\(settings.coinPrice(forWon: item.priceWon).comma) \(settings.currencyName)")
                     .font(.title3.weight(.semibold))
                     .foregroundStyle(.tint)
@@ -114,6 +117,7 @@ struct ItemBarcodeView: View {
                     .background(Color.white)
                     .clipShape(RoundedRectangle(cornerRadius: 20))
                     .shadow(color: .black.opacity(0.08), radius: 8, y: 4)
+                    .accessibilityLabel(Text("QR 코드"))
             }
 
             Text("자녀가 '찍어서 결제'로 이 바코드를 찍으면\n지갑에서 \(settings.currencyName)이 빠져나가요")
@@ -121,9 +125,10 @@ struct ItemBarcodeView: View {
                 .foregroundStyle(.secondary)
                 .multilineTextAlignment(.center)
 
-            Spacer()
+            Spacer(minLength: 0)
         }
         .padding()
+        .scrollIfNeeded()
         .navigationTitle("바코드")
         .navigationBarTitleDisplayMode(.inline)
     }
@@ -164,6 +169,7 @@ struct ScanPayView: View {
                     RoundedRectangle(cornerRadius: 24)
                         .stroke(Color.white.opacity(0.9), lineWidth: 3)
                         .frame(width: 240, height: 240)
+                        .accessibilityHidden(true)
                     Text("물품 바코드를 네모 안에 맞춰 주세요")
                         .font(.subheadline.weight(.semibold))
                         .foregroundStyle(.white)

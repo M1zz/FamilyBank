@@ -31,12 +31,13 @@ struct MemberDetailView: View {
                 VStack(spacing: 12) {
                     Text(member.emoji)
                         .font(.system(size: 56))
+                        .accessibilityHidden(true)
                     MoneyText(amount: member.totalAssets, currencyName: settings.currencyName, font: .largeTitle)
                     Text("총자산 · 실제 돈으로 약 \(settings.wonValue(ofCoins: member.totalAssets).comma)원")
                         .font(.caption)
                         .foregroundStyle(.secondary)
 
-                    HStack(spacing: 12) {
+                    AdaptiveStack(spacing: 12) {
                         summaryBox(String(localized: "💵 지갑"), member.balance)
                         summaryBox(String(localized: "🏦 저축"), member.savings)
                         summaryBox(String(localized: "📈 투자"), member.investValue)
@@ -60,7 +61,7 @@ struct MemberDetailView: View {
                 }
 
                 // 액션 버튼
-                HStack(spacing: 12) {
+                AdaptiveStack(spacing: 12) {
                     Button {
                         showStore = true
                     } label: {
@@ -91,9 +92,11 @@ struct MemberDetailView: View {
                     VStack(alignment: .leading, spacing: 10) {
                         Text("보유 투자 상품")
                             .font(.headline)
+                            .accessibilityAddTraits(.isHeader)
                         ForEach(holdings.filter { $0.quantity > 0 }) { holding in
                             HStack {
                                 Text(holding.product?.emoji ?? "📈")
+                                    .accessibilityHidden(true)
                                 VStack(alignment: .leading, spacing: 2) {
                                     Text(holding.product?.displayName ?? String(localized: "상품"))
                                         .font(.subheadline.weight(.medium))
@@ -112,6 +115,7 @@ struct MemberDetailView: View {
                                 }
                             }
                             .padding(.vertical, 4)
+                            .accessibilityElement(children: .combine)
                         }
                     }
                     .card()
@@ -121,6 +125,7 @@ struct MemberDetailView: View {
                 VStack(alignment: .leading, spacing: 10) {
                     Text("최근 거래")
                         .font(.headline)
+                        .accessibilityAddTraits(.isHeader)
                     if recentTransactions.isEmpty {
                         Text("아직 거래가 없어요")
                             .font(.subheadline)
@@ -160,6 +165,7 @@ struct MemberDetailView: View {
         VStack(spacing: 4) {
             Image(systemName: systemImage)
                 .font(.title3)
+                .accessibilityHidden(true)
             Text(title)
                 .font(.subheadline.weight(.semibold))
                 .lineLimit(1)
@@ -182,5 +188,6 @@ struct MemberDetailView: View {
         .padding(.vertical, 10)
         .background(Color(.tertiarySystemGroupedBackground))
         .clipShape(RoundedRectangle(cornerRadius: 10))
+        .accessibilityElement(children: .combine)
     }
 }
