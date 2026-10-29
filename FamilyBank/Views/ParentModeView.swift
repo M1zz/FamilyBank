@@ -9,6 +9,21 @@ import SwiftUI
 import SwiftData
 import LeeoKit
 
+// MARK: - 응원 부탁의 순간
+
+/// 용돈을 이만큼 건넸을 때 응원을 부탁한다. 큰 것부터.
+enum FamilyBankTipMoments {
+    static let allowances = [100, 50, 20]
+
+    static func reached(allowances total: Int) -> [LeeoTipMoment] {
+        allowances.filter { total >= $0 }.map { threshold in
+            LeeoTipMoment(id: "allowance.\(threshold)",
+                          message: String(localized: "지금까지 용돈을 \(total)번 건넸어요",
+                                          comment: "Tip ask card (parent mode): how many times the parent has given allowance"))
+        }
+    }
+}
+
 // MARK: - 부모 대시보드 (액션 탭 > 은행 설정에서 진입)
 
 struct ParentDashboardView: View {
@@ -19,6 +34,8 @@ struct ParentDashboardView: View {
     @Query(sort: \FamilyMember.createdAt) private var members: [FamilyMember]
     @Query(sort: \InvestProduct.createdAt) private var products: [InvestProduct]
     @Query(sort: \HouseholdItem.createdAt) private var storeItems: [HouseholdItem]
+    /// 부모가 건넨 용돈 기록(`TxKind.allowance`). 응원 부탁의 숫자로 쓴다.
+    @Query(filter: #Predicate<MoneyTransaction> { $0.kindRaw == "용돈" }) private var allowances: [MoneyTransaction]
 
     @State private var showAddMember = false
     @State private var showAddProduct = false
@@ -33,6 +50,12 @@ struct ParentDashboardView: View {
 
     var body: some View {
         Form {
+            // 용돈을 건네고 돌아온 자리. 쌓인 횟수가 숫자로 보일 때만, 드물게 응원을 부탁한다(부모만 보는 화면).
+            LeeoTipAskSlot<FamilyBankSpec>(tipJar: FamilyBankSpec.tipJar,
+                                           reached: FamilyBankTipMoments.reached(allowances: allowances.count))
+                .listRowInsets(EdgeInsets())
+                .listRowBackground(Color.clear)
+
             // 용돈 주기 / 차감
             Section("💸 돈 관리") {
                 NavigationLink {
@@ -242,6 +265,7 @@ struct ParentDashboardView: View {
                 LeeoSupportSection<FamilyBankSpec>()
                 NavigationLink(LeeoRoadmapText.entry) { RoadmapScreen() }
                 LeeoShareAppLink<FamilyBankSpec>()
+                LeeoTipJarLink<FamilyBankSpec>(tipJar: FamilyBankSpec.tipJar)
             } header: {
                 Text("지원")
             }

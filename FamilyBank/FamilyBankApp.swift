@@ -46,6 +46,8 @@ struct FamilyBankApp: App {
         WindowGroup {
             RootView()
                 .leeoSatisfactionCheck(FamilyBankSpec.self)
+                // 팁 상품을 불러오고 끝나지 않은 팁을 마저 센다.
+                .task { await FamilyBankSpec.tipJar.startStandalone() }
         }
         .modelContainer(container)
     }
