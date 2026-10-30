@@ -96,7 +96,7 @@ struct PayView: View {
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
-                    Button("닫기") { dismiss() }
+                    Button("닫기", systemImage: "xmark") { dismiss() }
                 }
             }
             .alert(didSucceed ? String(localized: "결제 완료! 🎉") : String(localized: "결제 실패"), isPresented: $showResult) {

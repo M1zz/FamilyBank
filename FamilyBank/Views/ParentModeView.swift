@@ -502,7 +502,7 @@ struct AddMemberSheet: View {
                     .navigationBarTitleDisplayMode(.inline)
                     .toolbar {
                         ToolbarItem(placement: .confirmationAction) {
-                            Button("완료") { dismiss() }
+                            Button("완료", systemImage: "checkmark") { dismiss() }
                         }
                     }
             } else {
@@ -548,10 +548,10 @@ struct AddMemberSheet: View {
         .navigationBarTitleDisplayMode(.inline)
         .toolbar {
             ToolbarItem(placement: .cancellationAction) {
-                Button("취소") { dismiss() }
+                Button("취소", systemImage: "xmark") { dismiss() }
             }
             ToolbarItem(placement: .confirmationAction) {
-                Button("추가") {
+                Button("추가", systemImage: "plus") {
                     let trimmed = name.trimmingCharacters(in: .whitespaces)
                     guard !trimmed.isEmpty else { return }
                     let member = FamilyMember(name: trimmed, emoji: emoji, role: role)
@@ -627,10 +627,10 @@ struct AddStoreItemSheet: View {
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
-                    Button("취소") { dismiss() }
+                    Button("취소", systemImage: "xmark") { dismiss() }
                 }
                 ToolbarItem(placement: .confirmationAction) {
-                    Button("추가") {
+                    Button("추가", systemImage: "plus") {
                         let trimmed = name.trimmingCharacters(in: .whitespaces)
                         guard !trimmed.isEmpty, priceWon > 0 else { return }
                         context.insert(HouseholdItem(name: trimmed, emoji: emoji, priceWon: priceWon))
@@ -722,10 +722,10 @@ struct AddProductSheet: View {
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
-                    Button("취소") { dismiss() }
+                    Button("취소", systemImage: "xmark") { dismiss() }
                 }
                 ToolbarItem(placement: .confirmationAction) {
-                    Button("추가") {
+                    Button("추가", systemImage: "plus") {
                         let trimmed = name.trimmingCharacters(in: .whitespaces)
                         let price = max(10, Int(priceText) ?? 1000)
                         guard !trimmed.isEmpty else { return }
