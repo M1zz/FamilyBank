@@ -7,6 +7,7 @@
 
 import SwiftUI
 import SwiftData
+import AppIntents
 import LeeoKit
 
 @main
@@ -37,6 +38,9 @@ struct FamilyBankApp: App {
                 container = StoreFallback.memoryContainer(schema: schema, after: error)
             }
         }
+        // Siri 인텐트가 같은 장부를 쓴다 (→ AllowanceIntents.swift)
+        let shared = container
+        AppDependencyManager.shared.add(dependency: shared)
         // 스토어 스크린샷용 가상 장부 (DEBUG 빌드 + -ScreenshotDemo 일 때만)
         ScreenshotDemo.seedIfNeeded(context: container.mainContext)
     }
