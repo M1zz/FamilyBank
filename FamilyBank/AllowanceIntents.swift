@@ -8,6 +8,7 @@
 //
 
 import AppIntents
+import CoreSpotlight
 import Foundation
 import SwiftData
 
@@ -29,6 +30,10 @@ struct ChildEntity: AppEntity {
         emoji = member.emoji
     }
 }
+
+/// 아이 이름을 Spotlight 에 실어, Siri 가 "민수" 를 이 앱의 아이로 알아보게 한다.
+@available(iOS 18.0, *)
+extension ChildEntity: IndexedEntity {}
 
 struct ChildQuery: EntityStringQuery {
     @Dependency private var container: ModelContainer
@@ -53,10 +58,12 @@ struct GiveAllowanceIntent: AppIntent {
     )
 
     @Parameter(title: LocalizedStringResource("아이", comment: "Siri: child parameter"),
+               description: LocalizedStringResource("용돈을 받을 아이", comment: "Siri: description of the child who receives allowance"),
                requestValueDialog: IntentDialog(LocalizedStringResource("누구에게 줄까요?", comment: "Siri: ask which child")))
     var child: ChildEntity
 
     @Parameter(title: LocalizedStringResource("금액", comment: "Siri: amount parameter"),
+               description: LocalizedStringResource("아이 지갑에 넣을 금액", comment: "Siri: description of the allowance amount"),
                inclusiveRange: (1, 10_000_000),
                requestValueDialog: IntentDialog(LocalizedStringResource("얼마를 줄까요?", comment: "Siri: ask amount")))
     var amount: Int
@@ -81,6 +88,7 @@ struct ChildBalanceIntent: AppIntent {
     )
 
     @Parameter(title: LocalizedStringResource("아이", comment: "Siri: child parameter"),
+               description: LocalizedStringResource("잔액을 알아볼 아이", comment: "Siri: description of the child whose balance to check"),
                requestValueDialog: IntentDialog(LocalizedStringResource("누구의 잔액인가요?", comment: "Siri: ask whose balance")))
     var child: ChildEntity
 
@@ -117,6 +125,14 @@ enum FamilyBankLibrary {
     static func children(in container: ModelContainer, context: ModelContext? = nil) -> [FamilyMember] {
         let context = context ?? ModelContext(container)
         return ((try? context.fetch(FetchDescriptor<FamilyMember>())) ?? []).filter(\.isChild)
+    }
+
+    /// Spotlight 에 싣는 아이 목록을 지금 것에 맞춘다. 앱을 열 때와 뒤로 보낼 때 부른다.
+    static func reindex(_ container: ModelContainer) async {
+        guard #available(iOS 18.0, *) else { return }
+        let index = CSSearchableIndex.default()
+        try? await index.deleteAppEntities(ofType: ChildEntity.self)
+        try? await index.indexAppEntities(children(in: container).map(ChildEntity.init))
     }
 
     /// 앱과 같은 표기: "1,000 쑥" 처럼 가족 화폐 이름을 붙인다.

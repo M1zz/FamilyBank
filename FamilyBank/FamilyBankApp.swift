@@ -13,6 +13,7 @@ import LeeoKit
 @main
 struct FamilyBankApp: App {
     let container: ModelContainer
+    @Environment(\.scenePhase) private var scenePhase
 
     init() {
         // 사용량 기록 · 익명 사용 통계 · 크래시 진단 (FeedbackHub).
@@ -54,6 +55,11 @@ struct FamilyBankApp: App {
                 .task { await FamilyBankSpec.tipJar.startStandalone() }
                 // 창 크기로 접힘을 재서 아래로 흘린다. 시트 · 알림창도 접힌 선을 비킨다 (LeeoKit Fold).
                 .foldAware()
+                // Spotlight 에 싣는 아이 목록을 지금 것에 맞춘다. 열 때 한 번, 뒤로 보낼 때마다.
+                .task { await FamilyBankLibrary.reindex(container) }
+                .onChange(of: scenePhase) { _, phase in
+                    if phase == .background { Task { await FamilyBankLibrary.reindex(container) } }
+                }
         }
         .modelContainer(container)
     }

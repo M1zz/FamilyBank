@@ -7,6 +7,7 @@
 
 import SwiftUI
 import SwiftData
+import AppIntents
 import LeeoKit
 
 // MARK: - 응원 부탁의 순간
@@ -465,6 +466,11 @@ struct GiveMoneyView: View {
         guard let target else { return }
         if mode == .give {
             BankEngine.give(to: target, amount: amount, memo: memo, context: context)
+            // Siri 가 "용돈 주기" 를 배우게 같은 일을 알린다 (→ AllowanceIntents.swift)
+            let intent = GiveAllowanceIntent()
+            intent.child = ChildEntity(target)
+            intent.amount = amount
+            IntentDonationManager.shared.donate(intent: intent)
             resultMessage = String(localized: "\(target.name)에게 \(amount.comma) \(settings.currencyName)을(를) 줬어요! 🎁")
             amountText = ""
         } else {
