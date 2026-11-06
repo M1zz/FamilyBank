@@ -109,7 +109,7 @@ struct InflationCard: View {
                     .font(.caption)
                     .foregroundStyle(.orange)
             } else {
-                Text("매주 물가가 \(settings.weeklyInflationRate.cleanPercent)%씩 올라요. 같은 돈으로 살 수 있는 게 조금씩 줄어든다는 뜻이에요.")
+                Text("매주 물가가 \(settings.activeInflationRate.cleanPercent)%씩 올라요. 같은 돈으로 살 수 있는 게 조금씩 줄어든다는 뜻이에요.")
                     .font(.caption)
                     .foregroundStyle(.secondary)
             }

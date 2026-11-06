@@ -85,8 +85,15 @@ struct ActionGridView: View {
     @State private var inviteTarget: FamilyMember?
     @State private var kidModeCandidate: FamilyMember?
     @AppStorage(KidModeStorage.key) private var kidModeUID = ""
+    @State private var purchases = PurchaseManager.shared
+    @State private var paywallFeature: ProFeature?
 
     private var children: [FamilyMember] { members.filter { $0.isChild } }
+
+    /// 무료로는 가게 물품 10개까지. 새로 만드는 것만 본다.
+    private var canAddItem: Bool {
+        purchases.allows(.moreItems) || storeItems.count < ProEntitlement.freeItemLimit
+    }
 
     @Environment(\.dynamicTypeSize) private var typeSize
 
@@ -101,16 +108,19 @@ struct ActionGridView: View {
                 .buttonStyle(.plain)
 
                 Button {
-                    showBarcodeList = true
+                    // 바코드 결제는 Pro. 오래 쓸 가족에게 맞는 평생을 먼저 고른다.
+                    if purchases.allows(.barcodePay) { showBarcodeList = true } else { paywallFeature = .barcodePay }
                 } label: {
-                    actionCard("🏷️", String(localized: "물품 바코드"), String(localized: "찍으면 바로 결제"), .orange)
+                    actionCard("🏷️", String(localized: "물품 바코드"), String(localized: "찍으면 바로 결제"), .orange,
+                               locked: purchases.allows(.barcodePay) ? nil : .barcodePay)
                 }
                 .buttonStyle(.plain)
 
                 Button {
-                    showAddItem = true
+                    if canAddItem { showAddItem = true } else { paywallFeature = .moreItems }
                 } label: {
-                    actionCard("🏪", String(localized: "물품 추가"), String(localized: "가게에 등록"), .green)
+                    actionCard("🏪", String(localized: "물품 추가"), String(localized: "가게에 등록"), .green,
+                               locked: canAddItem ? nil : .moreItems)
                 }
                 .buttonStyle(.plain)
 
@@ -156,6 +166,9 @@ struct ActionGridView: View {
                 }
             }
         }
+        .sheet(item: $paywallFeature) { feature in
+            PaywallView(highlight: feature, term: feature == .barcodePay ? .lifetime : .yearly)
+        }
         .sheet(isPresented: $showBarcodeList) {
             ItemBarcodeListSheet(settings: settings)
         }
@@ -191,11 +204,16 @@ struct ActionGridView: View {
         kidModeUID = child.uid
     }
 
-    private func actionCard(_ emoji: String, _ title: String, _ subtitle: String, _ color: Color) -> some View {
+    private func actionCard(_ emoji: String, _ title: String, _ subtitle: String, _ color: Color,
+                            locked: ProFeature? = nil) -> some View {
         VStack(alignment: .leading, spacing: 8) {
-            Text(emoji)
-                .font(.system(size: 34))
-                .accessibilityHidden(true)
+            HStack(alignment: .top) {
+                Text(emoji)
+                    .font(.system(size: 34))
+                    .accessibilityHidden(true)
+                Spacer(minLength: 0)
+                if let locked { ProLockBadge(feature: locked) }
+            }
             Text(title)
                 .font(.headline)
                 .foregroundStyle(.primary)

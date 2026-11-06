@@ -1,0 +1,334 @@
+{
+  "identifier": "54890468-4013-45DC-B6DE-80394B0716CE",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "17.99",
+      "familyShareable": true,
+      "internalID": "D1561265-B29D-49CD-8772-C5B3CB2CD2BA",
+      "localizations": [
+        {
+          "description": "자녀와 가게 물품을 제한 없이, 투자 상품도 직접",
+          "displayName": "쑥쑥용돈 Plus 평생",
+          "locale": "ko"
+        },
+        {
+          "description": "Unlimited kids and shop items, your own funds",
+          "displayName": "SukSuk Plus Lifetime",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.family.FamilyBank.plus",
+      "referenceName": "Plus 평생",
+      "type": "NonConsumable"
+    },
+    {
+      "displayPrice": "26.99",
+      "familyShareable": true,
+      "internalID": "275916F9-4061-4B8E-AD9A-FE99B99033CA",
+      "localizations": [
+        {
+          "description": "Plus 전부에 바코드 결제, 물가 체험, iCloud 동기화",
+          "displayName": "쑥쑥용돈 Pro 평생",
+          "locale": "ko"
+        },
+        {
+          "description": "All of Plus, barcode pay, inflation, iCloud sync",
+          "displayName": "SukSuk Pro Lifetime",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.family.FamilyBank.pro",
+      "referenceName": "Pro 평생",
+      "type": "NonConsumable"
+    },
+    {
+      "displayPrice": "8.99",
+      "familyShareable": true,
+      "internalID": "E0A1C384-849E-45AB-BECB-D720DEA9EC43",
+      "localizations": [
+        {
+          "description": "Plus 평생을 산 분이 Pro 평생으로 올려요",
+          "displayName": "Plus 평생에서 Pro 평생으로",
+          "locale": "ko"
+        },
+        {
+          "description": "For Plus Lifetime owners: move up to Pro",
+          "displayName": "Plus to Pro Lifetime",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.family.FamilyBank.pro.upgrade",
+      "referenceName": "Plus 평생 → Pro 평생",
+      "type": "NonConsumable"
+    },
+    {
+      "displayPrice": "17.99",
+      "familyShareable": true,
+      "internalID": "E5CD7A3D-6768-4D96-A225-254B95D76F95",
+      "localizations": [
+        {
+          "description": "구독하던 분께 드리는 Pro 평생",
+          "displayName": "쑥쑥용돈 Pro 평생 (구독 졸업)",
+          "locale": "ko"
+        },
+        {
+          "description": "Pro Lifetime at a lower price for subscribers",
+          "displayName": "SukSuk Pro Lifetime for Subscribers",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.family.FamilyBank.pro.graduate",
+      "referenceName": "구독 졸업 Pro 평생",
+      "type": "NonConsumable"
+    },
+    {
+      "displayPrice": "0.99",
+      "familyShareable": false,
+      "internalID": "F18DBD2B-A93C-475F-9289-1A1E1D8DDD23",
+      "localizations": [
+        {
+          "description": "개발자에게 보내는 작은 응원",
+          "displayName": "작은 응원",
+          "locale": "ko"
+        },
+        {
+          "description": "A small thank-you to the developer",
+          "displayName": "Small Tip",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.family.FamilyBank.tip.small",
+      "referenceName": "팁 작게",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "AAEA582E-46A4-4F3F-8B01-670326B7553B",
+      "localizations": [
+        {
+          "description": "개발자에게 보내는 응원",
+          "displayName": "보통 응원",
+          "locale": "ko"
+        },
+        {
+          "description": "A thank-you to the developer",
+          "displayName": "Medium Tip",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.family.FamilyBank.tip.medium",
+      "referenceName": "팁 보통",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "168059AD-6078-4BD8-9DE7-6B271B250DDA",
+      "localizations": [
+        {
+          "description": "개발자에게 보내는 큰 응원",
+          "displayName": "큰 응원",
+          "locale": "ko"
+        },
+        {
+          "description": "A big thank-you to the developer",
+          "displayName": "Large Tip",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.family.FamilyBank.tip.large",
+      "referenceName": "팁 크게",
+      "type": "Consumable"
+    }
+  ],
+  "settings": {
+    "_applicationInternalID": "6790130891",
+    "_developerTeamID": "",
+    "_lastSynchronizedDate": 0
+  },
+  "subscriptionGroups": [
+    {
+      "id": "A6CFC7AB-7BAE-4A32-951A-14681D7F45FD",
+      "localizations": [],
+      "name": "쑥쑥용돈",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "8.99",
+          "familyShareable": true,
+          "groupNumber": 1,
+          "internalID": "C2C8CED7-D776-4976-A200-EB78001EF2ED",
+          "introductoryOffer": {
+            "displayPrice": "4.49",
+            "internalID": "B21E4E60-3FC8-48B9-B55B-8CFE7ED2F050",
+            "numberOfPeriods": 1,
+            "paymentMode": "payUpFront",
+            "subscriptionPeriod": "P1Y"
+          },
+          "localizations": [
+            {
+              "description": "바코드 결제, 물가 체험, 기기 어디서나",
+              "displayName": "쑥쑥용돈 Pro (연)",
+              "locale": "ko"
+            },
+            {
+              "description": "Barcode pay, inflation, every device",
+              "displayName": "SukSuk Pro (Yearly)",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.family.FamilyBank.pro.yearly",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Pro 연",
+          "subscriptionGroupID": "A6CFC7AB-7BAE-4A32-951A-14681D7F45FD",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": true,
+          "groupNumber": 1,
+          "internalID": "012A6D36-17F5-437A-9F35-DC8900CA49E2",
+          "localizations": [
+            {
+              "description": "바코드 결제, 물가 체험, 기기 어디서나",
+              "displayName": "쑥쑥용돈 Pro (월)",
+              "locale": "ko"
+            },
+            {
+              "description": "Barcode pay, inflation, every device",
+              "displayName": "SukSuk Pro (Monthly)",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.family.FamilyBank.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Pro 월",
+          "subscriptionGroupID": "A6CFC7AB-7BAE-4A32-951A-14681D7F45FD",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.49",
+          "familyShareable": true,
+          "groupNumber": 1,
+          "internalID": "A49DBB76-E210-4A8E-8887-9F7B2FF7447B",
+          "localizations": [
+            {
+              "description": "바코드 결제, 물가 체험, 기기 어디서나",
+              "displayName": "쑥쑥용돈 Pro (주)",
+              "locale": "ko"
+            },
+            {
+              "description": "Barcode pay, inflation, every device",
+              "displayName": "SukSuk Pro (Weekly)",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.family.FamilyBank.pro.weekly",
+          "recurringSubscriptionPeriod": "P1W",
+          "referenceName": "Pro 주",
+          "subscriptionGroupID": "A6CFC7AB-7BAE-4A32-951A-14681D7F45FD",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "5.99",
+          "familyShareable": true,
+          "groupNumber": 2,
+          "internalID": "9A4BC4FC-60B2-4BA4-8189-80DD9FC6ADC9",
+          "introductoryOffer": {
+            "displayPrice": "2.99",
+            "internalID": "172EB65A-CEFE-4EFE-A65D-F786EAE0C321",
+            "numberOfPeriods": 1,
+            "paymentMode": "payUpFront",
+            "subscriptionPeriod": "P1Y"
+          },
+          "localizations": [
+            {
+              "description": "아이가 몇 명이든, 우리집 가게를 마음껏",
+              "displayName": "쑥쑥용돈 Plus (연)",
+              "locale": "ko"
+            },
+            {
+              "description": "Any number of kids, a bigger family shop",
+              "displayName": "SukSuk Plus (Yearly)",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.family.FamilyBank.plus.yearly",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Plus 연",
+          "subscriptionGroupID": "A6CFC7AB-7BAE-4A32-951A-14681D7F45FD",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": true,
+          "groupNumber": 2,
+          "internalID": "D09BFA52-F3CC-4857-A4CC-0D1787F00813",
+          "localizations": [
+            {
+              "description": "아이가 몇 명이든, 우리집 가게를 마음껏",
+              "displayName": "쑥쑥용돈 Plus (월)",
+              "locale": "ko"
+            },
+            {
+              "description": "Any number of kids, a bigger family shop",
+              "displayName": "SukSuk Plus (Monthly)",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.family.FamilyBank.plus.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Plus 월",
+          "subscriptionGroupID": "A6CFC7AB-7BAE-4A32-951A-14681D7F45FD",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "0.99",
+          "familyShareable": true,
+          "groupNumber": 2,
+          "internalID": "1C2EDD7E-ABD8-4B25-85C7-30AFA2AE2664",
+          "localizations": [
+            {
+              "description": "아이가 몇 명이든, 우리집 가게를 마음껏",
+              "displayName": "쑥쑥용돈 Plus (주)",
+              "locale": "ko"
+            },
+            {
+              "description": "Any number of kids, a bigger family shop",
+              "displayName": "SukSuk Plus (Weekly)",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.family.FamilyBank.plus.weekly",
+          "recurringSubscriptionPeriod": "P1W",
+          "referenceName": "Plus 주",
+          "subscriptionGroupID": "A6CFC7AB-7BAE-4A32-951A-14681D7F45FD",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

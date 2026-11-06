@@ -17,13 +17,28 @@ enum FamilyBankSpec: LeeoAppSpec {
     /// App Store 앱 ID — 리뷰 남기기·친구에게 소개하기 링크.
     static let appStoreID: String? = "6790130891"
 
-    /// 수익모델 — 인앱 결제가 없는 완전 무료 앱.
-    static let monetization = LeeoMonetization.free
+    /// 수익모델 — 무료로 내려받고, 무료 · Plus · Pro 세 칸. 유료 칸마다 주 · 월 · 연 구독과 평생.
+    /// 칸마다 무엇이 열리는지는 `ProFeature.tier` 한 곳에 있다(→ ProEntitlement.swift).
+    static let monetization = LeeoMonetization.freemiumSubscription(
+        LeeoSubscriptionConfig(
+            productIDs: ProEntitlement.productIDs,
+            // 자체 약관이 없으므로 애플 표준 사용권 계약(EULA)을 건다. 구독을 파는 앱의 심사 필수 항목이다.
+            termsURL: URL(string: "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/")!,
+            entitlementIDs: ProEntitlement.entitlementIDs,
+            gate: LeeoGatePolicy(
+                freeLimits: [Gate.children: ProEntitlement.freeChildLimit, Gate.storeItems: ProEntitlement.freeItemLimit],
+                proOnly: Set([ProFeature.customInvest, .barcodePay, .inflation, .iCloudSync].map(\.rawValue))),
+            // 개발자 응원 팁. 소모성 세 가지, 작은 것부터. 기능을 열지 않는다(→ `tipJar`).
+            tipJar: LeeoTipJarConfig(productIDs: ProEntitlement.tipProductIDs)))
 
-    /// 개발자 응원(팁). 소모성 세 가지, 작은 것부터. 기능을 열지 않는다 — 무료 앱이라 혼자 돈다(`startStandalone`).
-    @MainActor static let tipJar = LeeoTipJar(config: LeeoTipJarConfig(productIDs: [
-        "com.family.FamilyBank.tip.small", "com.family.FamilyBank.tip.medium", "com.family.FamilyBank.tip.large",
-    ]))
+    /// 게이트 열쇠말.
+    enum Gate {
+        static let children = "children"
+        static let storeItems = "storeItems"
+    }
+
+    /// 개발자 응원(팁). 결제 리스너를 함께 쓰도록 `LeeoStore` 가 만든 것을 쓴다.
+    @MainActor static var tipJar: LeeoTipJar? { PurchaseManager.shared.store.tipJar }
 
     /// 익명 사용 통계 → FeedbackHub. 없으면 bootstrap 이 스냅샷·app_open 을 건너뛴다.
     static let analytics: any LeeoAnalytics = LeeoUsageAnalytics(spec: FamilyBankSpec.self)

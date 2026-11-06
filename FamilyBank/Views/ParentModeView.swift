@@ -47,15 +47,29 @@ struct ParentDashboardView: View {
     @State private var kidModeCandidate: FamilyMember?
     @AppStorage(KidModeStorage.key) private var kidModeUID = ""
 
+    @State private var purchases = PurchaseManager.shared
+    /// 잠긴 자리를 눌렀을 때 띄울 페이월 (그 기능의 칸을 앞에).
+    @State private var paywallFeature: ProFeature?
+    @State private var showPlans = false
+    @State private var showLifetimePlans = false
+    @State private var showGraduation = false
+    @State private var managingSubscription = false
+
     private var children: [FamilyMember] { members.filter { $0.isChild } }
 
     var body: some View {
         Form {
             // 용돈을 건네고 돌아온 자리. 쌓인 횟수가 숫자로 보일 때만, 드물게 응원을 부탁한다(부모만 보는 화면).
-            LeeoTipAskSlot<FamilyBankSpec>(tipJar: FamilyBankSpec.tipJar,
-                                           reached: FamilyBankTipMoments.reached(allowances: allowances.count))
-                .listRowInsets(EdgeInsets())
-                .listRowBackground(Color.clear)
+            // 응원 부탁은 이미 Pro 를 가진 가족에게만.
+            if purchases.tier == .pro, let tipJar = FamilyBankSpec.tipJar {
+                LeeoTipAskSlot<FamilyBankSpec>(tipJar: tipJar,
+                                               reached: FamilyBankTipMoments.reached(allowances: allowances.count))
+                    .listRowInsets(EdgeInsets())
+                    .listRowBackground(Color.clear)
+            }
+
+            // 첫 이자가 붙은 주에 한 번, 닫기 쉬운 작은 카드로.
+            FirstInterestNudge { showPlans = true }
 
             // 용돈 주기 / 차감
             Section("💸 돈 관리") {
@@ -132,9 +146,15 @@ struct ParentDashboardView: View {
                     try? context.save()
                 }
                 Button {
-                    showAddProduct = true
+                    if purchases.allows(.customInvest) { showAddProduct = true } else { paywallFeature = .customInvest }
                 } label: {
-                    Label("상품 추가", systemImage: "plus.square.on.square")
+                    HStack {
+                        Label("상품 추가", systemImage: "plus.square.on.square")
+                        if !purchases.allows(.customInvest) {
+                            Spacer()
+                            ProLockBadge(feature: .customInvest)
+                        }
+                    }
                 }
             }
 
@@ -187,9 +207,15 @@ struct ParentDashboardView: View {
                     try? context.save()
                 }
                 Button {
-                    showAddItem = true
+                    if canAddItem { showAddItem = true } else { paywallFeature = .moreItems }
                 } label: {
-                    Label("물품 추가", systemImage: "tag.fill")
+                    HStack {
+                        Label("물품 추가", systemImage: "tag.fill")
+                        if !canAddItem {
+                            Spacer()
+                            ProLockBadge(feature: .moreItems)
+                        }
+                    }
                 }
             }
 
@@ -239,17 +265,31 @@ struct ParentDashboardView: View {
                     .accessibilityValue(Text(verbatim: "\(settings.weeklyInterestRate.cleanPercent)%"))
                 }
 
-                VStack(alignment: .leading, spacing: 4) {
-                    Text("주간 물가 상승률: \(settings.weeklyInflationRate.cleanPercent)%")
-                    Slider(value: Binding(
-                        get: { settings.weeklyInflationRate },
-                        set: { settings.weeklyInflationRate = $0; try? context.save() }
-                    ), in: 0...10, step: 0.5)
-                    .accessibilityLabel(Text("주간 물가 상승률"))
-                    .accessibilityValue(Text(verbatim: "\(settings.weeklyInflationRate.cleanPercent)%"))
-                    Text("매주 우리집 물가지수가 이만큼 올라요 (현재 지수 \(Int(settings.priceIndex.rounded()))). 0%로 두면 인플레이션이 없어요. 물가에 맞춰 실제 간식·장난감 가격도 조금씩 올려 주면 아이가 돈의 가치 변화를 몸으로 배워요.")
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
+                if purchases.allows(.inflation) {
+                    VStack(alignment: .leading, spacing: 4) {
+                        Text("주간 물가 상승률: \(settings.weeklyInflationRate.cleanPercent)%")
+                        Slider(value: Binding(
+                            get: { settings.weeklyInflationRate },
+                            set: { settings.weeklyInflationRate = $0; try? context.save() }
+                        ), in: 0...10, step: 0.5)
+                        .accessibilityLabel(Text("주간 물가 상승률"))
+                        .accessibilityValue(Text(verbatim: "\(settings.weeklyInflationRate.cleanPercent)%"))
+                        Text("매주 우리집 물가지수가 이만큼 올라요 (현재 지수 \(Int(settings.priceIndex.rounded()))). 0%로 두면 인플레이션이 없어요. 물가에 맞춰 실제 간식·장난감 가격도 조금씩 올려 주면 아이가 돈의 가치 변화를 몸으로 배워요.")
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                    }
+                } else {
+                    // 물가 상승 체험은 Pro. 무료에서는 물가가 오르지 않는다(0%).
+                    Button {
+                        paywallFeature = .inflation
+                    } label: {
+                        HStack {
+                            Text("주간 물가 상승률")
+                                .foregroundStyle(.primary)
+                            Spacer()
+                            ProLockBadge(feature: .inflation)
+                        }
+                    }
                 }
 
                 HStack {
@@ -272,12 +312,17 @@ struct ParentDashboardView: View {
                 }
             }
 
+            // 요금제 · 구독 관리
+            planSection
+
             // 지원
             Section {
                 LeeoSupportSection<FamilyBankSpec>()
                 NavigationLink(LeeoRoadmapText.entry) { RoadmapScreen() }
                 LeeoShareAppLink<FamilyBankSpec>()
-                LeeoTipJarLink<FamilyBankSpec>(tipJar: FamilyBankSpec.tipJar)
+                if let tipJar = FamilyBankSpec.tipJar {
+                    LeeoTipJarLink<FamilyBankSpec>(tipJar: tipJar)
+                }
             } header: {
                 Text("지원")
             }
@@ -316,6 +361,27 @@ struct ParentDashboardView: View {
         .sheet(item: $inviteTarget) { member in
             InviteSheet(member: member, settings: settings)
         }
+        .sheet(item: $paywallFeature) { feature in
+            PaywallView(highlight: feature)
+        }
+        .sheet(isPresented: $showPlans) {
+            PaywallView()
+        }
+        .sheet(isPresented: $showLifetimePlans) {
+            PaywallView(term: .lifetime)
+        }
+        .sheet(isPresented: $showGraduation) {
+            LeeoGraduationOfferView(graduate: purchases.product(ProEntitlement.graduateID)) {
+                await purchases.refresh()
+            }
+            .onAppear { purchases.markGraduationOffered() }
+        }
+        .manageSubscriptionsSheet(isPresented: $managingSubscription)
+        // 연 구독 6개월째와 갱신 7일 전에 한 번씩, 구독 졸업 평생가를 보인다(부모 모드 안에서만).
+        .task {
+            await purchases.refresh()
+            if purchases.graduationIsDue { showGraduation = true }
+        }
         .confirmationDialog("정말 모든 데이터를 삭제할까요?", isPresented: $showResetConfirm, titleVisibility: .visible) {
             Button("전부 삭제", role: .destructive) { resetAll() }
             Button("취소", role: .cancel) {}
@@ -326,6 +392,68 @@ struct ParentDashboardView: View {
         ), titleVisibility: .visible) {
             Button("자녀 폰으로 전환") { activateKidMode() }
             Button("취소", role: .cancel) { kidModeCandidate = nil }
+        }
+    }
+
+    /// 무료로는 가게 물품 10개까지. 한도를 넘은 옛 물품은 그대로 쓴다(새로 만드는 것만 본다).
+    private var canAddItem: Bool {
+        purchases.allows(.moreItems) || storeItems.count < ProEntitlement.freeItemLimit
+    }
+
+    // MARK: 요금제
+
+    private var planSection: some View {
+        Section {
+            HStack {
+                Text("지금 쓰는 칸")
+                Spacer()
+                Text(purchases.tier.title)
+                    .foregroundStyle(.secondary)
+            }
+            if purchases.tier < .pro {
+                Button("요금제 보기") { showPlans = true }
+            }
+            // 구독하는 분은 졸업가로, 아직 평생이 없는 분은 평생 길로.
+            if purchases.product(ProEntitlement.graduateID) != nil && purchases.subscription != nil {
+                Button(LeeoLadderText.switchToLifetimeEntry) { showGraduation = true }
+            } else if purchases.canBuy(max(purchases.tier, .plus)) {
+                Button(LeeoLadderText.switchToLifetimeEntry) { showLifetimePlans = true }
+            }
+            if purchases.hasSubscription {
+                Button("구독 관리") { managingSubscription = true }
+            }
+            Button("구매 복원") { Task { await purchases.restore() } }
+                .disabled(purchases.isWorking)
+            if let message = purchases.failureMessage {
+                Text(message)
+                    .foregroundStyle(.secondary)
+            }
+
+            // iCloud 동기화 (Pro). 꺼져 있어도 이 기기의 기록은 그대로다.
+            if purchases.allows(.iCloudSync) {
+                HStack {
+                    Label("iCloud 동기화", systemImage: "icloud.fill")
+                    Spacer()
+                    Text(CloudSync.isOn ? String(localized: "켜짐") : String(localized: "앱을 다시 열면 켜져요"))
+                        .foregroundStyle(.secondary)
+                        .multilineTextAlignment(.trailing)
+                }
+            } else {
+                Button {
+                    paywallFeature = .iCloudSync
+                } label: {
+                    HStack {
+                        Label("iCloud 동기화", systemImage: "icloud.fill")
+                            .foregroundStyle(.primary)
+                        Spacer()
+                        ProLockBadge(feature: .iCloudSync)
+                    }
+                }
+            }
+        } header: {
+            Text("💎 요금제")
+        } footer: {
+            Text("iCloud 동기화는 아이폰과 아이패드의 기록을 맞춰요. 꺼져 있어도 이 기기의 기록은 그대로예요.")
         }
     }
 
@@ -491,10 +619,18 @@ struct AddMemberSheet: View {
 
     @Environment(\.modelContext) private var context
     @Environment(\.dismiss) private var dismiss
+    @Query private var members: [FamilyMember]
 
     @State private var name = ""
     @State private var emoji = "😀"
     @State private var role: MemberRole = .child
+    @State private var purchases = PurchaseManager.shared
+    @State private var showPaywall = false
+
+    /// 무료로는 자녀 2명까지. 이미 그보다 많은 가족은 그대로 쓰고, 새 자녀만 막는다.
+    private var childLimitReached: Bool {
+        !purchases.allows(.moreChildren) && members.filter(\.isChild).count >= ProEntitlement.freeChildLimit
+    }
     /// 자녀 추가 완료 후 초대장을 보여줄 대상
     @State private var invitee: FamilyMember?
 
@@ -541,16 +677,25 @@ struct AddMemberSheet: View {
                     }
                 }
             }
-            Section("역할") {
+            Section {
                 Picker("역할", selection: $role) {
                     ForEach(MemberRole.allCases) { r in
                         Text(LocalizedStringKey(r.rawValue)).tag(r)
                     }
                 }
                 .pickerStyle(.segmented)
+            } header: {
+                Text("역할")
+            } footer: {
+                if role == .child && childLimitReached {
+                    Text("무료로는 자녀 \(ProEntitlement.freeChildLimit)명까지예요. Plus에서는 몇 명이든 함께해요.")
+                }
             }
         }
         .navigationTitle("구성원 추가")
+        .sheet(isPresented: $showPaywall) {
+            PaywallView(highlight: .moreChildren)
+        }
         .navigationBarTitleDisplayMode(.inline)
         .toolbar {
             ToolbarItem(placement: .cancellationAction) {
@@ -560,6 +705,10 @@ struct AddMemberSheet: View {
                 Button("추가", systemImage: "plus") {
                     let trimmed = name.trimmingCharacters(in: .whitespaces)
                     guard !trimmed.isEmpty else { return }
+                    if role == .child && childLimitReached {
+                        showPaywall = true
+                        return
+                    }
                     let member = FamilyMember(name: trimmed, emoji: emoji, role: role)
                     context.insert(member)
                     try? context.save()

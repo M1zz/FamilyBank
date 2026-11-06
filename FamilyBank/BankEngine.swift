@@ -29,16 +29,19 @@ enum BankEngine {
 
     // MARK: - 인플레이션 (주 단위 물가 상승)
 
-    /// 밀린 주 수만큼 물가지수를 복리로 올린다
+    /// 밀린 주 수만큼 물가지수를 복리로 올린다. Pro 가 아니면 0%로 본다(`activeInflationRate`).
     static func applyInflation(settings: FamilySettings) {
+        // 칸을 아직 모르면(페이월 전부터 쓰던 가족이 업데이트 뒤 처음 켠 순간) 밀린 주를 0%로 써 버리지 않고 기다린다.
+        guard ProEntitlement.isKnown else { return }
+        let rate = settings.activeInflationRate
         let week: TimeInterval = 7 * 24 * 60 * 60
         let elapsed = Date().timeIntervalSince(settings.lastInflationDate)
         let weeks = Int(elapsed / week)
         guard weeks > 0 else { return }
 
-        if settings.weeklyInflationRate > 0 {
+        if rate > 0 {
             for _ in 0..<min(weeks, 104) {
-                settings.priceIndex *= (1 + settings.weeklyInflationRate / 100)
+                settings.priceIndex *= (1 + rate / 100)
                 settings.priceIndexHistory.append(settings.priceIndex)
             }
             if settings.priceIndexHistory.count > 104 {

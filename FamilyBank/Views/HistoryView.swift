@@ -7,6 +7,7 @@
 
 import SwiftUI
 import SwiftData
+import UniformTypeIdentifiers
 
 struct HistoryView: View {
     let settings: FamilySettings
@@ -83,6 +84,15 @@ struct HistoryView: View {
             .navigationTitle("🧾 거래 기록")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                // 가족 거래 기록을 CSV 로 내보낸다. 기본 내보내기라 어떤 칸에서도 잠그지 않는다.
+                if fixedMember == nil && !filtered.isEmpty {
+                    ToolbarItem(placement: .topBarLeading) {
+                        ShareLink(item: TransactionCSV(transactions: filtered),
+                                  preview: SharePreview(String(localized: "거래 기록 CSV"))) {
+                            Label("CSV로 내보내기", systemImage: "square.and.arrow.up")
+                        }
+                    }
+                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Menu {
                         // 구성원 필터 (자녀 폰 모드에서는 숨김)
@@ -114,6 +124,46 @@ struct HistoryView: View {
                     }
                 }
             }
+        }
+    }
+}
+
+// MARK: - CSV 내보내기
+
+/// 거래 기록 한 장. 엑셀 · 넘버스 · 구글 시트에서 바로 열린다(UTF-8 BOM).
+struct TransactionCSV: Transferable {
+    let text: String
+
+    init(transactions: [MoneyTransaction]) {
+        let formatter = DateFormatter()
+        formatter.locale = Locale(identifier: "en_US_POSIX")
+        formatter.dateFormat = "yyyy-MM-dd HH:mm"
+        let header = [String(localized: "날짜"), String(localized: "구성원"), String(localized: "종류"),
+                      String(localized: "금액"), String(localized: "메모")]
+        let lines = transactions.map { tx in
+            [formatter.string(from: tx.date),
+             tx.member?.name ?? "",
+             String(localized: String.LocalizationValue(tx.kind.rawValue)),
+             "\(tx.kind.isIncome ? tx.amount : -tx.amount)",
+             tx.displayMemo]
+        }
+        text = ([header] + lines)
+            .map { $0.map(Self.escape).joined(separator: ",") }
+            .joined(separator: "\r\n")
+    }
+
+    /// 쉼표 · 따옴표 · 줄바꿈이 든 칸은 따옴표로 감싼다.
+    private static func escape(_ field: String) -> String {
+        guard field.contains(where: { $0 == "," || $0 == "\"" || $0.isNewline }) else { return field }
+        return "\"" + field.replacingOccurrences(of: "\"", with: "\"\"") + "\""
+    }
+
+    static var transferRepresentation: some TransferRepresentation {
+        FileRepresentation(exportedContentType: .commaSeparatedText) { csv in
+            let day = Date().formatted(.iso8601.year().month().day())
+            let url = FileManager.default.temporaryDirectory.appendingPathComponent("FamilyBank-\(day).csv")
+            try Data(("\u{FEFF}" + csv.text).utf8).write(to: url, options: .atomic)
+            return SentTransferredFile(url)
         }
     }
 }

@@ -26,10 +26,13 @@ struct FamilyBankApp: App {
             HouseholdItem.self,
             FamilySettings.self
         ])
+        // iCloud 로 기기 간 기록을 맞추는 것은 Pro 다(→ ProEntitlement.syncsWithICloud).
+        // 칸이 바뀌면 다음 실행부터 따른다. 끄더라도 기기 안 기록은 그대로 남는다.
+        let syncs = ProEntitlement.syncsWithICloud
         do {
-            // iCloud(CloudKit) 동기화 시도 — 가족 기기 간 데이터 공유
-            let cloudConfig = ModelConfiguration(schema: schema, cloudKitDatabase: .automatic)
-            container = try ModelContainer(for: schema, configurations: [cloudConfig])
+            let config = ModelConfiguration(schema: schema, cloudKitDatabase: syncs ? .automatic : .none)
+            container = try ModelContainer(for: schema, configurations: [config])
+            CloudSync.isOn = syncs
         } catch {
             // iCloud 설정이 안 되어 있으면 기기 로컬 저장으로 자동 전환
             do {
@@ -37,6 +40,14 @@ struct FamilyBankApp: App {
                 container = try ModelContainer(for: schema, configurations: [localConfig])
             } catch {
                 container = StoreFallback.memoryContainer(schema: schema, after: error)
+            }
+        }
+        // 페이월이 생긴 버전을 처음 켤 때 이미 가족 장부가 있었으면, 페이월 전부터 쓰던 가족이다(Pro 평생).
+        // 임시 저장소로 열린 날은 장부가 안 보일 뿐이라 세지 않는다.
+        if !StoreFallback.isActive {
+            let context = container.mainContext
+            ProEntitlement.noteFamilyBeforePaywall {
+                ((try? context.fetchCount(FetchDescriptor<FamilySettings>())) ?? 0) > 0
             }
         }
         // Siri 인텐트가 같은 장부를 쓴다 (→ AllowanceIntents.swift)
@@ -51,18 +62,26 @@ struct FamilyBankApp: App {
             RootView()
                 .leeoSatisfactionCheck(FamilyBankSpec.self)
                 .storeFallbackNotice()
-                // 팁 상품을 불러오고 끝나지 않은 팁을 마저 센다.
-                .task { await FamilyBankSpec.tipJar.startStandalone() }
+                // 영수증을 읽어 칸을 정한다. 팁 상품과 끝나지 않은 팁은 LeeoStore 가 함께 챙긴다.
+                .task { await PurchaseManager.shared.refresh() }
                 // 창 크기로 접힘을 재서 아래로 흘린다. 시트 · 알림창도 접힌 선을 비킨다 (LeeoKit Fold).
                 .foldAware()
                 // Spotlight 에 싣는 아이 목록을 지금 것에 맞춘다. 열 때 한 번, 뒤로 보낼 때마다.
                 .task { await FamilyBankLibrary.reindex(container) }
                 .onChange(of: scenePhase) { _, phase in
                     if phase == .background { Task { await FamilyBankLibrary.reindex(container) } }
+                    if phase == .active { Task { await PurchaseManager.shared.refresh() } }
                 }
         }
         .modelContainer(container)
     }
+}
+
+// MARK: - iCloud 동기화
+
+enum CloudSync {
+    /// 이번 실행의 저장소가 iCloud 로 맞추는가. 칸이 바뀌어도 다음 실행까지는 그대로다.
+    static var isOn = false
 }
 
 // MARK: - 저장소를 못 연 날

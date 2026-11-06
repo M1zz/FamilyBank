@@ -214,6 +214,12 @@ struct OnboardingView: View {
             errorMessage = String(localized: "자녀를 한 명 이상 등록해 주세요.")
             return
         }
+        // 무료로는 자녀 2명까지. 처음 설정은 부모 모드 밖이라 페이월을 띄우지 않고 알리기만 한다.
+        let childCount = draftMembers.filter { $0.role == .child }.count
+        guard PurchaseManager.shared.allows(.moreChildren) || childCount <= ProEntitlement.freeChildLimit else {
+            errorMessage = String(localized: "무료로는 자녀 \(ProEntitlement.freeChildLimit)명까지 시작해요. 다른 자녀는 시작한 뒤 부모 모드에서 Plus로 더할 수 있어요.")
+            return
+        }
 
         let settings = FamilySettings()
         settings.currencyName = currencyName.trimmingCharacters(in: .whitespaces)

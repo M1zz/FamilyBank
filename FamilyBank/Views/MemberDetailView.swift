@@ -45,8 +45,9 @@ struct MemberDetailView: View {
                 }
                 .card()
 
-                // 찍어서 결제 (자녀용)
-                if member.isChild {
+                // 찍어서 결제 (자녀용). 바코드 결제는 Pro — 아니면 단추를 두지 않는다.
+                // ⚠️ 이 화면은 자녀 폰 모드에서도 서므로 여기서는 페이월을 띄우지 않는다(부모 모드 ▸ 액션에서만).
+                if member.isChild && PurchaseManager.shared.allows(.barcodePay) {
                     Button {
                         showScanPay = true
                     } label: {

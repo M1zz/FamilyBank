@@ -38,8 +38,8 @@ struct MarketView: View {
                                       : String(localized: "시작 100 기준"),
                                       .orange)
                         indicatorCard("🎈", String(localized: "물가 상승률"),
-                                      String(localized: "주 \(settings.weeklyInflationRate.cleanPercent)%"),
-                                      settings.weeklyInflationRate > 0 ? String(localized: "매주 물가가 올라요") : String(localized: "인플레이션 없음"),
+                                      String(localized: "주 \(settings.activeInflationRate.cleanPercent)%"),
+                                      settings.activeInflationRate > 0 ? String(localized: "매주 물가가 올라요") : String(localized: "인플레이션 없음"),
                                       .red)
                         indicatorCard("💱", String(localized: "환율"),
                                       String(localized: "1 = \(Int(settings.wonPerCoin).comma)원"),
@@ -81,7 +81,7 @@ struct MarketView: View {
                     }
 
                     // 인플레이션 안내
-                    if settings.weeklyInflationRate > 0 {
+                    if settings.activeInflationRate > 0 {
                         InflationCard(settings: settings)
                     }
 
