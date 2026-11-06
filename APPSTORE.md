@@ -62,6 +62,11 @@ https://m1zz.github.io/FamilyBank/
 iCloud 동기화
 같은 iCloud 계정으로 로그인한 기기끼리 가족의 장부가 맞춰집니다.
 
+구독 안내
+쑥쑥용돈 Plus와 Pro 구독은 자동 갱신 구독입니다. 갱신일 24시간 전까지 해지하지 않으면 Apple 계정으로 자동 결제되며, 설정의 구독 관리에서 언제든 해지할 수 있습니다.
+이용약관(EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+개인정보처리방침: https://m1zz.github.io/FamilyBank/privacy.html
+
 ## en
 
 ### 지원 URL
@@ -123,6 +128,11 @@ Turn your child's phone into a screen made just for them. They only see their ow
 
 iCloud sync
 Devices signed in to the same iCloud account keep the family ledger in sync.
+
+Subscriptions
+SukSuk Allowance Plus and Pro are auto-renewing subscriptions. Payment is charged to your Apple Account, and the subscription renews unless canceled at least 24 hours before the period ends. Manage or cancel anytime in Settings.
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://m1zz.github.io/FamilyBank/en/privacy.html
 
 ## en-GB
 
@@ -186,6 +196,11 @@ Turn your child's phone into a screen made just for them. They only see their ow
 iCloud sync
 Devices signed in to the same iCloud account keep the family ledger in sync.
 
+Subscriptions
+SukSuk Pocket Money Plus and Pro are auto-renewing subscriptions. Payment is charged to your Apple Account, and the subscription renews unless cancelled at least 24 hours before the period ends. Manage or cancel anytime in Settings.
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://m1zz.github.io/FamilyBank/en/privacy.html
+
 ## ja
 
 ### 지원 URL
@@ -247,6 +262,11 @@ https://m1zz.github.io/FamilyBank/ja/
 
 iCloud同期
 同じiCloudアカウントでログインした端末どうしで、家族の帳簿がそろいます。
+
+サブスクリプションについて
+スクスクお小遣いのPlusとProは自動更新のサブスクリプションです。期間終了の24時間前までに解約しない限り、Apple Accountに自動で請求されます。設定のサブスクリプション管理からいつでも解約できます。
+利用規約（EULA）: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+プライバシーポリシー: https://m1zz.github.io/FamilyBank/ja/privacy.html
 
 ## zh-Hans
 
@@ -310,6 +330,11 @@ https://m1zz.github.io/FamilyBank/zh-Hans/
 iCloud同步
 用同一个iCloud账户登录的设备之间，家庭账本会保持一致。
 
+订阅说明
+茁壮零花钱 Plus 和 Pro 均为自动续期订阅。费用从你的 Apple 账户扣除，除非在当期结束前至少 24 小时取消，否则将自动续期。可随时在“设置”中管理或取消。
+使用条款（EULA）: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+隐私政策: https://m1zz.github.io/FamilyBank/zh-Hans/privacy.html
+
 ## zh-Hant
 
 ### 지원 URL
@@ -371,6 +396,11 @@ https://m1zz.github.io/FamilyBank/zh-Hant/
 
 iCloud同步
 用同一個iCloud帳戶登入的裝置之間，家庭帳本會保持一致。
+
+訂閱說明
+茁壯零用錢 Plus 與 Pro 皆為自動續訂訂閱。費用會從你的 Apple 帳號扣款，除非在當期結束前至少 24 小時取消，否則將自動續訂。可隨時在「設定」中管理或取消。
+使用條款（EULA）: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+隱私權政策: https://m1zz.github.io/FamilyBank/zh-Hant/privacy.html
 
 ## es
 
@@ -434,6 +464,11 @@ Convierte el teléfono de tu hijo en una pantalla solo para él. Solo ve su mone
 Sincronización con iCloud
 Los dispositivos con la misma cuenta de iCloud mantienen sincronizado el libro de cuentas de la familia.
 
+Suscripciones
+SukSuk Paga Plus y Pro son suscripciones de renovación automática. El cargo se realiza en tu cuenta de Apple y la suscripción se renueva salvo que la canceles al menos 24 horas antes de que termine el periodo. Puedes gestionarla o cancelarla cuando quieras en Ajustes.
+Términos de uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Política de privacidad: https://m1zz.github.io/FamilyBank/es/privacy.html
+
 ## de
 
 ### 지원 URL
@@ -495,6 +530,11 @@ Verwandle das Handy deines Kindes in eine Ansicht nur für dieses Kind. Es sieht
 
 iCloud-Synchronisierung
 Geräte mit derselben iCloud-Anmeldung halten das Familien-Kassenbuch auf dem gleichen Stand.
+
+Abonnements
+SukSuk Taschengeld Plus und Pro sind Abos mit automatischer Verlängerung. Die Zahlung erfolgt über deinen Apple Account. Das Abo verlängert sich, sofern du nicht mindestens 24 Stunden vor Ablauf des Zeitraums kündigst. Verwalten oder kündigen kannst du es jederzeit in den Einstellungen.
+Nutzungsbedingungen (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Datenschutzerklärung: https://m1zz.github.io/FamilyBank/de/privacy.html
 
 ## fr
 
@@ -558,6 +598,11 @@ Transformez le téléphone de votre enfant en écran rien que pour lui. Il ne vo
 Synchronisation iCloud
 Les appareils connectés au même compte iCloud gardent le registre de la famille à jour.
 
+Abonnements
+SukSuk Argent de poche Plus et Pro sont des abonnements à renouvellement automatique. Le paiement est débité sur votre compte Apple, et l’abonnement se renouvelle sauf résiliation au moins 24 heures avant la fin de la période. Gérez-le ou résiliez-le à tout moment dans Réglages.
+Conditions d'utilisation (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Politique de confidentialité: https://m1zz.github.io/FamilyBank/fr/privacy.html
+
 ## it
 
 ### 지원 URL
@@ -619,6 +664,11 @@ Trasforma il telefono di tuo figlio in una schermata solo sua. Vede soltanto il 
 
 Sincronizzazione iCloud
 I dispositivi con lo stesso account iCloud tengono allineato il registro della famiglia.
+
+Abbonamenti
+SukSuk Paghetta Plus e Pro sono abbonamenti a rinnovo automatico. Il pagamento viene addebitato sul tuo Apple Account e l’abbonamento si rinnova se non lo disdici almeno 24 ore prima della scadenza. Puoi gestirlo o disdirlo in qualsiasi momento in Impostazioni.
+Condizioni d'uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Informativa sulla privacy: https://m1zz.github.io/FamilyBank/it/privacy.html
 
 ## pt-BR
 
@@ -682,6 +732,11 @@ Transforme o celular do seu filho numa tela só dele. Ele vê apenas a própria 
 Sincronização com o iCloud
 Aparelhos com a mesma conta do iCloud mantêm o registro da família sempre igual.
 
+Assinaturas
+SukSuk Mesada Plus e Pro são assinaturas com renovação automática. A cobrança é feita na sua Conta Apple e a assinatura é renovada, a menos que você cancele pelo menos 24 horas antes do fim do período. Gerencie ou cancele quando quiser em Ajustes.
+Termos de Uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Política de Privacidade: https://m1zz.github.io/FamilyBank/pt-BR/privacy.html
+
 ## ru
 
 ### 지원 URL
@@ -743,6 +798,11 @@ https://m1zz.github.io/FamilyBank/ru/
 
 Синхронизация iCloud
 Устройства с одной и той же учётной записью iCloud хранят семейный журнал в одном и том же виде.
+
+Подписки
+СукСук Карманные Plus и Pro — подписки с автопродлением. Оплата списывается с вашего Apple Account, а подписка продлевается, если не отменить её минимум за 24 часа до конца периода. Управлять подпиской и отменить её можно в Настройках.
+Условия использования (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Политика конфиденциальности: https://m1zz.github.io/FamilyBank/ru/privacy.html
 
 ## th
 
@@ -806,6 +866,11 @@ https://m1zz.github.io/FamilyBank/th/
 ซิงก์ iCloud
 เครื่องที่ล็อกอิน iCloud บัญชีเดียวกันจะมีสมุดบัญชีครอบครัวตรงกัน
 
+การสมัครสมาชิก
+ซุกซุก ค่าขนม Plus และ Pro เป็นการสมัครสมาชิกที่ต่ออายุอัตโนมัติ ระบบจะเรียกเก็บเงินจากบัญชี Apple ของคุณและต่ออายุเว้นแต่จะยกเลิกอย่างน้อย 24 ชั่วโมงก่อนสิ้นสุดรอบ จัดการหรือยกเลิกได้ทุกเมื่อในการตั้งค่า
+ข้อกำหนดการใช้งาน (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+นโยบายความเป็นส่วนตัว: https://m1zz.github.io/FamilyBank/th/privacy.html
+
 ## vi
 
 ### 지원 URL
@@ -867,6 +932,11 @@ Biến điện thoại của con thành màn hình riêng của con. Con chỉ t
 
 Đồng bộ iCloud
 Các thiết bị đăng nhập cùng tài khoản iCloud sẽ giữ sổ cái gia đình luôn khớp nhau.
+
+Gói đăng ký
+SukSuk Tiền Tiêu Vặt Plus và Pro là các gói đăng ký tự động gia hạn. Phí được tính vào Tài khoản Apple của bạn và tự gia hạn trừ khi bạn hủy ít nhất 24 giờ trước khi kỳ hạn kết thúc. Bạn có thể quản lý hoặc hủy bất cứ lúc nào trong Cài đặt.
+Điều khoản sử dụng (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Chính sách quyền riêng tư: https://m1zz.github.io/FamilyBank/vi/privacy.html
 
 ## cs
 
@@ -930,6 +1000,11 @@ Proměňte telefon dítěte v obrazovku jen pro něj. Vidí jen svou peněženku
 Synchronizace iCloud
 Zařízení přihlášená ke stejnému účtu iCloud mají rodinnou knihu stále shodnou.
 
+Předplatné
+SukSuk Kapesné Plus a Pro jsou automaticky obnovovaná předplatná. Platba se strhává z vašeho účtu Apple a předplatné se obnoví, pokud ho nezrušíte alespoň 24 hodin před koncem období. Spravovat nebo zrušit ho můžete kdykoli v Nastavení.
+Podmínky použití (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Zásady ochrany osobních údajů: https://m1zz.github.io/FamilyBank/cs/privacy.html
+
 ## da
 
 ### 지원 URL
@@ -991,6 +1066,11 @@ Gør dit barns telefon til en skærm kun til barnet. Barnet ser kun sin egen pun
 
 iCloud-synkronisering
 Enheder, der er logget ind med den samme iCloud-konto, holder familiens bog ens.
+
+Abonnementer
+SukSuk Lommepenge Plus og Pro er abonnementer, der fornyes automatisk. Betalingen trækkes på din Apple-konto, og abonnementet fornyes, medmindre du opsiger det mindst 24 timer før perioden slutter. Administrer eller opsig når som helst i Indstillinger.
+Brugsvilkår (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privatlivspolitik: https://m1zz.github.io/FamilyBank/da/privacy.html
 
 ## el
 
@@ -1054,6 +1134,11 @@ SukSuk Χαρτζιλίκι: Παιδιά
 Συγχρονισμός iCloud
 Οι συσκευές με τον ίδιο λογαριασμό iCloud κρατούν το οικογενειακό καθολικό ίδιο.
 
+Συνδρομές
+Οι συνδρομές SukSuk Χαρτζιλίκι Plus και Pro ανανεώνονται αυτόματα. Η χρέωση γίνεται στον λογαριασμό Apple σου και η συνδρομή ανανεώνεται, εκτός αν την ακυρώσεις τουλάχιστον 24 ώρες πριν λήξει η περίοδος. Μπορείς να τη διαχειριστείς ή να την ακυρώσεις οποτεδήποτε από τις Ρυθμίσεις.
+Όροι χρήσης (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Πολιτική απορρήτου: https://m1zz.github.io/FamilyBank/el/privacy.html
+
 ## fi
 
 ### 지원 URL
@@ -1115,6 +1200,11 @@ Muuta lapsen puhelin vain hänelle tarkoitetuksi näkymäksi. Hän näkee vain o
 
 iCloud-synkronointi
 Laitteet, joilla on sama iCloud-tili, pitävät perheen kirjanpidon samana.
+
+Tilaukset
+SukSuk Viikkoraha Plus ja Pro ovat automaattisesti uusiutuvia tilauksia. Maksu veloitetaan Apple-tililtäsi, ja tilaus uusiutuu, ellei sitä peruta vähintään 24 tuntia ennen jakson päättymistä. Hallitse tai peru tilaus milloin tahansa Asetuksissa.
+Käyttöehdot (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Tietosuojakäytäntö: https://m1zz.github.io/FamilyBank/fi/privacy.html
 
 ## id
 
@@ -1178,6 +1268,11 @@ Ubah ponsel anak menjadi layar khusus untuknya. Ia hanya melihat dompet, investa
 Sinkronisasi iCloud
 Perangkat dengan akun iCloud yang sama menjaga buku kas keluarga tetap sama.
 
+Langganan
+SukSuk Uang Saku Plus dan Pro adalah langganan yang diperpanjang otomatis. Pembayaran ditagihkan ke Akun Apple Anda dan langganan diperpanjang kecuali dibatalkan paling lambat 24 jam sebelum periode berakhir. Kelola atau batalkan kapan saja di Pengaturan.
+Ketentuan Penggunaan (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Kebijakan Privasi: https://m1zz.github.io/FamilyBank/id/privacy.html
+
 ## nb
 
 ### 지원 URL
@@ -1239,6 +1334,11 @@ Gjør barnets telefon til en skjerm bare for barnet. Barnet ser bare sin egen lo
 
 iCloud-synkronisering
 Enheter som er logget på med samme iCloud-konto, holder familiens bok lik.
+
+Abonnementer
+SukSuk Lommepenger Plus og Pro er abonnementer som fornyes automatisk. Betalingen belastes Apple-kontoen din, og abonnementet fornyes med mindre du sier det opp minst 24 timer før perioden er over. Administrer eller si opp når som helst i Innstillinger.
+Bruksvilkår (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Personvernerklæring: https://m1zz.github.io/FamilyBank/nb/privacy.html
 
 ## nl
 
@@ -1302,6 +1402,11 @@ Maak van de telefoon van je kind een scherm alleen voor hem of haar. Het kind zi
 iCloud-synchronisatie
 Toestellen die met hetzelfde iCloud-account zijn ingelogd, houden het gezinsgrootboek gelijk.
 
+Abonnementen
+SukSuk Zakgeld Plus en Pro zijn automatisch verlengende abonnementen. De betaling loopt via je Apple Account en het abonnement wordt verlengd tenzij je minstens 24 uur voor het einde van de periode opzegt. Beheer of zeg op wanneer je wilt in Instellingen.
+Gebruiksvoorwaarden (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacybeleid: https://m1zz.github.io/FamilyBank/nl/privacy.html
+
 ## pl
 
 ### 지원 URL
@@ -1363,6 +1468,11 @@ Zamień telefon dziecka w ekran tylko dla niego. Widzi ono tylko swój portfel, 
 
 Synchronizacja iCloud
 Urządzenia zalogowane na to samo konto iCloud mają taką samą rodzinną księgę.
+
+Subskrypcje
+SukSuk Kieszonkowe Plus i Pro to subskrypcje odnawiane automatycznie. Opłata jest pobierana z Twojego konta Apple, a subskrypcja odnawia się, jeśli nie anulujesz jej co najmniej 24 godziny przed końcem okresu. Zarządzaj nią lub anuluj ją w dowolnej chwili w Ustawieniach.
+Warunki korzystania (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Polityka prywatności: https://m1zz.github.io/FamilyBank/pl/privacy.html
 
 ## sv
 
@@ -1426,6 +1536,11 @@ Gör barnets telefon till en skärm bara för barnet. Barnet ser bara sin egen p
 iCloud-synkronisering
 Enheter som är inloggade med samma iCloud-konto håller familjens bok likadan.
 
+Prenumerationer
+SukSuk Fickpengar Plus och Pro är prenumerationer som förnyas automatiskt. Betalningen dras från ditt Apple-konto och prenumerationen förnyas om du inte avslutar den minst 24 timmar innan perioden slutar. Hantera eller avsluta när som helst i Inställningar.
+Användarvillkor (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Integritetspolicy: https://m1zz.github.io/FamilyBank/sv/privacy.html
+
 ## tr
 
 ### 지원 URL
@@ -1487,6 +1602,11 @@ Bileşik faiz hesaplayıcısı ve enflasyon deneyinde sayıları kendiniz deği�
 
 iCloud senkronizasyonu
 Aynı iCloud hesabıyla oturum açılmış cihazlar aile defterini aynı tutar.
+
+Abonelikler
+SukSuk Harçlık Plus ve Pro otomatik yenilenen aboneliklerdir. Ödeme Apple Hesabınızdan alınır ve dönem bitmeden en az 24 saat önce iptal edilmezse abonelik yenilenir. Ayarlar'dan istediğiniz zaman yönetebilir veya iptal edebilirsiniz.
+Kullanım Koşulları (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Gizlilik Politikası: https://m1zz.github.io/FamilyBank/tr/privacy.html
 
 ## 손쉬운 사용
 
