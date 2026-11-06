@@ -3,6 +3,200 @@
 App Store 의 "이 버전의 새로운 기능" 에 그대로 올라가는 글이다.
 평문만 쓴다. 한 줄에 한 문장, 3~5줄, 한 줄 40자 이내.
 
+## 1.0.3
+
+### 앱스토어 (한국어)
+
+Siri에게 말하면 아이에게 용돈을 줄 수 있어요.
+Siri에게 아이 잔액을 물어볼 수 있어요.
+iPhone 검색에서 아이 이름으로 바로 찾아요.
+매일 자동으로 백업하고 iCloud나 파일로 되살려요.
+기록을 열지 못할 때 앱이 꺼지던 문제를 고쳤어요.
+
+### 앱스토어 (English)
+
+Ask Siri to give your child allowance.
+Ask Siri for your child's balance.
+Find each child by name in Search.
+Daily backups, restore from iCloud.
+Fixed a crash when data failed to load.
+
+### App Store (en-GB)
+
+Ask Siri to give pocket money.
+Ask Siri for your child's balance.
+Find each child by name in Search.
+Daily backups, restore from iCloud.
+Fixed a crash when data failed to load.
+
+### 앱스토어 (日本語)
+
+Siriに頼んでお小遣いを渡せます。
+Siriに子どもの残高を聞けます。
+iPhoneの検索で子どもの名前から開けます。
+毎日自動でバックアップし復元もできます。
+データを開けないとき終了する問題を直しました。
+
+### 앱스토어 (简体中文)
+
+可以让 Siri 给孩子发零花钱。
+可以问 Siri 孩子还剩多少钱。
+在 iPhone 搜索中输入孩子名字即可打开。
+每天自动备份，可从 iCloud 或文件恢复。
+修复了无法读取数据时闪退的问题。
+
+### 앱스토어 (繁體中文)
+
+可以請 Siri 給孩子零用錢。
+可以問 Siri 孩子還剩多少錢。
+在 iPhone 搜尋中輸入孩子名字即可打開。
+每天自動備份，可從 iCloud 或檔案回復。
+修正了無法讀取資料時閃退的問題。
+
+### 앱스토어 (español)
+
+Pídele a Siri que dé la paga a tu hijo.
+Pregúntale a Siri el saldo de tu hijo.
+Busca a cada hijo por nombre.
+Copia diaria, restaurable desde iCloud.
+Corregido un cierre al cargar los datos.
+
+### 앱스토어 (Deutsch)
+
+Gib Taschengeld ganz einfach per Siri.
+Frag Siri nach dem Kontostand.
+Finde jedes Kind per Name in der Suche.
+Tägliches Backup, wiederherstellbar.
+Absturz beim Laden der Daten behoben.
+
+### 앱스토어 (français)
+
+Donnez l’argent de poche via Siri.
+Demandez le solde à Siri.
+Trouvez chaque enfant dans la recherche.
+Sauvegarde quotidienne et restauration.
+Plantage au chargement corrigé.
+
+### 앱스토어 (italiano)
+
+Dai la paghetta chiedendolo a Siri.
+Chiedi a Siri il saldo di tuo figlio.
+Trova ogni figlio per nome.
+Backup giornaliero, da iCloud o da file.
+Risolto un arresto nel caricare i dati.
+
+### 앱스토어 (português (Brasil))
+
+Peça à Siri para dar a mesada.
+Pergunte à Siri o saldo do seu filho.
+Ache cada filho pelo nome na Busca.
+Backup diário, restaure pelo iCloud.
+Corrigimos um travamento ao carregar.
+
+### 앱스토어 (русский)
+
+Попросите Siri выдать карманные деньги.
+Спросите у Siri баланс ребёнка.
+Ищите ребёнка по имени в Поиске iPhone.
+Ежедневная копия с восстановлением.
+Исправлен вылет при загрузке данных.
+
+### 앱스토어 (ไทย)
+
+สั่ง Siri ให้ค่าขนมลูกได้
+ถาม Siri ว่าลูกมีเงินเหลือเท่าไร
+ค้นหาลูกด้วยชื่อในการค้นหาของ iPhone
+สำรองทุกวัน กู้คืนจาก iCloud หรือไฟล์ได้
+แก้ปัญหาแอปปิดเองเมื่อโหลดข้อมูลไม่ได้
+
+### 앱스토어 (Tiếng Việt)
+
+Nhờ Siri cho con tiền tiêu vặt.
+Hỏi Siri số dư của con.
+Tìm từng bé theo tên trong Tìm kiếm.
+Sao lưu mỗi ngày, khôi phục từ iCloud.
+Sửa lỗi thoát ứng dụng khi tải dữ liệu.
+
+### 앱스토어 (čeština)
+
+Dejte kapesné přes Siri.
+Zeptejte se Siri na zůstatek dítěte.
+Najděte dítě podle jména ve Vyhledávání.
+Denní záloha s obnovou z iCloudu.
+Opraven pád při načítání dat.
+
+### 앱스토어 (dansk)
+
+Giv lommepenge med Siri.
+Spørg Siri om dit barns saldo.
+Find hvert barn efter navn i Søgning.
+Daglig backup, gendan fra iCloud.
+Rettet nedbrud ved indlæsning af data.
+
+### 앱스토어 (ελληνικά)
+
+Δώστε χαρτζιλίκι μέσω Siri.
+Ρωτήστε τη Siri το υπόλοιπο του παιδιού.
+Βρείτε κάθε παιδί με το όνομα.
+Καθημερινό αντίγραφο με επαναφορά.
+Διορθώθηκε κλείσιμο κατά τη φόρτωση.
+
+### 앱스토어 (suomi)
+
+Anna viikkorahat Sirin avulla.
+Kysy Siriltä lapsen saldoa.
+Löydä lapsi nimellä iPhonen haulla.
+Päivittäinen varmuuskopio ja palautus.
+Korjattu kaatuminen tietoja ladattaessa.
+
+### 앱스토어 (Bahasa Indonesia)
+
+Beri uang saku lewat Siri.
+Tanyakan saldo anak ke Siri.
+Cari anak lewat nama di Pencarian.
+Cadangan harian, pulihkan dari iCloud.
+Perbaikan app tertutup saat memuat data.
+
+### 앱스토어 (norsk bokmål)
+
+Gi lommepenger med Siri.
+Spør Siri om barnets saldo.
+Finn hvert barn etter navn i Søk.
+Daglig kopi som kan gjenopprettes.
+Rettet krasj ved lasting av data.
+
+### 앱스토어 (Nederlands)
+
+Geef zakgeld via Siri.
+Vraag Siri naar het saldo van je kind.
+Vind elk kind op naam via Zoeken.
+Dagelijkse back-up, herstel via iCloud.
+Crash bij laden van gegevens opgelost.
+
+### 앱스토어 (polski)
+
+Daj kieszonkowe przez Siri.
+Zapytaj Siri o saldo dziecka.
+Znajdź dziecko po imieniu.
+Codzienna kopia z przywracaniem.
+Naprawiono awarię przy wczytywaniu.
+
+### 앱스토어 (svenska)
+
+Ge veckopeng med Siri.
+Fråga Siri om barnets saldo.
+Hitta varje barn med namn i Sök.
+Daglig säkerhetskopia med återställning.
+Fixat krasch när data inte laddas.
+
+### 앱스토어 (Türkçe)
+
+Siri ile harçlık verin.
+Çocuğunuzun bakiyesini Siri'ye sorun.
+Her çocuğu adıyla aramada bulun.
+Günlük yedek, iCloud'dan geri yükleme.
+Veri yüklenirken çökme giderildi.
+
 ## 1.0.2
 
 ### 앱스토어 (한국어)
