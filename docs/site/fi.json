@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Viikkoraha: vanhemmat pankkina, lapset säästävät ja sijoittavat",
-  "description": "Anna viikkoraha perheen omana valuuttana. Lapset maksavat itse, saavat korkoa viikoittain ja kokeilevat harjoitusrahastoja. Kaikki ilmaista.",
+  "description": "Anna viikkoraha perheen omana valuuttana. Lapset maksavat itse, saavat korkoa viikoittain ja kokeilevat harjoitusrahastoja. Perusominaisuudet ovat ilmaisia.",
   "hero": {
     "headline": "Viikkorahapäivästä\ntulee rahatunti",
     "lead": "Sinä olet perheen keskuspankki ja lapset ovat asiakkaita. He saavat viikkorahansa teidän omana valuuttananne, ostavat herkkuja, näkevät koron kertyvän säästöihin ja elävät mukana harjoitusrahaston nousuissa ja laskuissa.",
     "cta": "Lataa ilmaiseksi App Storesta",
-    "note": "Kaikki ominaisuudet ovat ilmaisia. Oikeaa rahaa ei liiku koskaan."
+    "note": "Perusominaisuudet ovat ilmaisia. Oikeaa rahaa ei liiku koskaan."
   },
   "demo": {
     "title": "Mihin laittaisit 1 000 kolikkoa?",
@@ -74,27 +74,29 @@
     "note": "Alussa säästökorko on 5 % ja inflaatio 2 % viikossa. Molempia voi muuttaa Vanhempaintilassa kohdassa Pankin asetukset. Kun inflaatio on 0 %, hinnat pysyvät ennallaan."
   },
   "pricing": {
-    "title": "Kaikki ominaisuudet ilmaisia",
+    "title": "Perusominaisuudet ilmaisia",
     "free": {
       "name": "Ilmainen",
       "items": [
         "Perheen oma valuutta ja PIN-koodilla lukittu Vanhempaintila",
-        "Viikkorahan antaminen ja vähentäminen, Kotikauppa ja viivakoodimaksut",
+        "Enintään 2 lasta ja 10 tuotetta Kotikaupassa",
+        "Viikkorahan antaminen ja vähentäminen sekä maksaminen Kotikaupassa",
         "Säästötili, jolle kertyy viikoittain korkoa korolle",
         "Kolme harjoitusrahastoa tuottokaavioineen",
         "Markkina-välilehti ja päivätty tapahtumahistoria",
         "Kymmenvaiheinen opas vanhemmille ja kaksi laskuria",
-        "Lapsen puhelimen tila ja iCloud-synkronointi"
+        "Lapsen puhelimen tila"
       ]
     },
     "pro": {
-      "name": "Tue kehittäjää",
+      "name": "Plus · Pro",
       "items": [
-        "Lähetä haluamasi kokoinen tippi Vanhempaintilan kohdasta Pankin asetukset",
-        "Tippi ei avaa mitään. Sovellus toimii täsmälleen samoin"
-      ]
+        "Plus: rajaton määrä lapsia ja tuotteita sekä omat sijoitustuotteet",
+        "Pro: kaikki Plusin ominaisuudet sekä viivakoodimaksut, hintojen nousu ja iCloud-synkronointi laitteiden välillä"
+      ],
+      "note": "Kumpikin viikko-, kuukausi- tai vuositilauksena tai kertaostona pysyvästi. Tipit ovat erikseen eivätkä avaa mitään."
     },
-    "note": "Ei mainoksia, ei tilausta. Tippipainike on vain Vanhempaintilassa, joten lapset eivät koskaan näe ostopainiketta."
+    "note": "Ei mainoksia. Ostot ovat vain Vanhempaintilassa, joten lapset eivät koskaan näe ostopainiketta."
   },
   "faq": {
     "title": "Kysymyksiä",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Miten näemme samat tilit lapsen puhelimessa?",
-        "a": "Samalla iCloud-tilillä kirjautuneet laitteet synkronoivat perheen tilit automaattisesti. Tarkista, että iCloud on päällä kohdassa Asetukset > Apple-tili > iCloud. Toiminnot-välilehden kohdassa Kutsu lapsi voit luoda QR-kutsun, jonka lapsi skannaa kameralla. Ilman iCloudia tiedot pysyvät vain siinä yhdessä laitteessa."
+        "a": "iCloud-synkronointi kuuluu Pro-versioon. Samalla iCloud-tilillä kirjautuneet laitteet synkronoivat perheen tilit automaattisesti. Tarkista, että iCloud on päällä kohdassa Asetukset > Apple-tili > iCloud. Toiminnot-välilehden kohdassa Kutsu lapsi voit luoda QR-kutsun, jonka lapsi skannaa kameralla. Ilman iCloudia tiedot pysyvät vain siinä yhdessä laitteessa."
       },
       {
         "q": "Mikä on Lapsen puhelimen tila?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Miksi hinnat nousevat?",
-        "a": "Jotta lapset tuntisivat inflaation, perheen hintaindeksi nousee hieman joka viikko. Tahtia voi muuttaa, tai sen voi asettaa 0 %:iin, Vanhempaintilan kohdassa Pankin asetukset. Kun nostat samalla vähän Kotikaupan herkkujen ja lelujen hintoja, oppi jää paremmin mieleen."
+        "a": "Jotta lapset tuntisivat inflaation, perheen hintaindeksi nousee hieman joka viikko. Tahtia voi muuttaa, tai sen voi asettaa 0 %:iin, Vanhempaintilan kohdassa Pankin asetukset. Kun nostat samalla vähän Kotikaupan herkkujen ja lelujen hintoja, oppi jää paremmin mieleen. Hintojen nousu kuuluu Pro-versioon."
       },
       {
         "q": "Miten poistan kaiken?",

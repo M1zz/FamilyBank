@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Tiền Tiêu Vặt: bố mẹ làm ngân hàng, con tập tiết kiệm và đầu tư",
-  "description": "Cho con tiền tiêu vặt bằng đồng tiền riêng của nhà. Con tự trả tiền, nhận lãi mỗi tuần, thử quỹ đầu tư tập và hiểu tiền vận hành ra sao. Miễn phí.",
+  "description": "Cho con tiền tiêu vặt bằng đồng tiền riêng của nhà. Con tự trả tiền, nhận lãi mỗi tuần, thử quỹ đầu tư tập và hiểu tiền vận hành ra sao. Các tính năng cơ bản miễn phí.",
   "hero": {
     "headline": "Ngày phát tiền tiêu vặt\nthành buổi học về tiền",
     "lead": "Bố mẹ là ngân hàng trung ương của gia đình, các con là khách hàng. Con nhận tiền tiêu vặt bằng đồng tiền riêng của nhà, tự mua quà vặt, thấy tiền lãi rơi vào khoản tiết kiệm và hồi hộp theo từng lần lên xuống của quỹ đầu tư tập.",
     "cta": "Tải miễn phí trên App Store",
-    "note": "Mọi tính năng đều miễn phí. Không có tiền thật nào được trao tay."
+    "note": "Các tính năng cơ bản đều miễn phí. Không có tiền thật nào được trao tay."
   },
   "demo": {
     "title": "Có 1.000 xu, con sẽ để ở đâu?",
@@ -74,27 +74,29 @@
     "note": "Ban đầu là lãi tiết kiệm 5% và lạm phát 2% mỗi tuần. Đổi cả hai trong Chế độ bố mẹ, mục Cài đặt ngân hàng. Đặt lạm phát 0% thì giá cả đứng yên."
   },
   "pricing": {
-    "title": "Mọi tính năng đều miễn phí",
+    "title": "Tính năng cơ bản miễn phí",
     "free": {
       "name": "Miễn phí",
       "items": [
         "Đồng tiền riêng của gia đình và Chế độ bố mẹ khóa bằng mã PIN",
-        "Phát và trừ tiền tiêu vặt, Cửa hàng của nhà và trả tiền bằng mã vạch",
+        "Tối đa 2 con và 10 món trong Cửa hàng của nhà",
+        "Phát và trừ tiền tiêu vặt, trả tiền ở Cửa hàng của nhà",
         "Khoản tiết kiệm tính lãi kép mỗi tuần",
         "Ba quỹ đầu tư tập kèm biểu đồ lợi nhuận",
         "Thẻ Thị trường và lịch sử giao dịch theo ngày",
         "Hướng dẫn cho cha mẹ mười bước và hai máy tính",
-        "Chế độ điện thoại của con và đồng bộ iCloud"
+        "Chế độ điện thoại của con"
       ]
     },
     "pro": {
-      "name": "Ủng hộ nhà phát triển",
+      "name": "Plus · Pro",
       "items": [
-        "Gửi một khoản tiền tip nhỏ tùy ý từ Cài đặt ngân hàng trong Chế độ bố mẹ",
-        "Tiền tip không mở khóa gì thêm. Ứng dụng vẫn hoạt động y như cũ"
-      ]
+        "Plus: không giới hạn số con và số món, tự tạo sản phẩm đầu tư",
+        "Pro: mọi thứ của Plus, thêm thanh toán bằng mã vạch, trải nghiệm giá cả tăng và đồng bộ giữa các thiết bị qua iCloud"
+      ],
+      "note": "Mỗi gói có đăng ký theo tuần, tháng, năm hoặc mua một lần dùng trọn đời. Tiền tip là riêng và không mở khóa gì."
     },
-    "note": "Không quảng cáo, không gói đăng ký. Nút tip chỉ nằm trong Chế độ bố mẹ nên các con không bao giờ thấy nút mua."
+    "note": "Không quảng cáo. Phần mua chỉ nằm trong Chế độ bố mẹ nên các con không bao giờ thấy nút mua."
   },
   "faq": {
     "title": "Câu hỏi thường gặp",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Làm sao xem cùng một sổ sách trên điện thoại của con?",
-        "a": "Các thiết bị đăng nhập cùng một tài khoản iCloud sẽ tự đồng bộ sổ sách gia đình. Hãy kiểm tra iCloud đã bật trong Cài đặt > Tài khoản Apple > iCloud. Ở thẻ Thao tác, mục Mời con, bạn có thể tạo lời mời bằng mã QR để con quét bằng camera. Nếu không dùng iCloud, dữ liệu chỉ nằm trên thiết bị đó."
+        "a": "Đồng bộ iCloud thuộc gói Pro. Các thiết bị đăng nhập cùng một tài khoản iCloud sẽ tự đồng bộ sổ sách gia đình. Hãy kiểm tra iCloud đã bật trong Cài đặt > Tài khoản Apple > iCloud. Ở thẻ Thao tác, mục Mời con, bạn có thể tạo lời mời bằng mã QR để con quét bằng camera. Nếu không dùng iCloud, dữ liệu chỉ nằm trên thiết bị đó."
       },
       {
         "q": "Chế độ điện thoại của con là gì?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Vì sao giá cả lại tăng?",
-        "a": "Để con cảm nhận được lạm phát, chỉ số giá của nhà tăng nhẹ mỗi tuần. Bạn đổi mức tăng, hoặc đặt 0% để tắt, trong Chế độ bố mẹ, mục Cài đặt ngân hàng. Nếu nâng nhẹ giá bánh kẹo và đồ chơi ở Cửa hàng của nhà theo, bài học sẽ thấm hơn."
+        "a": "Để con cảm nhận được lạm phát, chỉ số giá của nhà tăng nhẹ mỗi tuần. Bạn đổi mức tăng, hoặc đặt 0% để tắt, trong Chế độ bố mẹ, mục Cài đặt ngân hàng. Nếu nâng nhẹ giá bánh kẹo và đồ chơi ở Cửa hàng của nhà theo, bài học sẽ thấm hơn. Trải nghiệm giá cả tăng thuộc gói Pro."
       },
       {
         "q": "Làm sao xóa toàn bộ dữ liệu?",

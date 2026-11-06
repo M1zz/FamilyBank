@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Argent de poche : vous êtes la banque, vos enfants épargnent",
-  "description": "Versez l’argent de poche dans votre monnaie familiale : vos enfants paient, touchent des intérêts et testent des fonds fictifs. Gratuit.",
+  "description": "Versez l’argent de poche dans votre monnaie familiale : vos enfants paient, touchent des intérêts et testent des fonds fictifs. L’essentiel est gratuit.",
   "hero": {
     "headline": "L’argent de poche\ndevient une leçon",
     "lead": "Vous êtes la banque centrale de la famille, vos enfants sont les clients. Ils reçoivent leur argent de poche dans votre propre monnaie, s’achètent des friandises, voient les intérêts arriver sur leur épargne et vivent les hauts et les bas d’un fonds d’entraînement.",
     "cta": "Télécharger gratuitement sur l’App Store",
-    "note": "Toutes les fonctionnalités sont gratuites. Aucun argent réel ne circule."
+    "note": "L’essentiel est gratuit. Aucun argent réel ne circule."
   },
   "demo": {
     "title": "Où mettriez-vous 1 000 pièces ?",
@@ -102,27 +102,29 @@
     "note": "Au départ : 5 % d’intérêts d’épargne et 2 % d’inflation par semaine. Modifiez-les dans le Mode parent, sous Réglages de la banque. Avec une inflation à 0 %, les prix ne bougent plus."
   },
   "pricing": {
-    "title": "Toutes les fonctionnalités sont gratuites",
+    "title": "L’essentiel est gratuit",
     "free": {
       "name": "Gratuit",
       "items": [
         "Votre propre monnaie familiale et un Mode parent verrouillé par code PIN",
-        "Verser et retirer de l’argent de poche, la Boutique de la maison et le paiement par code-barres",
+        "Jusqu’à 2 enfants et 10 articles dans la Boutique de la maison",
+        "Verser et retirer de l’argent de poche, payer à la Boutique de la maison",
         "Un compte épargne à intérêts composés chaque semaine",
         "Trois fonds d’entraînement avec graphiques de rendement",
         "L’onglet Marché et un historique des opérations par date",
         "Le guide pour les parents en dix étapes et deux calculateurs",
-        "Le Mode téléphone d’enfant et la synchronisation iCloud"
+        "Le Mode téléphone d’enfant"
       ]
     },
     "pro": {
-      "name": "Soutenir le développeur",
+      "name": "Plus · Pro",
       "items": [
-        "Laissez un pourboire du montant de votre choix depuis Réglages de la banque, dans le Mode parent",
-        "Le pourboire ne débloque rien. L’app fonctionne exactement pareil"
-      ]
+        "Plus : enfants et articles illimités, et vos propres produits de placement",
+        "Pro : tout ce qu’offre Plus, avec en plus le paiement par code-barres, la hausse des prix et la synchro iCloud entre appareils"
+      ],
+      "note": "Chacun en abonnement hebdomadaire, mensuel ou annuel, ou en achat unique à vie. Les pourboires sont à part et ne débloquent rien."
     },
-    "note": "Ni publicité ni abonnement. Le bouton de pourboire se trouve uniquement dans le Mode parent : vos enfants ne voient jamais de bouton d’achat."
+    "note": "Aucune publicité. Les achats se trouvent uniquement dans le Mode parent : vos enfants ne voient jamais de bouton d’achat."
   },
   "faq": {
     "title": "Questions fréquentes",
@@ -133,7 +135,7 @@
       },
       {
         "q": "Comment voir les mêmes comptes sur le téléphone de mon enfant ?",
-        "a": "Les appareils connectés au même compte iCloud synchronisent automatiquement les comptes de la famille. Vérifiez qu’iCloud est activé dans Réglages > Compte Apple > iCloud. Dans l’onglet Actions, sous Inviter un enfant, vous pouvez créer une invitation par code QR à scanner avec l’appareil photo de votre enfant. Sans iCloud, les données restent sur cet appareil uniquement."
+        "a": "La synchronisation iCloud fait partie de Pro. Les appareils connectés au même compte iCloud synchronisent automatiquement les comptes de la famille. Vérifiez qu’iCloud est activé dans Réglages > Compte Apple > iCloud. Dans l’onglet Actions, sous Inviter un enfant, vous pouvez créer une invitation par code QR à scanner avec l’appareil photo de votre enfant. Sans iCloud, les données restent sur cet appareil uniquement."
       },
       {
         "q": "Qu’est-ce que le Mode téléphone d’enfant ?",
@@ -153,7 +155,7 @@
       },
       {
         "q": "Pourquoi les prix augmentent-ils ?",
-        "a": "Pour que les enfants ressentent l’inflation, l’indice des prix de la famille monte un peu chaque semaine. Modifiez le taux, ou mettez-le à 0 % pour l’arrêter, dans le Mode parent, sous Réglages de la banque. Si vous augmentez un peu, en parallèle, le prix des friandises et des jouets de la Boutique de la maison, la leçon marque davantage."
+        "a": "Pour que les enfants ressentent l’inflation, l’indice des prix de la famille monte un peu chaque semaine. Modifiez le taux, ou mettez-le à 0 % pour l’arrêter, dans le Mode parent, sous Réglages de la banque. Si vous augmentez un peu, en parallèle, le prix des friandises et des jouets de la Boutique de la maison, la leçon marque davantage. La hausse des prix fait partie de Pro."
       },
       {
         "q": "Comment tout supprimer ?",

@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Lommepenge: forældrene er banken, børnene sparer og investerer",
-  "description": "Giv lommepenge i jeres egen familievaluta. Børnene betaler selv, får rente hver uge og prøver øvefonde, så de forstår penge. Alt er gratis.",
+  "description": "Giv lommepenge i jeres egen familievaluta. Børnene betaler selv, får rente hver uge og prøver øvefonde, så de forstår penge. Det grundlæggende er gratis.",
   "hero": {
     "headline": "Lommepengedagen bliver\ntil en time om penge",
     "lead": "Du er familiens centralbank, og børnene er kunderne. De får lommepenge i jeres egen valuta, køber slik, ser renten lande på opsparingen og mærker op- og nedturene i en øvefond.",
     "cta": "Hent gratis i App Store",
-    "note": "Alle funktioner er gratis. Der bruges aldrig rigtige penge."
+    "note": "De grundlæggende funktioner er gratis. Der bruges aldrig rigtige penge."
   },
   "demo": {
     "title": "Hvor ville du gemme 1.000 mønter?",
@@ -74,27 +74,29 @@
     "note": "Fra start er der 5 % ugentlig sparerente og 2 % ugentlig inflation. Begge ændres i Forældretilstand under Bankindstillinger. Med 0 % inflation står priserne stille."
   },
   "pricing": {
-    "title": "Alle funktioner er gratis",
+    "title": "Det grundlæggende er gratis",
     "free": {
       "name": "Gratis",
       "items": [
         "Jeres egen familievaluta og en PIN-låst Forældretilstand",
-        "Give og trække lommepenge fra, Hjemmebutik og betaling med stregkode",
+        "Op til 2 børn og 10 varer i Hjemmebutik",
+        "Give og trække lommepenge fra, og betale i Hjemmebutik",
         "En opsparing med ugentlig rentes rente",
         "Tre øvefonde med afkastgrafer",
         "Fanen Marked og en dateret transaktionshistorik",
         "Forældreguiden i ti trin og to beregnere",
-        "Børnetelefon-tilstand og synkronisering via iCloud"
+        "Børnetelefon-tilstand"
       ]
     },
     "pro": {
-      "name": "Støt udvikleren",
+      "name": "Plus · Pro",
       "items": [
-        "Send et lille drikkepengebeløb i valgfri størrelse fra Bankindstillinger i Forældretilstand",
-        "Drikkepenge låser ikke noget op. Appen virker på samme måde"
-      ]
+        "Plus: ubegrænset antal børn og varer, og jeres egne investeringsprodukter",
+        "Pro: alt i Plus og desuden betaling med stregkode, stigende priser og iCloud-synkronisering mellem enheder"
+      ],
+      "note": "Hver fås som uge-, måneds- eller årsabonnement eller som et engangskøb for altid. Drikkepenge er noget for sig og låser ikke noget op."
     },
-    "note": "Ingen reklamer, intet abonnement. Knappen til drikkepenge findes kun i Forældretilstand, så børnene ser aldrig en købsknap."
+    "note": "Ingen reklamer. Køb findes kun i Forældretilstand, så børnene ser aldrig en købsknap."
   },
   "faq": {
     "title": "Spørgsmål",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Hvordan ser vi de samme konti på mit barns telefon?",
-        "a": "Enheder, der er logget ind med samme iCloud-konto, synkroniserer familiens konti automatisk. Tjek, at iCloud er slået til under Indstillinger > Apple-konto > iCloud. Under Inviter barn på fanen Handlinger kan du lave en QR-invitation, som barnet scanner med kameraet. Uden iCloud bliver dataene kun på den ene enhed."
+        "a": "Synkronisering via iCloud er en del af Pro. Enheder, der er logget ind med samme iCloud-konto, synkroniserer familiens konti automatisk. Tjek, at iCloud er slået til under Indstillinger > Apple-konto > iCloud. Under Inviter barn på fanen Handlinger kan du lave en QR-invitation, som barnet scanner med kameraet. Uden iCloud bliver dataene kun på den ene enhed."
       },
       {
         "q": "Hvad er Børnetelefon-tilstand?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Hvorfor stiger priserne?",
-        "a": "For at børnene kan mærke inflation, stiger familiens prisindeks lidt hver uge. Du kan ændre takten eller sætte den til 0 % for at slå den fra i Forældretilstand under Bankindstillinger. Hæver du samtidig prisen på slik og legetøj i Hjemmebutikken en smule, sidder lektien bedre fast."
+        "a": "For at børnene kan mærke inflation, stiger familiens prisindeks lidt hver uge. Du kan ændre takten eller sætte den til 0 % for at slå den fra i Forældretilstand under Bankindstillinger. Hæver du samtidig prisen på slik og legetøj i Hjemmebutikken en smule, sidder lektien bedre fast. Stigende priser er en del af Pro."
       },
       {
         "q": "Hvordan sletter jeg alt?",

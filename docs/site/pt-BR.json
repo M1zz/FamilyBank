@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Mesada: você é o banco da família e os filhos poupam e investem",
-  "description": "Dê a mesada na moeda da sua família. Os filhos pagam, ganham juros toda semana e testam fundos de treino para entender o dinheiro. Tudo grátis.",
+  "description": "Dê a mesada na moeda da sua família. Os filhos pagam, ganham juros toda semana e testam fundos de treino para entender o dinheiro. O básico é grátis.",
   "hero": {
     "headline": "O dia da mesada vira\numa aula sobre dinheiro",
     "lead": "Você é o banco central da família, e seus filhos são os clientes. Eles recebem a mesada na moeda de vocês, compram o lanchinho, veem os juros caírem na poupança e sentem o sobe e desce de um fundo de treino.",
     "cta": "Baixe grátis na App Store",
-    "note": "Todos os recursos são grátis. Nenhum dinheiro de verdade troca de mãos."
+    "note": "Os recursos básicos são grátis. Nenhum dinheiro de verdade troca de mãos."
   },
   "demo": {
     "title": "Onde você guardaria 1.000 moedas?",
@@ -74,27 +74,29 @@
     "note": "Começa com juros de 5% por semana na poupança e inflação de 2% por semana. Mude os dois no Modo dos pais, em Ajustes do banco. Com a inflação em 0%, os preços ficam parados."
   },
   "pricing": {
-    "title": "Todos os recursos são grátis",
+    "title": "O básico é grátis",
     "free": {
       "name": "Grátis",
       "items": [
         "A moeda própria da família e um Modo dos pais protegido por PIN",
-        "Dar e descontar mesada, a Loja de casa e pagamentos por código de barras",
+        "Até 2 filhos e 10 itens na Loja de casa",
+        "Dar e descontar mesada, e pagar na Loja de casa",
         "Uma poupança que rende juros compostos toda semana",
         "Três fundos de treino com gráficos de rendimento",
         "A aba Mercado e um histórico de transações por data",
         "O guia para os pais em dez passos e duas calculadoras",
-        "Modo celular do filho e sincronização com o iCloud"
+        "Modo celular do filho"
       ]
     },
     "pro": {
-      "name": "Apoie o desenvolvedor",
+      "name": "Plus · Pro",
       "items": [
-        "Mande uma gorjeta do valor que quiser em Ajustes do banco, no Modo dos pais",
-        "A gorjeta não libera nada. O app funciona igual de qualquer jeito"
-      ]
+        "Plus: filhos e itens ilimitados, e seus próprios produtos de investimento",
+        "Pro: tudo do Plus, mais pagamento com código de barras, a alta dos preços e sincronização entre aparelhos pelo iCloud"
+      ],
+      "note": "Cada um com assinatura semanal, mensal ou anual, ou compra única vitalícia. Gorjetas são à parte e não liberam nada."
     },
-    "note": "Sem anúncios, sem assinatura. O botão de gorjeta fica só dentro do Modo dos pais, então seus filhos nunca veem um botão de compra."
+    "note": "Sem anúncios. As compras ficam só dentro do Modo dos pais, então seus filhos nunca veem um botão de compra."
   },
   "faq": {
     "title": "Perguntas frequentes",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Como vemos as mesmas contas no celular do meu filho?",
-        "a": "Aparelhos com a mesma conta do iCloud sincronizam as contas da família automaticamente. Confira se o iCloud está ativado em Ajustes > Conta Apple > iCloud. Na aba Ações, em Convidar filho, você cria um convite com QR code para a criança escanear com a câmera. Sem iCloud, os dados ficam só naquele aparelho."
+        "a": "A sincronização com o iCloud faz parte do Pro. Aparelhos com a mesma conta do iCloud sincronizam as contas da família automaticamente. Confira se o iCloud está ativado em Ajustes > Conta Apple > iCloud. Na aba Ações, em Convidar filho, você cria um convite com QR code para a criança escanear com a câmera. Sem iCloud, os dados ficam só naquele aparelho."
       },
       {
         "q": "O que é o Modo celular do filho?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Por que os preços sobem?",
-        "a": "Para a criança sentir a inflação, o índice de preços da família sobe um pouco toda semana. Mude a taxa, ou coloque em 0% para desligar, no Modo dos pais, em Ajustes do banco. Se você também subir um pouco os preços dos lanches e brinquedos da Loja de casa, a lição fica marcada."
+        "a": "Para a criança sentir a inflação, o índice de preços da família sobe um pouco toda semana. Mude a taxa, ou coloque em 0% para desligar, no Modo dos pais, em Ajustes do banco. Se você também subir um pouco os preços dos lanches e brinquedos da Loja de casa, a lição fica marcada. A alta dos preços faz parte do Pro."
       },
       {
         "q": "Como apago tudo?",

@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Kieszonkowe: rodzice są bankiem, dzieci oszczędzają i inwestują",
-  "description": "Dawaj kieszonkowe w rodzinnej walucie. Dzieci same płacą, co tydzień dostają odsetki i testują fundusze treningowe. Tak rozumieją pieniądze. Za darmo.",
+  "description": "Dawaj kieszonkowe w rodzinnej walucie. Dzieci same płacą, co tydzień dostają odsetki i testują fundusze treningowe. Tak rozumieją pieniądze. Podstawy za darmo.",
   "hero": {
     "headline": "Dzień kieszonkowego\nto lekcja o pieniądzach",
     "lead": "Ty jesteś bankiem centralnym rodziny, a dzieci klientami. Dostają kieszonkowe w waszej własnej walucie, kupują słodycze, widzą, jak na oszczędności spływają odsetki, i przeżywają wzloty i upadki funduszu treningowego.",
     "cta": "Pobierz za darmo z App Store",
-    "note": "Wszystkie funkcje są darmowe. Prawdziwe pieniądze nigdy nie zmieniają właściciela."
+    "note": "Podstawowe funkcje są darmowe. Prawdziwe pieniądze nigdy nie zmieniają właściciela."
   },
   "demo": {
     "title": "Gdzie trzymać 1000 monet?",
@@ -74,27 +74,29 @@
     "note": "Na start: 5% tygodniowych odsetek od oszczędności i 2% tygodniowej inflacji. Oba zmienisz w Trybie rodzica, w Ustawieniach banku. Przy inflacji 0% ceny stoją w miejscu."
   },
   "pricing": {
-    "title": "Wszystkie funkcje za darmo",
+    "title": "Podstawowe funkcje za darmo",
     "free": {
       "name": "Za darmo",
       "items": [
         "Własna rodzinna waluta i Tryb rodzica chroniony PIN-em",
-        "Dawanie i odejmowanie kieszonkowego, Domowy sklepik i płatności kodem kreskowym",
+        "Do 2 dzieci i 10 produktów w Domowym sklepiku",
+        "Dawanie i odejmowanie kieszonkowego, płacenie w Domowym sklepiku",
         "Konto oszczędnościowe z cotygodniowym procentem składanym",
         "Trzy fundusze treningowe z wykresami zysków",
         "Karta Rynek i historia transakcji według daty",
         "Przewodnik dla rodziców w dziesięciu krokach i dwa kalkulatory",
-        "Tryb telefonu dziecka i synchronizacja przez iCloud"
+        "Tryb telefonu dziecka"
       ]
     },
     "pro": {
-      "name": "Wesprzyj twórcę",
+      "name": "Plus · Pro",
       "items": [
-        "Wyślij drobny napiwek w dowolnej kwocie z Ustawień banku w Trybie rodzica",
-        "Napiwek niczego nie odblokowuje. Aplikacja działa tak samo"
-      ]
+        "Plus: dowolna liczba dzieci i produktów oraz własne produkty inwestycyjne",
+        "Pro: wszystko z Plus, a do tego płatności kodem kreskowym, wzrost cen i synchronizacja iCloud między urządzeniami"
+      ],
+      "note": "Każdy w subskrypcji tygodniowej, miesięcznej lub rocznej albo jako jednorazowy zakup na zawsze. Napiwki są osobno i niczego nie odblokowują."
     },
-    "note": "Bez reklam, bez subskrypcji. Przycisk napiwku jest tylko w Trybie rodzica, więc dzieci nigdy nie zobaczą przycisku zakupu."
+    "note": "Bez reklam. Zakupy są tylko w Trybie rodzica, więc dzieci nigdy nie zobaczą przycisku zakupu."
   },
   "faq": {
     "title": "Pytania",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Jak widzieć te same konta na telefonie dziecka?",
-        "a": "Urządzenia zalogowane na to samo konto iCloud automatycznie synchronizują rodzinne konta. Sprawdź, czy iCloud jest włączony w Ustawienia > Konto Apple > iCloud. Na karcie Akcje, w opcji Zaproś dziecko, możesz utworzyć zaproszenie z kodem QR, które dziecko zeskanuje aparatem. Bez iCloud dane zostają tylko na tym jednym urządzeniu."
+        "a": "Synchronizacja przez iCloud jest w wersji Pro. Urządzenia zalogowane na to samo konto iCloud automatycznie synchronizują rodzinne konta. Sprawdź, czy iCloud jest włączony w Ustawienia > Konto Apple > iCloud. Na karcie Akcje, w opcji Zaproś dziecko, możesz utworzyć zaproszenie z kodem QR, które dziecko zeskanuje aparatem. Bez iCloud dane zostają tylko na tym jednym urządzeniu."
       },
       {
         "q": "Czym jest Tryb telefonu dziecka?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Dlaczego ceny rosną?",
-        "a": "Żeby dzieci poczuły inflację, rodzinny wskaźnik cen co tydzień trochę rośnie. Tempo zmienisz albo wyłączysz, ustawiając 0%, w Trybie rodzica, w Ustawieniach banku. Jeśli przy okazji podniesiesz trochę ceny słodyczy i zabawek w Domowym sklepiku, lekcja lepiej zapadnie w pamięć."
+        "a": "Żeby dzieci poczuły inflację, rodzinny wskaźnik cen co tydzień trochę rośnie. Tempo zmienisz albo wyłączysz, ustawiając 0%, w Trybie rodzica, w Ustawieniach banku. Jeśli przy okazji podniesiesz trochę ceny słodyczy i zabawek w Domowym sklepiku, lekcja lepiej zapadnie w pamięć. Wzrost cen jest w wersji Pro."
       },
       {
         "q": "Jak usunąć wszystko?",

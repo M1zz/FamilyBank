@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Lommepenger: foreldrene er banken, barna sparer og investerer",
-  "description": "Gi lommepenger i deres egen familievaluta. Barna betaler selv, får rente hver uke og prøver øvingsfond, så de skjønner penger. Alt er gratis.",
+  "description": "Gi lommepenger i deres egen familievaluta. Barna betaler selv, får rente hver uke og prøver øvingsfond, så de skjønner penger. Det grunnleggende er gratis.",
   "hero": {
     "headline": "Lommepengedagen blir\nen time om penger",
     "lead": "Du er familiens sentralbank, og barna er kundene. De får lommepenger i deres egen valuta, kjøper godteri, ser renta lande på sparingen og kjenner på opp- og nedturene i et øvingsfond.",
     "cta": "Last ned gratis i App Store",
-    "note": "Alle funksjoner er gratis. Ekte penger brukes aldri."
+    "note": "Grunnfunksjonene er gratis. Ekte penger brukes aldri."
   },
   "demo": {
     "title": "Hvor ville du lagt 1 000 mynter?",
@@ -74,27 +74,29 @@
     "note": "Fra start er det 5 % ukentlig sparerente og 2 % ukentlig inflasjon. Begge endres i Foreldremodus under Bankinnstillinger. Med 0 % inflasjon står prisene stille."
   },
   "pricing": {
-    "title": "Alle funksjoner er gratis",
+    "title": "Det grunnleggende er gratis",
     "free": {
       "name": "Gratis",
       "items": [
         "Deres egen familievaluta og en PIN-låst Foreldremodus",
-        "Gi og trekke fra lommepenger, Hjemmebutikk og betaling med strekkode",
+        "Opptil 2 barn og 10 varer i Hjemmebutikk",
+        "Gi og trekke fra lommepenger, og betale i Hjemmebutikk",
         "Sparing med renters rente hver uke",
         "Tre øvingsfond med avkastningsgrafer",
         "Fanen Marked og en datert transaksjonshistorikk",
         "Veiledningen for foreldre i ti trinn og to kalkulatorer",
-        "Barnetelefon-modus og synkronisering med iCloud"
+        "Barnetelefon-modus"
       ]
     },
     "pro": {
-      "name": "Støtt utvikleren",
+      "name": "Plus · Pro",
       "items": [
-        "Send et lite tips i valgfri størrelse fra Bankinnstillinger i Foreldremodus",
-        "Tips låser ikke opp noe. Appen fungerer helt likt"
-      ]
+        "Plus: ubegrenset antall barn og varer, og egne investeringsprodukter",
+        "Pro: alt i Plus, i tillegg betaling med strekkode, stigende priser og iCloud-synkronisering mellom enheter"
+      ],
+      "note": "Hver finnes som uke-, måneds- eller årsabonnement, eller som et engangskjøp for alltid. Tips er noe eget og låser ikke opp noe."
     },
-    "note": "Ingen reklame, ingen abonnement. Tipsknappen finnes bare i Foreldremodus, så barna ser aldri en kjøpsknapp."
+    "note": "Ingen reklame. Kjøp finnes bare i Foreldremodus, så barna ser aldri en kjøpsknapp."
   },
   "faq": {
     "title": "Spørsmål",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Hvordan ser vi de samme kontoene på barnets telefon?",
-        "a": "Enheter som er logget på med samme iCloud-konto, synkroniserer familiens kontoer automatisk. Sjekk at iCloud er slått på under Innstillinger > Apple-konto > iCloud. Under Inviter barn på fanen Handlinger kan du lage en QR-invitasjon som barnet skanner med kameraet. Uten iCloud blir dataene bare på den ene enheten."
+        "a": "Synkronisering med iCloud er en del av Pro. Enheter som er logget på med samme iCloud-konto, synkroniserer familiens kontoer automatisk. Sjekk at iCloud er slått på under Innstillinger > Apple-konto > iCloud. Under Inviter barn på fanen Handlinger kan du lage en QR-invitasjon som barnet skanner med kameraet. Uten iCloud blir dataene bare på den ene enheten."
       },
       {
         "q": "Hva er Barnetelefon-modus?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Hvorfor stiger prisene?",
-        "a": "For at barna skal kjenne på inflasjon, stiger familiens prisindeks litt hver uke. Du kan endre takten eller sette den til 0 % for å skru den av i Foreldremodus under Bankinnstillinger. Hever du samtidig prisene på godteri og leker i Hjemmebutikken litt, sitter lærdommen bedre."
+        "a": "For at barna skal kjenne på inflasjon, stiger familiens prisindeks litt hver uke. Du kan endre takten eller sette den til 0 % for å skru den av i Foreldremodus under Bankinnstillinger. Hever du samtidig prisene på godteri og leker i Hjemmebutikken litt, sitter lærdommen bedre. Stigende priser er en del av Pro."
       },
       {
         "q": "Hvordan sletter jeg alt?",

@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Paghetta: tu fai da banca, i tuoi figli risparmiano e investono",
-  "description": "Dai la paghetta nella moneta di famiglia: i figli pagano, ricevono interessi ogni settimana e provano fondi di prova. Tutto gratis.",
+  "description": "Dai la paghetta nella moneta di famiglia: i figli pagano, ricevono interessi ogni settimana e provano fondi di prova. Le funzioni di base sono gratis.",
   "hero": {
     "headline": "La paghetta\ndiventa una lezione",
     "lead": "Tu sei la banca centrale di famiglia, i tuoi figli sono i clienti. Ricevono la paghetta nella vostra moneta, si comprano la merenda, vedono arrivare gli interessi sul risparmio e vivono i su e giù di un fondo di prova.",
     "cta": "Scarica gratis su App Store",
-    "note": "Tutte le funzioni sono gratuite. Non passa mai di mano denaro vero."
+    "note": "Le funzioni di base sono gratuite. Non passa mai di mano denaro vero."
   },
   "demo": {
     "title": "Dove terresti 1.000 monete?",
@@ -102,27 +102,29 @@
     "note": "Si parte con il 5% di interesse settimanale sul risparmio e il 2% di inflazione settimanale. Puoi cambiarli entrambi nella Modalità genitore, in Impostazioni della banca. Con l’inflazione allo 0% i prezzi restano fermi."
   },
   "pricing": {
-    "title": "Tutte le funzioni sono gratuite",
+    "title": "Le funzioni di base sono gratuite",
     "free": {
       "name": "Gratis",
       "items": [
         "La vostra moneta di famiglia e una Modalità genitore protetta da PIN",
-        "Dare e togliere la paghetta, il Negozio di casa e i pagamenti con codice a barre",
+        "Fino a 2 figli e 10 articoli nel Negozio di casa",
+        "Dare e togliere la paghetta, pagare nel Negozio di casa",
         "Un conto di risparmio con interesse composto settimanale",
         "Tre fondi di prova con grafici dei rendimenti",
         "La scheda Mercato e lo storico dei movimenti per data",
         "La guida per i genitori in dieci passi e due calcolatori",
-        "Modalità telefono del figlio e sincronizzazione con iCloud"
+        "Modalità telefono del figlio"
       ]
     },
     "pro": {
-      "name": "Sostieni lo sviluppatore",
+      "name": "Plus · Pro",
       "items": [
-        "Lascia una mancia dell’importo che vuoi da Impostazioni della banca, nella Modalità genitore",
-        "La mancia non sblocca nulla. L’app funziona allo stesso modo"
-      ]
+        "Plus: figli e articoli illimitati, e i tuoi prodotti di investimento",
+        "Pro: tutto quello di Plus, più pagamenti con codice a barre, l’aumento dei prezzi e la sincronizzazione iCloud tra dispositivi"
+      ],
+      "note": "Ognuno con abbonamento settimanale, mensile o annuale, oppure con un acquisto unico per sempre. Le mance sono a parte e non sbloccano nulla."
     },
-    "note": "Niente pubblicità, niente abbonamenti. Il pulsante della mancia è solo dentro la Modalità genitore, così i tuoi figli non vedono mai un pulsante di acquisto."
+    "note": "Niente pubblicità. Gli acquisti sono solo dentro la Modalità genitore, così i tuoi figli non vedono mai un pulsante di acquisto."
   },
   "faq": {
     "title": "Domande frequenti",
@@ -133,7 +135,7 @@
       },
       {
         "q": "Come vediamo gli stessi conti sul telefono di mio figlio?",
-        "a": "I dispositivi collegati allo stesso account iCloud sincronizzano automaticamente i conti di famiglia. Controlla che iCloud sia attivo in Impostazioni > Account Apple > iCloud. Nella scheda Azioni, da Invita un figlio, puoi creare un invito con codice QR da inquadrare con la fotocamera. Senza iCloud i dati restano solo su quel dispositivo."
+        "a": "La sincronizzazione con iCloud fa parte di Pro. I dispositivi collegati allo stesso account iCloud sincronizzano automaticamente i conti di famiglia. Controlla che iCloud sia attivo in Impostazioni > Account Apple > iCloud. Nella scheda Azioni, da Invita un figlio, puoi creare un invito con codice QR da inquadrare con la fotocamera. Senza iCloud i dati restano solo su quel dispositivo."
       },
       {
         "q": "Cos’è la Modalità telefono del figlio?",
@@ -153,7 +155,7 @@
       },
       {
         "q": "Perché i prezzi salgono?",
-        "a": "Per far toccare con mano l’inflazione, l’indice dei prezzi di famiglia sale un po’ ogni settimana. Puoi cambiarne il ritmo, o metterlo allo 0% per fermarlo, nella Modalità genitore, in Impostazioni della banca. Se alzi un po’ anche i prezzi di merendine e giocattoli nel Negozio di casa, la lezione resta impressa."
+        "a": "Per far toccare con mano l’inflazione, l’indice dei prezzi di famiglia sale un po’ ogni settimana. Puoi cambiarne il ritmo, o metterlo allo 0% per fermarlo, nella Modalità genitore, in Impostazioni della banca. Se alzi un po’ anche i prezzi di merendine e giocattoli nel Negozio di casa, la lezione resta impressa. L’aumento dei prezzi fa parte di Pro."
       },
       {
         "q": "Come cancello tutto?",

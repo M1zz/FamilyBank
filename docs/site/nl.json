@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Zakgeld: ouders zijn de bank, kinderen sparen en beleggen",
-  "description": "Geef zakgeld in je eigen gezinsmunt. Kinderen betalen zelf, krijgen elke week rente en proberen oefenfondsen, zo snappen ze geld. Alles is gratis.",
+  "description": "Geef zakgeld in je eigen gezinsmunt. Kinderen betalen zelf, krijgen elke week rente en proberen oefenfondsen, zo snappen ze geld. De basis is gratis.",
   "hero": {
     "headline": "Zakgelddag wordt\neen les over geld",
     "lead": "Jij bent de centrale bank van het gezin, je kinderen zijn de klanten. Ze krijgen zakgeld in jullie eigen munt, kopen er snoep van, zien rente binnenkomen op hun spaargeld en beleven de ups en downs van een oefenfonds.",
     "cta": "Download gratis in de App Store",
-    "note": "Alle functies zijn gratis. Er gaat nooit echt geld over de toonbank."
+    "note": "De basisfuncties zijn gratis. Er gaat nooit echt geld over de toonbank."
   },
   "demo": {
     "title": "Waar zou jij 1.000 munten laten?",
@@ -74,27 +74,29 @@
     "note": "Bij de start geldt 5% spaarrente en 2% inflatie per week. Beide pas je aan in de Ouderstand onder Bankinstellingen. Met 0% inflatie blijven de prijzen gelijk."
   },
   "pricing": {
-    "title": "Alle functies zijn gratis",
+    "title": "De basis is gratis",
     "free": {
       "name": "Gratis",
       "items": [
         "Jullie eigen gezinsmunt en een met pincode beveiligde Ouderstand",
-        "Zakgeld geven en afschrijven, Winkel thuis en betalen met streepjescode",
+        "Tot 2 kinderen en 10 artikelen in Winkel thuis",
+        "Zakgeld geven en afschrijven, en betalen in Winkel thuis",
         "Een spaarrekening met wekelijks rente op rente",
         "Drie oefenfondsen met rendementsgrafieken",
         "Het tabblad Markt en een geschiedenis van alle transacties per datum",
         "De ouderhandleiding in tien stappen en twee calculators",
-        "Kindertelefoonstand en synchronisatie via iCloud"
+        "Kindertelefoonstand"
       ]
     },
     "pro": {
-      "name": "Steun de ontwikkelaar",
+      "name": "Plus · Pro",
       "items": [
-        "Geef een kleine fooi van elk bedrag via Bankinstellingen in de Ouderstand",
-        "Een fooi ontgrendelt niets. De app werkt precies hetzelfde"
-      ]
+        "Plus: onbeperkt kinderen en artikelen, en je eigen beleggingsproducten",
+        "Pro: alles van Plus, plus betalen met streepjescode, stijgende prijzen ervaren en iCloud-synchronisatie tussen apparaten"
+      ],
+      "note": "Elk als week-, maand- of jaarabonnement, of eenmalig kopen voor altijd. Fooien staan daar los van en ontgrendelen niets."
     },
-    "note": "Geen advertenties, geen abonnement. De fooiknop zit alleen in de Ouderstand, dus je kinderen zien nooit een koopknop."
+    "note": "Geen advertenties. Aankopen zitten alleen in de Ouderstand, dus je kinderen zien nooit een koopknop."
   },
   "faq": {
     "title": "Vragen",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Hoe zien we dezelfde rekeningen op de telefoon van mijn kind?",
-        "a": "Apparaten die met hetzelfde iCloud-account zijn ingelogd, synchroniseren de gezinsrekeningen automatisch. Controleer of iCloud aanstaat via Instellingen > Apple Account > iCloud. Op het tabblad Acties kun je bij Kind uitnodigen een QR-uitnodiging maken die je kind met de camera scant. Zonder iCloud blijven de gegevens alleen op dat ene apparaat."
+        "a": "Synchronisatie via iCloud hoort bij Pro. Apparaten die met hetzelfde iCloud-account zijn ingelogd, synchroniseren de gezinsrekeningen automatisch. Controleer of iCloud aanstaat via Instellingen > Apple Account > iCloud. Op het tabblad Acties kun je bij Kind uitnodigen een QR-uitnodiging maken die je kind met de camera scant. Zonder iCloud blijven de gegevens alleen op dat ene apparaat."
       },
       {
         "q": "Wat is de Kindertelefoonstand?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Waarom stijgen de prijzen?",
-        "a": "Zodat kinderen inflatie voelen, stijgt de prijsindex van het gezin elke week een beetje. Pas het tempo aan, of zet het op 0% om het uit te zetten, in de Ouderstand onder Bankinstellingen. Verhoog je meteen ook de prijzen van snoep en speelgoed in de Winkel thuis een beetje, dan blijft de les beter hangen."
+        "a": "Zodat kinderen inflatie voelen, stijgt de prijsindex van het gezin elke week een beetje. Pas het tempo aan, of zet het op 0% om het uit te zetten, in de Ouderstand onder Bankinstellingen. Verhoog je meteen ook de prijzen van snoep en speelgoed in de Winkel thuis een beetje, dan blijft de les beter hangen. Stijgende prijzen horen bij Pro."
       },
       {
         "q": "Hoe wis ik alles?",

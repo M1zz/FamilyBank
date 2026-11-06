@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Fickpengar: föräldrarna är banken, barnen sparar och investerar",
-  "description": "Ge fickpengar i er egen familjevaluta. Barnen betalar själva, får ränta varje vecka och testar övningsfonder, så förstår de pengar. Allt är gratis.",
+  "description": "Ge fickpengar i er egen familjevaluta. Barnen betalar själva, får ränta varje vecka och testar övningsfonder, så förstår de pengar. Grunderna är gratis.",
   "hero": {
     "headline": "Fickpengadagen blir\nen lektion om pengar",
     "lead": "Du är familjens centralbank och barnen är kunderna. De får fickpengar i er egen valuta, köper godis, ser räntan landa på sparandet och känner av upp- och nedgångarna i en övningsfond.",
     "cta": "Hämta gratis i App Store",
-    "note": "Alla funktioner är gratis. Riktiga pengar används aldrig."
+    "note": "Grundfunktionerna är gratis. Riktiga pengar används aldrig."
   },
   "demo": {
     "title": "Var skulle du lägga 1 000 mynt?",
@@ -74,27 +74,29 @@
     "note": "Från start gäller 5 % sparränta och 2 % inflation per vecka. Båda ändras i Föräldraläge under Bankinställningar. Med 0 % inflation står priserna still."
   },
   "pricing": {
-    "title": "Alla funktioner är gratis",
+    "title": "Grunderna är gratis",
     "free": {
       "name": "Gratis",
       "items": [
         "Er egen familjevaluta och ett PIN-låst Föräldraläge",
-        "Ge och dra av fickpengar, Hemmabutik och betalning med streckkod",
+        "Upp till 2 barn och 10 varor i Hemmabutik",
+        "Ge och dra av fickpengar, och betala i Hemmabutik",
         "Ett sparkonto med ränta på ränta varje vecka",
         "Tre övningsfonder med avkastningsdiagram",
         "Fliken Marknad och en daterad transaktionshistorik",
         "Föräldraguiden i tio steg och två kalkylatorer",
-        "Barntelefonläge och synkning via iCloud"
+        "Barntelefonläge"
       ]
     },
     "pro": {
-      "name": "Stöd utvecklaren",
+      "name": "Plus · Pro",
       "items": [
-        "Skicka ett litet dricksbelopp av valfri storlek från Bankinställningar i Föräldraläge",
-        "Dricks låser inte upp något. Appen fungerar precis likadant"
-      ]
+        "Plus: obegränsat antal barn och varor, och egna investeringsprodukter",
+        "Pro: allt i Plus, och dessutom betalning med streckkod, stigande priser och iCloud-synk mellan enheter"
+      ],
+      "note": "Var och en som vecko-, månads- eller årsprenumeration, eller som ett engångsköp för alltid. Dricks är separat och låser inte upp något."
     },
-    "note": "Ingen reklam, ingen prenumeration. Dricksknappen finns bara i Föräldraläge, så barnen ser aldrig någon köpknapp."
+    "note": "Ingen reklam. Köp finns bara i Föräldraläge, så barnen ser aldrig någon köpknapp."
   },
   "faq": {
     "title": "Frågor",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Hur ser vi samma konton i mitt barns telefon?",
-        "a": "Enheter som är inloggade med samma iCloud-konto synkar familjens konton automatiskt. Kontrollera att iCloud är på under Inställningar > Apple-konto > iCloud. Under Bjud in barn på fliken Åtgärder kan du skapa en QR-inbjudan som barnet skannar med kameran. Utan iCloud stannar datan bara på den enheten."
+        "a": "Synkning via iCloud ingår i Pro. Enheter som är inloggade med samma iCloud-konto synkar familjens konton automatiskt. Kontrollera att iCloud är på under Inställningar > Apple-konto > iCloud. Under Bjud in barn på fliken Åtgärder kan du skapa en QR-inbjudan som barnet skannar med kameran. Utan iCloud stannar datan bara på den enheten."
       },
       {
         "q": "Vad är Barntelefonläge?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Varför stiger priserna?",
-        "a": "För att barnen ska känna av inflation stiger familjens prisindex lite varje vecka. Du kan ändra takten, eller sätta den till 0 % för att stänga av den, i Föräldraläge under Bankinställningar. Höjer du samtidigt priset på godis och leksaker i Hemmabutiken lite grann, fastnar lärdomen bättre."
+        "a": "För att barnen ska känna av inflation stiger familjens prisindex lite varje vecka. Du kan ändra takten, eller sätta den till 0 % för att stänga av den, i Föräldraläge under Bankinställningar. Höjer du samtidigt priset på godis och leksaker i Hemmabutiken lite grann, fastnar lärdomen bättre. Stigande priser ingår i Pro."
       },
       {
         "q": "Hur raderar jag allt?",

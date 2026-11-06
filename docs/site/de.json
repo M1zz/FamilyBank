@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Taschengeld: Eltern sind die Bank, Kinder sparen und investieren",
-  "description": "Taschengeld in eurer Familienwährung: Kinder bezahlen, bekommen wöchentlich Zinsen und testen Übungsfonds. So verstehen sie Geld. Kostenlos.",
+  "description": "Taschengeld in eurer Familienwährung: Kinder bezahlen, bekommen wöchentlich Zinsen und testen Übungsfonds. So verstehen sie Geld. Die Grundfunktionen sind kostenlos.",
   "hero": {
     "headline": "Aus dem Taschengeldtag\nwird eine Geldstunde",
     "lead": "Du bist die Zentralbank der Familie, deine Kinder sind die Kundschaft. Sie bekommen ihr Taschengeld in eurer eigenen Währung, kaufen sich Snacks, sehen Zinsen auf ihrem Ersparten landen und erleben das Auf und Ab eines Übungsfonds.",
     "cta": "Kostenlos im App Store laden",
-    "note": "Alle Funktionen sind kostenlos. Echtes Geld fließt nie."
+    "note": "Die Grundfunktionen sind kostenlos. Echtes Geld fließt nie."
   },
   "demo": {
     "title": "Wohin mit 1.000 Münzen?",
@@ -74,27 +74,29 @@
     "note": "Zum Start gelten 5 % Sparzins und 2 % Inflation pro Woche. Beides änderst du im Elternmodus unter Bank-Einstellungen. Bei 0 % Inflation bleiben die Preise gleich."
   },
   "pricing": {
-    "title": "Alle Funktionen kostenlos",
+    "title": "Die Grundfunktionen sind kostenlos",
     "free": {
       "name": "Kostenlos",
       "items": [
         "Eure eigene Familienwährung und ein mit PIN gesicherter Elternmodus",
-        "Taschengeld geben und abziehen, Familienladen und Bezahlen per Barcode",
+        "Bis zu 2 Kinder und 10 Artikel im Familienladen",
+        "Taschengeld geben und abziehen, im Familienladen bezahlen",
         "Ein Sparkonto mit wöchentlichem Zinseszins",
         "Drei Übungsfonds mit Renditediagrammen",
         "Der Tab Markt und ein Verlauf aller Buchungen nach Datum",
         "Der Elternratgeber in zehn Schritten und zwei Rechner",
-        "Kinderhandy-Modus und iCloud-Synchronisierung"
+        "Kinderhandy-Modus"
       ]
     },
     "pro": {
-      "name": "Entwickler unterstützen",
+      "name": "Plus · Pro",
       "items": [
-        "Im Elternmodus unter Bank-Einstellungen ein kleines Trinkgeld in beliebiger Höhe geben",
-        "Trinkgeld schaltet nichts frei. Die App funktioniert genau gleich"
-      ]
+        "Plus: beliebig viele Kinder und Artikel, dazu eigene Geldanlagen",
+        "Pro: alles aus Plus, dazu Bezahlen per Barcode, steigende Preise erleben und iCloud-Sync zwischen Geräten"
+      ],
+      "note": "Jeweils als Wochen-, Monats- oder Jahresabo oder einmal kaufen und für immer nutzen. Trinkgeld ist davon getrennt und schaltet nichts frei."
     },
-    "note": "Keine Werbung, kein Abo. Der Trinkgeld-Button steckt nur im Elternmodus, deine Kinder sehen also nie einen Kaufen-Button."
+    "note": "Keine Werbung. Käufe gibt es nur im Elternmodus, deine Kinder sehen also nie einen Kaufen-Button."
   },
   "faq": {
     "title": "Häufige Fragen",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Wie sehen wir dieselben Konten auf dem Handy meines Kindes?",
-        "a": "Geräte mit demselben iCloud-Account gleichen das Familienbuch automatisch ab. Prüfe unter Einstellungen > Apple Account > iCloud, ob iCloud eingeschaltet ist. Im Tab Aktionen kannst du unter Kind einladen eine QR-Einladung erstellen, die dein Kind mit der Kamera scannt. Ohne iCloud bleiben die Daten nur auf diesem einen Gerät."
+        "a": "Die iCloud-Synchronisierung gehört zu Pro. Geräte mit demselben iCloud-Account gleichen das Familienbuch automatisch ab. Prüfe unter Einstellungen > Apple Account > iCloud, ob iCloud eingeschaltet ist. Im Tab Aktionen kannst du unter Kind einladen eine QR-Einladung erstellen, die dein Kind mit der Kamera scannt. Ohne iCloud bleiben die Daten nur auf diesem einen Gerät."
       },
       {
         "q": "Was ist der Kinderhandy-Modus?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Warum steigen die Preise?",
-        "a": "Damit Kinder Inflation spüren, steigt euer Familien-Preisindex jede Woche ein wenig. Die Rate änderst du im Elternmodus unter Bank-Einstellungen, mit 0 % schaltest du sie ab. Wenn du die Preise für Snacks und Spielzeug im Familienladen passend etwas anhebst, bleibt die Lektion besser hängen."
+        "a": "Damit Kinder Inflation spüren, steigt euer Familien-Preisindex jede Woche ein wenig. Die Rate änderst du im Elternmodus unter Bank-Einstellungen, mit 0 % schaltest du sie ab. Wenn du die Preise für Snacks und Spielzeug im Familienladen passend etwas anhebst, bleibt die Lektion besser hängen. Steigende Preise gehören zu Pro."
       },
       {
         "q": "Wie lösche ich alles?",

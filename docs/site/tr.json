@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Harçlık: ebeveynler banka, çocuklar biriktirip yatırım yapıyor",
-  "description": "Harçlığı ailenizin kendi parasıyla verin. Çocuklar kendileri öder, her hafta faiz alır, deneme fonlarını dener ve parayı öğrenir. Ücretsiz.",
+  "description": "Harçlığı ailenizin kendi parasıyla verin. Çocuklar kendileri öder, her hafta faiz alır, deneme fonlarını dener ve parayı öğrenir. Temel özellikler ücretsiz.",
   "hero": {
     "headline": "Harçlık günü\nbir para dersine dönüşsün",
     "lead": "Siz ailenin merkez bankasısınız, çocuklar da müşterileri. Harçlıklarını sizin kendi paranızla alıyor, atıştırmalık satın alıyor, birikimlerine faiz eklendiğini görüyor ve bir deneme fonunun inişlerini çıkışlarını yaşıyorlar.",
     "cta": "App Store'dan ücretsiz indirin",
-    "note": "Tüm özellikler ücretsiz. Gerçek para asla el değiştirmez."
+    "note": "Temel özellikler ücretsiz. Gerçek para asla el değiştirmez."
   },
   "demo": {
     "title": "1.000 jetonu nerede tutardınız?",
@@ -74,27 +74,29 @@
     "note": "Başlangıçta haftalık %5 tasarruf faizi ve haftalık %2 enflasyon vardır. İkisini de Ebeveyn modunda, Banka ayarları altında değiştirebilirsiniz. Enflasyonu %0 yaparsanız fiyatlar sabit kalır."
   },
   "pricing": {
-    "title": "Tüm özellikler ücretsiz",
+    "title": "Temel özellikler ücretsiz",
     "free": {
       "name": "Ücretsiz",
       "items": [
         "Ailenizin kendi parası ve PIN ile kilitli Ebeveyn modu",
-        "Harçlık verme ve düşme, Ev dükkânı ve barkodla ödeme",
+        "En fazla 2 çocuk ve Ev dükkânında 10 ürün",
+        "Harçlık verme ve düşme, Ev dükkânında ödeme",
         "Her hafta bileşik faiz kazanan tasarruf hesabı",
         "Getiri grafikleriyle üç deneme fonu",
         "Pazar sekmesi ve tarihli işlem geçmişi",
         "On adımlık ebeveyn rehberi ve iki hesaplayıcı",
-        "Çocuk telefonu modu ve iCloud eşzamanlaması"
+        "Çocuk telefonu modu"
       ]
     },
     "pro": {
-      "name": "Geliştiriciyi destekleyin",
+      "name": "Plus · Pro",
       "items": [
-        "Ebeveyn modunda Banka ayarları'ndan dilediğiniz tutarda küçük bir bahşiş gönderin",
-        "Bahşiş hiçbir şeyin kilidini açmaz. Uygulama aynı şekilde çalışır"
-      ]
+        "Plus: sınırsız çocuk ve ürün, kendi yatırım ürünleriniz",
+        "Pro: Plus'taki her şey, ayrıca barkodla ödeme, fiyat artışını yaşama ve cihazlar arası iCloud eşzamanlama"
+      ],
+      "note": "Her biri haftalık, aylık ya da yıllık abonelikle veya tek seferlik ömür boyu satın almayla. Bahşişler ayrıdır ve hiçbir şeyin kilidini açmaz."
     },
-    "note": "Reklam yok, abonelik yok. Bahşiş düğmesi yalnızca Ebeveyn modunun içinde olduğu için çocuklar hiçbir zaman satın alma düğmesi görmez."
+    "note": "Reklam yok. Satın alma yalnızca Ebeveyn modunun içinde olduğu için çocuklar hiçbir zaman satın alma düğmesi görmez."
   },
   "faq": {
     "title": "Sorular",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Çocuğumun telefonunda aynı hesapları nasıl görürüz?",
-        "a": "Aynı iCloud hesabıyla oturum açılmış aygıtlar aile hesaplarını otomatik olarak eşzamanlar. Ayarlar > Apple Hesabı > iCloud bölümünde iCloud'un açık olduğunu kontrol edin. Eylemler sekmesindeki Çocuğu davet et bölümünden, çocuğunuzun kamerayla tarayacağı bir QR davetiyesi oluşturabilirsiniz. iCloud olmadan veriler yalnızca o aygıtta kalır."
+        "a": "iCloud eşzamanlaması Pro'ya dahildir. Aynı iCloud hesabıyla oturum açılmış aygıtlar aile hesaplarını otomatik olarak eşzamanlar. Ayarlar > Apple Hesabı > iCloud bölümünde iCloud'un açık olduğunu kontrol edin. Eylemler sekmesindeki Çocuğu davet et bölümünden, çocuğunuzun kamerayla tarayacağı bir QR davetiyesi oluşturabilirsiniz. iCloud olmadan veriler yalnızca o aygıtta kalır."
       },
       {
         "q": "Çocuk telefonu modu nedir?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Fiyatlar neden artıyor?",
-        "a": "Çocuklar enflasyonu hissetsin diye ailenin fiyat endeksi her hafta biraz yükselir. Hızı değiştirebilir ya da %0 yaparak kapatabilirsiniz; bunun için Ebeveyn modunda Banka ayarları'na gidin. Ev dükkânındaki atıştırmalık ve oyuncakların fiyatlarını da biraz artırırsanız ders daha kalıcı olur."
+        "a": "Çocuklar enflasyonu hissetsin diye ailenin fiyat endeksi her hafta biraz yükselir. Hızı değiştirebilir ya da %0 yaparak kapatabilirsiniz; bunun için Ebeveyn modunda Banka ayarları'na gidin. Ev dükkânındaki atıştırmalık ve oyuncakların fiyatlarını da biraz artırırsanız ders daha kalıcı olur. Fiyat artışı Pro'ya dahildir."
       },
       {
         "q": "Her şeyi nasıl silerim?",

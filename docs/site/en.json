@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Allowance: be the family bank while your kids save and invest",
-  "description": "Pay allowance in your own family currency. Kids pay, earn weekly interest on savings and try practice funds to learn how money works. All free.",
+  "description": "Pay allowance in your own family currency. Kids pay, earn weekly interest on savings and try practice funds to learn how money works. Core features are free.",
   "hero": {
     "headline": "Turn allowance day\ninto a money lesson",
     "lead": "You become the family's central bank and your kids become the customers. They get paid in your own family currency, buy snacks, watch interest land in their savings and ride the ups and downs of a practice fund.",
     "cta": "Get it free on the App Store",
-    "note": "Every feature is free. No real money ever changes hands."
+    "note": "Core features are free. No real money ever changes hands."
   },
   "demo": {
     "title": "Where would you keep 1,000 coins?",
@@ -102,27 +102,29 @@
     "note": "It starts at 5% weekly savings interest and 2% weekly inflation. Change both in Parent Mode under Bank Settings. Set inflation to 0% and prices stay put."
   },
   "pricing": {
-    "title": "Every feature is free",
+    "title": "Core features are free",
     "free": {
       "name": "Free",
       "items": [
         "Your own family currency and a PIN-locked Parent Mode",
-        "Giving and deducting allowance, the Family Shop and barcode payments",
+        "Up to 2 kids and 10 Family Shop items",
+        "Giving and deducting allowance, and paying in the Family Shop",
         "A savings account that earns compound interest weekly",
         "Three practice funds with return charts",
         "The Market tab and a dated transaction history",
         "The ten-step parent guide and two calculators",
-        "Child Phone Mode and iCloud sync"
+        "Child Phone Mode"
       ]
     },
     "pro": {
-      "name": "Support the developer",
+      "name": "Plus · Pro",
       "items": [
-        "Send a small tip of any size from Bank Settings in Parent Mode",
-        "Tips don't unlock anything. The app works the same either way"
-      ]
+        "Plus: unlimited kids and shop items, and your own investments",
+        "Pro: everything in Plus, plus barcode payments, rising prices and iCloud sync across devices"
+      ],
+      "note": "Each comes as a weekly, monthly or yearly subscription, or a one-time lifetime purchase. Tips are separate and unlock nothing."
     },
-    "note": "No ads, no subscription. The tip button lives only inside Parent Mode, so your kids never see a purchase button."
+    "note": "No ads. Purchases live only inside Parent Mode, so your kids never see a purchase button."
   },
   "faq": {
     "title": "Questions",
@@ -133,7 +135,7 @@
       },
       {
         "q": "How do we see the same ledger on my child's phone?",
-        "a": "Devices signed in to the same iCloud account keep the family ledger in sync automatically. Check that iCloud is on in Settings > Apple Account > iCloud. Under Invite Child on the Actions tab, you can make a QR invitation for your child's camera to scan. Without iCloud, data stays on that one device."
+        "a": "iCloud sync is part of Pro. Devices signed in to the same iCloud account keep the family ledger in sync automatically. Check that iCloud is on in Settings > Apple Account > iCloud. Under Invite Child on the Actions tab, you can make a QR invitation for your child's camera to scan. Without iCloud, data stays on that one device."
       },
       {
         "q": "What is Child Phone Mode?",
@@ -153,7 +155,7 @@
       },
       {
         "q": "Why do prices go up?",
-        "a": "So kids can feel inflation, your family price index rises a little each week. Change the rate, or set it to 0% to turn it off, in Parent Mode under Bank Settings. Nudging up the prices of snacks and toys in the Family Shop to match makes the lesson stick."
+        "a": "So kids can feel inflation, your family price index rises a little each week. Change the rate, or set it to 0% to turn it off, in Parent Mode under Bank Settings. Nudging up the prices of snacks and toys in the Family Shop to match makes the lesson stick. Rising prices are part of Pro."
       },
       {
         "q": "How do I delete everything?",

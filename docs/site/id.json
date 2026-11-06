@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Uang Saku: orang tua jadi bank, anak menabung dan berinvestasi",
-  "description": "Beri uang saku dengan mata uang keluarga sendiri. Anak membayar, dapat bunga tiap minggu, dan mencoba reksa dana latihan. Semua fitur gratis.",
+  "description": "Beri uang saku dengan mata uang keluarga sendiri. Anak membayar, dapat bunga tiap minggu, dan mencoba reksa dana latihan. Fitur dasarnya gratis.",
   "hero": {
     "headline": "Hari uang saku jadi\npelajaran soal uang",
     "lead": "Anda jadi bank sentral keluarga, anak-anak jadi nasabahnya. Mereka menerima uang saku dalam mata uang keluarga sendiri, membeli jajanan, melihat bunga masuk ke tabungan, dan ikut deg-degan melihat naik turunnya reksa dana latihan.",
     "cta": "Unduh gratis di App Store",
-    "note": "Semua fitur gratis. Tidak ada uang sungguhan yang berpindah tangan."
+    "note": "Fitur dasarnya gratis. Tidak ada uang sungguhan yang berpindah tangan."
   },
   "demo": {
     "title": "Kalau punya 1.000 koin, disimpan di mana?",
@@ -74,27 +74,29 @@
     "note": "Awalnya bunga tabungan 5% dan inflasi 2% per minggu. Keduanya bisa diubah di Mode orang tua, bagian Pengaturan bank. Kalau inflasi diatur 0%, harga tidak berubah."
   },
   "pricing": {
-    "title": "Semua fitur gratis",
+    "title": "Fitur dasarnya gratis",
     "free": {
       "name": "Gratis",
       "items": [
         "Mata uang keluarga sendiri dan Mode orang tua yang dikunci PIN",
-        "Memberi dan mengurangi uang saku, Toko rumah, dan bayar dengan barcode",
+        "Hingga 2 anak dan 10 barang di Toko rumah",
+        "Memberi dan mengurangi uang saku, serta membayar di Toko rumah",
         "Tabungan dengan bunga majemuk mingguan",
         "Tiga reksa dana latihan dengan grafik imbal hasil",
         "Tab Pasar dan riwayat transaksi per tanggal",
         "Panduan untuk orang tua sepuluh langkah dan dua kalkulator",
-        "Mode ponsel anak dan sinkronisasi iCloud"
+        "Mode ponsel anak"
       ]
     },
     "pro": {
-      "name": "Dukung pengembang",
+      "name": "Plus · Pro",
       "items": [
-        "Kirim tip kecil berapa pun dari Pengaturan bank di Mode orang tua",
-        "Tip tidak membuka fitur apa pun. Aplikasi tetap sama saja"
-      ]
+        "Plus: jumlah anak dan barang tanpa batas, serta produk investasi buatan sendiri",
+        "Pro: semua isi Plus, ditambah bayar dengan barcode, merasakan kenaikan harga, dan sinkron iCloud antarperangkat"
+      ],
+      "note": "Masing-masing bisa langganan mingguan, bulanan, atau tahunan, atau sekali beli untuk selamanya. Tip terpisah dan tidak membuka apa pun."
     },
-    "note": "Tanpa iklan, tanpa langganan. Tombol tip hanya ada di dalam Mode orang tua, jadi anak tidak pernah melihat tombol beli."
+    "note": "Tanpa iklan. Pembelian hanya ada di dalam Mode orang tua, jadi anak tidak pernah melihat tombol beli."
   },
   "faq": {
     "title": "Pertanyaan",
@@ -105,7 +107,7 @@
       },
       {
         "q": "Bagaimana melihat catatan yang sama di ponsel anak?",
-        "a": "Perangkat yang masuk dengan akun iCloud yang sama menyinkronkan catatan keluarga secara otomatis. Pastikan iCloud aktif di Pengaturan > Akun Apple > iCloud. Di tab Aksi, lewat Undang anak, Anda bisa membuat undangan kode QR untuk dipindai anak dengan kamera. Tanpa iCloud, data hanya tersimpan di perangkat itu."
+        "a": "Sinkronisasi iCloud termasuk dalam Pro. Perangkat yang masuk dengan akun iCloud yang sama menyinkronkan catatan keluarga secara otomatis. Pastikan iCloud aktif di Pengaturan > Akun Apple > iCloud. Di tab Aksi, lewat Undang anak, Anda bisa membuat undangan kode QR untuk dipindai anak dengan kamera. Tanpa iCloud, data hanya tersimpan di perangkat itu."
       },
       {
         "q": "Apa itu Mode ponsel anak?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "Kenapa harga naik?",
-        "a": "Supaya anak merasakan inflasi, indeks harga keluarga naik sedikit setiap minggu. Ubah lajunya, atau atur ke 0% untuk mematikannya, di Mode orang tua bagian Pengaturan bank. Kalau harga jajanan dan mainan di Toko rumah ikut dinaikkan sedikit, pelajarannya makin melekat."
+        "a": "Supaya anak merasakan inflasi, indeks harga keluarga naik sedikit setiap minggu. Ubah lajunya, atau atur ke 0% untuk mematikannya, di Mode orang tua bagian Pengaturan bank. Kalau harga jajanan dan mainan di Toko rumah ikut dinaikkan sedikit, pelajarannya makin melekat. Kenaikan harga termasuk dalam Pro."
       },
       {
         "q": "Bagaimana menghapus semuanya?",

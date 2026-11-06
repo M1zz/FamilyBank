@@ -1,11 +1,11 @@
 {
   "title": "SukSuk Paga: tú eres el banco de casa y tus hijos ahorran e invierten",
-  "description": "Da la paga en la moneda de tu familia: tus hijos pagan, cobran intereses cada semana y prueban fondos de práctica. Todo gratis.",
+  "description": "Da la paga en la moneda de tu familia: tus hijos pagan, cobran intereses cada semana y prueban fondos de práctica. Lo básico es gratis.",
   "hero": {
     "headline": "El día de la paga,\nuna clase de dinero",
     "lead": "Tú haces de banco central de la familia y tus hijos son los clientes. Reciben la paga en vuestra propia moneda, se compran sus chuches, ven cómo los intereses llegan a su ahorro y viven las subidas y bajadas de un fondo de práctica.",
     "cta": "Descárgala gratis en el App Store",
-    "note": "Todas las funciones son gratis. Nunca se mueve dinero real."
+    "note": "Las funciones básicas son gratis. Nunca se mueve dinero real."
   },
   "demo": {
     "title": "¿Dónde guardarías 1.000 monedas?",
@@ -74,27 +74,29 @@
     "note": "Empieza con un 5 % de interés semanal en el ahorro y un 2 % de inflación semanal. Puedes cambiar ambos en el Modo para padres, en Ajustes del banco. Con la inflación al 0 %, los precios no se mueven."
   },
   "pricing": {
-    "title": "Todas las funciones son gratis",
+    "title": "Lo básico es gratis",
     "free": {
       "name": "Gratis",
       "items": [
         "Tu propia moneda familiar y un Modo para padres protegido con PIN",
-        "Dar y descontar paga, la Tienda de casa y pagos con código de barras",
+        "Hasta 2 hijos y 10 artículos en la Tienda de casa",
+        "Dar y descontar paga, y pagar en la Tienda de casa",
         "Una cuenta de ahorro con interés compuesto semanal",
         "Tres fondos de práctica con gráficos de rentabilidad",
         "La pestaña Mercado y un historial de movimientos por fecha",
         "La guía para padres en diez pasos y dos calculadoras",
-        "Modo teléfono del hijo y sincronización con iCloud"
+        "Modo teléfono del hijo"
       ]
     },
     "pro": {
-      "name": "Apoya al desarrollador",
+      "name": "Plus · Pro",
       "items": [
-        "Envía una propina de la cantidad que quieras desde Ajustes del banco, en el Modo para padres",
-        "La propina no desbloquea nada. La app funciona igual con o sin ella"
-      ]
+        "Plus: hijos y artículos ilimitados, y tus propios productos de inversión",
+        "Pro: todo lo de Plus, más pagos con código de barras, la subida de precios y sincronización con iCloud entre dispositivos"
+      ],
+      "note": "Cada uno con suscripción semanal, mensual o anual, o con un pago único de por vida. Las propinas van aparte y no desbloquean nada."
     },
-    "note": "Sin anuncios ni suscripciones. El botón de propina solo está dentro del Modo para padres, así que tus hijos nunca ven un botón de compra."
+    "note": "Sin anuncios. Las compras solo están dentro del Modo para padres, así que tus hijos nunca ven un botón de compra."
   },
   "faq": {
     "title": "Preguntas frecuentes",
@@ -105,7 +107,7 @@
       },
       {
         "q": "¿Cómo vemos las mismas cuentas en el teléfono de mi hijo?",
-        "a": "Los dispositivos con la misma cuenta de iCloud sincronizan las cuentas familiares automáticamente. Comprueba que iCloud esté activado en Ajustes > Cuenta de Apple > iCloud. En la pestaña Acciones, desde Invitar a un hijo, puedes crear una invitación con código QR para que la escanee con la cámara. Sin iCloud, los datos se quedan solo en ese dispositivo."
+        "a": "La sincronización con iCloud es parte de Pro. Los dispositivos con la misma cuenta de iCloud sincronizan las cuentas familiares automáticamente. Comprueba que iCloud esté activado en Ajustes > Cuenta de Apple > iCloud. En la pestaña Acciones, desde Invitar a un hijo, puedes crear una invitación con código QR para que la escanee con la cámara. Sin iCloud, los datos se quedan solo en ese dispositivo."
       },
       {
         "q": "¿Qué es el Modo teléfono del hijo?",
@@ -125,7 +127,7 @@
       },
       {
         "q": "¿Por qué suben los precios?",
-        "a": "Para que los niños noten la inflación, el índice de precios de la familia sube un poco cada semana. Puedes cambiar el ritmo, o ponerlo al 0 % para desactivarlo, en el Modo para padres, en Ajustes del banco. Si subes también un poco el precio de las chuches y los juguetes de la Tienda de casa, la lección cala mucho más."
+        "a": "Para que los niños noten la inflación, el índice de precios de la familia sube un poco cada semana. Puedes cambiar el ritmo, o ponerlo al 0 % para desactivarlo, en el Modo para padres, en Ajustes del banco. Si subes también un poco el precio de las chuches y los juguetes de la Tienda de casa, la lección cala mucho más. La subida de precios es parte de Pro."
       },
       {
         "q": "¿Cómo lo borro todo?",
