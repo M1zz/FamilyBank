@@ -23,6 +23,8 @@ final class PurchaseManager {
 
     /// 지금 쓰는 칸. 화면은 이 값(과 `allows`)만 본다.
     private(set) var tier: ProTier = ProEntitlement.tier
+    /// 팔기 시작했는가. 아니면 아무것도 막지 않는다 (→ ProEntitlement.isSelling).
+    private(set) var isSelling = ProEntitlement.isSelling
     /// 페이월에 설 상품들. 스토어에 아직 없는 상품은 여기 없다.
     private(set) var products: [Product] = []
     /// 이 Apple 계정이 가진 권한 상품들.
@@ -49,7 +51,7 @@ final class PurchaseManager {
         }
     }
 
-    func allows(_ feature: ProFeature) -> Bool { tier >= feature.tier }
+    func allows(_ feature: ProFeature) -> Bool { !isSelling || tier >= feature.tier }
 
     func ownsLifetime(_ tier: ProTier) -> Bool { ProEntitlement.ownsLifetime(tier, in: ownedProductIDs) }
 
@@ -123,6 +125,10 @@ final class PurchaseManager {
         ownedProductIDs = store.purchasedProductIDs
         isWorking = store.purchasingProductID != nil || store.isRestoring
         failureMessage = store.lastError
+        if !isSelling, products.contains(where: { ProEntitlement.tierByProduct[$0.id] != nil }) {
+            ProEntitlement.markSelling()
+            isSelling = true
+        }
     }
 
     /// 연 구독 중이면 그 구독. 졸업가는 연 구독에만 준다(주 · 월 구독에 주면 한 주 값으로 평생이 싸진다).

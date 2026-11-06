@@ -178,7 +178,17 @@ enum ProEntitlement {
         return cachedTier ?? .free
     }
 
-    static func allows(_ feature: ProFeature) -> Bool { tier >= feature.tier }
+    static func allows(_ feature: ProFeature) -> Bool { !isSelling || tier >= feature.tier }
+
+    private static let onSaleKey = "plans.onSale"
+
+    /// **팔기 시작했는가.** 유료 칸 상품을 하나도 못 불러온 기기는 한도로 막지 않는다.
+    /// ⚠️ App Store Connect 에 상품이 서기 전에 빌드가 나가면, 살 수 없는데 막히는 사람이 생긴다.
+    ///    한 번이라도 불러온 기기는 기억해 둔다 — 그 뒤로 잠깐 오프라인이어도 다시 한도가 선다.
+    static var isSelling: Bool { defaults.bool(forKey: onSaleKey) }
+
+    /// `PurchaseManager` 만 부른다.
+    static func markSelling() { defaults.set(true, forKey: onSaleKey) }
 
     /// 적혀 있는 답. **nil 은 '무료'가 아니라 '아직 애플에게 안 물어봤다'** 이다.
     static var cachedTier: ProTier? {
@@ -203,7 +213,7 @@ enum ProEntitlement {
     /// ⚠️ 끄더라도 기기 안 기록은 그대로다. iCloud 쪽 사본도 지우지 않는다.
     static var syncsWithICloud: Bool {
         if ScreenshotDemo.isOn { return false }
-        guard let cachedTier else { return true }
+        guard isSelling, let cachedTier else { return true }
         return cachedTier >= ProFeature.iCloudSync.tier
     }
 
