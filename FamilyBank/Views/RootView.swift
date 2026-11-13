@@ -33,8 +33,8 @@ struct RootView: View {
                 }
             } else {
                 OnboardingView()
-                    // 아이폰 듀오를 펴도 처음 설정이 접힌 선을 넘지 않게 고르는 쪽 판에
-                    .foldConfined()
+                    // 아이폰 듀오를 펴도 처음 설정이 접힌 선을 넘지 않게 고르는 쪽 판에 (넓은 아이패드는 화면 전체)
+                    .coverConfined()
             }
         }
         .dismissKeyboardOnTap()
