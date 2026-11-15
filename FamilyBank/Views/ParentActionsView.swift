@@ -14,13 +14,19 @@ struct ParentActionsView: View {
     @State private var unlocked = ScreenshotDemo.startsUnlocked
     @State private var didAutoPrompt = false
 
-    /// 기기에서 Face ID/Touch ID를 쓸 수 있는지
-    private var biometryAvailable: Bool {
-        LAContext().canEvaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, error: nil)
-    }
+    /// 기기에서 Face ID/Touch ID를 쓸 수 있는지와 그 종류.
+    /// LAContext 는 물을 때마다 시스템과 동기로 왕복한다. 화면을 그릴 때마다 물으면 메인이 막힐 수 있어
+    /// (세끼 1.2.2 가 같은 자리에서 워치독에 죽었다) 앱이 켜진 동안 한 번만 묻는다.
+    private static let biometry: (available: Bool, type: LABiometryType) = {
+        let context = LAContext()
+        let available = context.canEvaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, error: nil)
+        return (available, context.biometryType)
+    }()
+
+    private var biometryAvailable: Bool { Self.biometry.available }
 
     private var biometryLabel: String {
-        LAContext().biometryType == .touchID ? String(localized: "Touch ID로 열기") : String(localized: "Face ID로 열기")
+        Self.biometry.type == .touchID ? String(localized: "Touch ID로 열기") : String(localized: "Face ID로 열기")
     }
 
     var body: some View {
