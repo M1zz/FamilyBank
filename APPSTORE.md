@@ -91,7 +91,7 @@ Learn saving and investing
 
 ### 키워드
 
-pocket,chore chart,piggy bank,interest,compound,stocks,finance,budget,child,family,coins,bank game
+financial literacy,savings jar,spend,chores,piggy bank,compound,chore chart,bank game,child,pocket
 
 ### 프로모션 텍스트
 
@@ -225,7 +225,7 @@ https://m1zz.github.io/FamilyBank/ja/
 
 ### 키워드
 
-マネーリテラシー,おこづかい帳,こども,キッズ,小学生,中学生,複利,利息,金利,株,ファンド,資産運用,家計簿,節約,ためる,ごっこ遊び,通貨,経済,インフレ,物価,親子,知育,ごほうび,お手伝い
+マネーリテラシー,キッズマネー,こども銀行,ごほうびシール,お年玉,お手伝い表,お金の勉強,貯金箱,ファンド,親子,利息,ごほうび,複利,インフレ,金利,お手伝い,節約,小学生,おこづかい帳,物価,株
 
 ### 프로모션 텍스트
 
@@ -292,7 +292,7 @@ https://m1zz.github.io/FamilyBank/zh-Hans/
 
 ### 키워드
 
-儿童财商,财商教育,零用钱,压岁钱,记账本,存钱罐,攒钱,利息,复利,模拟炒股,基金,股票,小学生,亲子游戏,金钱观,通胀,汇率,经济学,存款,奖励,做家务,积分,零钱管理,货币,记账,预算,习惯养成
+儿童财商,压岁钱,金钱观,通胀,做家务,零钱管理,金钱教育,财商启蒙,儿童理财,家务表,虚拟银行,存钱计划,储蓄罐,模拟投资,复利,经济学,利息,奖励,积分,预算,存钱罐,亲子游戏,存款,模拟炒股
 
 ### 프로모션 텍스트
 
