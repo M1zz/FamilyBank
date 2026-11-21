@@ -3,6 +3,158 @@
 App Store 의 "이 버전의 새로운 기능" 에 그대로 올라가는 글이다.
 평문만 쓴다. 한 줄에 한 문장, 3~5줄, 한 줄 40자 이내.
 
+## 1.0.4
+
+### 앱스토어 (한국어)
+
+아랍어로도 쓸 수 있어요.
+아랍어에서는 화면이 오른쪽부터 읽히게 놓여요.
+아랍어 키보드로 친 금액도 알아들어요.
+
+### 앱스토어 (English)
+
+Now available in Arabic.
+In Arabic, screens read right to left.
+Arabic keyboard amounts now work.
+
+### App Store (en-GB)
+
+Now available in Arabic.
+In Arabic, screens read right to left.
+Arabic keyboard amounts now work.
+
+### 앱스토어 (日本語)
+
+アラビア語で使えるようになりました。
+アラビア語では画面が右から左に並びます。
+アラビア語キーボードで入力した金額も使えます。
+
+### 앱스토어 (简体中文)
+
+现已支持阿拉伯语。
+阿拉伯语界面改为从右到左排列。
+用阿拉伯语键盘输入的金额也能识别。
+
+### 앱스토어 (繁體中文)
+
+現在支援阿拉伯語。
+阿拉伯語介面改為由右至左排列。
+用阿拉伯語鍵盤輸入的金額也能辨識。
+
+### 앱스토어 (español)
+
+Ya disponible en árabe.
+En árabe, se lee de derecha a izquierda.
+Se aceptan importes del teclado árabe.
+
+### 앱스토어 (Deutsch)
+
+Jetzt auch auf Arabisch verfügbar.
+Arabische Ansicht von rechts nach links.
+Arabische Tastatur für Beträge nutzbar.
+
+### 앱스토어 (français)
+
+Désormais disponible en arabe.
+En arabe, lecture de droite à gauche.
+Montants au clavier arabe acceptés.
+
+### 앱스토어 (italiano)
+
+Ora disponibile in arabo.
+In arabo si legge da destra a sinistra.
+Importi dalla tastiera araba accettati.
+
+### 앱스토어 (português (Brasil))
+
+Agora disponível em árabe.
+Em árabe, leitura da direita à esquerda.
+Teclado árabe aceito nos valores.
+
+### 앱스토어 (русский)
+
+Теперь доступно на арабском.
+На арабском экран идёт справа налево.
+Суммы с арабской клавиатуры принимаются.
+
+### 앱스토어 (ไทย)
+
+ใช้งานเป็นภาษาอาหรับได้แล้ว
+ภาษาอาหรับแสดงหน้าจอจากขวาไปซ้าย
+รับจำนวนเงินที่พิมพ์ด้วยแป้นภาษาอาหรับ
+
+### 앱스토어 (Tiếng Việt)
+
+Đã hỗ trợ tiếng Ả Rập.
+Tiếng Ả Rập hiển thị từ phải sang trái.
+Nhận số tiền gõ bằng bàn phím Ả Rập.
+
+### 앱스토어 (čeština)
+
+Nově dostupné v arabštině.
+Arabština se čte zprava doleva.
+Částky z arabské klávesnice fungují.
+
+### 앱스토어 (dansk)
+
+Nu også på arabisk.
+Arabisk vises fra højre mod venstre.
+Beløb fra arabisk tastatur virker nu.
+
+### 앱스토어 (ελληνικά)
+
+Τώρα διαθέσιμο και στα αραβικά.
+Στα αραβικά η οθόνη πάει από δεξιά.
+Δεκτά ποσά από αραβικό πληκτρολόγιο.
+
+### 앱스토어 (suomi)
+
+Nyt myös arabiaksi.
+Arabia näytetään oikealta vasemmalle.
+Arabian näppäimistön summat toimivat.
+
+### 앱스토어 (Bahasa Indonesia)
+
+Kini tersedia dalam bahasa Arab.
+Bahasa Arab tampil dari kanan ke kiri.
+Nominal dari keyboard Arab kini terbaca.
+
+### 앱스토어 (norsk bokmål)
+
+Nå også på arabisk.
+Arabisk vises fra høyre mot venstre.
+Beløp fra arabisk tastatur fungerer nå.
+
+### 앱스토어 (Nederlands)
+
+Nu ook beschikbaar in het Arabisch.
+Arabisch staat van rechts naar links.
+Bedragen via Arabische toetsen werken.
+
+### 앱스토어 (polski)
+
+Teraz dostępne po arabsku.
+Po arabsku ekran czyta się od prawej.
+Kwoty z arabskiej klawiatury działają.
+
+### 앱스토어 (svenska)
+
+Nu även på arabiska.
+Arabiska visas från höger till vänster.
+Belopp via arabiskt tangentbord funkar.
+
+### 앱스토어 (Türkçe)
+
+Artık Arapça olarak da kullanılabilir.
+Arapçada ekranlar sağdan sola dizilir.
+Arapça klavyeden tutar girilebilir.
+
+### 앱스토어 (아랍어)
+
+التطبيق متوفر الآن باللغة العربية.
+الشاشات بالعربية من اليمين إلى اليسار.
+تُقبل المبالغ من لوحة المفاتيح العربية.
+
 ## 1.0.3
 
 ### 앱스토어 (한국어)
