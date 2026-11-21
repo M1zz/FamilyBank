@@ -30,6 +30,8 @@ struct RootView: View {
                     KidTabView(member: kid, settings: settings)
                 } else {
                     MainTabView(settings: settings)
+                        // 유료가 되면 축하, 모든 사용자가 한 번은 감사를 받는다 (LeeoKit).
+                        .leeoCelebrations(appName: FamilyBankSpec.displayName)
                 }
             } else {
                 OnboardingView()
