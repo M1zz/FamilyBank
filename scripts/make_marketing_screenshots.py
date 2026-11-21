@@ -18,7 +18,7 @@ W, H = 1242, 2688   # 이 계정의 iPhone 제출 규격
 
 # ── 앱마다 고치는 곳 ──────────────────────────────────────────────
 # 앱 언어 → App Store 로케일 (스토어 폴더 이름)
-STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO", "nl": "nl-NL", "pl": "pl-PL", "sv": "sv-SE", "tr": "tr-TR"}
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO", "nl": "nl-NL", "pl": "pl-PL", "sv": "sv-SE", "tr": "tr-TR", "ar": "ar"}
 # 바탕 · 포인트 색 (헤더·검색 결과 그림과 맞춘다)
 BG, ACCENT, INK, SUB = "#EEF5EC", "#2F9E4F", "#12281C", "#5E6B62"
 # 언어 → [(원본 파일, 레이아웃, 헤드라인, 서브카피)]
@@ -215,8 +215,35 @@ SHOTS = {
         ("05-actions.png",   "hero-bleed",  "Pocket money and payments,<br>made simple", "Lock with a parent PIN, pay by barcode"),
         ("06-learn.png",     "dark",        "10 steps to<br>learn about money", "A parent guide to read with your child"),
     ],
+    "ar": [
+        ("01-dashboard.png", "hero-bleed",  "بيتك يصبح<br>بنكًا صغيرًا", "الوالدان هما البنك والأطفال هم العملاء"),
+        ("02-child.png",     "left-text",   "المحفظة والادخار<br>والاستثمار في لمحة", "لكل طفل حسابه الخاص"),
+        ("03-savings.png",   "text-bottom", "ادّخر وشاهد<br>مالك يكبر", "النمو الأسبوعي في رسم واضح"),
+        ("04-market.png",    "flat-rotate", "أسعار وسعر صرف<br>كالاقتصاد الحقيقي", "شاهد كيف تتغير قيمة المال"),
+        ("05-actions.png",   "hero-bleed",  "المصروف والدفع<br>بكل سهولة", "قفل برمز الوالدين ودفع بالباركود"),
+        ("06-learn.png",     "dark",        "تعلّم عن المال<br>في 10 مستويات", "دليل للوالدين تقرأه مع طفلك"),
+    ],
 }
 # ─────────────────────────────────────────────────────────────────
+
+# 오른쪽에서 왼쪽으로 쓰는 언어(아랍어): 글은 오른쪽에서 시작하고, 기울인 기기는 거울처럼 뒤집는다.
+# 가운데 맞춘 장면(hero-bleed · dark)은 dir=rtl 만으로 맞는다.
+RTL = {"ar"}
+# 아랍어는 글자가 이어 쓰여서 글자 사이를 좁히면 끊어진다.
+RTL_CSS = """
+body { font-family:"SF Arabic","Geeza Pro",-apple-system,sans-serif; }
+.headline, .sub { letter-spacing:0; }
+.headline { line-height:1.3; }
+"""
+RTL_LAYOUTS = {
+    "left-text": """
+.text { text-align:right; padding:260px 110px 0 100px; }
+.wrap { left:auto; right:290px; perspective-origin:70% 30%; }
+.phone { transform:rotateY(-16deg) rotateX(2deg); }
+""",
+    "text-bottom": ".phone { transform:rotateY(10deg) rotateX(2deg); }",
+    "flat-rotate": ".wrap { left:auto; right:120px; } .phone { transform:rotate(6deg); }",
+}
 
 BASE_CSS = f"""
 * {{ margin:0; padding:0; box-sizing:border-box; }}
@@ -270,7 +297,7 @@ body {{ background:#12281c; }}
 
 TEXT = '<div class="text"><div class="dot"></div><div class="headline">{headline}</div><div class="sub">{sub}</div></div>'
 PHONE = '<div class="wrap"><div class="phone"><img src="{img}"></div></div>'
-HTML = '<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><style>{css}</style></head><body>{body}</body></html>'
+HTML = '<!doctype html><html lang="{lang}"{dir}><head><meta charset="utf-8"><style>{css}</style></head><body>{body}</body></html>'
 
 
 def chrome_shot(html, png, tmp):
@@ -317,7 +344,8 @@ def render(lang):
             phone = PHONE.format(img=src.as_uri())
             body = phone + text if layout == "text-bottom" else text + phone
             html = pathlib.Path(tmp) / f"{lang}-{fname}.html"
-            html.write_text(HTML.format(lang=lang, css=BASE_CSS + LAYOUTS[layout], body=body), encoding="utf-8")
+            css = BASE_CSS + LAYOUTS[layout] + (RTL_CSS + RTL_LAYOUTS.get(layout, "") if lang in RTL else "")
+            html.write_text(HTML.format(lang=lang, dir=' dir="rtl"' if lang in RTL else "", css=css, body=body), encoding="utf-8")
             png = out_dir / fname
             if not any(chrome_shot(html, png, tmp) for _ in range(3)):
                 raise SystemExit(f"그리지 못했다: {png}")

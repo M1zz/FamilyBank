@@ -21,7 +21,7 @@ OUT = ROOT / "docs" / "screenshots" / "creative"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 # 앱 언어 → App Store 로케일 (스크린샷 marketing/ 폴더와 같게)
-STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO", "nl": "nl-NL", "pl": "pl-PL", "sv": "sv-SE", "tr": "tr-TR"}
+STORE = {"ko": "ko", "en": "en-US", "en-GB": "en-GB", "ja": "ja", "zh-Hans": "zh-Hans", "zh-Hant": "zh-Hant", "es": "es-ES", "de": "de-DE", "fr": "fr-FR", "it": "it-IT", "pt-BR": "pt-BR", "ru": "ru", "th": "th", "vi": "vi", "cs": "cs-CZ", "da": "da-DK", "el": "el-GR", "fi": "fi-FI", "id": "id-ID", "nb": "nb-NO", "nl": "nl-NL", "pl": "pl-PL", "sv": "sv-SE", "tr": "tr-TR", "ar": "ar"}
 
 # (가로, 세로, 안전 영역 left, top, right, bottom)
 SPEC = {
@@ -33,6 +33,7 @@ SPEC = {
 # 기기 화면은 아이 한 명의 통장 - 지갑 · 저축 · 투자와 최근 거래.
 SEARCH = {
     "ko": ("용돈 관리", "우리 집 은행에서<br>용돈이 쑥쑥", "저축하면 이자가 붙고 투자도 해 봐요"),
+    "ar": ("إدارة المصروف", "مصروف ينمو<br>في بنك العائلة", "ادّخر وجرّب الاستثمار"),
     "tr": ("harçlık takibi", "Harçlık<br>evde büyüyor", "Birikim faiz getirir, yatırımı dene"),
     "sv": ("fickpengar hemma", "Fickpengarna växer<br>i hemmabanken", "Sparande ger ränta och du kan prova att investera"),
     "pl": ("kieszonkowe w domu", "Kieszonkowe rośnie<br>w domowym banku", "Oszczędzanie daje odsetki, a inwestowanie możesz wypróbować"),
@@ -61,6 +62,7 @@ SEARCH = {
 # 헤더: 처음 온 사람에게 한 가지 약속. 용돈으로 돈 쓰는 법을 몸으로 배운다.
 HEADER = {
     "ko": ("우리 집 경제 교육", "용돈으로 배우는<br>저축과 투자"),
+    "ar": ("تعليم مالي في البيت", "تعلّم الادخار والاستثمار<br>بالمصروف"),
     "tr": ("Evde para eğitimi", "Harçlıkla birikimi ve<br>yatırımı öğren"),
     "sv": ("Ekonomi hemma", "Lär dig spara och investera<br>med fickpengar"),
     "pl": ("Edukacja finansowa w domu", "Oszczędzaj i inwestuj<br>z kieszonkowego"),
@@ -150,6 +152,15 @@ def shot(lang, name):
     return path.as_uri()
 
 
+# 오른쪽에서 왼쪽으로 쓰는 언어: 검색 결과 그림은 글을 오른쪽, 기기를 왼쪽에 거울처럼 놓는다.
+RTL = {"ar"}
+RTL_CSS = """
+body { font-family:"SF Arabic","Geeza Pro",-apple-system,sans-serif; }
+.eyebrow, .headline, .sub { letter-spacing:0; }
+.headline { line-height:1.3; }
+"""
+
+
 def search_html(lang):
     W, H, (l, t, r, b) = SPEC["search"]
     eyebrow, headline, sub = SEARCH[lang]
@@ -157,6 +168,9 @@ def search_html(lang):
     col = int(sw * 0.56)
     ph_w = 1040
     ph_left = l + col + int(sw * 0.04)
+    if lang in RTL:
+        ph_left = W - ph_left - ph_w
+        l = r - col
     return f"""
 <div class="paper"></div>
 <div class="glow" style="left:{ph_left - 300}px;top:600px;width:1700px;height:1600px;background:rgba(92,194,74,.20)"></div>
@@ -200,8 +214,10 @@ def html_lang(lang):
 def render(lang, kind):
     W, H, _ = SPEC[kind]
     body = search_html(lang) if kind == "search" else header_html(lang)
-    page = (f'<!doctype html><html lang="{html_lang(lang)}"><head><meta charset="utf-8"><style>'
-            f'{BASE_CSS % {"W": W, "H": H}}</style></head><body>{body}{FIT_JS}</body></html>')
+    rtl = lang in RTL
+    dir_attr = ' dir="rtl"' if rtl else ""
+    page = (f'<!doctype html><html lang="{html_lang(lang)}"{dir_attr}><head><meta charset="utf-8"><style>'
+            f'{BASE_CSS % {"W": W, "H": H}}{RTL_CSS if rtl else ""}</style></head><body>{body}{FIT_JS}</body></html>')
     html_path = pathlib.Path(tempfile.gettempdir()) / f"ssyd-creative-{lang}-{kind}.html"
     html_path.write_text(page, encoding="utf-8")
     # 글이 끝까지 안 맞으면 그림을 만들지 않는다(잘린 글이 스토어에 올라가는 것보다 낫다).

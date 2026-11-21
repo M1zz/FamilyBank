@@ -12,9 +12,10 @@ cd "$(dirname "$0")/.."
 DEV=$1; shift
 APP=build/dd/Build/Products/Debug-iphonesimulator/FamilyBank.app
 BUNDLE=com.family.FamilyBank
-ALL=(ko en en-GB ja zh-Hans zh-Hant ru es de fr it pt-BR th vi cs da el fi id nb nl pl sv tr)
+ALL=(ko en en-GB ja zh-Hans zh-Hant ru es de fr it pt-BR th vi cs da el fi id nb nl pl sv tr ar)
 if (( $# )); then LANGS=($@); else LANGS=($ALL); fi
 SCENES=(actions market history learn)   # → ScreenshotDemo.swift 의 DemoScreen
+# 첫 실행의 '반가워요' 인사(LeeoKit 축하)는 -leeo.celebration.done 으로 이미 본 것으로 둔다
 
 t() { perl -e 'alarm shift; exec @ARGV' "$@"; }   # 시뮬레이터가 멈추면 기다리지 않는다
 
@@ -28,13 +29,13 @@ store_of() {   # 앱 언어 → App Store 로케일 (make_marketing_screenshots.
     pl) echo pl-PL ;; sv) echo sv-SE ;; tr) echo tr-TR ;; *) echo $1 ;;
   esac
 }
-locale_of() {
+locale_of() {   # 아랍어는 상태 막대 날짜도 앱처럼 그레고리력 · 0-9
   case $1 in
     ko) echo ko_KR ;; en) echo en_US ;; en-GB) echo en_GB ;; zh-Hans) echo zh_CN ;; zh-Hant) echo zh_TW ;;
     ja) echo ja_JP ;; ru) echo ru_RU ;; es) echo es_ES ;; de) echo de_DE ;; fr) echo fr_FR ;; it) echo it_IT ;;
     pt-BR) echo pt_BR ;; th) echo th_TH ;; vi) echo vi_VN ;; cs) echo cs_CZ ;; da) echo da_DK ;; el) echo el_GR ;;
     fi) echo fi_FI ;; id) echo id_ID ;; nb) echo nb_NO ;; nl) echo nl_NL ;; pl) echo pl_PL ;; sv) echo sv_SE ;;
-    tr) echo tr_TR ;; *) echo en_US ;;
+    tr) echo tr_TR ;; ar) echo "ar_SA@calendar=gregorian;numbers=latn" ;; *) echo en_US ;;
   esac
 }
 
@@ -60,7 +61,8 @@ for lang in $LANGS; do
     file=$out/ipad-0$n-$scene.png
     for try in 1 2 3 4; do
       t 180 xcrun simctl launch --terminate-running-process $DEV $BUNDLE \
-        -ScreenshotDemo YES -DemoScreen $scene -AppleLanguages "($lang)" -AppleLocale $(locale_of $lang) >/dev/null 2>&1 || continue
+        -ScreenshotDemo YES -DemoScreen $scene -AppleLanguages "($lang)" -AppleLocale $(locale_of $lang) \
+        -leeo.celebration.done "(welcome)" >/dev/null 2>&1 || continue
       sleep 8
       # 시뮬레이터는 Documents 아래에 직접 못 쓸 때가 있다 → 임시 파일로 찍고 옮긴다
       tmp=${TMPDIR:-/tmp}/familybank-shot-$$.png
