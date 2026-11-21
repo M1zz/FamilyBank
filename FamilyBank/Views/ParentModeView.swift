@@ -227,7 +227,7 @@ struct ParentDashboardView: View {
                         TextField("10", text: Binding(
                             get: { String(Int(settings.wonPerCoin)) },
                             set: {
-                                let won = Int($0.filter { $0.isNumber }) ?? 0
+                                let won = Int($0.asciiDigits) ?? 0
                                 if won > 0 {
                                     settings.wonPerCoin = Double(won)
                                     try? context.save()
@@ -300,7 +300,7 @@ struct ParentDashboardView: View {
                         .multilineTextAlignment(.trailing)
                         .frame(maxWidth: 120)
                         .onChange(of: newPIN) { _, v in
-                            newPIN = String(v.filter { $0.isNumber }.prefix(4))
+                            newPIN = String(v.asciiDigits.prefix(4))
                         }
                     Button("저장") {
                         guard newPIN.count == 4 else { return }
@@ -548,7 +548,7 @@ struct GiveMoneyView: View {
 
                 HStack {
                     ForEach([500, 1000, 5000], id: \.self) { preset in
-                        Button("+\(preset.comma)") {
+                        Button("+\(preset.comma)".ltr) {
                             amountText = "\((Int(amountText) ?? 0) + preset)"
                         }
                         .buttonStyle(.bordered)

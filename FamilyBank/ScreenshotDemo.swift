@@ -66,6 +66,7 @@ enum ScreenshotDemo {
         case "pl": return Names(child1: "Antoni", child2: "Zosia", mom: "Mama", dad: "Tata", allowance: "Kieszonkowe na ten tydzień", chore: "Posprzątany pokój", game: "30 min gier", items: ["Słodycze", "Lody", "30 min gier", "Naklejki", "Komiks"])
         case "sv": return Names(child1: "Hugo", child2: "Alice", mom: "Mamma", dad: "Pappa", allowance: "Veckans veckopeng", chore: "Städat rummet", game: "30 min spel", items: ["Godis", "Glass", "30 min spel", "Klistermärken", "Serietidning"])
         case "tr": return Names(child1: "Yusuf", child2: "Zeynep", mom: "Annem", dad: "Babam", allowance: "Bu haftanın harçlığı", chore: "Odamı topladım", game: "30 dk oyun", items: ["Atıştırmalık", "Dondurma", "30 dk oyun", "Çıkartma", "Çizgi roman"])
+        case "ar": return Names(child1: "عمر", child2: "لين", mom: "ماما", dad: "بابا", allowance: "مصروف هذا الأسبوع", chore: "رتّبت غرفتي", game: "30 دقيقة لعب", items: ["حلوى", "آيس كريم", "30 دقيقة لعب", "ملصقات", "قصص مصوّرة"])
         default: return names(for: "en")
         }
     }
@@ -154,8 +155,8 @@ enum ScreenshotDemo {
         tx(c1, .allowance, 1000, n.allowance, daysAgo: 0, hour: 8, minute: 17)
         tx(c1, .receive, 300, n.chore, daysAgo: 1, hour: 10, minute: 5)
         tx(c1, .payment, 200, n.game, daysAgo: 2, hour: 18, minute: 30)
-        tx(c1, .interest, 150, String(localized: "저축 이자 (주 \(5.0.cleanPercent)%, \(1)주)"), daysAgo: 3, hour: 9, minute: 0)
-        tx(c1, .buy, 1150, String(localized: "\(rabbit.displayName) \(1)주 매수 (@\(1150.comma))"), daysAgo: 4, hour: 16, minute: 42)
+        tx(c1, .interest, 150, String(localized: "저축 이자 (주 \(5.0.cleanPercent)%, \(1)주)", locale: AppLocale.current), daysAgo: 3, hour: 9, minute: 0)
+        tx(c1, .buy, 1150, String(localized: "\(rabbit.displayName) \(1)주 매수 (@\(1150.comma))", locale: AppLocale.current), daysAgo: 4, hour: 16, minute: 42)
         tx(c2, .allowance, 1000, n.allowance, daysAgo: 0, hour: 8, minute: 18)
         tx(c2, .deposit, 500, String(localized: "저축통장에 입금"), daysAgo: 2, hour: 19, minute: 10)
         tx(mom, .receive, 200, String(localized: "\(n.child1)에게 받음 · \(n.game)"), daysAgo: 2, hour: 18, minute: 30)

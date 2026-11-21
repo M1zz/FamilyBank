@@ -121,6 +121,7 @@
 				pl,
 				sv,
 				tr,
+				ar,
 				Base,
 			);
 			mainGroup = A10000000000000000000003;

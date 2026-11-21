@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import SwiftUI
 import SwiftData
 
 enum BankEngine {
@@ -76,7 +77,7 @@ enum BankEngine {
         if totalInterest > 0 {
             let tx = MoneyTransaction(kind: .interest,
                                       amount: totalInterest,
-                                      memo: String(localized: "저축 이자 (주 \(weeklyRate.cleanPercent)%, \(weeks)주)"),
+                                      memo: String(localized: "저축 이자 (주 \(weeklyRate.cleanPercent)%, \(weeks)주)", locale: AppLocale.current),
                                       member: member)
             context.insert(tx)
         }
@@ -200,7 +201,7 @@ enum BankEngine {
 
         let tx = MoneyTransaction(kind: .buy,
                                   amount: cost,
-                                  memo: String(localized: "\(product.displayName) \(quantity)주 매수 (@\(product.price.comma))"),
+                                  memo: String(localized: "\(product.displayName) \(quantity)주 매수 (@\(product.price.comma))", locale: AppLocale.current),
                                   member: member)
         context.insert(tx)
         try? context.save()
@@ -226,7 +227,7 @@ enum BankEngine {
 
         let tx = MoneyTransaction(kind: .sell,
                                   amount: proceeds,
-                                  memo: String(localized: "\(product.displayName) \(quantity)주 매도 (@\(product.price.comma))"),
+                                  memo: String(localized: "\(product.displayName) \(quantity)주 매도 (@\(product.price.comma))", locale: AppLocale.current),
                                   member: member)
         context.insert(tx)
         try? context.save()
@@ -252,12 +253,51 @@ enum BankEngine {
 
 // MARK: - 숫자 표시 도우미
 
+/// 숫자 · 날짜를 그릴 지역 설정.
+/// 아랍어에서는 숫자를 0-9, 달력을 그레고리력으로 맞춘다. 다른 언어는 기기 설정 그대로다.
+/// 문구 속 숫자(1,000 · 5%)는 0-9 로 쓰여 있어, 기기 지역(사우디 등)을 따르면 한 화면에 ١٢٣ 과 123 이 섞였다.
+enum AppLocale {
+    static let isArabic = Bundle.main.preferredLocalizations.first == "ar"
+
+    static let current: Locale = {
+        guard isArabic else { return .autoupdatingCurrent }
+        var parts = Locale.Components(locale: .current)
+        parts.languageComponents.languageCode = .arabic
+        parts.numberingSystem = Locale.NumberingSystem("latn")
+        parts.calendar = .gregorian
+        return Locale(components: parts)
+    }()
+}
+
+extension View {
+    /// 앱의 맨 바깥 화면에 붙인다. 아랍어일 때만 숫자 · 달력을 `AppLocale` 로 바꾼다.
+    @ViewBuilder func appLocale() -> some View {
+        if AppLocale.isArabic {
+            environment(\.locale, AppLocale.current)
+                .environment(\.calendar, AppLocale.current.calendar)
+        } else {
+            self
+        }
+    }
+}
+
 extension Int {
     /// 1,234 형태 콤마 표기
     var comma: String {
         let formatter = NumberFormatter()
         formatter.numberStyle = .decimal
+        formatter.locale = AppLocale.current
         return formatter.string(from: NSNumber(value: self)) ?? "\(self)"
+    }
+}
+
+extension String {
+    /// 왼쪽에서 오른쪽으로 묶은 조각. 아랍어(RTL) 화면에서 +500 이 500+ 로, -200 이 200- 로 뒤집히지 않게 한다.
+    var ltr: String { "\u{2066}\(self)\u{2069}" }
+
+    /// 숫자만 남기고 0-9 로 맞춘다. 아랍어 키보드로 친 ١٢٣ 도 123 으로 받는다.
+    var asciiDigits: String {
+        String(compactMap { $0.wholeNumberValue.map { Character(String($0)) } })
     }
 }
 

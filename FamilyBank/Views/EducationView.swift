@@ -336,6 +336,7 @@ struct CompoundCalculatorView: View {
                 .foregroundStyle(Color.purple.opacity(0.12).gradient)
                 .interpolationMethod(.catmullRom)
             }
+            .timeChart()
             .frame(height: 160)
 
             VStack(alignment: .leading, spacing: 4) {
@@ -438,6 +439,7 @@ struct InflationSimulatorView: View {
                 .symbolSize(18)
                 .interpolationMethod(.catmullRom)
             }
+            .timeChart()
             .chartForegroundStyleScale([
                 String(localized: "지갑에 둔 돈"): Color.orange,
                 String(localized: "저축한 돈"): Color.blue

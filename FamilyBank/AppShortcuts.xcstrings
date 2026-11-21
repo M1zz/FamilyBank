@@ -3,6 +3,12 @@
   "strings" : {
     "Give ${child} allowance in ${applicationName}" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أعطِ ${child} المصروف في ${applicationName}"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -145,6 +151,12 @@
     },
     "Give allowance in ${applicationName}" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أعطِ المصروف في ${applicationName}"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -287,6 +299,12 @@
     },
     "${child} balance in ${applicationName}" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رصيد ${child} في ${applicationName}"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -429,6 +447,12 @@
     },
     "Check balance in ${applicationName}" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اعرض الرصيد في ${applicationName}"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",

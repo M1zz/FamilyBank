@@ -100,6 +100,7 @@ struct SavingsView: View {
                             .foregroundStyle(Color.purple.opacity(0.12).gradient)
                             .interpolationMethod(.catmullRom)
                         }
+                        .timeChart()
                         .frame(height: 160)
 
                         if let last = projection.last {

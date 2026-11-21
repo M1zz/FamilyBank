@@ -71,6 +71,7 @@ struct MarketView: View {
                                 .foregroundStyle(Color.orange.opacity(0.12).gradient)
                                 .interpolationMethod(.catmullRom)
                             }
+                            .timeChart()
                             .chartYScale(domain: .automatic(includesZero: false))
                             .frame(height: 140)
                             Text("물가가 오르면 같은 돈으로 살 수 있는 게 줄어들어요")
@@ -119,13 +120,13 @@ struct MarketView: View {
                                 Text("우리집 가게")
                                     .font(.headline)
                                 Text(activeItemCount > 0
-                                     ? String(localized: "물품 \(activeItemCount)개 판매 중 · 환율 자동 반영")
+                                     ? String(localized: "물품 \(activeItemCount)개 판매 중 · 환율 자동 반영", locale: AppLocale.current)
                                      : String(localized: "아직 물품이 없어요 · 액션 탭에서 추가"))
                                     .font(.caption)
                                     .foregroundStyle(.secondary)
                             }
                             Spacer()
-                            Image(systemName: "chevron.right")
+                            Image(systemName: "chevron.forward")
                                 .font(.caption.weight(.semibold))
                                 .foregroundStyle(.tertiary)
                                 .accessibilityHidden(true)

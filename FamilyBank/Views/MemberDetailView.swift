@@ -110,7 +110,7 @@ struct MemberDetailView: View {
                                     Text(holding.currentValue.comma)
                                         .font(.subheadline.weight(.bold))
                                         .monospacedDigit()
-                                    Text("\(holding.profit >= 0 ? "+" : "")\(holding.profit.comma) (\(String(format: "%.1f", holding.profitRate))%)")
+                                    Text(verbatim: "\(holding.profit >= 0 ? "+" : "")\(holding.profit.comma) (\(String(format: "%.1f", holding.profitRate))%)".ltr)
                                         .font(.caption.weight(.semibold))
                                         .foregroundStyle(holding.profit >= 0 ? Color.red : Color.blue)
                                 }

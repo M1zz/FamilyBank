@@ -108,11 +108,11 @@ struct OnboardingView: View {
                 SecureField("숫자 4자리", text: $pin)
                     .keyboardType(.numberPad)
                     .textFieldStyle(.roundedBorder)
-                    .onChange(of: pin) { _, v in pin = String(v.filter { $0.isNumber }.prefix(4)) }
+                    .onChange(of: pin) { _, v in pin = String(v.asciiDigits.prefix(4)) }
                 SecureField("한 번 더 입력", text: $pinConfirm)
                     .keyboardType(.numberPad)
                     .textFieldStyle(.roundedBorder)
-                    .onChange(of: pinConfirm) { _, v in pinConfirm = String(v.filter { $0.isNumber }.prefix(4)) }
+                    .onChange(of: pinConfirm) { _, v in pinConfirm = String(v.asciiDigits.prefix(4)) }
             }
             .card()
 

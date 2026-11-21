@@ -161,6 +161,8 @@ struct ProductCard: View {
                     )
                     .foregroundStyle((product.changeRate >= 0 ? Color.red : Color.blue).gradient)
                 }
+                // 가로축은 시간이다. 아랍어(RTL)에서도 왼쪽이 과거, 오른쪽이 지금이다.
+                .environment(\.layoutDirection, .leftToRight)
                 .chartXAxis(.hidden)
                 .chartYAxis(.hidden)
                 .chartYScale(domain: .automatic(includesZero: false))
@@ -241,6 +243,7 @@ struct ProductDetailView: View {
                                 .foregroundStyle(Color.accentColor.gradient)
                                 .interpolationMethod(.catmullRom)
                             }
+                            .timeChart()
                             .chartYScale(domain: .automatic(includesZero: false))
                             .frame(height: 180)
                         } else {
@@ -261,7 +264,7 @@ struct ProductDetailView: View {
                                     Text("\(holding.quantity)주 · 평균 \(holding.avgPrice.comma)")
                                         .font(.subheadline)
                                     Spacer(minLength: 8)
-                                    Text("\(holding.profit >= 0 ? "+" : "")\(holding.profit.comma) (\(String(format: "%.1f", holding.profitRate))%)")
+                                    Text(verbatim: "\(holding.profit >= 0 ? "+" : "")\(holding.profit.comma) (\(String(format: "%.1f", holding.profitRate))%)".ltr)
                                         .font(.subheadline.weight(.bold))
                                         .foregroundStyle(holding.profit >= 0 ? Color.red : Color.blue)
                                 }
@@ -343,7 +346,7 @@ struct ProductDetailView: View {
     private func buy(_ investor: FamilyMember) {
         let ok = BankEngine.buy(member: investor, product: product, quantity: quantity, context: context)
         resultMessage = ok
-            ? String(localized: "\(product.displayName) \(quantity)주를 샀어요! 📈")
+            ? String(localized: "\(product.displayName) \(quantity)주를 샀어요! 📈", locale: AppLocale.current)
             : String(localized: "지갑에 돈이 부족해요. 필요 금액: \((product.price * quantity).comma) \(settings.currencyName)")
         showResult = true
     }
@@ -351,7 +354,7 @@ struct ProductDetailView: View {
     private func sell(_ investor: FamilyMember) {
         let ok = BankEngine.sell(member: investor, product: product, quantity: quantity, context: context)
         resultMessage = ok
-            ? String(localized: "\(product.displayName) \(quantity)주를 팔았어요! \((product.price * quantity).comma) \(settings.currencyName)이 지갑에 들어왔어요.")
+            ? String(localized: "\(product.displayName) \(quantity)주를 팔았어요! \((product.price * quantity).comma) \(settings.currencyName)이 지갑에 들어왔어요.", locale: AppLocale.current)
             : String(localized: "보유 수량이 부족해요.")
         showResult = true
     }

@@ -7,6 +7,7 @@
 
 import SwiftUI
 import UIKit
+import Charts
 
 // MARK: - 키보드 내리기 (빈 곳 탭)
 
@@ -132,6 +133,26 @@ extension TxKind {
     }
 }
 
+// MARK: - 시간 차트
+
+extension View {
+    /// 가로축이 시간(주 · 일)인 차트. 아랍어(RTL)에서도 왼쪽이 과거, 오른쪽이 지금이다.
+    /// 축 숫자는 앱의 숫자 표기(`comma`)를 따른다 — 아랍어에서 0 만 ٠ 으로 나왔다.
+    func timeChart() -> some View {
+        chartXAxis { AxisMarks { value in AxisGridLine(); AxisTick(); AxisValueLabel { axisNumber(value) } } }
+            .chartYAxis { AxisMarks { value in AxisGridLine(); AxisTick(); AxisValueLabel { axisNumber(value) } } }
+            .environment(\.layoutDirection, .leftToRight)
+    }
+}
+
+@ViewBuilder private func axisNumber(_ value: AxisValue) -> some View {
+    if let n = value.as(Int.self) {
+        Text(n.comma)
+    } else if let d = value.as(Double.self) {
+        Text(d, format: .number.locale(AppLocale.current))
+    }
+}
+
 // MARK: - 금액 표시
 
 struct MoneyText: View {
@@ -178,7 +199,8 @@ struct AmountField: View {
             .keyboardType(.numberPad)
             .textFieldStyle(.roundedBorder)
             .onChange(of: text) { _, newValue in
-                text = newValue.filter { $0.isNumber }
+                let digits = newValue.asciiDigits
+                if digits != newValue { text = digits }
             }
     }
 
@@ -217,7 +239,7 @@ struct TransactionRow: View {
                 }
             }
             Spacer()
-            Text("\(tx.kind.isIncome ? "+" : "-")\(tx.amount.comma)")
+            Text(verbatim: "\(tx.kind.isIncome ? "+" : "-")\(tx.amount.comma)".ltr)
                 .font(.subheadline.weight(.bold))
                 .monospacedDigit()
                 .foregroundStyle(tx.kind.isIncome ? Color.green : Color.red)

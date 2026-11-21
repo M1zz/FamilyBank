@@ -46,7 +46,7 @@ struct PayView: View {
                     AmountField(placeholder: String(localized: "금액"), text: $amountText)
                     HStack {
                         ForEach([100, 500, 1000], id: \.self) { preset in
-                            Button("+\(preset.comma)") {
+                            Button("+\(preset.comma)".ltr) {
                                 amountText = "\((Int(amountText) ?? 0) + preset)"
                             }
                             .buttonStyle(.bordered)

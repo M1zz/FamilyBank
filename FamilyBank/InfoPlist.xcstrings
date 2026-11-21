@@ -3,6 +3,12 @@
   "strings" : {
     "CFBundleDisplayName" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مصروف سوكسوك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +157,12 @@
     },
     "NSCameraUsageDescription" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نحتاج إلى الكاميرا ليمسح طفلك باركود الغرض ويدفع ثمنه."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -299,6 +311,12 @@
     },
     "NSFaceIDUsageDescription" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يُستخدم Face ID للتأكد من ولي الأمر عند فتح قفل الإجراءات."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",

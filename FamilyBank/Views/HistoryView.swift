@@ -38,7 +38,8 @@ struct HistoryView: View {
     /// 날짜별 그룹
     private var grouped: [DayGroup] {
         let formatter = DateFormatter()
-        formatter.locale = .current
+        formatter.locale = AppLocale.current
+        formatter.calendar = AppLocale.current.calendar
         formatter.setLocalizedDateFormatFromTemplate("MMMdEEE")
         var dict: [String: [MoneyTransaction]] = [:]
         var order: [String] = []
