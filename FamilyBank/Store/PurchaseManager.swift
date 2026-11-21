@@ -140,12 +140,15 @@ final class PurchaseManager {
     ///  ① 이 기기에 페이월 전부터 우리집 은행이 있었다 (`ProEntitlement.noteFamilyBeforePaywall`).
     ///  ② 이 Apple 계정이 무료 시절 빌드(`lastFreeBuild` 이하)로 앱을 처음 받았다.
     /// ⚠️ 샌드박스 · TestFlight 의 `originalAppVersion` 은 늘 "1.0" 이라 출시 환경에서만 ②를 본다.
+    /// ⚠️ 샌드박스(심사 · TestFlight)와 Xcode 실행에서는 ①도 세지 않는다. 옛 빌드 위에 새 빌드를 깐 심사 기기가
+    ///    Pro 평생이 되면 구매 단추가 하나도 서지 않아, 심사자가 인앱 결제를 찾지 못한다(2.1(b) 리젝).
+    ///    환경을 확인하지 못한 날(영수증을 못 읽음)은 쓰던 가족 편을 든다.
     private static func isGrandfathered() async -> Bool {
+        var app: AppTransaction?
+        if let result = try? await AppTransaction.shared, case .verified(let verified) = result { app = verified }
+        if let app, app.environment != .production { return false }
         if ProEntitlement.hadFamilyBeforePaywall { return true }
-        guard let result = try? await AppTransaction.shared,
-              case .verified(let app) = result,
-              app.environment == .production,
-              let build = Int(app.originalAppVersion) else { return false }
+        guard let app, let build = Int(app.originalAppVersion) else { return false }
         return build <= ProEntitlement.lastFreeBuild
     }
 }

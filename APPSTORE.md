@@ -20,7 +20,7 @@ https://m1zz.github.io/FamilyBank/
 
 ### 부제
 
-부모는 중앙은행, 아이는 저축과 투자
+우리 집 화폐로 배우는 저축과 투자
 
 ### 키워드
 
@@ -83,11 +83,11 @@ https://m1zz.github.io/FamilyBank/en/
 
 ### 이름
 
-SukSuk Allowance: Kids Money
+SukSuk Allowance: Family Bank
 
 ### 부제
 
-Learn saving and investing
+Teach saving and investing
 
 ### 키워드
 
@@ -154,7 +154,7 @@ SukSuk Pocket Money
 
 ### 부제
 
-Learn saving and investing
+Teach saving and investing
 
 ### 키워드
 
@@ -221,7 +221,7 @@ https://m1zz.github.io/FamilyBank/ja/
 
 ### 부제
 
-親は銀行、子どもは貯金と投資
+わが家の通貨で学ぶ貯金と投資
 
 ### 키워드
 
@@ -288,7 +288,7 @@ https://m1zz.github.io/FamilyBank/zh-Hans/
 
 ### 부제
 
-家长做银行，孩子学储蓄和投资
+家长做银行，全家学储蓄和投资
 
 ### 키워드
 
@@ -355,7 +355,7 @@ https://m1zz.github.io/FamilyBank/zh-Hant/
 
 ### 부제
 
-家長當銀行，孩子學儲蓄與投資
+家長當銀行，全家學儲蓄與投資
 
 ### 키워드
 
@@ -422,7 +422,7 @@ SukSuk Paga: Dinero en casa
 
 ### 부제
 
-Aprende a ahorrar e invertir
+Enseña a ahorrar e invertir
 
 ### 키워드
 
@@ -485,7 +485,7 @@ https://m1zz.github.io/FamilyBank/de/
 
 ### 이름
 
-SukSuk Taschengeld: Kinder
+SukSuk Taschengeld: Familie
 
 ### 부제
 
@@ -556,7 +556,7 @@ SukSuk Argent de poche
 
 ### 부제
 
-Apprends à épargner et placer
+Épargner et placer en famille
 
 ### 키워드
 
@@ -686,11 +686,11 @@ https://m1zz.github.io/FamilyBank/pt-BR/
 
 ### 이름
 
-SukSuk Mesada: Para crianças
+SukSuk Mesada: Banco em casa
 
 ### 부제
 
-Aprenda a poupar e investir
+Ensine a poupar e investir
 
 ### 키워드
 
@@ -753,7 +753,7 @@ https://m1zz.github.io/FamilyBank/ru/
 
 ### 이름
 
-СукСук Карманные: для детей
+СукСук Карманные: банк дома
 
 ### 부제
 
@@ -824,7 +824,7 @@ https://m1zz.github.io/FamilyBank/th/
 
 ### 부제
 
-พ่อแม่เป็นธนาคาร ลูกเรียนรู้
+พ่อแม่เป็นธนาคารของครอบครัว
 
 ### 키워드
 
@@ -887,11 +887,11 @@ https://m1zz.github.io/FamilyBank/vi/
 
 ### 이름
 
-SukSuk Tiền Tiêu Vặt: Cho bé
+SukSuk Tiền Tiêu Vặt: Gia đình
 
 ### 부제
 
-Học tiết kiệm và đầu tư
+Dạy tiết kiệm và đầu tư
 
 ### 키워드
 
@@ -958,7 +958,7 @@ SukSuk Kapesné: peníze doma
 
 ### 부제
 
-Spoření a investice pro děti
+Spoření a investice v rodině
 
 ### 키워드
 
@@ -1021,7 +1021,7 @@ https://m1zz.github.io/FamilyBank/da/
 
 ### 이름
 
-SukSuk Lommepenge: Børn
+SukSuk Lommepenge: Familiebank
 
 ### 부제
 
@@ -1088,7 +1088,7 @@ https://m1zz.github.io/FamilyBank/el/
 
 ### 이름
 
-SukSuk Χαρτζιλίκι: Παιδιά
+SukSuk Χαρτζιλίκι: Οικογένεια
 
 ### 부제
 
@@ -1155,7 +1155,7 @@ https://m1zz.github.io/FamilyBank/fi/
 
 ### 이름
 
-SukSuk Viikkoraha: Lapset
+SukSuk Viikkoraha: Kotipankki
 
 ### 부제
 
@@ -1222,7 +1222,7 @@ https://m1zz.github.io/FamilyBank/id/
 
 ### 이름
 
-SukSuk Uang Saku: Anak
+SukSuk Uang Saku: Keluarga
 
 ### 부제
 
@@ -1289,7 +1289,7 @@ https://m1zz.github.io/FamilyBank/nb/
 
 ### 이름
 
-SukSuk Lommepenger: Barn
+SukSuk Lommepenger: Familie
 
 ### 부제
 
@@ -1356,7 +1356,7 @@ https://m1zz.github.io/FamilyBank/nl/
 
 ### 이름
 
-SukSuk Zakgeld: Kinderen
+SukSuk Zakgeld: Gezinsbank
 
 ### 부제
 
@@ -1423,7 +1423,7 @@ https://m1zz.github.io/FamilyBank/pl/
 
 ### 이름
 
-SukSuk Kieszonkowe: Dla dzieci
+SukSuk Kieszonkowe: Rodzina
 
 ### 부제
 
@@ -1490,7 +1490,7 @@ https://m1zz.github.io/FamilyBank/sv/
 
 ### 이름
 
-SukSuk Fickpengar: Barn
+SukSuk Fickpengar: Familj
 
 ### 부제
 
@@ -1557,7 +1557,7 @@ https://m1zz.github.io/FamilyBank/tr/
 
 ### 이름
 
-SukSuk Harçlık: Çocuklar
+SukSuk Harçlık: Aile
 
 ### 부제
 
