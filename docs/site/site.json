@@ -1,5 +1,6 @@
 {
   "name": {
+    "ar": "مصروف سوكسوك",
     "cs": "SukSuk Kapesné",
     "da": "SukSuk Lommepenge",
     "de": "SukSuk Taschengeld",
@@ -157,6 +158,11 @@
       "code": "tr",
       "path": "tr/",
       "name": "Türkçe"
+    },
+    {
+      "code": "ar",
+      "path": "ar/",
+      "name": "العربية"
     }
   ]
 }

@@ -5,7 +5,7 @@
 .bank-rows { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s4); }
 .bank-rows li { display: grid; grid-template-columns: 1fr auto; grid-template-areas: "name value" "bar bar"; gap: var(--s1) var(--s3); }
 .bank-name { grid-area: name; font-weight: 600; }
-.bank-value { grid-area: value; text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.bank-value { grid-area: value; text-align: end; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .bank-value small { color: var(--muted); font-weight: 600; }
 .bank-value small.up { color: #E5484D; }
 .bank-value small.down { color: #3B82F6; }

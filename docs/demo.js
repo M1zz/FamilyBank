@@ -7,7 +7,8 @@
   const root = document.getElementById("demo");
   if (!root) return;
   const T = JSON.parse(root.dataset.text);
-  const lang = document.documentElement.lang;
+  // 아랍어는 앱처럼 숫자를 0-9 로 쓴다(문구 속 1,000 과 섞이지 않게).
+  const lang = document.documentElement.lang === "ar" ? "ar-u-nu-latn" : document.documentElement.lang;
   const num = new Intl.NumberFormat(lang);
   const pct = new Intl.NumberFormat(lang, { style: "percent", maximumFractionDigits: 1, signDisplay: "exceptZero" });
 
