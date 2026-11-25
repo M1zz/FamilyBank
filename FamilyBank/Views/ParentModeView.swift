@@ -364,6 +364,8 @@ struct ParentDashboardView: View {
         .sheet(item: $paywallFeature) { feature in
             PaywallView(highlight: feature)
         }
+        // 할인 기간이면 부모 화면을 연 뒤 한 번 할인 배너를 띄운다 — 아이 화면에는 띄우지 않는다 (LeeoKit).
+        .leeoSaleBanner { showPlans = true }
         .sheet(isPresented: $showPlans) {
             PaywallView()
         }
