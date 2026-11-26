@@ -10,7 +10,18 @@
 		5320484F7DDF3D9FD89CC55C /* LeeoKit in Frameworks */ = {isa = PBXBuildFile; productRef = F2194D1A1D5463B34AC25C09 /* LeeoKit */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		369AA5F46A3EA86CCB079476 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A10000000000000000000009 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A10000000000000000000005;
+			remoteInfo = FamilyBank;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		4724AC92562E30854EB225D5 /* FamilyBankTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FamilyBankTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1000000000000000000000B /* FamilyBank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FamilyBank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -22,9 +33,23 @@
 			path = FamilyBank;
 			sourceTree = "<group>";
 		};
+		D54E449A8D40261C68C84748 /* FamilyBankTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
+			path = FamilyBankTests;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		1AD1FE8C963EE1F8A400E8A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A10000000000000000000002 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -41,6 +66,7 @@
 			children = (
 				A10000000000000000000001 /* FamilyBank */,
 				A10000000000000000000004 /* Products */,
+				D54E449A8D40261C68C84748 /* FamilyBankTests */,
 			);
 			sourceTree = "<group>";
 		};
@@ -48,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				A1000000000000000000000B /* FamilyBank.app */,
+				4724AC92562E30854EB225D5 /* FamilyBankTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -55,6 +82,27 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		483953E0602EBA795328B040 /* FamilyBankTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4AEB8E9CC25F68FC34D67BA2 /* Build configuration list for PBXNativeTarget "FamilyBankTests" */;
+			buildPhases = (
+				09AE9E7B1A80EDEC8AB602D2 /* Sources */,
+				1AD1FE8C963EE1F8A400E8A9 /* Frameworks */,
+				8CD7A8B93631C189C5E45A18 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7DFDE01307AE5725E6E1B634 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D54E449A8D40261C68C84748 /* FamilyBankTests */,
+			);
+			name = FamilyBankTests;
+			productName = FamilyBankTests;
+			productReference = 4724AC92562E30854EB225D5 /* FamilyBankTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		A10000000000000000000005 /* FamilyBank */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A10000000000000000000006 /* Build configuration list for PBXNativeTarget "FamilyBank" */;
@@ -135,11 +183,19 @@
 			projectRoot = "";
 			targets = (
 				A10000000000000000000005 /* FamilyBank */,
+				483953E0602EBA795328B040 /* FamilyBankTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		8CD7A8B93631C189C5E45A18 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A10000000000000000000008 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -150,6 +206,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		09AE9E7B1A80EDEC8AB602D2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A10000000000000000000007 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -158,6 +221,15 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7DFDE01307AE5725E6E1B634 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = FamilyBank;
+			target = A10000000000000000000005 /* FamilyBank */;
+			targetProxy = 369AA5F46A3EA86CCB079476 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		A1000000000000000000000C /* Debug */ = {
@@ -282,7 +354,6 @@
 		A1000000000000000000000E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = FamilyBank/FamilyBank.entitlements;
@@ -292,6 +363,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "쑥쑥용돈";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSCameraUsageDescription = "자녀가 물품 바코드를 찍어서 결제하려면 카메라가 필요해요.";
 				INFOPLIST_KEY_NSFaceIDUsageDescription = "부모 확인(액션 잠금 해제)을 위해 Face ID를 사용해요.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -317,7 +389,6 @@
 		A1000000000000000000000F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = FamilyBank/FamilyBank.entitlements;
@@ -327,6 +398,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "쑥쑥용돈";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSCameraUsageDescription = "자녀가 물품 바코드를 찍어서 결제하려면 카메라가 필요해요.";
 				INFOPLIST_KEY_NSFaceIDUsageDescription = "부모 확인(액션 잠금 해제)을 위해 Face ID를 사용해요.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -349,9 +421,57 @@
 			};
 			name = Release;
 		};
+		EE81462DAA61323EF67B7BCF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QGAQ3AY3R3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.family.FamilyBank.FamilyBankTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FamilyBank.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FamilyBank";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F7A00D89860AA8E326A4D259 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QGAQ3AY3R3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.family.FamilyBank.FamilyBankTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FamilyBank.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FamilyBank";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		4AEB8E9CC25F68FC34D67BA2 /* Build configuration list for PBXNativeTarget "FamilyBankTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE81462DAA61323EF67B7BCF /* Release */,
+				F7A00D89860AA8E326A4D259 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		A10000000000000000000006 /* Build configuration list for PBXNativeTarget "FamilyBank" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
