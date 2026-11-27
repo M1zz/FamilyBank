@@ -8,6 +8,7 @@
 import Foundation
 import SwiftUI
 import SwiftData
+import LeeoKit
 
 enum BankEngine {
 
@@ -115,6 +116,8 @@ enum BankEngine {
                                   member: member)
         context.insert(tx)
         try? context.save()
+        // 이 앱의 가치 순간: 부모가 아이에게 용돈을 준다 (허브 품질 탭의 '핵심 기능')
+        LeeoAnalyticsCenter.track(.custom(name: "allowance_given", parameters: [:]))
     }
 
     @discardableResult

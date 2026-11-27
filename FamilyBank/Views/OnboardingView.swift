@@ -7,6 +7,7 @@
 
 import SwiftUI
 import SwiftData
+import LeeoKit
 
 struct OnboardingView: View {
     @Environment(\.modelContext) private var context
@@ -235,6 +236,7 @@ struct OnboardingView: View {
             context.insert(product)
         }
         try? context.save()
+        LeeoAnalyticsCenter.track(.custom(name: "onboarding_completed", parameters: [:]))
     }
 }
 
